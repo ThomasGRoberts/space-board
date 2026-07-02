@@ -1,9 +1,156 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-07-02T00:04:59.924282+00:00",
+    "trigger_count": 2,
     "current_item_id": "8174463bd1e5ba7b5d568fcfab067f85",
     "data": [
+        {
+            "id": "52527c53f63e306ace27b52e54aaaa87",
+            "source": "spacenews",
+            "text": "Report links Starliner problems to overconfidence and unrealistic schedules",
+            "source_link": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T22:39:41.965935Z",
+            "shown_at": [
+                "2026-07-01T22:39:43.103118Z"
+            ]
+        },
+        {
+            "id": "74354fecb97684415da9db55f6c3cc34",
+            "source": "breaking_defense",
+            "text": "Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO",
+            "source_link": "https://breakingdefense.com/2026/07/space-firm-vantor-expands-portfolio-as-it-tracks-geopolitical-shift-in-the-marketplace-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T20:54:35.147715Z",
+            "shown_at": [
+                "2026-07-01T20:54:36.694526Z"
+            ]
+        },
+        {
+            "id": "b594bcf9b6a5381fb72492156a22f96d",
+            "source": "spacenews",
+            "text": "FCC to vote on satellite licensing overhaul July 22",
+            "source_link": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T20:19:54.008562Z",
+            "shown_at": [
+                "2026-07-01T20:19:55.005047Z"
+            ]
+        },
+        {
+            "id": "bcab2cd20be3a34bfd56fdeb4d57558e",
+            "source": "spacenews",
+            "text": "Unseen threats overhead: Drones endanger U.S. rocket launch sites",
+            "source_link": "https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T16:54:32.141369Z",
+            "shown_at": [
+                "2026-07-01T16:54:34.198308Z"
+            ]
+        },
+        {
+            "id": "f18f51cd61964f31ae77747e081c6c60",
+            "source": "nyt",
+            "text": "NASA Aims to Catch a Falling Space Telescope and Push It Back Up",
+            "source_link": "https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T13:35:56.618082Z",
+            "shown_at": [
+                "2026-07-01T16:19:31.908879Z",
+                "2026-07-01T21:29:15.581652Z"
+            ]
+        },
+        {
+            "id": "8174463bd1e5ba7b5d568fcfab067f85",
+            "source": "nyt",
+            "text": "Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon.",
+            "source_link": "https://www.nytimes.com/2026/06/30/science/nasa-moon-base-research.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T13:35:56.618055Z",
+            "shown_at": [
+                "2026-07-01T15:05:05.376844Z",
+                "2026-07-01T18:15:01.992273Z",
+                "2026-07-01T23:52:02.368903Z"
+            ]
+        },
+        {
+            "id": "87c781bde7b5638820e36018e84a23c0",
+            "source": "nyt",
+            "text": "The Vera Rubin Telescope Begins Surveying Our Cosmos",
+            "source_link": "https://www.nytimes.com/2026/06/30/science/rubin-telescope.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T13:35:56.618017Z",
+            "shown_at": [
+                "2026-07-01T13:35:57.449410Z"
+            ]
+        },
+        {
+            "id": "019869af4b4581b483a844391026edf1",
+            "source": "spacenews",
+            "text": "Latitude plans to conduct first launch from Oman",
+            "source_link": "https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T12:45:53.200898Z",
+            "shown_at": [
+                "2026-07-01T15:44:37.264327Z"
+            ]
+        },
+        {
+            "id": "c0f7babf45229904eec0c414aedc814b",
+            "source": "spacenews",
+            "text": "EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy",
+            "source_link": "https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T12:45:53.200852Z",
+            "shown_at": [
+                "2026-07-01T14:21:38.771698Z"
+            ]
+        },
+        {
+            "id": "409550b1e10b6ed1b52024c6f80603a8",
+            "source": "spacenews",
+            "text": "Vantor offers up-to-date imagery with WorldView 3D",
+            "source_link": "https://spacenews.com/vantor-offers-up-to-date-imagery-with-worldview-3d/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T12:45:53.200790Z",
+            "shown_at": [
+                "2026-07-01T12:45:54.045469Z"
+            ]
+        },
+        {
+            "id": "b60dcd7a270027270c6c39836f9a7c9b",
+            "source": "spacenews",
+            "text": "Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight",
+            "source_link": "https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T11:54:56.231271Z",
+            "shown_at": [
+                "2026-07-01T11:54:57.362070Z"
+            ]
+        },
+        {
+            "id": "5016b3d20bc2555a6272628eed99cc19",
+            "source": "spacenews",
+            "text": "The SpaceX IPO tells one story. Here is the more important one.",
+            "source_link": "https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T11:14:47.660208Z",
+            "shown_at": [
+                "2026-07-01T11:14:48.709264Z"
+            ]
+        },
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
             "source": "spacenews",
@@ -8000,411 +8147,6 @@
                 "2026-04-22T02:21:07.894545Z",
                 "2026-04-22T08:44:20.844856Z",
                 "2026-04-27T09:54:24.964579Z"
-            ]
-        },
-        {
-            "id": "b0d1b72cc2789818f46649f63db2b7c2",
-            "source": "spacenews",
-            "text": "Trump taps Raytheon executive for top military space acquisition post",
-            "source_link": "https://spacenews.com/trump-taps-raytheon-executive-for-top-military-space-acquisition-post/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T22:49:13.830630Z",
-            "shown_at": [
-                "2026-04-21T22:49:14.753704Z",
-                "2026-04-23T06:29:13.803909Z"
-            ]
-        },
-        {
-            "id": "a92f4c31f9bd97abf0f380623e28d7a7",
-            "source": "nyt",
-            "text": "Sightings of Meteors Surge, and Scientists Aren’t Sure Why",
-            "source_link": "https://www.nytimes.com/2026/04/21/science/march-fireballs-meteors-astronomy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T21:39:15.027484Z",
-            "shown_at": [
-                "2026-04-21T21:39:15.739173Z",
-                "2026-04-22T04:30:10.320968Z",
-                "2026-04-22T08:09:27.424269Z",
-                "2026-04-22T18:39:03.791224Z",
-                "2026-04-23T00:04:36.586255Z",
-                "2026-04-23T04:44:15.614391Z",
-                "2026-04-23T09:59:18.653763Z",
-                "2026-04-24T02:09:05.572667Z",
-                "2026-04-24T15:39:32.612245Z",
-                "2026-04-24T16:49:30.226580Z",
-                "2026-04-24T21:29:19.422544Z",
-                "2026-04-25T00:59:00.106354Z",
-                "2026-04-25T02:09:13.250805Z",
-                "2026-04-25T19:09:09.443427Z",
-                "2026-04-25T20:19:08.271386Z",
-                "2026-04-25T21:29:17.667135Z",
-                "2026-04-26T00:24:21.040691Z",
-                "2026-04-26T01:34:19.969468Z",
-                "2026-04-26T16:44:18.722200Z",
-                "2026-04-26T23:54:22.502890Z",
-                "2026-04-27T06:59:10.525249Z",
-                "2026-04-27T15:09:11.052891Z",
-                "2026-04-27T17:29:19.476793Z",
-                "2026-04-27T20:29:09.600497Z",
-                "2026-04-28T12:54:25.402241Z"
-            ]
-        },
-        {
-            "id": "9f36d545a6f0562444edc60982bbf89d",
-            "source": "spacenews",
-            "text": "Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget",
-            "source_link": "https://spacenews.com/pentagon-details-funding-strategy-behind-trumps-proposed-1-45-trillion-defense-budget/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T21:04:19.047667Z",
-            "shown_at": [
-                "2026-04-21T21:04:19.991052Z",
-                "2026-04-24T00:19:17.706196Z",
-                "2026-04-25T18:34:30.902323Z",
-                "2026-04-26T11:28:44.114242Z",
-                "2026-04-27T15:44:31.437981Z"
-            ]
-        },
-        {
-            "id": "782afa06b0d2e35900a23c0ae574d941",
-            "source": "nyt",
-            "text": "Where Are All These Meteors Coming From?",
-            "source_link": "https://www.nytimes.com/2026/04/21/science/march-fireballs-meteors-astronomy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T14:29:21.207172Z",
-            "shown_at": [
-                "2026-04-21T14:29:22.208440Z",
-                "2026-04-21T15:39:16.743155Z",
-                "2026-04-21T18:04:33.964631Z",
-                "2026-04-21T19:14:22.067610Z",
-                "2026-04-23T01:14:15.231126Z",
-                "2026-04-23T03:34:32.410683Z",
-                "2026-04-23T07:39:04.976040Z",
-                "2026-04-23T11:09:13.861589Z",
-                "2026-04-23T21:54:16.646397Z",
-                "2026-04-24T05:39:08.959510Z",
-                "2026-04-24T06:49:28.121101Z",
-                "2026-04-24T10:24:16.936703Z",
-                "2026-04-24T12:44:13.457279Z",
-                "2026-04-24T19:09:27.016220Z",
-                "2026-04-24T23:49:10.953418Z",
-                "2026-04-25T08:04:36.401353Z",
-                "2026-04-25T10:24:23.962262Z",
-                "2026-04-25T13:54:13.146306Z",
-                "2026-04-25T15:04:36.766459Z",
-                "2026-04-25T16:49:11.226350Z",
-                "2026-04-25T17:59:12.794319Z",
-                "2026-04-26T02:44:07.018552Z",
-                "2026-04-26T05:04:38.427876Z",
-                "2026-04-26T07:24:30.008209Z",
-                "2026-04-26T14:24:09.230762Z",
-                "2026-04-26T15:34:27.523729Z",
-                "2026-04-26T21:24:10.763130Z",
-                "2026-04-27T08:09:27.427927Z",
-                "2026-04-27T12:49:04.978018Z",
-                "2026-04-27T16:19:04.107414Z",
-                "2026-04-27T21:39:10.350777Z",
-                "2026-04-28T04:44:22.464343Z",
-                "2026-04-28T08:14:30.644806Z"
-            ]
-        },
-        {
-            "id": "ab4f32ff9feb5ec52419b3425566e8b0",
-            "source": "spacenews",
-            "text": "The U.S. must defend the final frontier against cyberattacks",
-            "source_link": "https://spacenews.com/the-u-s-must-defend-the-final-frontier-against-cyberattacks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T13:19:19.903673Z",
-            "shown_at": [
-                "2026-04-21T13:19:20.725603Z",
-                "2026-04-21T17:29:58.130738Z",
-                "2026-04-22T01:09:00.946997Z",
-                "2026-04-24T05:04:39.775604Z",
-                "2026-04-26T13:49:06.532854Z",
-                "2026-04-27T00:29:11.539069Z",
-                "2026-04-27T16:54:22.382125Z"
-            ]
-        },
-        {
-            "id": "52b0d1dbce5549c8de6b38a7f68294d7",
-            "source": "spacenews",
-            "text": "NordSpace nets Canadian defense funding for VLEO satellite development",
-            "source_link": "https://spacenews.com/nordspace-nets-canadian-defense-funding-for-vleo-satellite-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T12:09:09.494713Z",
-            "shown_at": [
-                "2026-04-21T12:09:10.304530Z",
-                "2026-04-23T11:44:09.935044Z",
-                "2026-04-25T07:28:59.186383Z",
-                "2026-04-25T08:39:11.838740Z"
-            ]
-        },
-        {
-            "id": "339de3c05bc37d9d56cb11bf1f796d47",
-            "source": "spacenews",
-            "text": "Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force",
-            "source_link": "https://spacenews.com/falcon-9-launches-final-gps-3-satellite-into-orbit-for-u-s-space-force/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T10:24:34.367877Z",
-            "shown_at": [
-                "2026-04-21T10:24:35.758465Z",
-                "2026-04-23T00:39:13.526745Z",
-                "2026-04-24T07:24:27.754227Z",
-                "2026-04-25T23:14:13.572843Z",
-                "2026-04-26T09:09:09.233566Z"
-            ]
-        },
-        {
-            "id": "c9287a03c11ac19b60c399f22622810c",
-            "source": "spacenews",
-            "text": "Artemis spacesuit development risks further delays",
-            "source_link": "https://spacenews.com/artemis-spacesuit-development-risks-further-delays/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T02:39:00.917260Z",
-            "shown_at": [
-                "2026-04-21T02:39:01.679479Z",
-                "2026-04-23T04:09:12.410532Z",
-                "2026-04-24T06:14:05.490763Z",
-                "2026-04-25T20:54:22.419678Z",
-                "2026-04-26T03:19:28.577629Z",
-                "2026-04-26T23:19:14.066437Z"
-            ]
-        },
-        {
-            "id": "7ffe7efa1a468d194fe162c4cc2f3fbc",
-            "source": "spacenews",
-            "text": "Pentagon officially ends OCX program, citing risk and delays",
-            "source_link": "https://spacenews.com/pentagon-officially-ends-ocx-program-citing-risk-and-delays/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T21:58:33.009726Z",
-            "shown_at": [
-                "2026-04-20T21:58:33.835682Z",
-                "2026-04-23T10:34:19.994790Z",
-                "2026-04-24T19:44:05.025333Z",
-                "2026-04-26T00:59:13.203069Z",
-                "2026-04-26T02:09:15.640420Z",
-                "2026-04-26T12:39:09.340869Z",
-                "2026-04-26T16:09:09.763236Z"
-            ]
-        },
-        {
-            "id": "9926e3bde2be55cc84a5dd1339b8adaa",
-            "source": "nyt",
-            "text": "‘Earthset’ Is Captured on Video for First Time",
-            "source_link": "https://www.nytimes.com/2026/04/20/science/reid-wiseman-earthset-photo-artemis-2.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T19:39:03.346470Z",
-            "shown_at": [
-                "2026-04-20T19:39:03.982829Z",
-                "2026-04-21T02:04:30.015011Z",
-                "2026-04-21T08:04:47.771128Z",
-                "2026-04-21T09:14:20.898160Z",
-                "2026-04-21T12:44:20.015398Z",
-                "2026-04-21T13:54:23.721083Z",
-                "2026-04-22T05:49:09.438920Z",
-                "2026-04-22T11:39:16.059404Z",
-                "2026-04-22T17:29:11.508504Z",
-                "2026-04-23T13:29:24.162117Z",
-                "2026-04-23T18:24:28.325679Z",
-                "2026-04-23T19:34:18.187498Z",
-                "2026-04-23T20:44:10.470750Z",
-                "2026-04-24T07:59:15.815970Z",
-                "2026-04-24T11:34:35.016199Z",
-                "2026-04-24T13:54:15.443709Z",
-                "2026-04-24T20:19:45.880474Z",
-                "2026-04-25T09:14:09.491930Z",
-                "2026-04-25T11:34:24.693184Z",
-                "2026-04-26T03:54:15.938690Z",
-                "2026-04-26T06:14:13.996530Z",
-                "2026-04-26T22:39:00.493715Z",
-                "2026-04-27T09:19:23.311951Z"
-            ]
-        },
-        {
-            "id": "d59f76d96d99c18e6da6b315dbb646bf",
-            "source": "spacenews",
-            "text": "Latvia joins the Artemis Accords",
-            "source_link": "https://spacenews.com/latvia-joins-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T16:44:28.348345Z",
-            "shown_at": [
-                "2026-04-20T16:44:29.254147Z",
-                "2026-04-27T01:39:04.304759Z",
-                "2026-04-27T03:59:14.009385Z",
-                "2026-04-27T07:34:36.596945Z"
-            ]
-        },
-        {
-            "id": "f3c2874b2e23fc9139de6419d346f863",
-            "source": "spacenews",
-            "text": "Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit",
-            "source_link": "https://spacenews.com/space-force-sets-up-cislunar-coordination-office-to-focus-beyond-earth-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T16:09:33.110808Z",
-            "shown_at": [
-                "2026-04-20T16:09:34.179925Z",
-                "2026-04-22T16:54:08.335067Z",
-                "2026-04-22T18:04:45.421125Z",
-                "2026-04-24T02:44:15.293480Z",
-                "2026-04-25T01:34:13.322621Z"
-            ]
-        },
-        {
-            "id": "5016b3d20bc2555a6272628eed99cc19",
-            "source": "spacenews",
-            "text": "The SpaceX IPO tells one story. Here is the more important one.",
-            "source_link": "https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T11:14:47.660208Z",
-            "shown_at": [
-                "2026-07-01T11:14:48.709264Z"
-            ]
-        },
-        {
-            "id": "b60dcd7a270027270c6c39836f9a7c9b",
-            "source": "spacenews",
-            "text": "Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight",
-            "source_link": "https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T11:54:56.231271Z",
-            "shown_at": [
-                "2026-07-01T11:54:57.362070Z"
-            ]
-        },
-        {
-            "id": "409550b1e10b6ed1b52024c6f80603a8",
-            "source": "spacenews",
-            "text": "Vantor offers up-to-date imagery with WorldView 3D",
-            "source_link": "https://spacenews.com/vantor-offers-up-to-date-imagery-with-worldview-3d/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T12:45:53.200790Z",
-            "shown_at": [
-                "2026-07-01T12:45:54.045469Z"
-            ]
-        },
-        {
-            "id": "c0f7babf45229904eec0c414aedc814b",
-            "source": "spacenews",
-            "text": "EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy",
-            "source_link": "https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T12:45:53.200852Z",
-            "shown_at": [
-                "2026-07-01T14:21:38.771698Z"
-            ]
-        },
-        {
-            "id": "019869af4b4581b483a844391026edf1",
-            "source": "spacenews",
-            "text": "Latitude plans to conduct first launch from Oman",
-            "source_link": "https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T12:45:53.200898Z",
-            "shown_at": [
-                "2026-07-01T15:44:37.264327Z"
-            ]
-        },
-        {
-            "id": "87c781bde7b5638820e36018e84a23c0",
-            "source": "nyt",
-            "text": "The Vera Rubin Telescope Begins Surveying Our Cosmos",
-            "source_link": "https://www.nytimes.com/2026/06/30/science/rubin-telescope.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T13:35:56.618017Z",
-            "shown_at": [
-                "2026-07-01T13:35:57.449410Z"
-            ]
-        },
-        {
-            "id": "8174463bd1e5ba7b5d568fcfab067f85",
-            "source": "nyt",
-            "text": "Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon.",
-            "source_link": "https://www.nytimes.com/2026/06/30/science/nasa-moon-base-research.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T13:35:56.618055Z",
-            "shown_at": [
-                "2026-07-01T15:05:05.376844Z",
-                "2026-07-01T18:15:01.992273Z",
-                "2026-07-01T23:52:02.368903Z"
-            ]
-        },
-        {
-            "id": "f18f51cd61964f31ae77747e081c6c60",
-            "source": "nyt",
-            "text": "NASA Aims to Catch a Falling Space Telescope and Push It Back Up",
-            "source_link": "https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T13:35:56.618082Z",
-            "shown_at": [
-                "2026-07-01T16:19:31.908879Z",
-                "2026-07-01T21:29:15.581652Z"
-            ]
-        },
-        {
-            "id": "bcab2cd20be3a34bfd56fdeb4d57558e",
-            "source": "spacenews",
-            "text": "Unseen threats overhead: Drones endanger U.S. rocket launch sites",
-            "source_link": "https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T16:54:32.141369Z",
-            "shown_at": [
-                "2026-07-01T16:54:34.198308Z"
-            ]
-        },
-        {
-            "id": "b594bcf9b6a5381fb72492156a22f96d",
-            "source": "spacenews",
-            "text": "FCC to vote on satellite licensing overhaul July 22",
-            "source_link": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T20:19:54.008562Z",
-            "shown_at": [
-                "2026-07-01T20:19:55.005047Z"
-            ]
-        },
-        {
-            "id": "74354fecb97684415da9db55f6c3cc34",
-            "source": "breaking_defense",
-            "text": "Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO",
-            "source_link": "https://breakingdefense.com/2026/07/space-firm-vantor-expands-portfolio-as-it-tracks-geopolitical-shift-in-the-marketplace-ceo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T20:54:35.147715Z",
-            "shown_at": [
-                "2026-07-01T20:54:36.694526Z"
-            ]
-        },
-        {
-            "id": "52527c53f63e306ace27b52e54aaaa87",
-            "source": "spacenews",
-            "text": "Report links Starliner problems to overconfidence and unrealistic schedules",
-            "source_link": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-01T22:39:41.965935Z",
-            "shown_at": [
-                "2026-07-01T22:39:43.103118Z"
             ]
         }
     ]
