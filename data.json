@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-02T00:04:59.924282+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8174463bd1e5ba7b5d568fcfab067f85",
+    "trigger_count": 0,
+    "current_item_id": "383109aab2d35c05548ba65590b68b24",
     "data": [
         {
             "id": "52527c53f63e306ace27b52e54aaaa87",
@@ -8181,6 +8181,27 @@
             "shown_at": [
                 "2026-07-02T10:36:54.200272Z"
             ]
+        },
+        {
+            "id": "383109aab2d35c05548ba65590b68b24",
+            "source": "spacenews",
+            "text": "Isar Aerospace to launch German-built Planet imaging satellite",
+            "source_link": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-02T19:24:55.076687Z",
+            "shown_at": [
+                "2026-07-02T19:24:56.109387Z"
+            ]
+        },
+        {
+            "id": "c0e65cf291762bddd8db7e1cb3bb9765",
+            "source": "spacenews",
+            "text": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market",
+            "source_link": "https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-02T19:24:55.076762Z"
         }
     ]
 }

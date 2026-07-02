@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 11 | 27 |
+| spacenews | 5 | 14 | 12 | 28 |
 | breaking_defense | 1 | 1 | 10 | 18 |
-| nyt | 0 | 3 | 9 | 21 |
+| nyt | 0 | 3 | 9 | 20 |
 
 # Shown Order
 
@@ -2675,3 +2675,4 @@
 - **Jul 02, 03:49 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
 - **Jul 02, 04:29 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 02, 05:05 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
+- **Jul 02, 07:24 PM** - Isar Aerospace to launch German-built Planet imaging satellite (spacenews)
