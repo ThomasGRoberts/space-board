@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-02T00:04:59.924282+00:00",
-    "trigger_count": 6,
-    "current_item_id": "383109aab2d35c05548ba65590b68b24",
+    "trigger_count": 0,
+    "current_item_id": "e06b30b5036f56bd71cd4f7a18693e31",
     "data": [
         {
             "id": "52527c53f63e306ace27b52e54aaaa87",
@@ -8202,6 +8202,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-07-02T19:24:55.076762Z"
+        },
+        {
+            "id": "e06b30b5036f56bd71cd4f7a18693e31",
+            "source": "breaking_defense",
+            "text": "Pentagon continues to ‘struggle’ with key weapons development timelines: GAO",
+            "source_link": "https://breakingdefense.com/2026/07/pentagon-continues-to-struggle-with-key-weapons-development-timelines-gao/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-02T20:16:11.701251Z",
+            "shown_at": [
+                "2026-07-02T20:16:12.575103Z"
+            ]
         }
     ]
 }
