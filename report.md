@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 12 | 27 |
 | breaking_defense | 1 | 2 | 9 | 18 |
-| nyt | 0 | 3 | 8 | 19 |
+| nyt | 0 | 3 | 9 | 20 |
 
 # Shown Order
 
@@ -2640,3 +2640,4 @@
 - **Jul 03, 06:06 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 03, 06:51 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 03, 07:54 AM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
+- **Jul 03, 08:39 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
