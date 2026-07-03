@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 10 | 22 |
+| spacenews | 3 | 7 | 11 | 23 |
 | breaking_defense | 0 | 1 | 9 | 18 |
 | nyt | 1 | 1 | 10 | 19 |
 
@@ -2653,3 +2653,4 @@
 - **Jul 03, 07:24 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 03, 07:59 PM** - Perovskite solar panel startup Verde Technologies shifts focus to space (spacenews)
 - **Jul 03, 08:35 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 03, 09:09 PM** - Pegasus launches Swift reboost mission (spacenews)

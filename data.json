@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-03T00:05:14.853265+00:00",
-    "trigger_count": 6,
-    "current_item_id": "74354fecb97684415da9db55f6c3cc34",
+    "trigger_count": 0,
+    "current_item_id": "e5041b58661e42e94c10af968c5ff1c7",
     "data": [
         {
             "id": "25020e10f3500ede1d4757e366675c62",
@@ -8169,6 +8169,18 @@
             "fetched_datetime": "2026-07-03T16:11:31.114011Z",
             "shown_at": [
                 "2026-07-03T16:11:32.134437Z"
+            ]
+        },
+        {
+            "id": "e5041b58661e42e94c10af968c5ff1c7",
+            "source": "spacenews",
+            "text": "Pegasus launches Swift reboost mission",
+            "source_link": "https://spacenews.com/pegasus-launches-swift-reboost-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-03T21:09:15.694985Z",
+            "shown_at": [
+                "2026-07-03T21:09:18.018742Z"
             ]
         }
     ]
