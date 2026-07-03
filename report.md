@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 11 | 27 |
-| breaking_defense | 1 | 2 | 9 | 17 |
-| nyt | 0 | 3 | 9 | 20 |
+| breaking_defense | 1 | 2 | 10 | 18 |
+| nyt | 0 | 3 | 9 | 19 |
 
 # Shown Order
 
@@ -2629,3 +2629,4 @@
 - **Jul 02, 11:16 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 02, 11:59 PM** - Isar Aerospace to launch German-built Planet imaging satellite (spacenews)
 - **Jul 03, 12:34 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
+- **Jul 03, 01:09 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
