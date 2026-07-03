@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 10 | 22 |
-| breaking_defense | 1 | 2 | 7 | 18 |
+| breaking_defense | 1 | 2 | 8 | 19 |
 | nyt | 1 | 1 | 9 | 18 |
 
 # Shown Order
@@ -2646,3 +2646,4 @@
 - **Jul 03, 11:05 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 03, 12:44 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 03, 04:11 PM** - Chinese satellite manufacturer Hongqing raises $191 million (spacenews)
+- **Jul 03, 05:05 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
