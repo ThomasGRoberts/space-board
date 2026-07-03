@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 11 | 25 |
 | breaking_defense | 1 | 2 | 9 | 18 |
-| nyt | 0 | 3 | 10 | 20 |
+| nyt | 1 | 4 | 10 | 21 |
 
 # Shown Order
 
@@ -2644,3 +2644,4 @@
 - **Jul 03, 09:29 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 03, 10:15 AM** - The SpaceX IPO tells one story. Here is the more important one. (spacenews)
 - **Jul 03, 11:05 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jul 03, 12:44 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)

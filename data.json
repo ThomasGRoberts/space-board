@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-03T00:05:14.853265+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1861fd469bb4d3463ce51b50bdb6e7df",
+    "trigger_count": 0,
+    "current_item_id": "e4998703bc98dad144d44dadb04cfadf",
     "data": [
         {
             "id": "25020e10f3500ede1d4757e366675c62",
@@ -8138,6 +8138,18 @@
                 "2026-04-22T12:14:37.744457Z",
                 "2026-04-25T12:09:21.010995Z",
                 "2026-04-26T17:19:14.942223Z"
+            ]
+        },
+        {
+            "id": "e4998703bc98dad144d44dadb04cfadf",
+            "source": "nyt",
+            "text": "A Mission to Save NASA’s Swift Telescope Launches to Orbit",
+            "source_link": "https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-03T12:44:05.695222Z",
+            "shown_at": [
+                "2026-07-03T12:44:07.333828Z"
             ]
         }
     ]
