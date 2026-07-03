@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 11 | 22 |
 | breaking_defense | 0 | 1 | 9 | 18 |
-| nyt | 1 | 1 | 10 | 19 |
+| nyt | 1 | 1 | 11 | 20 |
 
 # Shown Order
 
@@ -2657,3 +2657,4 @@
 - **Jul 03, 09:44 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 03, 10:19 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 03, 10:55 PM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
+- **Jul 03, 11:29 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
