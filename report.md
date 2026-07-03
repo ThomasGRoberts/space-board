@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 10 | 21 |
+| spacenews | 2 | 6 | 11 | 22 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 | nyt | 1 | 1 | 10 | 19 |
 
@@ -2656,3 +2656,4 @@
 - **Jul 03, 09:09 PM** - Pegasus launches Swift reboost mission (spacenews)
 - **Jul 03, 09:44 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 03, 10:19 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
+- **Jul 03, 10:55 PM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
