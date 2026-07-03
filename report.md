@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 11 | 27 |
+| spacenews | 4 | 12 | 12 | 28 |
 | breaking_defense | 1 | 2 | 9 | 18 |
 | nyt | 0 | 3 | 9 | 19 |
 
@@ -2636,3 +2636,4 @@
 - **Jul 03, 03:35 AM** - Starlink veterans launch startup to broaden megaconstellation ownership (spacenews)
 - **Jul 03, 04:14 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 03, 04:49 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
+- **Jul 03, 05:29 AM** - NASA awards nearly $600 million in lunar lander missions (spacenews)
