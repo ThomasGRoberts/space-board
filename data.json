@@ -1,9 +1,71 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-02T00:04:59.924282+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-07-03T00:05:14.853265+00:00",
+    "trigger_count": 1,
     "current_item_id": "383109aab2d35c05548ba65590b68b24",
     "data": [
+        {
+            "id": "25020e10f3500ede1d4757e366675c62",
+            "source": "spacenews",
+            "text": "Perovskite solar panel startup Verde Technologies shifts focus to space",
+            "source_link": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-02T21:34:50.931782Z",
+            "shown_at": [
+                "2026-07-02T21:34:54.348884Z"
+            ]
+        },
+        {
+            "id": "e06b30b5036f56bd71cd4f7a18693e31",
+            "source": "breaking_defense",
+            "text": "Pentagon continues to ‘struggle’ with key weapons development timelines: GAO",
+            "source_link": "https://breakingdefense.com/2026/07/pentagon-continues-to-struggle-with-key-weapons-development-timelines-gao/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-02T20:16:11.701251Z",
+            "shown_at": [
+                "2026-07-02T20:16:12.575103Z",
+                "2026-07-02T23:16:55.292306Z"
+            ]
+        },
+        {
+            "id": "c0e65cf291762bddd8db7e1cb3bb9765",
+            "source": "spacenews",
+            "text": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market",
+            "source_link": "https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-02T19:24:55.076762Z",
+            "shown_at": [
+                "2026-07-02T20:59:23.793139Z"
+            ]
+        },
+        {
+            "id": "383109aab2d35c05548ba65590b68b24",
+            "source": "spacenews",
+            "text": "Isar Aerospace to launch German-built Planet imaging satellite",
+            "source_link": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-02T19:24:55.076687Z",
+            "shown_at": [
+                "2026-07-02T19:24:56.109387Z",
+                "2026-07-02T23:59:12.670026Z"
+            ]
+        },
+        {
+            "id": "aa7636583419aa9bd202f6e32b997ac8",
+            "source": "spacenews",
+            "text": "Final Atlas 5 Amazon Leo mission launches",
+            "source_link": "https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-02T10:36:53.290914Z",
+            "shown_at": [
+                "2026-07-02T10:36:54.200272Z"
+            ]
+        },
         {
             "id": "52527c53f63e306ace27b52e54aaaa87",
             "source": "spacenews",
@@ -8060,177 +8122,6 @@
                 "2026-04-22T12:14:37.744457Z",
                 "2026-04-25T12:09:21.010995Z",
                 "2026-04-26T17:19:14.942223Z"
-            ]
-        },
-        {
-            "id": "a0e6a431a3cd1dc2d2eb16c2a1569321",
-            "source": "spacenews",
-            "text": "China backs orbital data center startup with $8.4 billion in credit lines",
-            "source_link": "https://spacenews.com/china-backs-orbital-data-center-startup-with-8-4-billion-in-credit-lines/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T09:54:09.528722Z",
-            "shown_at": [
-                "2026-04-22T11:04:56.531160Z",
-                "2026-04-24T22:04:48.896759Z",
-                "2026-04-27T11:04:38.028107Z",
-                "2026-04-27T22:14:11.339145Z",
-                "2026-04-27T23:24:11.376138Z"
-            ]
-        },
-        {
-            "id": "8cf10b5f7100b92eaf3661af0834f851",
-            "source": "spacenews",
-            "text": "Commerce Department budget proposal would halt work on TraCSS",
-            "source_link": "https://spacenews.com/commerce-department-budget-proposal-would-halt-work-on-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T09:54:09.528649Z",
-            "shown_at": [
-                "2026-04-22T09:54:10.360822Z",
-                "2026-04-26T18:29:19.742821Z",
-                "2026-04-27T05:09:17.808753Z",
-                "2026-04-27T14:34:39.223915Z",
-                "2026-04-28T04:09:00.773362Z",
-                "2026-04-28T07:39:14.177404Z",
-                "2026-04-28T22:19:23.137117Z"
-            ]
-        },
-        {
-            "id": "8fb35b2a43bf5c222709f32207195291",
-            "source": "nyt",
-            "text": "Musk’s SpaceX Goals Shift Ahead of Its I.P.O.",
-            "source_link": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T09:19:28.814756Z",
-            "shown_at": [
-                "2026-04-22T10:28:57.354516Z",
-                "2026-04-22T21:34:36.502288Z",
-                "2026-04-23T02:24:12.566450Z",
-                "2026-04-23T05:54:10.946218Z",
-                "2026-04-23T15:59:16.816643Z",
-                "2026-04-23T23:44:11.394191Z",
-                "2026-04-24T03:19:20.178910Z",
-                "2026-04-24T04:29:07.080066Z",
-                "2026-04-24T22:39:08.377555Z",
-                "2026-04-25T03:19:15.227295Z",
-                "2026-04-25T05:44:12.895622Z",
-                "2026-04-25T12:44:09.393378Z",
-                "2026-04-26T08:34:28.630582Z",
-                "2026-04-26T12:04:36.060009Z",
-                "2026-04-26T19:04:41.005953Z",
-                "2026-04-27T05:44:21.834374Z",
-                "2026-04-27T11:39:13.028935Z",
-                "2026-04-28T03:34:20.406499Z",
-                "2026-04-28T11:44:13.394718Z",
-                "2026-04-28T14:04:47.278425Z",
-                "2026-04-28T17:34:13.480479Z",
-                "2026-04-28T22:54:30.330474Z",
-                "2026-04-29T00:05:05.710009Z",
-                "2026-04-29T02:24:07.647998Z",
-                "2026-04-29T05:54:18.009239Z"
-            ]
-        },
-        {
-            "id": "ac39b1a2da52f31fa9a0c23321d3ce03",
-            "source": "nyt",
-            "text": "Dark Skies and Dark Energy Converge in West Texas",
-            "source_link": "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T09:19:28.814721Z",
-            "shown_at": [
-                "2026-04-22T09:19:30.145324Z",
-                "2026-04-22T22:49:26.760033Z",
-                "2026-04-24T00:54:19.579180Z",
-                "2026-04-26T17:54:06.520990Z",
-                "2026-04-26T20:14:13.476175Z",
-                "2026-04-27T03:24:18.836311Z",
-                "2026-04-27T04:34:19.418230Z",
-                "2026-04-27T10:29:14.655618Z",
-                "2026-04-27T22:49:08.531739Z",
-                "2026-04-28T01:14:23.074932Z",
-                "2026-04-28T19:59:40.621879Z",
-                "2026-04-28T21:44:21.851055Z",
-                "2026-04-29T03:34:34.624743Z",
-                "2026-04-29T04:44:19.845279Z"
-            ]
-        },
-        {
-            "id": "991181dde7eda3358799ce78f193954f",
-            "source": "spacenews",
-            "text": "Northrop Grumman takes $71 million charge on Vulcan booster issue",
-            "source_link": "https://spacenews.com/northrop-grumman-takes-71-million-charge-on-vulcan-booster-issue/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T02:21:07.279440Z",
-            "shown_at": [
-                "2026-04-22T02:21:07.894545Z",
-                "2026-04-22T08:44:20.844856Z",
-                "2026-04-27T09:54:24.964579Z"
-            ]
-        },
-        {
-            "id": "aa7636583419aa9bd202f6e32b997ac8",
-            "source": "spacenews",
-            "text": "Final Atlas 5 Amazon Leo mission launches",
-            "source_link": "https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-02T10:36:53.290914Z",
-            "shown_at": [
-                "2026-07-02T10:36:54.200272Z"
-            ]
-        },
-        {
-            "id": "383109aab2d35c05548ba65590b68b24",
-            "source": "spacenews",
-            "text": "Isar Aerospace to launch German-built Planet imaging satellite",
-            "source_link": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-02T19:24:55.076687Z",
-            "shown_at": [
-                "2026-07-02T19:24:56.109387Z",
-                "2026-07-02T23:59:12.670026Z"
-            ]
-        },
-        {
-            "id": "c0e65cf291762bddd8db7e1cb3bb9765",
-            "source": "spacenews",
-            "text": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market",
-            "source_link": "https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-02T19:24:55.076762Z",
-            "shown_at": [
-                "2026-07-02T20:59:23.793139Z"
-            ]
-        },
-        {
-            "id": "e06b30b5036f56bd71cd4f7a18693e31",
-            "source": "breaking_defense",
-            "text": "Pentagon continues to ‘struggle’ with key weapons development timelines: GAO",
-            "source_link": "https://breakingdefense.com/2026/07/pentagon-continues-to-struggle-with-key-weapons-development-timelines-gao/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-02T20:16:11.701251Z",
-            "shown_at": [
-                "2026-07-02T20:16:12.575103Z",
-                "2026-07-02T23:16:55.292306Z"
-            ]
-        },
-        {
-            "id": "25020e10f3500ede1d4757e366675c62",
-            "source": "spacenews",
-            "text": "Perovskite solar panel startup Verde Technologies shifts focus to space",
-            "source_link": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-02T21:34:50.931782Z",
-            "shown_at": [
-                "2026-07-02T21:34:54.348884Z"
             ]
         }
     ]
