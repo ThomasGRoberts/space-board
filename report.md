@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 10 | 22 |
 | breaking_defense | 1 | 2 | 8 | 18 |
-| nyt | 1 | 1 | 8 | 18 |
+| nyt | 1 | 1 | 9 | 19 |
 
 # Shown Order
 
@@ -2647,3 +2647,4 @@
 - **Jul 03, 12:44 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 03, 04:11 PM** - Chinese satellite manufacturer Hongqing raises $191 million (spacenews)
 - **Jul 03, 05:05 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 03, 05:39 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
