@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 12 | 27 |
 | breaking_defense | 1 | 2 | 9 | 17 |
-| nyt | 0 | 3 | 8 | 19 |
+| nyt | 0 | 3 | 9 | 20 |
 
 # Shown Order
 
@@ -2631,3 +2631,4 @@
 - **Jul 03, 12:34 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 03, 01:09 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 03, 01:45 AM** - Europe’s next security challenge is in orbit (spacenews)
+- **Jul 03, 02:24 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
