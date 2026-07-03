@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 11 | 27 |
+| spacenews | 4 | 12 | 12 | 28 |
 | breaking_defense | 1 | 2 | 10 | 18 |
 | nyt | 0 | 3 | 9 | 19 |
 
@@ -2642,3 +2642,4 @@
 - **Jul 03, 07:54 AM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
 - **Jul 03, 08:39 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 03, 09:29 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
+- **Jul 03, 10:15 AM** - The SpaceX IPO tells one story. Here is the more important one. (spacenews)
