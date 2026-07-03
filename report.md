@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 12 | 27 |
 | breaking_defense | 1 | 2 | 9 | 17 |
-| nyt | 0 | 3 | 8 | 19 |
+| nyt | 0 | 3 | 9 | 20 |
 
 # Shown Order
 
@@ -2634,3 +2634,4 @@
 - **Jul 03, 02:24 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 03, 02:59 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 03, 03:35 AM** - Starlink veterans launch startup to broaden megaconstellation ownership (spacenews)
+- **Jul 03, 04:14 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
