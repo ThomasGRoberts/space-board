@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 11 | 23 |
-| breaking_defense | 1 | 2 | 8 | 18 |
+| breaking_defense | 1 | 2 | 9 | 19 |
 | nyt | 1 | 1 | 9 | 18 |
 
 # Shown Order
@@ -2649,3 +2649,4 @@
 - **Jul 03, 05:05 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 03, 05:39 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 03, 06:14 PM** - Perovskite solar panel startup Verde Technologies shifts focus to space (spacenews)
+- **Jul 03, 06:49 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
