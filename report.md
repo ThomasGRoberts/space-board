@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 11 | 26 |
+| spacenews | 4 | 12 | 12 | 27 |
 | breaking_defense | 1 | 2 | 9 | 18 |
 | nyt | 0 | 3 | 9 | 19 |
 
@@ -2639,3 +2639,4 @@
 - **Jul 03, 05:29 AM** - NASA awards nearly $600 million in lunar lander missions (spacenews)
 - **Jul 03, 06:06 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 03, 06:51 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 03, 07:54 AM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
