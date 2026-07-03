@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 10 | 23 |
 | breaking_defense | 0 | 1 | 9 | 18 |
-| nyt | 1 | 1 | 10 | 18 |
+| nyt | 1 | 1 | 11 | 19 |
 
 # Shown Order
 
@@ -2654,3 +2654,4 @@
 - **Jul 03, 07:59 PM** - Perovskite solar panel startup Verde Technologies shifts focus to space (spacenews)
 - **Jul 03, 08:35 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 03, 09:09 PM** - Pegasus launches Swift reboost mission (spacenews)
+- **Jul 03, 09:44 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
