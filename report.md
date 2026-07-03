@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 11 | 27 |
-| breaking_defense | 1 | 2 | 9 | 17 |
+| breaking_defense | 1 | 2 | 10 | 18 |
 | nyt | 0 | 3 | 9 | 20 |
 
 # Shown Order
@@ -2641,3 +2641,4 @@
 - **Jul 03, 06:51 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 03, 07:54 AM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
 - **Jul 03, 08:39 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jul 03, 09:29 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
