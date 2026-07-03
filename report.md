@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 10 | 23 |
+| spacenews | 4 | 8 | 10 | 23 |
 | breaking_defense | 1 | 2 | 8 | 18 |
 | nyt | 1 | 1 | 9 | 19 |
 
@@ -2645,3 +2645,4 @@
 - **Jul 03, 10:15 AM** - The SpaceX IPO tells one story. Here is the more important one. (spacenews)
 - **Jul 03, 11:05 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 03, 12:44 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 03, 04:11 PM** - Chinese satellite manufacturer Hongqing raises $191 million (spacenews)

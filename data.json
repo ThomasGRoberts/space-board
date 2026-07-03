@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-03T00:05:14.853265+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4998703bc98dad144d44dadb04cfadf",
+    "trigger_count": 0,
+    "current_item_id": "89ea3810088e6c1106ae84dcb4b14403",
     "data": [
         {
             "id": "25020e10f3500ede1d4757e366675c62",
@@ -8150,6 +8150,18 @@
             "fetched_datetime": "2026-07-03T12:44:05.695222Z",
             "shown_at": [
                 "2026-07-03T12:44:07.333828Z"
+            ]
+        },
+        {
+            "id": "89ea3810088e6c1106ae84dcb4b14403",
+            "source": "spacenews",
+            "text": "Chinese satellite manufacturer Hongqing raises $191 million",
+            "source_link": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-03T16:11:31.114011Z",
+            "shown_at": [
+                "2026-07-03T16:11:32.134437Z"
             ]
         }
     ]
