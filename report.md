@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 10 | 22 |
+| spacenews | 2 | 6 | 11 | 23 |
 | nyt | 1 | 1 | 11 | 19 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 
@@ -2662,3 +2662,4 @@
 - **Jul 04, 04:14 AM** - Space Force fields mobile satellite-jamming system  (spacenews)
 - **Jul 04, 04:49 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 04, 05:25 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 04, 05:59 AM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
