@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 13 | 24 |
+| spacenews | 3 | 6 | 13 | 23 |
 | nyt | 0 | 1 | 11 | 21 |
-| breaking_defense | 0 | 1 | 11 | 20 |
+| breaking_defense | 0 | 1 | 12 | 21 |
 
 # Shown Order
 
@@ -2674,3 +2674,4 @@
 - **Jul 04, 11:24 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 04, 11:59 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 04, 12:39 PM** - TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report (spacenews)
+- **Jul 04, 01:15 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
