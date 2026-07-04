@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 24 |
-| nyt | 0 | 1 | 13 | 23 |
+| nyt | 0 | 1 | 14 | 24 |
 | breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -2690,3 +2690,4 @@
 - **Jul 04, 09:05 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 04, 09:44 PM** - Rocket Lab to acquire Iridium (spacenews)
 - **Jul 04, 10:19 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 04, 10:54 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
