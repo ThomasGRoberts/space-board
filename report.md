@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 12 | 23 |
+| spacenews | 3 | 6 | 13 | 24 |
 | nyt | 1 | 1 | 12 | 21 |
 | breaking_defense | 0 | 1 | 11 | 20 |
 
@@ -2673,3 +2673,4 @@
 - **Jul 04, 10:49 AM** - GAO flags satellite costs, launch risks in Space Force portfolio (spacenews)
 - **Jul 04, 11:24 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 04, 11:59 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
+- **Jul 04, 12:39 PM** - TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report (spacenews)
