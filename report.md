@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 12 | 23 |
-| nyt | 1 | 1 | 11 | 21 |
-| breaking_defense | 0 | 1 | 11 | 21 |
+| nyt | 1 | 1 | 12 | 22 |
+| breaking_defense | 0 | 1 | 11 | 20 |
 
 # Shown Order
 
@@ -2672,3 +2672,4 @@
 - **Jul 04, 10:14 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 04, 10:49 AM** - GAO flags satellite costs, launch risks in Space Force portfolio (spacenews)
 - **Jul 04, 11:24 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 04, 11:59 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
