@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 12 | 23 |
 | nyt | 1 | 1 | 11 | 21 |
-| breaking_defense | 0 | 1 | 10 | 20 |
+| breaking_defense | 0 | 1 | 11 | 21 |
 
 # Shown Order
 
@@ -2671,3 +2671,4 @@
 - **Jul 04, 09:39 AM** - Latitude plans to conduct first launch from Oman (spacenews)
 - **Jul 04, 10:14 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 04, 10:49 AM** - GAO flags satellite costs, launch risks in Space Force portfolio (spacenews)
+- **Jul 04, 11:24 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
