@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 10 | 22 |
+| spacenews | 2 | 6 | 11 | 23 |
 | nyt | 1 | 1 | 10 | 19 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 
@@ -2656,3 +2656,4 @@
 - **Jul 04, 12:44 AM** - Rocket Lab to acquire Iridium (spacenews)
 - **Jul 04, 01:19 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 04, 01:54 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 04, 02:29 AM** - Orbital files plans for 100,000 orbital data centers (spacenews)
