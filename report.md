@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 11 | 22 |
+| spacenews | 2 | 6 | 11 | 23 |
 | nyt | 1 | 1 | 11 | 20 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 
@@ -2665,3 +2665,4 @@
 - **Jul 04, 05:59 AM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
 - **Jul 04, 06:35 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 04, 07:15 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
+- **Jul 04, 07:55 AM** - TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report (spacenews)
