@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 10 | 22 |
 | nyt | 1 | 1 | 11 | 20 |
-| breaking_defense | 0 | 1 | 9 | 18 |
+| breaking_defense | 0 | 1 | 10 | 19 |
 
 # Shown Order
 
@@ -2655,3 +2655,4 @@
 - **Jul 04, 12:05 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 04, 12:44 AM** - Rocket Lab to acquire Iridium (spacenews)
 - **Jul 04, 01:19 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
+- **Jul 04, 01:54 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
