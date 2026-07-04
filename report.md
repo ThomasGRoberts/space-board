@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 11 | 22 |
 | nyt | 1 | 1 | 11 | 20 |
-| breaking_defense | 0 | 1 | 9 | 18 |
+| breaking_defense | 0 | 1 | 10 | 19 |
 
 # Shown Order
 
@@ -2661,3 +2661,4 @@
 - **Jul 04, 03:39 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 04, 04:14 AM** - Space Force fields mobile satellite-jamming system  (spacenews)
 - **Jul 04, 04:49 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 04, 05:25 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
