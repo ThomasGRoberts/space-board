@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 25 |
 | nyt | 0 | 1 | 13 | 22 |
-| breaking_defense | 0 | 1 | 13 | 21 |
+| breaking_defense | 0 | 1 | 14 | 22 |
 
 # Shown Order
 
@@ -2683,3 +2683,4 @@
 - **Jul 04, 04:59 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 04, 05:35 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 04, 06:09 PM** - Report links Starliner problems to overconfidence and unrealistic schedules (spacenews)
+- **Jul 04, 06:44 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
