@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 11 | 22 |
 | nyt | 1 | 1 | 11 | 20 |
-| breaking_defense | 0 | 1 | 9 | 19 |
+| breaking_defense | 0 | 1 | 10 | 20 |
 
 # Shown Order
 
@@ -2664,3 +2664,4 @@
 - **Jul 04, 05:25 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 04, 05:59 AM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
 - **Jul 04, 06:35 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
+- **Jul 04, 07:15 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
