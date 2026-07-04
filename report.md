@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 10 | 21 |
+| spacenews | 2 | 6 | 11 | 22 |
 | nyt | 1 | 1 | 10 | 19 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 
@@ -2653,3 +2653,4 @@
 - **Jul 03, 10:55 PM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
 - **Jul 03, 11:29 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 04, 12:05 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 04, 12:44 AM** - Rocket Lab to acquire Iridium (spacenews)
