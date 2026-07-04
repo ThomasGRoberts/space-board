@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 25 |
 | nyt | 0 | 1 | 13 | 23 |
-| breaking_defense | 0 | 0 | 13 | 21 |
+| breaking_defense | 0 | 0 | 14 | 22 |
 
 # Shown Order
 
@@ -2686,3 +2686,4 @@
 - **Jul 04, 06:44 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 04, 07:19 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 04, 07:54 PM** - Study argues bigger launch vehicles may not always be better (spacenews)
+- **Jul 04, 08:29 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
