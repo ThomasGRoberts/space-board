@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 24 |
+| spacenews | 1 | 3 | 14 | 25 |
 | nyt | 0 | 1 | 14 | 24 |
 | breaking_defense | 0 | 0 | 13 | 22 |
 
@@ -2691,3 +2691,4 @@
 - **Jul 04, 09:44 PM** - Rocket Lab to acquire Iridium (spacenews)
 - **Jul 04, 10:19 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 04, 10:54 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 04, 11:29 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
