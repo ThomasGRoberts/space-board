@@ -2,15 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 11 | 22 |
-| breaking_defense | 0 | 1 | 9 | 18 |
+| spacenews | 2 | 6 | 10 | 22 |
 | nyt | 1 | 1 | 11 | 19 |
+| breaking_defense | 0 | 1 | 10 | 19 |
 
 # Shown Order
 
-- **Apr 22, 12:14 PM** - NASA sets early September launch date for Roman Space Telescope (spacenews)
-- **Apr 22, 12:54 PM** - Hybridizing nuclear command, control and communications systems puts space infrastructure at risk (spacenews)
-- **Apr 22, 03:44 PM** - Kigali to Host IAF Global Space Conference on Climate Change 2026 – A First for Africa (spacenews)
 - **Apr 22, 07:49 PM** - FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up (spacenews)
 - **Apr 22, 08:23 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
 - **Apr 22, 08:59 PM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
@@ -44,7 +41,6 @@
 - **Apr 25, 06:54 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 25, 09:49 AM** - Electron launches Japanese cubesats (spacenews)
 - **Apr 25, 10:59 AM** - Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes (spacenews)
-- **Apr 25, 12:09 PM** - NASA sets early September launch date for Roman Space Telescope (spacenews)
 - **Apr 25, 01:19 PM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
 - **Apr 25, 02:29 PM** - Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes (spacenews)
 - **Apr 25, 03:39 PM** - Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes (spacenews)
@@ -62,7 +58,6 @@
 - **Apr 26, 10:19 AM** - China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites (spacenews)
 - **Apr 26, 10:54 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 26, 01:14 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
-- **Apr 26, 05:19 PM** - NASA sets early September launch date for Roman Space Telescope (spacenews)
 - **Apr 26, 07:39 PM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
 - **Apr 26, 08:49 PM** - Space Force faces surge in demand for heavy-lift launches (spacenews)
 - **Apr 26, 09:59 PM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
@@ -86,7 +81,6 @@
 - **Apr 28, 02:59 AM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
 - **Apr 28, 05:19 AM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
 - **Apr 28, 05:54 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
-- **Apr 28, 06:29 AM** - Hybridizing nuclear command, control and communications systems puts space infrastructure at risk (spacenews)
 - **Apr 28, 07:04 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 28, 08:49 AM** - Overview Energy to provide space-based solar power for Meta data centers (spacenews)
 - **Apr 28, 09:24 AM** - Startup targets radio segment of Golden Dome missile-defense network (spacenews)
@@ -2658,3 +2652,4 @@
 - **Jul 03, 10:19 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 03, 10:55 PM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
 - **Jul 03, 11:29 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jul 04, 12:05 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)

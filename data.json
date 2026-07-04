@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-03T00:05:14.853265+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1861fd469bb4d3463ce51b50bdb6e7df",
+    "last_run_datetime": "2026-07-04T00:05:19.953473+00:00",
+    "trigger_count": 0,
+    "current_item_id": "74354fecb97684415da9db55f6c3cc34",
     "data": [
+        {
+            "id": "e5041b58661e42e94c10af968c5ff1c7",
+            "source": "spacenews",
+            "text": "Pegasus launches Swift reboost mission",
+            "source_link": "https://spacenews.com/pegasus-launches-swift-reboost-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-03T21:09:15.694985Z",
+            "shown_at": [
+                "2026-07-03T21:09:18.018742Z"
+            ]
+        },
+        {
+            "id": "89ea3810088e6c1106ae84dcb4b14403",
+            "source": "spacenews",
+            "text": "Chinese satellite manufacturer Hongqing raises $191 million",
+            "source_link": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-03T16:11:31.114011Z",
+            "shown_at": [
+                "2026-07-03T16:11:32.134437Z"
+            ]
+        },
+        {
+            "id": "e4998703bc98dad144d44dadb04cfadf",
+            "source": "nyt",
+            "text": "A Mission to Save NASA’s Swift Telescope Launches to Orbit",
+            "source_link": "https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-03T12:44:05.695222Z",
+            "shown_at": [
+                "2026-07-03T12:44:07.333828Z"
+            ]
+        },
         {
             "id": "25020e10f3500ede1d4757e366675c62",
             "source": "spacenews",
@@ -98,7 +134,8 @@
                 "2026-07-02T13:59:22.463811Z",
                 "2026-07-02T16:29:34.621320Z",
                 "2026-07-03T02:59:12.260258Z",
-                "2026-07-03T20:35:06.820806Z"
+                "2026-07-03T20:35:06.820806Z",
+                "2026-07-04T00:05:26.511450Z"
             ]
         },
         {
@@ -8110,81 +8147,6 @@
                 "2026-04-22T19:49:17.021091Z",
                 "2026-04-25T05:09:15.573398Z",
                 "2026-04-29T05:19:16.126774Z"
-            ]
-        },
-        {
-            "id": "f72560058c44c9e4ba8d12d6ea92c751",
-            "source": "spacenews",
-            "text": "Kigali to Host IAF Global Space Conference on Climate Change 2026 – A First for Africa",
-            "source_link": "https://spacenews.com/kigali-to-host-iaf-global-space-conference-on-climate-change-2026-a-first-for-africa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T15:44:03.567650Z",
-            "shown_at": [
-                "2026-04-22T15:44:05.013228Z"
-            ]
-        },
-        {
-            "id": "28c1b2f827d69e5872a38ec27f06d505",
-            "source": "spacenews",
-            "text": "Hybridizing nuclear command, control and communications systems puts space infrastructure at risk",
-            "source_link": "https://spacenews.com/hybridizing-nuclear-command-control-and-communications-systems-puts-space-infrastructure-at-risk/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T12:14:36.834745Z",
-            "shown_at": [
-                "2026-04-22T12:54:36.045258Z",
-                "2026-04-28T06:29:17.436820Z"
-            ]
-        },
-        {
-            "id": "b6695cc39182f2707ebb292affa3cf03",
-            "source": "spacenews",
-            "text": "NASA sets early September launch date for Roman Space Telescope",
-            "source_link": "https://spacenews.com/nasa-sets-early-september-launch-date-for-roman-space-telescope/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T12:14:36.834663Z",
-            "shown_at": [
-                "2026-04-22T12:14:37.744457Z",
-                "2026-04-25T12:09:21.010995Z",
-                "2026-04-26T17:19:14.942223Z"
-            ]
-        },
-        {
-            "id": "e4998703bc98dad144d44dadb04cfadf",
-            "source": "nyt",
-            "text": "A Mission to Save NASA’s Swift Telescope Launches to Orbit",
-            "source_link": "https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-03T12:44:05.695222Z",
-            "shown_at": [
-                "2026-07-03T12:44:07.333828Z"
-            ]
-        },
-        {
-            "id": "89ea3810088e6c1106ae84dcb4b14403",
-            "source": "spacenews",
-            "text": "Chinese satellite manufacturer Hongqing raises $191 million",
-            "source_link": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-03T16:11:31.114011Z",
-            "shown_at": [
-                "2026-07-03T16:11:32.134437Z"
-            ]
-        },
-        {
-            "id": "e5041b58661e42e94c10af968c5ff1c7",
-            "source": "spacenews",
-            "text": "Pegasus launches Swift reboost mission",
-            "source_link": "https://spacenews.com/pegasus-launches-swift-reboost-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-03T21:09:15.694985Z",
-            "shown_at": [
-                "2026-07-03T21:09:18.018742Z"
             ]
         }
     ]
