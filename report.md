@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 24 |
+| spacenews | 2 | 4 | 15 | 25 |
 | nyt | 0 | 1 | 13 | 23 |
 | breaking_defense | 0 | 1 | 13 | 22 |
 
@@ -2685,3 +2685,4 @@
 - **Jul 04, 06:09 PM** - Report links Starliner problems to overconfidence and unrealistic schedules (spacenews)
 - **Jul 04, 06:44 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 04, 07:19 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
+- **Jul 04, 07:54 PM** - Study argues bigger launch vehicles may not always be better (spacenews)
