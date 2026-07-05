@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 24 |
 | nyt | 0 | 1 | 13 | 24 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2698,3 +2698,4 @@
 - **Jul 05, 03:44 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 05, 04:24 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 05, 04:59 AM** - Orbital files plans for 100,000 orbital data centers (spacenews)
+- **Jul 05, 05:35 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
