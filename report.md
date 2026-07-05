@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 3 | 13 | 26 |
+| spacenews | 0 | 3 | 14 | 27 |
 | nyt | 0 | 0 | 14 | 25 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2712,3 +2712,4 @@
 - **Jul 05, 12:05 PM** - FCC to vote on satellite licensing overhaul July 22 (spacenews)
 - **Jul 05, 12:39 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 05, 01:14 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
+- **Jul 05, 01:49 PM** - Quantum computing is about to become a national security problem in orbit (spacenews)
