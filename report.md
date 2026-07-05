@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 14 | 26 |
 | nyt | 0 | 1 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 24 |
+| breaking_defense | 0 | 0 | 14 | 25 |
 
 # Shown Order
 
@@ -2710,3 +2710,4 @@
 - **Jul 05, 10:54 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 05, 11:29 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 05, 12:05 PM** - FCC to vote on satellite licensing overhaul July 22 (spacenews)
+- **Jul 05, 12:39 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
