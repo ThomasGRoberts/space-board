@@ -2,13 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 14 | 25 |
+| spacenews | 1 | 3 | 14 | 24 |
 | nyt | 0 | 1 | 13 | 24 |
-| breaking_defense | 0 | 0 | 13 | 22 |
+| breaking_defense | 0 | 0 | 14 | 23 |
 
 # Shown Order
 
-- **Apr 22, 07:49 PM** - FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up (spacenews)
 - **Apr 22, 08:23 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
 - **Apr 22, 08:59 PM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
 - **Apr 23, 02:59 AM** - Atmos Space Cargo raises $30 million for reentry missions (spacenews)
@@ -36,7 +35,6 @@
 - **Apr 25, 02:44 AM** - FCC throws out satellite spectrum challenges as D2D dealmaking heats up (spacenews)
 - **Apr 25, 03:54 AM** - Univity funds VLEO 5G demonstrators with $32 million Series A (spacenews)
 - **Apr 25, 04:34 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
-- **Apr 25, 05:09 AM** - FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up (spacenews)
 - **Apr 25, 06:19 AM** - Pentagon seeks $2.3 billion for Maven AI battlefield system  (spacenews)
 - **Apr 25, 06:54 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 25, 09:49 AM** - Electron launches Japanese cubesats (spacenews)
@@ -105,7 +103,6 @@
 - **Apr 29, 01:49 AM** - House Science Committee pans NASA budget request (spacenews)
 - **Apr 29, 02:59 AM** - FAA to begin collecting user fees for commercial launches and reentries (spacenews)
 - **Apr 29, 04:09 AM** - Astrobotic tests advanced rocket engine (spacenews)
-- **Apr 29, 05:19 AM** - FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up (spacenews)
 - **Apr 29, 06:29 AM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
 - **Apr 29, 07:04 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 29, 07:39 AM** - FAA to begin collecting user fees for commercial launches and reentries (spacenews)
@@ -2692,3 +2689,4 @@
 - **Jul 04, 10:19 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 04, 10:54 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 04, 11:29 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
+- **Jul 05, 12:05 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)

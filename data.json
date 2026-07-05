@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-04T00:05:19.953473+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c880dfb0603054b58d798427d6208030",
+    "last_run_datetime": "2026-07-05T00:05:11.237080+00:00",
+    "trigger_count": 0,
+    "current_item_id": "9c7944b3aa9fa25dbbde354db923bf48",
     "data": [
+        {
+            "id": "625e6359419fc8133a7a6224f77f634e",
+            "source": "spacenews",
+            "text": "GAO flags satellite costs, launch risks in Space Force portfolio",
+            "source_link": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-04T10:49:32.686555Z",
+            "shown_at": [
+                "2026-07-04T10:49:35.665902Z"
+            ]
+        },
         {
             "id": "e5041b58661e42e94c10af968c5ff1c7",
             "source": "spacenews",
@@ -425,7 +437,8 @@
                 "2026-07-04T07:15:01.224175Z",
                 "2026-07-04T09:04:36.957852Z",
                 "2026-07-04T16:59:18.360143Z",
-                "2026-07-04T18:44:53.936828Z"
+                "2026-07-04T18:44:53.936828Z",
+                "2026-07-05T00:05:16.902170Z"
             ]
         },
         {
@@ -8171,32 +8184,6 @@
                 "2026-04-24T12:09:09.303835Z",
                 "2026-04-27T18:04:47.835859Z",
                 "2026-04-28T14:39:34.453514Z"
-            ]
-        },
-        {
-            "id": "81b4353b77f95baabaa82128658967ad",
-            "source": "spacenews",
-            "text": "FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up",
-            "source_link": "https://spacenews.com/fcc-clears-ast-spacemobile-constellation-as-launch-setback-clouds-ramp-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T19:49:16.298259Z",
-            "shown_at": [
-                "2026-04-22T19:49:17.021091Z",
-                "2026-04-25T05:09:15.573398Z",
-                "2026-04-29T05:19:16.126774Z"
-            ]
-        },
-        {
-            "id": "625e6359419fc8133a7a6224f77f634e",
-            "source": "spacenews",
-            "text": "GAO flags satellite costs, launch risks in Space Force portfolio",
-            "source_link": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-04T10:49:32.686555Z",
-            "shown_at": [
-                "2026-07-04T10:49:35.665902Z"
             ]
         }
     ]
