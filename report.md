@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 27 |
+| spacenews | 1 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2718,3 +2718,4 @@
 - **Jul 05, 03:34 PM** - Airbus to build Aeolus-2 wind-monitoring satellite (spacenews)
 - **Jul 05, 04:09 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 05, 04:44 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
+- **Jul 05, 05:19 PM** - Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight (spacenews)
