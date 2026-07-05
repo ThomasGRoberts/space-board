@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 24 |
 | nyt | 0 | 1 | 13 | 24 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2695,3 +2695,4 @@
 - **Jul 05, 01:54 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 05, 02:29 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 05, 03:09 AM** - The SpaceX IPO tells one story. Here is the more important one. (spacenews)
+- **Jul 05, 03:44 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
