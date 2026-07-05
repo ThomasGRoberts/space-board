@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 24 |
+| spacenews | 1 | 3 | 14 | 25 |
 | nyt | 0 | 1 | 13 | 24 |
 | breaking_defense | 0 | 0 | 13 | 22 |
 
@@ -2697,3 +2697,4 @@
 - **Jul 05, 03:09 AM** - The SpaceX IPO tells one story. Here is the more important one. (spacenews)
 - **Jul 05, 03:44 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 05, 04:24 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
+- **Jul 05, 04:59 AM** - Orbital files plans for 100,000 orbital data centers (spacenews)
