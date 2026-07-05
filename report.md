@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2722,3 +2722,4 @@
 - **Jul 05, 05:55 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 05, 06:29 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 05, 07:05 PM** - Unseen threats overhead: Drones endanger U.S. rocket launch sites (spacenews)
+- **Jul 05, 07:39 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
