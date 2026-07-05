@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 13 | 24 |
-| nyt | 0 | 1 | 13 | 23 |
+| nyt | 0 | 1 | 14 | 24 |
 | breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -2696,3 +2696,4 @@
 - **Jul 05, 02:29 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 05, 03:09 AM** - The SpaceX IPO tells one story. Here is the more important one. (spacenews)
 - **Jul 05, 03:44 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
+- **Jul 05, 04:24 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
