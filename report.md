@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 24 |
-| nyt | 0 | 1 | 14 | 24 |
+| spacenews | 1 | 3 | 14 | 25 |
+| nyt | 0 | 1 | 13 | 24 |
 | breaking_defense | 0 | 0 | 13 | 22 |
 
 # Shown Order
@@ -2691,3 +2691,4 @@
 - **Jul 04, 11:29 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
 - **Jul 05, 12:05 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 05, 12:39 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jul 05, 01:19 AM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
