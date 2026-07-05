@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 25 |
-| nyt | 0 | 1 | 14 | 25 |
+| spacenews | 1 | 3 | 14 | 25 |
+| nyt | 0 | 1 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -2706,3 +2706,4 @@
 - **Jul 05, 08:35 AM** - Final Atlas 5 Amazon Leo mission launches (spacenews)
 - **Jul 05, 09:09 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 05, 09:44 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
+- **Jul 05, 10:19 AM** - FCC to vote on satellite licensing overhaul July 22 (spacenews)
