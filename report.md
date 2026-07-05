@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Jul 05, 04:44 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 05, 05:19 PM** - Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight (spacenews)
 - **Jul 05, 05:55 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 05, 06:29 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
