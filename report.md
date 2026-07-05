@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 14 | 25 |
-| nyt | 0 | 1 | 13 | 24 |
+| spacenews | 1 | 3 | 13 | 24 |
+| nyt | 0 | 1 | 14 | 25 |
 | breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -2702,3 +2702,4 @@
 - **Jul 05, 06:09 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 05, 06:44 AM** - NASA awards nearly $600 million in lunar lander missions (spacenews)
 - **Jul 05, 07:24 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
+- **Jul 05, 07:59 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
