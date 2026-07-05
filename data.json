@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-05T00:05:11.237080+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4998703bc98dad144d44dadb04cfadf",
+    "trigger_count": 0,
+    "current_item_id": "ab74f710818ce417d42a2000d540cc41",
     "data": [
         {
             "id": "625e6359419fc8133a7a6224f77f634e",
@@ -8209,6 +8209,18 @@
                 "2026-04-24T12:09:09.303835Z",
                 "2026-04-27T18:04:47.835859Z",
                 "2026-04-28T14:39:34.453514Z"
+            ]
+        },
+        {
+            "id": "ab74f710818ce417d42a2000d540cc41",
+            "source": "spacenews",
+            "text": "Airbus to build Aeolus-2 wind-monitoring satellite",
+            "source_link": "https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-05T15:34:53.614493Z",
+            "shown_at": [
+                "2026-07-05T15:34:54.573303Z"
             ]
         }
     ]

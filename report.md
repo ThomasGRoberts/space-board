@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 3 | 13 | 27 |
+| spacenews | 1 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2715,3 +2715,4 @@
 - **Jul 05, 01:49 PM** - Quantum computing is about to become a national security problem in orbit (spacenews)
 - **Jul 05, 02:24 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 05, 02:59 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 05, 03:34 PM** - Airbus to build Aeolus-2 wind-monitoring satellite (spacenews)
