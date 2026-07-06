@@ -2724,3 +2724,4 @@
 - **Jul 05, 09:24 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 05, 09:59 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 05, 11:35 PM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
+- **Jul 06, 12:09 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
