@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-06T00:05:16.363689+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e06b30b5036f56bd71cd4f7a18693e31",
+    "trigger_count": 0,
+    "current_item_id": "4124a4fa06cad9146a2c5cf02251ed03",
     "data": [
         {
             "id": "ab74f710818ce417d42a2000d540cc41",
@@ -8338,6 +8338,18 @@
             "fetched_datetime": "2026-07-06T19:15:16.053925Z",
             "shown_at": [
                 "2026-07-06T19:15:16.981716Z"
+            ]
+        },
+        {
+            "id": "4124a4fa06cad9146a2c5cf02251ed03",
+            "source": "spacenews",
+            "text": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion",
+            "source_link": "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T20:29:16.398396Z",
+            "shown_at": [
+                "2026-07-06T20:29:18.569330Z"
             ]
         }
     ]

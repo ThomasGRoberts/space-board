@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 9 | 15 | 28 |
+| spacenews | 9 | 10 | 16 | 29 |
 | nyt | 0 | 0 | 10 | 24 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
@@ -2756,3 +2756,4 @@
 - **Jul 06, 06:39 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 06, 07:15 PM** - Iridium folds Aireon aviation safety service into Rocket Lab-bound business (spacenews)
 - **Jul 06, 07:55 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 06, 08:29 PM** - Blue Origin continues work on lunar landers during recovery from New Glenn explosion (spacenews)
