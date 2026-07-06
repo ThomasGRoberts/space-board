@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 13 | 27 |
+| spacenews | 2 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2736,3 +2736,4 @@
 - **Jul 06, 05:35 AM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
 - **Jul 06, 06:09 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 06, 06:44 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 06, 07:21 AM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
