@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-06T00:05:16.363689+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5080c731af9a1af342bcf067a13769eb",
+    "trigger_count": 0,
+    "current_item_id": "fd88d50160e95bbbea6a77c538e1f466",
     "data": [
         {
             "id": "ab74f710818ce417d42a2000d540cc41",
@@ -8256,6 +8256,18 @@
             "fetched_datetime": "2026-07-06T09:55:17.903079Z",
             "shown_at": [
                 "2026-07-06T09:55:18.581274Z"
+            ]
+        },
+        {
+            "id": "fd88d50160e95bbbea6a77c538e1f466",
+            "source": "spacenews",
+            "text": "Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard",
+            "source_link": "https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T10:29:29.139125Z",
+            "shown_at": [
+                "2026-07-06T10:29:30.874187Z"
             ]
         }
     ]

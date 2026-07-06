@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 13 | 27 |
+| spacenews | 4 | 5 | 14 | 28 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2740,3 +2740,4 @@
 - **Jul 06, 08:24 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 06, 08:59 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 06, 09:55 AM** - Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed  (spacenews)
+- **Jul 06, 10:29 AM** - Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard (spacenews)
