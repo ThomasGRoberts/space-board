@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 14 | 28 |
-| nyt | 0 | 0 | 11 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2748,3 +2748,4 @@
 - **Jul 06, 01:39 PM** - The term ‘dual-use’ is misleading and dangerous (spacenews)
 - **Jul 06, 02:15 PM** - BAE microchip designed for strategic defense missions passes radiation test (spacenews)
 - **Jul 06, 02:55 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
+- **Jul 06, 03:45 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
