@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 13 | 27 |
+| spacenews | 2 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2733,3 +2733,4 @@
 - **Jul 06, 03:44 AM** - SatVu restarts commercial operations with HotSat-2 (spacenews)
 - **Jul 06, 04:25 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 06, 04:59 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 06, 05:35 AM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
