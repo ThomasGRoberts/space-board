@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 13 | 27 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2738,3 +2738,4 @@
 - **Jul 06, 06:44 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 06, 07:21 AM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
 - **Jul 06, 08:24 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
+- **Jul 06, 08:59 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
