@@ -8,7 +8,6 @@
 
 # Shown Order
 
-- **Apr 22, 08:23 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
 - **Apr 22, 08:59 PM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
 - **Apr 23, 02:59 AM** - Atmos Space Cargo raises $30 million for reentry missions (spacenews)
 - **Apr 23, 07:04 AM** - Univity funds VLEO 5G demonstrators with $32 million Series A (spacenews)
@@ -24,7 +23,6 @@
 - **Apr 24, 03:54 AM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
 - **Apr 24, 08:34 AM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
 - **Apr 24, 09:09 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
-- **Apr 24, 12:09 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
 - **Apr 24, 01:19 PM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
 - **Apr 24, 02:29 PM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
 - **Apr 24, 03:04 PM** - Astrobotic tests advanced rocket engine (spacenews)
@@ -67,7 +65,6 @@
 - **Apr 27, 12:14 PM** - FAA to begin collecting user fees for commercial launches and reentries (spacenews)
 - **Apr 27, 01:24 PM** - Artemis 2 came home in triumph. Artemis 3 must survive the real test. (spacenews)
 - **Apr 27, 01:59 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
-- **Apr 27, 06:04 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
 - **Apr 27, 06:44 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 27, 07:19 PM** - Seraphim’s public trust seeks to raise up to $474 million (spacenews)
 - **Apr 27, 07:54 PM** - Overview Energy to provide space-based solar power for Meta data centers (spacenews)
@@ -87,7 +84,6 @@
 - **Apr 28, 11:09 AM** - Corrosion problem affects Gateway and commercial space station modules (spacenews)
 - **Apr 28, 12:19 PM** - Seraphim’s public trust seeks to raise up to $474 million (spacenews)
 - **Apr 28, 01:29 PM** - Overview Energy to provide space-based solar power for Meta data centers (spacenews)
-- **Apr 28, 02:39 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
 - **Apr 28, 03:14 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 28, 03:49 PM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
 - **Apr 28, 04:24 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)

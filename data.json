@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-05T00:05:11.237080+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-07-06T00:05:16.363689+00:00",
+    "trigger_count": 6,
     "current_item_id": "d8e6e00e685d346bf757e03c762b43ac",
     "data": [
+        {
+            "id": "ab74f710818ce417d42a2000d540cc41",
+            "source": "spacenews",
+            "text": "Airbus to build Aeolus-2 wind-monitoring satellite",
+            "source_link": "https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-05T15:34:53.614493Z",
+            "shown_at": [
+                "2026-07-05T15:34:54.573303Z"
+            ]
+        },
         {
             "id": "625e6359419fc8133a7a6224f77f634e",
             "source": "spacenews",
@@ -8206,33 +8218,6 @@
                 "2026-04-22T20:59:04.334501Z",
                 "2026-04-24T08:34:34.106426Z",
                 "2026-04-28T15:49:26.168128Z"
-            ]
-        },
-        {
-            "id": "9281f7b84ae9243e38cb41ded985b24b",
-            "source": "spacenews",
-            "text": "Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software",
-            "source_link": "https://spacenews.com/space-force-awards-contracts-to-leidos-maplarge-for-battle-planning-software/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T19:49:16.298314Z",
-            "shown_at": [
-                "2026-04-22T20:23:50.658223Z",
-                "2026-04-24T12:09:09.303835Z",
-                "2026-04-27T18:04:47.835859Z",
-                "2026-04-28T14:39:34.453514Z"
-            ]
-        },
-        {
-            "id": "ab74f710818ce417d42a2000d540cc41",
-            "source": "spacenews",
-            "text": "Airbus to build Aeolus-2 wind-monitoring satellite",
-            "source_link": "https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-05T15:34:53.614493Z",
-            "shown_at": [
-                "2026-07-05T15:34:54.573303Z"
             ]
         }
     ]
