@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 13 | 27 |
+| spacenews | 5 | 5 | 14 | 28 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2743,3 +2743,4 @@
 - **Jul 06, 10:29 AM** - Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard (spacenews)
 - **Jul 06, 11:08 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 06, 11:44 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
+- **Jul 06, 12:19 PM** - Connected Aircraft Fleet Set to Exceed 70,000 by 2035 (spacenews)
