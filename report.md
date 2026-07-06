@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 13 | 26 |
+| spacenews | 3 | 4 | 14 | 27 |
 | nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2739,3 +2739,4 @@
 - **Jul 06, 07:21 AM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
 - **Jul 06, 08:24 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 06, 08:59 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
+- **Jul 06, 09:55 AM** - Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed  (spacenews)
