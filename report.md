@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| spacenews | 1 | 2 | 13 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2725,3 +2725,4 @@
 - **Jul 05, 09:59 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 05, 11:35 PM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
 - **Jul 06, 12:09 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 06, 12:44 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
