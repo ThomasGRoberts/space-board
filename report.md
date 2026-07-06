@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 15 | 29 |
 | nyt | 0 | 0 | 11 | 24 |
-| breaking_defense | 0 | 0 | 10 | 24 |
+| breaking_defense | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -2758,3 +2758,4 @@
 - **Jul 06, 07:55 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 06, 08:29 PM** - Blue Origin continues work on lunar landers during recovery from New Glenn explosion (spacenews)
 - **Jul 06, 09:05 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
+- **Jul 06, 09:39 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
