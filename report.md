@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 14 | 28 |
+| spacenews | 7 | 8 | 15 | 29 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
@@ -2749,3 +2749,4 @@
 - **Jul 06, 02:15 PM** - BAE microchip designed for strategic defense missions passes radiation test (spacenews)
 - **Jul 06, 02:55 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 06, 03:45 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 06, 04:19 PM** - NASA adds three European firms to the commercial data program (spacenews)

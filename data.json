@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-06T00:05:16.363689+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e06b30b5036f56bd71cd4f7a18693e31",
+    "trigger_count": 0,
+    "current_item_id": "a9619fd53a76e0a6777978fa1246c5dc",
     "data": [
         {
             "id": "ab74f710818ce417d42a2000d540cc41",
@@ -8309,6 +8309,18 @@
             "fetched_datetime": "2026-07-06T13:39:31.170582Z",
             "shown_at": [
                 "2026-07-06T14:15:12.017046Z"
+            ]
+        },
+        {
+            "id": "a9619fd53a76e0a6777978fa1246c5dc",
+            "source": "spacenews",
+            "text": "NASA adds three European firms to the commercial data program",
+            "source_link": "https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T16:19:36.541933Z",
+            "shown_at": [
+                "2026-07-06T16:19:39.492459Z"
             ]
         }
     ]
