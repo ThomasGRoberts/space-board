@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 15 | 28 |
-| nyt | 0 | 0 | 10 | 24 |
+| nyt | 0 | 0 | 11 | 25 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
 # Shown Order
@@ -2750,3 +2750,4 @@
 - **Jul 06, 02:55 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 06, 03:45 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 06, 04:19 PM** - NASA adds three European firms to the commercial data program (spacenews)
+- **Jul 06, 04:54 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
