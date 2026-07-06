@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-06T00:05:16.363689+00:00",
-    "trigger_count": 6,
-    "current_item_id": "17d097a325035199fc180c3370a39722",
+    "trigger_count": 0,
+    "current_item_id": "1c98fe1f80a4a758913e4e8678ca8014",
     "data": [
         {
             "id": "ab74f710818ce417d42a2000d540cc41",
@@ -8302,9 +8302,12 @@
             "source": "spacenews",
             "text": "BAE microchip designed for strategic defense missions passes radiation test",
             "source_link": "https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-06T13:39:31.170582Z"
+            "fetched_datetime": "2026-07-06T13:39:31.170582Z",
+            "shown_at": [
+                "2026-07-06T14:15:12.017046Z"
+            ]
         }
     ]
 }

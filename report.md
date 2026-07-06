@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 14 | 28 |
+| spacenews | 7 | 7 | 15 | 29 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2746,3 +2746,4 @@
 - **Jul 06, 12:19 PM** - Connected Aircraft Fleet Set to Exceed 70,000 by 2035 (spacenews)
 - **Jul 06, 12:55 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 06, 01:39 PM** - The term ‘dual-use’ is misleading and dangerous (spacenews)
+- **Jul 06, 02:15 PM** - BAE microchip designed for strategic defense missions passes radiation test (spacenews)
