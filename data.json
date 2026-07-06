@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-06T00:05:16.363689+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1861fd469bb4d3463ce51b50bdb6e7df",
+    "trigger_count": 0,
+    "current_item_id": "8df224900636b2a21fef3da5a42cbaaf",
     "data": [
         {
             "id": "ab74f710818ce417d42a2000d540cc41",
@@ -8325,6 +8325,18 @@
             "fetched_datetime": "2026-07-06T16:19:36.541933Z",
             "shown_at": [
                 "2026-07-06T16:19:39.492459Z"
+            ]
+        },
+        {
+            "id": "8df224900636b2a21fef3da5a42cbaaf",
+            "source": "spacenews",
+            "text": "Iridium folds Aireon aviation safety service into Rocket Lab-bound business",
+            "source_link": "https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T19:15:16.053925Z",
+            "shown_at": [
+                "2026-07-06T19:15:16.981716Z"
             ]
         }
     ]

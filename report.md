@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 14 | 28 |
+| spacenews | 8 | 9 | 15 | 29 |
 | nyt | 0 | 0 | 11 | 25 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -2754,3 +2754,4 @@
 - **Jul 06, 05:29 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 06, 06:05 PM** - FCC to vote on satellite licensing overhaul July 22 (spacenews)
 - **Jul 06, 06:39 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jul 06, 07:15 PM** - Iridium folds Aireon aviation safety service into Rocket Lab-bound business (spacenews)
