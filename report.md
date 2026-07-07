@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 13 | 28 |
+| spacenews | 7 | 16 | 14 | 29 |
 | nyt | 3 | 3 | 11 | 22 |
 | breaking_defense | 0 | 0 | 9 | 20 |
 
@@ -2756,3 +2756,4 @@
 - **Jul 07, 07:49 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 07, 08:29 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 07, 09:19 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
+- **Jul 07, 09:55 PM** - NASA adds three European firms to the commercial data program (spacenews)
