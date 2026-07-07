@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 14 | 28 |
-| nyt | 2 | 2 | 12 | 23 |
+| nyt | 2 | 2 | 13 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2743,3 +2743,4 @@
 - **Jul 07, 09:44 AM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
 - **Jul 07, 10:26 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 07, 11:05 AM** - SpaceX satellite wins test Pentagon’s commitment to competition (spacenews)
+- **Jul 07, 11:40 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
