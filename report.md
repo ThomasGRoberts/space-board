@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 14 | 28 |
-| nyt | 0 | 0 | 11 | 24 |
+| spacenews | 8 | 10 | 15 | 29 |
+| nyt | 0 | 0 | 11 | 23 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2732,3 +2732,4 @@
 - **Jul 07, 01:49 AM** - Unseen threats overhead: Drones endanger U.S. rocket launch sites (spacenews)
 - **Jul 07, 02:59 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 07, 03:49 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 07, 04:24 AM** - NASA and Small Business Administration partner on funding key space technologies (spacenews)
