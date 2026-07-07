@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 14 | 28 |
-| nyt | 2 | 2 | 12 | 23 |
+| nyt | 2 | 2 | 13 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2746,3 +2746,4 @@
 - **Jul 07, 11:40 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 07, 12:15 PM** - Simera Sense to provide imagers for Canary Islands constellation (spacenews)
 - **Jul 07, 01:01 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 07, 01:35 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
