@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 14 | 28 |
 | nyt | 2 | 2 | 12 | 24 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
 
@@ -2745,3 +2745,4 @@
 - **Jul 07, 11:05 AM** - SpaceX satellite wins test Pentagon’s commitment to competition (spacenews)
 - **Jul 07, 11:40 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 07, 12:15 PM** - Simera Sense to provide imagers for Canary Islands constellation (spacenews)
+- **Jul 07, 01:01 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
