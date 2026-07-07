@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 14 | 28 |
+| spacenews | 8 | 11 | 14 | 27 |
 | nyt | 2 | 2 | 12 | 24 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2741,3 +2741,4 @@
 - **Jul 07, 08:27 AM** - Isar Aerospace signs agreement for Canadian launch site (spacenews)
 - **Jul 07, 09:05 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 07, 09:44 AM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
+- **Jul 07, 10:26 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
