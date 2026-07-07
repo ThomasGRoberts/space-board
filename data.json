@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-07T00:04:26.739927+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e06b30b5036f56bd71cd4f7a18693e31",
+    "trigger_count": 0,
+    "current_item_id": "df2cda5cb0d59795e2334b9945558b47",
     "data": [
         {
             "id": "4124a4fa06cad9146a2c5cf02251ed03",
@@ -8232,6 +8232,18 @@
                 "2026-04-25T19:44:13.174709Z",
                 "2026-04-26T04:29:14.741418Z",
                 "2026-04-29T19:19:20.431632Z"
+            ]
+        },
+        {
+            "id": "df2cda5cb0d59795e2334b9945558b47",
+            "source": "spacenews",
+            "text": "Isar Aerospace signs agreement for Canadian launch site",
+            "source_link": "https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T08:27:07.446487Z",
+            "shown_at": [
+                "2026-07-07T08:27:08.105493Z"
             ]
         }
     ]
