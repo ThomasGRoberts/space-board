@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 14 | 28 |
+| spacenews | 9 | 16 | 15 | 29 |
 | nyt | 2 | 2 | 10 | 21 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
@@ -2752,3 +2752,4 @@
 - **Jul 07, 05:16 PM** - SpaceX launches Transporter-17 amid concerns about rideshare program’s future (spacenews)
 - **Jul 07, 05:54 PM** - Arianespace opens door to GEO rideshare opportunities from 2029 (spacenews)
 - **Jul 07, 06:35 PM** - Apolink makes contact with first relay satellite (spacenews)
+- **Jul 07, 07:14 PM** - Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs (spacenews)

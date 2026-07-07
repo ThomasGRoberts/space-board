@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-07T00:04:26.739927+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9f492c60536665a1c2bb1a58fa6a7994",
+    "trigger_count": 0,
+    "current_item_id": "a3d30911c59ddec920c1f206dc0b1550",
     "data": [
         {
             "id": "4124a4fa06cad9146a2c5cf02251ed03",
@@ -8334,6 +8334,18 @@
             "fetched_datetime": "2026-07-07T18:35:32.410814Z",
             "shown_at": [
                 "2026-07-07T18:35:36.109700Z"
+            ]
+        },
+        {
+            "id": "a3d30911c59ddec920c1f206dc0b1550",
+            "source": "spacenews",
+            "text": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
+            "source_link": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T19:14:57.556428Z",
+            "shown_at": [
+                "2026-07-07T19:14:58.433017Z"
             ]
         }
     ]
