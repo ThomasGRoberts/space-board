@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 16 | 29 |
 | nyt | 0 | 0 | 11 | 24 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2728,3 +2728,4 @@
 - **Jul 06, 11:29 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 07, 12:04 AM** - SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange (spacenews)
 - **Jul 07, 12:39 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
+- **Jul 07, 01:15 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
