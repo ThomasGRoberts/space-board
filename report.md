@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 13 | 28 |
-| nyt | 2 | 2 | 10 | 21 |
+| nyt | 3 | 3 | 11 | 22 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
@@ -2755,3 +2755,4 @@
 - **Jul 07, 07:14 PM** - Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs (spacenews)
 - **Jul 07, 07:49 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 07, 08:29 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 07, 09:19 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
