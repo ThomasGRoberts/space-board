@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 15 | 28 |
-| nyt | 0 | 0 | 10 | 23 |
+| nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -2733,3 +2733,4 @@
 - **Jul 07, 02:59 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 07, 03:49 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 07, 04:24 AM** - NASA and Small Business Administration partner on funding key space technologies (spacenews)
+- **Jul 07, 05:05 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
