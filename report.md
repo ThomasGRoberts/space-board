@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 14 | 29 |
-| nyt | 3 | 3 | 10 | 21 |
+| nyt | 3 | 3 | 11 | 22 |
 | breaking_defense | 0 | 0 | 9 | 21 |
 
 # Shown Order
@@ -2759,3 +2759,4 @@
 - **Jul 07, 09:55 PM** - NASA adds three European firms to the commercial data program (spacenews)
 - **Jul 07, 10:35 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 07, 11:09 PM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)
+- **Jul 07, 11:44 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
