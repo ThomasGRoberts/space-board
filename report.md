@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 13 | 28 |
+| spacenews | 8 | 15 | 14 | 29 |
 | nyt | 2 | 2 | 11 | 21 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
@@ -2751,3 +2751,4 @@
 - **Jul 07, 03:25 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 07, 05:16 PM** - SpaceX launches Transporter-17 amid concerns about rideshare program’s future (spacenews)
 - **Jul 07, 05:54 PM** - Arianespace opens door to GEO rideshare opportunities from 2029 (spacenews)
+- **Jul 07, 06:35 PM** - Apolink makes contact with first relay satellite (spacenews)

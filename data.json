@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-07T00:04:26.739927+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8f5be7baec06f7642e2cc3db8d37aef8",
+    "trigger_count": 0,
+    "current_item_id": "9f492c60536665a1c2bb1a58fa6a7994",
     "data": [
         {
             "id": "4124a4fa06cad9146a2c5cf02251ed03",
@@ -8322,6 +8322,18 @@
             "fetched_datetime": "2026-07-07T17:54:53.159841Z",
             "shown_at": [
                 "2026-07-07T17:54:54.129852Z"
+            ]
+        },
+        {
+            "id": "9f492c60536665a1c2bb1a58fa6a7994",
+            "source": "spacenews",
+            "text": "Apolink makes contact with first relay satellite",
+            "source_link": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T18:35:32.410814Z",
+            "shown_at": [
+                "2026-07-07T18:35:36.109700Z"
             ]
         }
     ]
