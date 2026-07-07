@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 16 | 29 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -2727,3 +2727,4 @@
 - **Jul 06, 10:54 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 06, 11:29 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 07, 12:04 AM** - SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange (spacenews)
+- **Jul 07, 12:39 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
