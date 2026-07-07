@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 13 | 29 |
+| spacenews | 8 | 17 | 14 | 30 |
 | nyt | 3 | 3 | 10 | 21 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
@@ -2758,3 +2758,4 @@
 - **Jul 07, 09:19 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 07, 09:55 PM** - NASA adds three European firms to the commercial data program (spacenews)
 - **Jul 07, 10:35 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 07, 11:09 PM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)

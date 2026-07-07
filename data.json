@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-07T00:04:26.739927+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e06b30b5036f56bd71cd4f7a18693e31",
+    "trigger_count": 0,
+    "current_item_id": "619140e5a51d7b2dca7726caf3910c59",
     "data": [
         {
             "id": "4124a4fa06cad9146a2c5cf02251ed03",
@@ -8362,6 +8362,18 @@
             "fetched_datetime": "2026-07-07T21:19:07.468294Z",
             "shown_at": [
                 "2026-07-07T21:19:09.169232Z"
+            ]
+        },
+        {
+            "id": "619140e5a51d7b2dca7726caf3910c59",
+            "source": "spacenews",
+            "text": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
+            "source_link": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T23:09:19.551834Z",
+            "shown_at": [
+                "2026-07-07T23:09:21.814786Z"
             ]
         }
     ]
