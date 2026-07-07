@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 15 | 28 |
+| spacenews | 9 | 10 | 16 | 29 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2729,3 +2729,4 @@
 - **Jul 07, 12:04 AM** - SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange (spacenews)
 - **Jul 07, 12:39 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 07, 01:15 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 07, 01:49 AM** - Unseen threats overhead: Drones endanger U.S. rocket launch sites (spacenews)
