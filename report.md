@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 14 | 29 |
+| spacenews | 7 | 16 | 13 | 29 |
 | nyt | 2 | 2 | 11 | 21 |
-| breaking_defense | 0 | 0 | 9 | 20 |
+| breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
 
@@ -2754,3 +2754,4 @@
 - **Jul 07, 06:35 PM** - Apolink makes contact with first relay satellite (spacenews)
 - **Jul 07, 07:14 PM** - Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs (spacenews)
 - **Jul 07, 07:49 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 07, 08:29 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
