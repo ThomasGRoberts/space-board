@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-07T00:04:26.739927+00:00",
-    "trigger_count": 6,
-    "current_item_id": "74354fecb97684415da9db55f6c3cc34",
+    "trigger_count": 0,
+    "current_item_id": "d2417beb55e5947f23268315a76ec480",
     "data": [
         {
             "id": "4124a4fa06cad9146a2c5cf02251ed03",
@@ -8269,6 +8269,18 @@
             "fetched_datetime": "2026-07-07T09:44:54.650360Z",
             "shown_at": [
                 "2026-07-07T09:44:55.609446Z"
+            ]
+        },
+        {
+            "id": "d2417beb55e5947f23268315a76ec480",
+            "source": "spacenews",
+            "text": "SpaceX satellite wins test Pentagon’s commitment to competition",
+            "source_link": "https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T11:05:11.280976Z",
+            "shown_at": [
+                "2026-07-07T11:05:12.305584Z"
             ]
         }
     ]
