@@ -1,9 +1,118 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-06T00:05:16.363689+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e06b30b5036f56bd71cd4f7a18693e31",
+    "last_run_datetime": "2026-07-07T00:04:26.739927+00:00",
+    "trigger_count": 0,
+    "current_item_id": "b2512fc0cbfc1e48c00506d4833a56d4",
     "data": [
+        {
+            "id": "4124a4fa06cad9146a2c5cf02251ed03",
+            "source": "spacenews",
+            "text": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion",
+            "source_link": "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T20:29:16.398396Z",
+            "shown_at": [
+                "2026-07-06T20:29:18.569330Z"
+            ]
+        },
+        {
+            "id": "8df224900636b2a21fef3da5a42cbaaf",
+            "source": "spacenews",
+            "text": "Iridium folds Aireon aviation safety service into Rocket Lab-bound business",
+            "source_link": "https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T19:15:16.053925Z",
+            "shown_at": [
+                "2026-07-06T19:15:16.981716Z"
+            ]
+        },
+        {
+            "id": "a9619fd53a76e0a6777978fa1246c5dc",
+            "source": "spacenews",
+            "text": "NASA adds three European firms to the commercial data program",
+            "source_link": "https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T16:19:36.541933Z",
+            "shown_at": [
+                "2026-07-06T16:19:39.492459Z"
+            ]
+        },
+        {
+            "id": "1c98fe1f80a4a758913e4e8678ca8014",
+            "source": "spacenews",
+            "text": "BAE microchip designed for strategic defense missions passes radiation test",
+            "source_link": "https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T13:39:31.170582Z",
+            "shown_at": [
+                "2026-07-06T14:15:12.017046Z"
+            ]
+        },
+        {
+            "id": "17d097a325035199fc180c3370a39722",
+            "source": "spacenews",
+            "text": "The term ‘dual-use’ is misleading and dangerous",
+            "source_link": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T13:39:31.170517Z",
+            "shown_at": [
+                "2026-07-06T13:39:32.088122Z"
+            ]
+        },
+        {
+            "id": "7c41cb9acd6e359fd4e0179717aecaa7",
+            "source": "spacenews",
+            "text": "Connected Aircraft Fleet Set to Exceed 70,000 by 2035",
+            "source_link": "https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T12:19:39.958531Z",
+            "shown_at": [
+                "2026-07-06T12:19:40.884615Z"
+            ]
+        },
+        {
+            "id": "fd88d50160e95bbbea6a77c538e1f466",
+            "source": "spacenews",
+            "text": "Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard",
+            "source_link": "https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T10:29:29.139125Z",
+            "shown_at": [
+                "2026-07-06T10:29:30.874187Z",
+                "2026-07-06T22:19:23.982197Z"
+            ]
+        },
+        {
+            "id": "5080c731af9a1af342bcf067a13769eb",
+            "source": "spacenews",
+            "text": "Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed ",
+            "source_link": "https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T09:55:17.903079Z",
+            "shown_at": [
+                "2026-07-06T09:55:18.581274Z"
+            ]
+        },
+        {
+            "id": "d7d28bd16aea8c54a1542dac538de58f",
+            "source": "spacenews",
+            "text": "NASA and Small Business Administration partner on funding key space technologies",
+            "source_link": "https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-06T01:55:02.889139Z",
+            "shown_at": [
+                "2026-07-06T01:55:03.776446Z"
+            ]
+        },
         {
             "id": "ab74f710818ce417d42a2000d540cc41",
             "source": "spacenews",
@@ -430,7 +539,8 @@
             "type": "news",
             "fetched_datetime": "2026-06-30T13:06:10.311627Z",
             "shown_at": [
-                "2026-06-30T14:07:11.069207Z"
+                "2026-06-30T14:07:11.069207Z",
+                "2026-07-07T00:04:34.134271Z"
             ]
         },
         {
@@ -8111,250 +8221,6 @@
                 "2026-04-25T19:44:13.174709Z",
                 "2026-04-26T04:29:14.741418Z",
                 "2026-04-29T19:19:20.431632Z"
-            ]
-        },
-        {
-            "id": "991d0fc4519713f088bdb4262ad6aab5",
-            "source": "spacenews",
-            "text": "SpaceX wins $57 million U.S. military contract for satellite crosslink demo",
-            "source_link": "https://spacenews.com/spacex-wins-57-million-u-s-military-contract-for-satellite-crosslink-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T22:29:10.039709Z",
-            "shown_at": [
-                "2026-04-23T22:29:11.175497Z",
-                "2026-04-24T03:54:14.513722Z",
-                "2026-04-24T13:19:23.870344Z",
-                "2026-04-26T07:59:02.397301Z",
-                "2026-04-26T19:39:15.658555Z",
-                "2026-04-27T08:44:23.458881Z",
-                "2026-04-29T18:09:10.463788Z",
-                "2026-04-30T17:19:19.748469Z"
-            ]
-        },
-        {
-            "id": "f05cdab72a9f5c7b0737d6854a0e1c28",
-            "source": "spacenews",
-            "text": "Jordan signs the Artemis Accords",
-            "source_link": "https://spacenews.com/jordan-signs-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T15:24:18.109446Z",
-            "shown_at": [
-                "2026-04-23T15:24:19.080369Z",
-                "2026-04-29T16:59:16.938680Z"
-            ]
-        },
-        {
-            "id": "3b87eec958686c8b091be35d39078637",
-            "source": "spacenews",
-            "text": "Pentagon seeks $2.3 billion for Maven AI battlefield system ",
-            "source_link": "https://spacenews.com/pentagon-seeks-2-3-billion-for-maven-ai-battlefield-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T14:04:32.438479Z",
-            "shown_at": [
-                "2026-04-23T14:04:33.232898Z",
-                "2026-04-25T06:19:10.691501Z",
-                "2026-04-30T02:19:08.440771Z"
-            ]
-        },
-        {
-            "id": "aa4ad7a43f167e12e758e6bdecc8e58a",
-            "source": "spacenews",
-            "text": "Pentagon closes $1 billion investment in L3Harris missile unit",
-            "source_link": "https://spacenews.com/pentagon-closes-1-billion-investment-in-l3harris-missile-unit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T12:19:12.057453Z",
-            "shown_at": [
-                "2026-04-23T12:54:09.147102Z",
-                "2026-04-23T18:59:08.893580Z",
-                "2026-04-24T01:29:15.205197Z",
-                "2026-04-24T16:14:16.445901Z",
-                "2026-04-24T23:14:15.041404Z",
-                "2026-04-27T06:24:25.312262Z",
-                "2026-04-29T08:49:24.273841Z"
-            ]
-        },
-        {
-            "id": "c7a4168370dce76ba59c7a73722fa182",
-            "source": "spacenews",
-            "text": "House Science Committee pans NASA budget request",
-            "source_link": "https://spacenews.com/house-science-committee-pans-nasa-budget-request/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T12:19:12.057396Z",
-            "shown_at": [
-                "2026-04-23T12:19:12.893953Z",
-                "2026-04-29T01:49:31.641436Z"
-            ]
-        },
-        {
-            "id": "e3e82537248ea7ad3c8b8904e2fdc723",
-            "source": "spacenews",
-            "text": "Electron launches Japanese cubesats",
-            "source_link": "https://spacenews.com/electron-launches-japanese-cubesats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T09:24:16.603197Z",
-            "shown_at": [
-                "2026-04-23T09:24:17.226528Z",
-                "2026-04-25T09:49:18.558735Z",
-                "2026-04-26T05:39:15.625938Z",
-                "2026-04-26T06:49:18.739004Z",
-                "2026-04-29T23:59:18.433666Z",
-                "2026-04-30T04:39:10.673317Z"
-            ]
-        },
-        {
-            "id": "dd0b6d4726e8cef304f87b7b2e2b76c9",
-            "source": "spacenews",
-            "text": "Univity funds VLEO 5G demonstrators with $32 million Series A",
-            "source_link": "https://spacenews.com/univity-funds-vleo-5g-demonstrators-with-32-million-series-a/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T07:04:46.590795Z",
-            "shown_at": [
-                "2026-04-23T07:04:47.263947Z",
-                "2026-04-25T03:54:07.792725Z"
-            ]
-        },
-        {
-            "id": "6c0183caafc472d299c1abee5b148da7",
-            "source": "spacenews",
-            "text": "Atmos Space Cargo raises $30 million for reentry missions",
-            "source_link": "https://spacenews.com/atmos-space-cargo-raises-30-million-for-reentry-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T02:59:21.018655Z",
-            "shown_at": [
-                "2026-04-23T02:59:22.019839Z",
-                "2026-04-25T17:24:28.061983Z",
-                "2026-04-27T21:04:49.048133Z"
-            ]
-        },
-        {
-            "id": "a5dfc5b3769d1743bacead15cb7c4687",
-            "source": "spacenews",
-            "text": "Trump picks industry executive Roger Mason to lead National Reconnaissance Office",
-            "source_link": "https://spacenews.com/trump-picks-industry-executive-roger-mason-to-lead-national-reconnaissance-office/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T20:59:03.484944Z",
-            "shown_at": [
-                "2026-04-22T20:59:04.334501Z",
-                "2026-04-24T08:34:34.106426Z",
-                "2026-04-28T15:49:26.168128Z"
-            ]
-        },
-        {
-            "id": "d7d28bd16aea8c54a1542dac538de58f",
-            "source": "spacenews",
-            "text": "NASA and Small Business Administration partner on funding key space technologies",
-            "source_link": "https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-06T01:55:02.889139Z",
-            "shown_at": [
-                "2026-07-06T01:55:03.776446Z"
-            ]
-        },
-        {
-            "id": "5080c731af9a1af342bcf067a13769eb",
-            "source": "spacenews",
-            "text": "Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed ",
-            "source_link": "https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-06T09:55:17.903079Z",
-            "shown_at": [
-                "2026-07-06T09:55:18.581274Z"
-            ]
-        },
-        {
-            "id": "fd88d50160e95bbbea6a77c538e1f466",
-            "source": "spacenews",
-            "text": "Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard",
-            "source_link": "https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-06T10:29:29.139125Z",
-            "shown_at": [
-                "2026-07-06T10:29:30.874187Z",
-                "2026-07-06T22:19:23.982197Z"
-            ]
-        },
-        {
-            "id": "7c41cb9acd6e359fd4e0179717aecaa7",
-            "source": "spacenews",
-            "text": "Connected Aircraft Fleet Set to Exceed 70,000 by 2035",
-            "source_link": "https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-06T12:19:39.958531Z",
-            "shown_at": [
-                "2026-07-06T12:19:40.884615Z"
-            ]
-        },
-        {
-            "id": "17d097a325035199fc180c3370a39722",
-            "source": "spacenews",
-            "text": "The term ‘dual-use’ is misleading and dangerous",
-            "source_link": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-06T13:39:31.170517Z",
-            "shown_at": [
-                "2026-07-06T13:39:32.088122Z"
-            ]
-        },
-        {
-            "id": "1c98fe1f80a4a758913e4e8678ca8014",
-            "source": "spacenews",
-            "text": "BAE microchip designed for strategic defense missions passes radiation test",
-            "source_link": "https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-06T13:39:31.170582Z",
-            "shown_at": [
-                "2026-07-06T14:15:12.017046Z"
-            ]
-        },
-        {
-            "id": "a9619fd53a76e0a6777978fa1246c5dc",
-            "source": "spacenews",
-            "text": "NASA adds three European firms to the commercial data program",
-            "source_link": "https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-06T16:19:36.541933Z",
-            "shown_at": [
-                "2026-07-06T16:19:39.492459Z"
-            ]
-        },
-        {
-            "id": "8df224900636b2a21fef3da5a42cbaaf",
-            "source": "spacenews",
-            "text": "Iridium folds Aireon aviation safety service into Rocket Lab-bound business",
-            "source_link": "https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-06T19:15:16.053925Z",
-            "shown_at": [
-                "2026-07-06T19:15:16.981716Z"
-            ]
-        },
-        {
-            "id": "4124a4fa06cad9146a2c5cf02251ed03",
-            "source": "spacenews",
-            "text": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion",
-            "source_link": "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-06T20:29:16.398396Z",
-            "shown_at": [
-                "2026-07-06T20:29:18.569330Z"
             ]
         }
     ]
