@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-07T00:04:26.739927+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87c781bde7b5638820e36018e84a23c0",
+    "trigger_count": 0,
+    "current_item_id": "1ca9fb3df840886e7d4b70f06fd7f593",
     "data": [
         {
             "id": "4124a4fa06cad9146a2c5cf02251ed03",
@@ -8282,6 +8282,18 @@
             "fetched_datetime": "2026-07-07T11:05:11.280976Z",
             "shown_at": [
                 "2026-07-07T11:05:12.305584Z"
+            ]
+        },
+        {
+            "id": "1ca9fb3df840886e7d4b70f06fd7f593",
+            "source": "spacenews",
+            "text": "Simera Sense to provide imagers for Canary Islands constellation",
+            "source_link": "https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T12:15:04.179040Z",
+            "shown_at": [
+                "2026-07-07T12:15:05.121030Z"
             ]
         }
     ]

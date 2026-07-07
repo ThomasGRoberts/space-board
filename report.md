@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 14 | 27 |
+| spacenews | 9 | 13 | 15 | 28 |
 | nyt | 2 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
@@ -2744,3 +2744,4 @@
 - **Jul 07, 10:26 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 07, 11:05 AM** - SpaceX satellite wins test Pentagon’s commitment to competition (spacenews)
 - **Jul 07, 11:40 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
+- **Jul 07, 12:15 PM** - Simera Sense to provide imagers for Canary Islands constellation (spacenews)
