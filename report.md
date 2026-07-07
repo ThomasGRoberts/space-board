@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 12 | 27 |
+| spacenews | 6 | 13 | 13 | 28 |
 | nyt | 2 | 2 | 11 | 22 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
@@ -2749,3 +2749,4 @@
 - **Jul 07, 01:35 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 07, 02:20 PM** - Connected Aircraft Fleet Set to Exceed 70,000 by 2035 (spacenews)
 - **Jul 07, 03:25 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 07, 05:16 PM** - SpaceX launches Transporter-17 amid concerns about rideshare program’s future (spacenews)

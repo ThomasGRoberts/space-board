@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-07T00:04:26.739927+00:00",
-    "trigger_count": 6,
-    "current_item_id": "74354fecb97684415da9db55f6c3cc34",
+    "trigger_count": 0,
+    "current_item_id": "24f40a94f8ab6bc4e6485c79045e355a",
     "data": [
         {
             "id": "4124a4fa06cad9146a2c5cf02251ed03",
@@ -8298,6 +8298,18 @@
             "fetched_datetime": "2026-07-07T12:15:04.179040Z",
             "shown_at": [
                 "2026-07-07T12:15:05.121030Z"
+            ]
+        },
+        {
+            "id": "24f40a94f8ab6bc4e6485c79045e355a",
+            "source": "spacenews",
+            "text": "SpaceX launches Transporter-17 amid concerns about rideshare program’s future",
+            "source_link": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T17:16:09.641928Z",
+            "shown_at": [
+                "2026-07-07T17:16:10.584364Z"
             ]
         }
     ]
