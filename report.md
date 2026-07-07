@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 14 | 28 |
+| spacenews | 8 | 10 | 15 | 29 |
 | nyt | 0 | 0 | 11 | 23 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -2735,3 +2735,4 @@
 - **Jul 07, 04:24 AM** - NASA and Small Business Administration partner on funding key space technologies (spacenews)
 - **Jul 07, 05:05 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 07, 05:44 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 07, 06:24 AM** - Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard (spacenews)
