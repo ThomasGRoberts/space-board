@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 28 |
 | nyt | 2 | 2 | 12 | 23 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2748,3 +2748,4 @@
 - **Jul 07, 01:01 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 07, 01:35 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 07, 02:20 PM** - Connected Aircraft Fleet Set to Exceed 70,000 by 2035 (spacenews)
+- **Jul 07, 03:25 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
