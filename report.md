@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 15 | 28 |
-| nyt | 1 | 1 | 11 | 24 |
+| nyt | 2 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2740,3 +2740,4 @@
 - **Jul 07, 07:44 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 07, 08:27 AM** - Isar Aerospace signs agreement for Canadian launch site (spacenews)
 - **Jul 07, 09:05 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
+- **Jul 07, 09:44 AM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-07T00:04:26.739927+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d2fe506e5471870beec243af31f94622",
+    "trigger_count": 0,
+    "current_item_id": "ac8b0ddd1af045bfdced126a6b616ed2",
     "data": [
         {
             "id": "4124a4fa06cad9146a2c5cf02251ed03",
@@ -8256,6 +8256,18 @@
             "fetched_datetime": "2026-07-07T09:05:26.301672Z",
             "shown_at": [
                 "2026-07-07T09:05:27.345686Z"
+            ]
+        },
+        {
+            "id": "ac8b0ddd1af045bfdced126a6b616ed2",
+            "source": "nyt",
+            "text": "Mysterious Spheres Found in Australia Are Likely Space Debris",
+            "source_link": "https://www.nytimes.com/2026/07/07/world/australia/queensland-australia-space-balls-debris.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T09:44:54.650360Z",
+            "shown_at": [
+                "2026-07-07T09:44:55.609446Z"
             ]
         }
     ]
