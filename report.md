@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 13 | 29 |
 | nyt | 3 | 3 | 11 | 21 |
-| breaking_defense | 0 | 0 | 9 | 20 |
+| breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
 
@@ -2757,3 +2757,4 @@
 - **Jul 07, 08:29 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 07, 09:19 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 07, 09:55 PM** - NASA adds three European firms to the commercial data program (spacenews)
+- **Jul 07, 10:35 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
