@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 17 | 30 |
+| spacenews | 12 | 18 | 18 | 30 |
 | nyt | 1 | 3 | 9 | 22 |
 | breaking_defense | 0 | 0 | 9 | 20 |
 
@@ -2685,3 +2685,4 @@
 - **Jul 08, 12:05 PM** - Venus Aerospace raises $91 million to scale rocket engine technology (spacenews)
 - **Jul 08, 12:49 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
 - **Jul 08, 01:29 PM** - Fi expands Starlink direct-to-device capability into dog-tracking (spacenews)
+- **Jul 08, 02:15 PM** - The satellite industry’s most expensive problem isn’t in orbit (spacenews)
