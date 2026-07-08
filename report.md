@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 15 | 29 |
+| spacenews | 9 | 17 | 16 | 30 |
 | nyt | 1 | 3 | 10 | 21 |
 | breaking_defense | 3 | 3 | 12 | 21 |
 
@@ -2694,3 +2694,4 @@
 - **Jul 08, 06:19 PM** - Is this the year for a NASA authorization bill? (spacenews)
 - **Jul 08, 06:59 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 08, 07:35 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
+- **Jul 08, 08:14 PM** - Isar Aerospace signs agreement for Canadian launch site (spacenews)
