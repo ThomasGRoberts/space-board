@@ -1,9 +1,141 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-07T00:04:26.739927+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-07-08T00:05:12.272911+00:00",
+    "trigger_count": 4,
     "current_item_id": "8174463bd1e5ba7b5d568fcfab067f85",
     "data": [
+        {
+            "id": "619140e5a51d7b2dca7726caf3910c59",
+            "source": "spacenews",
+            "text": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
+            "source_link": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T23:09:19.551834Z",
+            "shown_at": [
+                "2026-07-07T23:09:21.814786Z"
+            ]
+        },
+        {
+            "id": "155a3bab5e7d3d21990b3f6bb71f7fb2",
+            "source": "nyt",
+            "text": "Cosmic Conjoined Twins, Caught on Camera",
+            "source_link": "https://www.nytimes.com/2026/07/07/science/torifune-asteroid-contact-binary.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T21:19:07.468294Z",
+            "shown_at": [
+                "2026-07-07T21:19:09.169232Z"
+            ]
+        },
+        {
+            "id": "a3d30911c59ddec920c1f206dc0b1550",
+            "source": "spacenews",
+            "text": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
+            "source_link": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T19:14:57.556428Z",
+            "shown_at": [
+                "2026-07-07T19:14:58.433017Z"
+            ]
+        },
+        {
+            "id": "9f492c60536665a1c2bb1a58fa6a7994",
+            "source": "spacenews",
+            "text": "Apolink makes contact with first relay satellite",
+            "source_link": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T18:35:32.410814Z",
+            "shown_at": [
+                "2026-07-07T18:35:36.109700Z"
+            ]
+        },
+        {
+            "id": "8f5be7baec06f7642e2cc3db8d37aef8",
+            "source": "spacenews",
+            "text": "Arianespace opens door to GEO rideshare opportunities from 2029",
+            "source_link": "https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T17:54:53.159841Z",
+            "shown_at": [
+                "2026-07-07T17:54:54.129852Z"
+            ]
+        },
+        {
+            "id": "24f40a94f8ab6bc4e6485c79045e355a",
+            "source": "spacenews",
+            "text": "SpaceX launches Transporter-17 amid concerns about rideshare program’s future",
+            "source_link": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T17:16:09.641928Z",
+            "shown_at": [
+                "2026-07-07T17:16:10.584364Z"
+            ]
+        },
+        {
+            "id": "1ca9fb3df840886e7d4b70f06fd7f593",
+            "source": "spacenews",
+            "text": "Simera Sense to provide imagers for Canary Islands constellation",
+            "source_link": "https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T12:15:04.179040Z",
+            "shown_at": [
+                "2026-07-07T12:15:05.121030Z"
+            ]
+        },
+        {
+            "id": "d2417beb55e5947f23268315a76ec480",
+            "source": "spacenews",
+            "text": "SpaceX satellite wins test Pentagon’s commitment to competition",
+            "source_link": "https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T11:05:11.280976Z",
+            "shown_at": [
+                "2026-07-07T11:05:12.305584Z"
+            ]
+        },
+        {
+            "id": "ac8b0ddd1af045bfdced126a6b616ed2",
+            "source": "nyt",
+            "text": "Mysterious Spheres Found in Australia Are Likely Space Debris",
+            "source_link": "https://www.nytimes.com/2026/07/07/world/australia/queensland-australia-space-balls-debris.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T09:44:54.650360Z",
+            "shown_at": [
+                "2026-07-07T09:44:55.609446Z"
+            ]
+        },
+        {
+            "id": "d2fe506e5471870beec243af31f94622",
+            "source": "nyt",
+            "text": "Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris",
+            "source_link": "https://www.nytimes.com/2026/07/07/world/australia/queensland-australia-space-balls-debris.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T09:05:26.301672Z",
+            "shown_at": [
+                "2026-07-07T09:05:27.345686Z"
+            ]
+        },
+        {
+            "id": "df2cda5cb0d59795e2334b9945558b47",
+            "source": "spacenews",
+            "text": "Isar Aerospace signs agreement for Canadian launch site",
+            "source_link": "https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-07T08:27:07.446487Z",
+            "shown_at": [
+                "2026-07-07T08:27:08.105493Z"
+            ]
+        },
         {
             "id": "4124a4fa06cad9146a2c5cf02251ed03",
             "source": "spacenews",
@@ -8025,356 +8157,6 @@
                 "2026-04-28T13:29:08.698112Z",
                 "2026-04-29T09:59:21.629206Z",
                 "2026-05-02T11:04:43.636905Z"
-            ]
-        },
-        {
-            "id": "0af14863da77afeb19e32ec92f87f179",
-            "source": "spacenews",
-            "text": "Seraphim’s public trust seeks to raise up to $474 million",
-            "source_link": "https://spacenews.com/seraphims-public-trust-seeks-to-raise-up-to-474-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-27T19:19:08.705213Z",
-            "shown_at": [
-                "2026-04-27T19:19:09.540895Z",
-                "2026-04-28T12:19:34.594668Z",
-                "2026-05-03T03:09:27.015763Z",
-                "2026-05-03T13:44:23.980163Z",
-                "2026-05-03T19:44:30.679903Z"
-            ]
-        },
-        {
-            "id": "6854824b83eeb39af1e7c39fe4721276",
-            "source": "spacenews",
-            "text": "Artemis 2 came home in triumph. Artemis 3 must survive the real test.",
-            "source_link": "https://spacenews.com/artemis-2-came-home-in-triumph-artemis-3-must-survive-the-real-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-27T13:24:17.745769Z",
-            "shown_at": [
-                "2026-04-27T13:24:18.736293Z",
-                "2026-04-29T20:29:04.287727Z",
-                "2026-04-30T10:49:32.354985Z"
-            ]
-        },
-        {
-            "id": "8e55b937a87d0b4823b1366af7485355",
-            "source": "spacenews",
-            "text": "FAA to begin collecting user fees for commercial launches and reentries",
-            "source_link": "https://spacenews.com/faa-to-begin-collecting-user-fees-for-commercial-launches-and-reentries/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-27T12:14:33.270409Z",
-            "shown_at": [
-                "2026-04-27T12:14:34.704672Z",
-                "2026-04-29T02:59:03.646602Z",
-                "2026-04-29T07:39:17.311023Z",
-                "2026-04-30T07:04:52.106524Z"
-            ]
-        },
-        {
-            "id": "747918cced39d777a6c1f89d854e4500",
-            "source": "spacenews",
-            "text": "China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites",
-            "source_link": "https://spacenews.com/china-launches-prsc-eo3-for-pakistan-lofts-internet-test-and-environment-monitoring-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-26T10:19:19.219647Z",
-            "shown_at": [
-                "2026-04-26T10:19:20.689828Z",
-                "2026-04-28T18:09:08.067861Z",
-                "2026-04-29T13:29:40.232766Z",
-                "2026-04-30T08:14:19.478205Z",
-                "2026-05-01T00:54:29.597144Z",
-                "2026-05-02T13:24:12.504772Z",
-                "2026-05-02T16:54:31.985363Z"
-            ]
-        },
-        {
-            "id": "3124fba14634c14ca0480f0d9516818f",
-            "source": "spacenews",
-            "text": "NASA reserves science payload space for Mars telecommunications mission",
-            "source_link": "https://spacenews.com/nasa-reserves-science-payload-space-for-mars-telecommunications-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-25T23:49:14.386652Z",
-            "shown_at": [
-                "2026-04-25T23:49:15.250487Z",
-                "2026-04-30T03:29:01.464865Z"
-            ]
-        },
-        {
-            "id": "cd393acf729f0d609c5fa8b99587958c",
-            "source": "spacenews",
-            "text": "Space Force faces surge in demand for heavy-lift launches",
-            "source_link": "https://spacenews.com/space-force-faces-surge-in-demand-for-heavy-lift-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-25T16:14:02.803968Z",
-            "shown_at": [
-                "2026-04-25T16:14:03.665737Z",
-                "2026-04-26T20:49:20.080849Z",
-                "2026-04-30T05:49:18.846175Z"
-            ]
-        },
-        {
-            "id": "fda44d4005440fa2780b2ecfa562e3dc",
-            "source": "spacenews",
-            "text": "Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes",
-            "source_link": "https://spacenews.com/space-force-awards-up-to-3-2-billion-for-golden-dome-interceptor-prototypes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-24T20:54:21.994714Z",
-            "shown_at": [
-                "2026-04-24T20:54:22.969615Z",
-                "2026-04-25T10:59:08.765227Z",
-                "2026-04-25T14:29:03.325060Z",
-                "2026-04-25T15:39:17.587873Z"
-            ]
-        },
-        {
-            "id": "4f5cb2ab4e10ab91557f1e589a17792c",
-            "source": "spacenews",
-            "text": "Astrobotic tests advanced rocket engine",
-            "source_link": "https://spacenews.com/astrobotic-tests-advanced-rocket-engine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-24T14:29:10.175668Z",
-            "shown_at": [
-                "2026-04-24T15:04:44.481501Z",
-                "2026-04-25T22:04:24.158159Z",
-                "2026-04-27T02:49:16.685579Z",
-                "2026-04-28T01:49:07.048825Z",
-                "2026-04-29T04:09:23.141986Z"
-            ]
-        },
-        {
-            "id": "1d774497d68b7e30b910d20f7fc52992",
-            "source": "spacenews",
-            "text": "The governance gap: Why orbital data centers need certification before they scale",
-            "source_link": "https://spacenews.com/the-governance-gap-why-orbital-data-centers-need-certification-before-they-scale/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-24T14:29:10.175595Z",
-            "shown_at": [
-                "2026-04-24T14:29:10.985076Z",
-                "2026-04-25T13:19:01.173184Z",
-                "2026-04-26T21:59:21.213138Z",
-                "2026-04-28T00:34:21.092256Z",
-                "2026-04-28T02:59:15.355973Z",
-                "2026-04-28T05:19:22.959088Z",
-                "2026-04-28T23:29:05.078471Z",
-                "2026-04-29T06:29:21.211090Z"
-            ]
-        },
-        {
-            "id": "752c6320d5793589e16193e6dadb256f",
-            "source": "nyt",
-            "text": "Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough.",
-            "source_link": "https://www.nytimes.com/2026/04/24/science/space/mars-nasa-fungus-contamination.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-24T09:09:21.439489Z",
-            "shown_at": [
-                "2026-04-24T09:09:22.418471Z",
-                "2026-04-24T17:59:12.434252Z",
-                "2026-04-25T04:34:28.095448Z",
-                "2026-04-25T06:54:08.990047Z",
-                "2026-04-25T22:39:09.657546Z",
-                "2026-04-26T09:44:12.774765Z",
-                "2026-04-26T10:54:12.282258Z",
-                "2026-04-26T13:14:17.844875Z",
-                "2026-04-27T01:04:34.649778Z",
-                "2026-04-27T02:14:04.081240Z",
-                "2026-04-27T13:59:22.854380Z",
-                "2026-04-27T18:44:19.380806Z",
-                "2026-04-27T23:59:11.001876Z",
-                "2026-04-28T02:24:26.328149Z",
-                "2026-04-28T05:54:18.330306Z",
-                "2026-04-28T07:04:48.967955Z",
-                "2026-04-28T09:59:01.987357Z",
-                "2026-04-28T15:14:20.787975Z",
-                "2026-04-28T16:24:13.643420Z",
-                "2026-04-28T18:44:07.927355Z",
-                "2026-04-29T01:14:20.363326Z",
-                "2026-04-29T07:04:38.890710Z",
-                "2026-04-29T08:14:06.756427Z",
-                "2026-04-29T09:24:15.326819Z",
-                "2026-04-29T10:34:47.681378Z",
-                "2026-04-29T11:44:27.486644Z",
-                "2026-04-29T12:54:28.714130Z",
-                "2026-04-29T14:04:40.384671Z",
-                "2026-04-29T16:24:38.333183Z",
-                "2026-04-29T17:34:31.451370Z",
-                "2026-04-29T18:44:26.924271Z",
-                "2026-04-29T19:54:38.083171Z",
-                "2026-04-29T21:04:55.884998Z",
-                "2026-04-29T23:24:09.154970Z",
-                "2026-04-30T00:34:36.440644Z",
-                "2026-04-30T01:44:10.541177Z",
-                "2026-04-30T02:54:12.285016Z",
-                "2026-04-30T04:04:49.070305Z",
-                "2026-04-30T05:14:26.576822Z",
-                "2026-04-30T06:24:32.058542Z",
-                "2026-04-30T07:39:01.713733Z",
-                "2026-04-30T08:49:18.491546Z",
-                "2026-04-30T10:09:38.391782Z",
-                "2026-04-30T11:24:24.394227Z",
-                "2026-04-30T14:59:26.174903Z",
-                "2026-04-30T16:44:01.143538Z",
-                "2026-04-30T17:54:27.346694Z",
-                "2026-04-30T19:39:14.635743Z",
-                "2026-04-30T20:49:17.314930Z",
-                "2026-04-30T21:59:35.200011Z",
-                "2026-05-01T00:19:28.173514Z"
-            ]
-        },
-        {
-            "id": "a3f361be8c712c2a5bf92403862bf636",
-            "source": "spacenews",
-            "text": "FCC throws out satellite spectrum challenges as D2D dealmaking heats up",
-            "source_link": "https://spacenews.com/fcc-throws-out-satellite-spectrum-challenges-as-d2d-dealmaking-heats-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T23:09:17.631832Z",
-            "shown_at": [
-                "2026-04-23T23:09:18.547535Z",
-                "2026-04-25T02:44:34.111963Z",
-                "2026-04-25T19:44:13.174709Z",
-                "2026-04-26T04:29:14.741418Z",
-                "2026-04-29T19:19:20.431632Z"
-            ]
-        },
-        {
-            "id": "df2cda5cb0d59795e2334b9945558b47",
-            "source": "spacenews",
-            "text": "Isar Aerospace signs agreement for Canadian launch site",
-            "source_link": "https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T08:27:07.446487Z",
-            "shown_at": [
-                "2026-07-07T08:27:08.105493Z"
-            ]
-        },
-        {
-            "id": "d2fe506e5471870beec243af31f94622",
-            "source": "nyt",
-            "text": "Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris",
-            "source_link": "https://www.nytimes.com/2026/07/07/world/australia/queensland-australia-space-balls-debris.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T09:05:26.301672Z",
-            "shown_at": [
-                "2026-07-07T09:05:27.345686Z"
-            ]
-        },
-        {
-            "id": "ac8b0ddd1af045bfdced126a6b616ed2",
-            "source": "nyt",
-            "text": "Mysterious Spheres Found in Australia Are Likely Space Debris",
-            "source_link": "https://www.nytimes.com/2026/07/07/world/australia/queensland-australia-space-balls-debris.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T09:44:54.650360Z",
-            "shown_at": [
-                "2026-07-07T09:44:55.609446Z"
-            ]
-        },
-        {
-            "id": "d2417beb55e5947f23268315a76ec480",
-            "source": "spacenews",
-            "text": "SpaceX satellite wins test Pentagon’s commitment to competition",
-            "source_link": "https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T11:05:11.280976Z",
-            "shown_at": [
-                "2026-07-07T11:05:12.305584Z"
-            ]
-        },
-        {
-            "id": "1ca9fb3df840886e7d4b70f06fd7f593",
-            "source": "spacenews",
-            "text": "Simera Sense to provide imagers for Canary Islands constellation",
-            "source_link": "https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T12:15:04.179040Z",
-            "shown_at": [
-                "2026-07-07T12:15:05.121030Z"
-            ]
-        },
-        {
-            "id": "24f40a94f8ab6bc4e6485c79045e355a",
-            "source": "spacenews",
-            "text": "SpaceX launches Transporter-17 amid concerns about rideshare program’s future",
-            "source_link": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T17:16:09.641928Z",
-            "shown_at": [
-                "2026-07-07T17:16:10.584364Z"
-            ]
-        },
-        {
-            "id": "8f5be7baec06f7642e2cc3db8d37aef8",
-            "source": "spacenews",
-            "text": "Arianespace opens door to GEO rideshare opportunities from 2029",
-            "source_link": "https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T17:54:53.159841Z",
-            "shown_at": [
-                "2026-07-07T17:54:54.129852Z"
-            ]
-        },
-        {
-            "id": "9f492c60536665a1c2bb1a58fa6a7994",
-            "source": "spacenews",
-            "text": "Apolink makes contact with first relay satellite",
-            "source_link": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T18:35:32.410814Z",
-            "shown_at": [
-                "2026-07-07T18:35:36.109700Z"
-            ]
-        },
-        {
-            "id": "a3d30911c59ddec920c1f206dc0b1550",
-            "source": "spacenews",
-            "text": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
-            "source_link": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T19:14:57.556428Z",
-            "shown_at": [
-                "2026-07-07T19:14:58.433017Z"
-            ]
-        },
-        {
-            "id": "155a3bab5e7d3d21990b3f6bb71f7fb2",
-            "source": "nyt",
-            "text": "Cosmic Conjoined Twins, Caught on Camera",
-            "source_link": "https://www.nytimes.com/2026/07/07/science/torifune-asteroid-contact-binary.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T21:19:07.468294Z",
-            "shown_at": [
-                "2026-07-07T21:19:09.169232Z"
-            ]
-        },
-        {
-            "id": "619140e5a51d7b2dca7726caf3910c59",
-            "source": "spacenews",
-            "text": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
-            "source_link": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-07T23:09:19.551834Z",
-            "shown_at": [
-                "2026-07-07T23:09:21.814786Z"
             ]
         }
     ]
