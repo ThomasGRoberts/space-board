@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-08T00:05:12.272911+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a14f831ab3aa223c038bc305455b1237",
+    "trigger_count": 0,
+    "current_item_id": "eaac748b6d884184ea35ed827572faf1",
     "data": [
         {
             "id": "619140e5a51d7b2dca7726caf3910c59",
@@ -8220,6 +8220,18 @@
             "fetched_datetime": "2026-07-08T11:29:13.605145Z",
             "shown_at": [
                 "2026-07-08T11:29:15.284873Z"
+            ]
+        },
+        {
+            "id": "eaac748b6d884184ea35ed827572faf1",
+            "source": "spacenews",
+            "text": "Venus Aerospace raises $91 million to scale rocket engine technology",
+            "source_link": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T12:05:19.381051Z",
+            "shown_at": [
+                "2026-07-08T12:05:21.932946Z"
             ]
         }
     ]
