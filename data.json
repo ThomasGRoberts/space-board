@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-08T00:05:12.272911+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1ca9fb3df840886e7d4b70f06fd7f593",
+    "trigger_count": 0,
+    "current_item_id": "ad4bd42e71dab84f1146b33c72da53de",
     "data": [
         {
             "id": "619140e5a51d7b2dca7726caf3910c59",
@@ -8260,6 +8260,18 @@
             "fetched_datetime": "2026-07-08T13:29:38.431554Z",
             "shown_at": [
                 "2026-07-08T14:15:13.869179Z"
+            ]
+        },
+        {
+            "id": "ad4bd42e71dab84f1146b33c72da53de",
+            "source": "breaking_defense",
+            "text": "Help GPS resiliency against Russia with this one simple change",
+            "source_link": "https://breakingdefense.com/2026/07/help-gps-resiliency-against-russia-with-this-one-simple-change/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T16:49:23.313128Z",
+            "shown_at": [
+                "2026-07-08T16:49:23.983192Z"
             ]
         }
     ]

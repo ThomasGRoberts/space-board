@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 17 | 18 | 30 |
 | nyt | 1 | 3 | 10 | 22 |
-| breaking_defense | 0 | 0 | 9 | 20 |
+| breaking_defense | 1 | 1 | 10 | 21 |
 
 # Shown Order
 
@@ -2689,3 +2689,4 @@
 - **Jul 08, 02:50 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 08, 03:25 PM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 08, 04:06 PM** - Simera Sense to provide imagers for Canary Islands constellation (spacenews)
+- **Jul 08, 04:49 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
