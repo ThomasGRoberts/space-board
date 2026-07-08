@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 16 | 30 |
-| nyt | 1 | 3 | 9 | 21 |
+| nyt | 1 | 3 | 10 | 22 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
@@ -2683,3 +2683,4 @@
 - **Jul 08, 10:49 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 08, 11:29 AM** - The government’s options to address strained spaceports (spacenews)
 - **Jul 08, 12:05 PM** - Venus Aerospace raises $91 million to scale rocket engine technology (spacenews)
+- **Jul 08, 12:49 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
