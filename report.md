@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 17 | 30 |
 | nyt | 1 | 3 | 10 | 21 |
-| breaking_defense | 1 | 1 | 10 | 20 |
+| breaking_defense | 2 | 2 | 11 | 21 |
 
 # Shown Order
 
@@ -2690,3 +2690,4 @@
 - **Jul 08, 03:25 PM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 08, 04:06 PM** - Simera Sense to provide imagers for Canary Islands constellation (spacenews)
 - **Jul 08, 04:49 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 08, 05:36 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
