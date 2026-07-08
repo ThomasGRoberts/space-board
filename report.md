@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 15 | 30 |
-| nyt | 2 | 3 | 10 | 21 |
+| nyt | 2 | 3 | 11 | 22 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
@@ -2678,3 +2678,4 @@
 - **Jul 08, 07:29 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 08, 08:05 AM** - Space Force adds Relativity, Impulse Space to national security launch program (spacenews)
 - **Jul 08, 08:44 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 08, 09:24 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
