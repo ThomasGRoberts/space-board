@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 16 | 29 |
-| nyt | 0 | 3 | 10 | 21 |
+| nyt | 0 | 3 | 11 | 22 |
 | breaking_defense | 3 | 3 | 11 | 21 |
 
 # Shown Order
@@ -2698,3 +2698,4 @@
 - **Jul 08, 08:49 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
 - **Jul 08, 09:29 PM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
 - **Jul 08, 10:05 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
+- **Jul 08, 10:39 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
