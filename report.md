@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 15 | 29 |
 | nyt | 1 | 3 | 11 | 21 |
-| breaking_defense | 2 | 2 | 11 | 21 |
+| breaking_defense | 3 | 3 | 12 | 22 |
 
 # Shown Order
 
@@ -2693,3 +2693,4 @@
 - **Jul 08, 05:36 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 08, 06:19 PM** - Is this the year for a NASA authorization bill? (spacenews)
 - **Jul 08, 06:59 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
+- **Jul 08, 07:35 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)

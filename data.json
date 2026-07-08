@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-08T00:05:12.272911+00:00",
-    "trigger_count": 6,
-    "current_item_id": "155a3bab5e7d3d21990b3f6bb71f7fb2",
+    "trigger_count": 0,
+    "current_item_id": "4f5b6194d1ed96128c534af5c8addc7e",
     "data": [
         {
             "id": "619140e5a51d7b2dca7726caf3910c59",
@@ -8297,6 +8297,18 @@
             "fetched_datetime": "2026-07-08T18:19:43.088346Z",
             "shown_at": [
                 "2026-07-08T18:19:45.269908Z"
+            ]
+        },
+        {
+            "id": "4f5b6194d1ed96128c534af5c8addc7e",
+            "source": "breaking_defense",
+            "text": "Space Force adds two startups to small, medium launch pool",
+            "source_link": "https://breakingdefense.com/2026/07/space-force-adds-two-startups-to-small-medium-launch-pool/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T19:35:00.394600Z",
+            "shown_at": [
+                "2026-07-08T19:35:01.726698Z"
             ]
         }
     ]
