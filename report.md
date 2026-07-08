@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 16 | 30 |
-| nyt | 1 | 3 | 10 | 20 |
+| nyt | 1 | 3 | 11 | 21 |
 | breaking_defense | 2 | 2 | 11 | 21 |
 
 # Shown Order
@@ -2692,3 +2692,4 @@
 - **Jul 08, 04:49 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 08, 05:36 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 08, 06:19 PM** - Is this the year for a NASA authorization bill? (spacenews)
+- **Jul 08, 06:59 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
