@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-08T00:05:12.272911+00:00",
-    "trigger_count": 6,
-    "current_item_id": "17d097a325035199fc180c3370a39722",
+    "trigger_count": 0,
+    "current_item_id": "58b4da5efebabce069257350a7ed8c08",
     "data": [
         {
             "id": "619140e5a51d7b2dca7726caf3910c59",
@@ -8159,6 +8159,18 @@
                 "2026-04-28T13:29:08.698112Z",
                 "2026-04-29T09:59:21.629206Z",
                 "2026-05-02T11:04:43.636905Z"
+            ]
+        },
+        {
+            "id": "58b4da5efebabce069257350a7ed8c08",
+            "source": "spacenews",
+            "text": "D-Orbit signs launch-services contract with ArkEdge Space",
+            "source_link": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T01:35:08.639607Z",
+            "shown_at": [
+                "2026-07-08T01:35:09.568586Z"
             ]
         }
     ]
