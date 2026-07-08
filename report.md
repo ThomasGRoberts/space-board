@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 13 | 29 |
 | nyt | 3 | 3 | 11 | 22 |
-| breaking_defense | 0 | 0 | 9 | 20 |
+| breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
 
@@ -2663,3 +2663,4 @@
 - **Jul 07, 10:35 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 07, 11:09 PM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)
 - **Jul 07, 11:44 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
+- **Jul 08, 12:19 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
