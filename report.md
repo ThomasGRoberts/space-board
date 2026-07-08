@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 16 | 29 |
+| spacenews | 10 | 17 | 17 | 30 |
 | nyt | 0 | 3 | 10 | 21 |
 | breaking_defense | 3 | 3 | 11 | 21 |
 
@@ -2696,3 +2696,4 @@
 - **Jul 08, 07:35 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 08, 08:14 PM** - Isar Aerospace signs agreement for Canadian launch site (spacenews)
 - **Jul 08, 08:49 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
+- **Jul 08, 09:29 PM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
