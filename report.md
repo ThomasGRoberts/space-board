@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 15 | 29 |
+| spacenews | 10 | 18 | 15 | 30 |
 | nyt | 3 | 3 | 11 | 22 |
-| breaking_defense | 0 | 0 | 9 | 21 |
+| breaking_defense | 0 | 0 | 9 | 20 |
 
 # Shown Order
 
@@ -2670,3 +2670,4 @@
 - **Jul 08, 02:45 AM** - Skyroot prepares for first orbital launch attempt (spacenews)
 - **Jul 08, 03:19 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 08, 03:55 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 08, 04:29 AM** - NASA adds three European firms to the commercial data program (spacenews)
