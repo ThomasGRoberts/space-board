@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 14 | 29 |
-| nyt | 3 | 3 | 10 | 21 |
+| nyt | 3 | 3 | 11 | 22 |
 | breaking_defense | 0 | 0 | 9 | 21 |
 
 # Shown Order
@@ -2666,3 +2666,4 @@
 - **Jul 08, 12:19 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 08, 12:59 AM** - The term ‘dual-use’ is misleading and dangerous (spacenews)
 - **Jul 08, 01:35 AM** - D-Orbit signs launch-services contract with ArkEdge Space (spacenews)
+- **Jul 08, 02:09 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
