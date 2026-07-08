@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 16 | 29 |
-| nyt | 1 | 3 | 10 | 21 |
+| nyt | 1 | 3 | 11 | 22 |
 | breaking_defense | 3 | 3 | 11 | 21 |
 
 # Shown Order
@@ -2695,3 +2695,4 @@
 - **Jul 08, 06:59 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 08, 07:35 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 08, 08:14 PM** - Isar Aerospace signs agreement for Canadian launch site (spacenews)
+- **Jul 08, 08:49 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
