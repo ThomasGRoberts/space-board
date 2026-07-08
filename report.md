@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 16 | 29 |
 | nyt | 1 | 3 | 10 | 22 |
-| breaking_defense | 0 | 0 | 9 | 21 |
+| breaking_defense | 0 | 0 | 10 | 22 |
 
 # Shown Order
 
@@ -2680,3 +2680,4 @@
 - **Jul 08, 08:44 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 08, 09:24 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 08, 10:05 AM** - FCC to vote on satellite licensing overhaul July 22 (spacenews)
+- **Jul 08, 10:49 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
