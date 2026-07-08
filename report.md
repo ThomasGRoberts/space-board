@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 15 | 29 |
+| spacenews | 10 | 18 | 16 | 30 |
 | nyt | 3 | 3 | 11 | 22 |
 | breaking_defense | 0 | 0 | 9 | 20 |
 
@@ -2673,3 +2673,4 @@
 - **Jul 08, 04:29 AM** - NASA adds three European firms to the commercial data program (spacenews)
 - **Jul 08, 05:05 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 08, 05:39 AM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
+- **Jul 08, 06:14 AM** - Isar Aerospace to launch German-built Planet imaging satellite (spacenews)
