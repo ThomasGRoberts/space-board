@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 15 | 30 |
 | nyt | 3 | 3 | 11 | 22 |
-| breaking_defense | 0 | 0 | 9 | 20 |
+| breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
 
@@ -2677,3 +2677,4 @@
 - **Jul 08, 06:49 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 08, 07:29 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 08, 08:05 AM** - Space Force adds Relativity, Impulse Space to national security launch program (spacenews)
+- **Jul 08, 08:44 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
