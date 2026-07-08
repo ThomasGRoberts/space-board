@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 16 | 29 |
+| spacenews | 11 | 18 | 17 | 30 |
 | nyt | 1 | 3 | 10 | 21 |
 | breaking_defense | 2 | 2 | 11 | 21 |
 
@@ -2691,3 +2691,4 @@
 - **Jul 08, 04:06 PM** - Simera Sense to provide imagers for Canary Islands constellation (spacenews)
 - **Jul 08, 04:49 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 08, 05:36 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
+- **Jul 08, 06:19 PM** - Is this the year for a NASA authorization bill? (spacenews)
