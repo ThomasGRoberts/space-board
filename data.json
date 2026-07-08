@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-08T00:05:12.272911+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8174463bd1e5ba7b5d568fcfab067f85",
+    "trigger_count": 0,
+    "current_item_id": "7f1d7e8fb29505ad4adc93d6724d0d71",
     "data": [
         {
             "id": "619140e5a51d7b2dca7726caf3910c59",
@@ -8172,6 +8172,18 @@
             "fetched_datetime": "2026-07-08T01:35:08.639607Z",
             "shown_at": [
                 "2026-07-08T01:35:09.568586Z"
+            ]
+        },
+        {
+            "id": "7f1d7e8fb29505ad4adc93d6724d0d71",
+            "source": "spacenews",
+            "text": "Skyroot prepares for first orbital launch attempt",
+            "source_link": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T02:44:59.644890Z",
+            "shown_at": [
+                "2026-07-08T02:45:00.265818Z"
             ]
         }
     ]
