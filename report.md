@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 13 | 30 |
+| spacenews | 6 | 18 | 14 | 31 |
 | breaking_defense | 4 | 4 | 11 | 20 |
 | nyt | 0 | 1 | 8 | 18 |
 
@@ -2683,3 +2683,4 @@
 - **Jul 09, 12:04 PM** - Golden Dome and the search for new space markets (spacenews)
 - **Jul 09, 01:32 PM** - Blue Origin seeks to raise $10 billion in outside capital (spacenews)
 - **Jul 09, 03:19 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 09, 03:55 PM** - MDA Space buys French Earth data analytics company CLS (spacenews)

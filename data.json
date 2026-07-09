@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-09T00:05:16.502667+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d5598271dd234eecf23e71151be6ff7e",
+    "trigger_count": 0,
+    "current_item_id": "3ee8e583751f5c94dfee8d6a7cfcbe15",
     "data": [
         {
             "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
@@ -8216,9 +8216,12 @@
             "source": "spacenews",
             "text": "MDA Space buys French Earth data analytics company CLS",
             "source_link": "https://spacenews.com/mda-space-buys-french-earth-data-analytics-company-cls/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-09T12:04:35.552454Z"
+            "fetched_datetime": "2026-07-09T12:04:35.552454Z",
+            "shown_at": [
+                "2026-07-09T15:55:31.398921Z"
+            ]
         },
         {
             "id": "d5598271dd234eecf23e71151be6ff7e",
