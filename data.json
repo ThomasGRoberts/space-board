@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-09T00:05:16.502667+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d5598271dd234eecf23e71151be6ff7e",
+    "trigger_count": 0,
+    "current_item_id": "fe0c71a341b7a0d27c44e398110bd347",
     "data": [
         {
             "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
@@ -8284,6 +8284,27 @@
             "shown_at": [
                 "2026-07-09T18:24:59.527249Z"
             ]
+        },
+        {
+            "id": "fe0c71a341b7a0d27c44e398110bd347",
+            "source": "spacenews",
+            "text": "The Exploration Company establishes US entity to pursue government contracts",
+            "source_link": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T20:14:51.859304Z",
+            "shown_at": [
+                "2026-07-09T20:14:54.198932Z"
+            ]
+        },
+        {
+            "id": "c1fb639fde86e6d1216146499aeee42c",
+            "source": "spacenews",
+            "text": "Environmental groups urge FCC to pause orbital data center applications",
+            "source_link": "https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T20:14:51.859380Z"
         }
     ]
 }

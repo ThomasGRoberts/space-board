@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 16 | 31 |
+| spacenews | 11 | 20 | 16 | 32 |
 | breaking_defense | 1 | 4 | 9 | 21 |
 | nyt | 0 | 1 | 8 | 18 |
 
@@ -2690,3 +2690,4 @@
 - **Jul 09, 06:24 PM** - Xona unveils program to verify Pulsar-compatible devices (spacenews)
 - **Jul 09, 06:59 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 09, 07:35 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 09, 08:14 PM** - The Exploration Company establishes US entity to pursue government contracts (spacenews)
