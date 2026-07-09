@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 15 | 30 |
 | breaking_defense | 3 | 3 | 11 | 21 |
-| nyt | 0 | 2 | 9 | 20 |
+| nyt | 0 | 2 | 10 | 21 |
 
 # Shown Order
 
@@ -2677,3 +2677,4 @@
 - **Jul 09, 06:39 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 09, 07:44 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 09, 08:39 AM** - Pegasus launches Swift reboost mission (spacenews)
+- **Jul 09, 09:39 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
