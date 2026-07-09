@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 16 | 31 |
-| breaking_defense | 2 | 4 | 9 | 20 |
+| breaking_defense | 1 | 4 | 10 | 21 |
 | nyt | 0 | 1 | 8 | 19 |
 
 # Shown Order
@@ -2689,3 +2689,4 @@
 - **Jul 09, 05:49 PM** - Space Force awards Pulse Space $40 million to advance laser power technology (spacenews)
 - **Jul 09, 06:24 PM** - Xona unveils program to verify Pulsar-compatible devices (spacenews)
 - **Jul 09, 06:59 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 09, 07:35 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
