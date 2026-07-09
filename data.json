@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-09T00:05:16.502667+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e06b30b5036f56bd71cd4f7a18693e31",
+    "trigger_count": 0,
+    "current_item_id": "b5bc81955dba9bc8e34f9648ed244ad0",
     "data": [
         {
             "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
@@ -8164,6 +8164,18 @@
             "shown_at": [
                 "2026-04-29T21:39:18.713435Z",
                 "2026-05-03T09:04:34.000580Z"
+            ]
+        },
+        {
+            "id": "b5bc81955dba9bc8e34f9648ed244ad0",
+            "source": "spacenews",
+            "text": "New Singapore space agency seeks to build up the country’s space industry",
+            "source_link": "https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T04:06:03.044806Z",
+            "shown_at": [
+                "2026-07-09T04:06:04.465068Z"
             ]
         }
     ]
