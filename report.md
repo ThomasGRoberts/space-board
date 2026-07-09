@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 15 | 30 |
 | breaking_defense | 3 | 3 | 12 | 21 |
-| nyt | 0 | 3 | 10 | 21 |
+| nyt | 0 | 3 | 11 | 22 |
 
 # Shown Order
 
@@ -2671,3 +2671,4 @@
 - **Jul 09, 02:54 AM** - NASA adds three European firms to the commercial data program (spacenews)
 - **Jul 09, 03:29 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 09, 04:06 AM** - New Singapore space agency seeks to build up the country’s space industry (spacenews)
+- **Jul 09, 04:45 AM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
