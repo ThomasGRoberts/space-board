@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-09T00:05:16.502667+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4f5b6194d1ed96128c534af5c8addc7e",
+    "trigger_count": 0,
+    "current_item_id": "7c522322905b1f087ec1aa66434223af",
     "data": [
         {
             "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
@@ -8320,6 +8320,18 @@
             "fetched_datetime": "2026-07-09T20:55:30.121081Z",
             "shown_at": [
                 "2026-07-09T20:55:31.226826Z"
+            ]
+        },
+        {
+            "id": "7c522322905b1f087ec1aa66434223af",
+            "source": "spacenews",
+            "text": "SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development",
+            "source_link": "https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T22:49:29.512719Z",
+            "shown_at": [
+                "2026-07-09T22:49:30.535887Z"
             ]
         }
     ]

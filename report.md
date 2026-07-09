@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 16 | 32 |
+| spacenews | 11 | 21 | 17 | 33 |
 | breaking_defense | 1 | 4 | 9 | 20 |
 | nyt | 1 | 1 | 7 | 18 |
 
@@ -2694,3 +2694,4 @@
 - **Jul 09, 08:55 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 09, 09:35 PM** - Environmental groups urge FCC to pause orbital data center applications (spacenews)
 - **Jul 09, 10:09 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
+- **Jul 09, 10:49 PM** - SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development (spacenews)
