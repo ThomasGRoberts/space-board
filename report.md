@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 14 | 30 |
-| breaking_defense | 3 | 3 | 11 | 21 |
+| spacenews | 6 | 18 | 14 | 31 |
+| breaking_defense | 3 | 3 | 11 | 20 |
 | nyt | 0 | 1 | 9 | 19 |
 
 # Shown Order
@@ -2681,3 +2681,4 @@
 - **Jul 09, 10:25 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 09, 11:15 AM** - Chinese satellite manufacturer Hongqing raises $191 million (spacenews)
 - **Jul 09, 12:04 PM** - Golden Dome and the search for new space markets (spacenews)
+- **Jul 09, 01:32 PM** - Blue Origin seeks to raise $10 billion in outside capital (spacenews)
