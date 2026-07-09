@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 15 | 30 |
-| breaking_defense | 3 | 3 | 11 | 21 |
+| breaking_defense | 3 | 3 | 12 | 22 |
 | nyt | 0 | 3 | 11 | 21 |
 
 # Shown Order
@@ -2672,3 +2672,4 @@
 - **Jul 09, 03:29 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 09, 04:06 AM** - New Singapore space agency seeks to build up the country’s space industry (spacenews)
 - **Jul 09, 04:45 AM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
+- **Jul 09, 05:24 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
