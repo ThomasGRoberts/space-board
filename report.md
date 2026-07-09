@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 15 | 30 |
 | breaking_defense | 3 | 3 | 12 | 21 |
-| nyt | 0 | 3 | 10 | 21 |
+| nyt | 0 | 3 | 11 | 22 |
 
 # Shown Order
 
@@ -2674,3 +2674,4 @@
 - **Jul 09, 04:45 AM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 09, 05:24 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 09, 05:59 AM** - Connected Aircraft Fleet Set to Exceed 70,000 by 2035 (spacenews)
+- **Jul 09, 06:39 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
