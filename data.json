@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-09T00:05:16.502667+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7a77874eb0b6cd203ddb7775b0e89d09",
+    "trigger_count": 0,
+    "current_item_id": "9b7cdce8c90b2d8c0f80dd284a90447f",
     "data": [
         {
             "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
@@ -8269,6 +8269,18 @@
             "fetched_datetime": "2026-07-09T16:39:32.371069Z",
             "shown_at": [
                 "2026-07-09T17:49:33.963615Z"
+            ]
+        },
+        {
+            "id": "9b7cdce8c90b2d8c0f80dd284a90447f",
+            "source": "spacenews",
+            "text": "Xona unveils program to verify Pulsar-compatible devices",
+            "source_link": "https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T18:24:58.207714Z",
+            "shown_at": [
+                "2026-07-09T18:24:59.527249Z"
             ]
         }
     ]
