@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 14 | 32 |
+| spacenews | 9 | 21 | 15 | 33 |
 | breaking_defense | 3 | 4 | 10 | 20 |
 | nyt | 0 | 1 | 8 | 18 |
 
@@ -2685,3 +2685,4 @@
 - **Jul 09, 03:19 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 09, 03:55 PM** - MDA Space buys French Earth data analytics company CLS (spacenews)
 - **Jul 09, 04:39 PM** - Volatility is often the price of ambition (spacenews)
+- **Jul 09, 05:14 PM** - Space Force completes procurement reorganization, creating nine acquisition portfolios (spacenews)
