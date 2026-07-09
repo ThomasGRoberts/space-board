@@ -1,9 +1,155 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-08T00:05:12.272911+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-07-09T00:05:16.502667+00:00",
+    "trigger_count": 3,
     "current_item_id": "c41bb9f446b35e3c45e51d377393565d",
     "data": [
+        {
+            "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
+            "source": "spacenews",
+            "text": "ispace to send larger payloads to the moon on SpaceX’s Starship",
+            "source_link": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T21:29:25.972275Z",
+            "shown_at": [
+                "2026-07-08T21:29:28.892075Z"
+            ]
+        },
+        {
+            "id": "4f5b6194d1ed96128c534af5c8addc7e",
+            "source": "breaking_defense",
+            "text": "Space Force adds two startups to small, medium launch pool",
+            "source_link": "https://breakingdefense.com/2026/07/space-force-adds-two-startups-to-small-medium-launch-pool/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T19:35:00.394600Z",
+            "shown_at": [
+                "2026-07-08T19:35:01.726698Z"
+            ]
+        },
+        {
+            "id": "85b12f103c89998ea08059578d01e125",
+            "source": "spacenews",
+            "text": "Is this the year for a NASA authorization bill?",
+            "source_link": "https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T18:19:43.088346Z",
+            "shown_at": [
+                "2026-07-08T18:19:45.269908Z"
+            ]
+        },
+        {
+            "id": "c41bb9f446b35e3c45e51d377393565d",
+            "source": "breaking_defense",
+            "text": "Eight NATO allies to create new satellite mega-constellation",
+            "source_link": "https://breakingdefense.com/2026/07/eight-nato-allies-to-create-new-satellite-mega-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T17:36:01.244322Z",
+            "shown_at": [
+                "2026-07-08T17:36:03.624881Z",
+                "2026-07-08T22:05:21.217228Z",
+                "2026-07-08T23:49:36.254852Z"
+            ]
+        },
+        {
+            "id": "ad4bd42e71dab84f1146b33c72da53de",
+            "source": "breaking_defense",
+            "text": "Help GPS resiliency against Russia with this one simple change",
+            "source_link": "https://breakingdefense.com/2026/07/help-gps-resiliency-against-russia-with-this-one-simple-change/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T16:49:23.313128Z",
+            "shown_at": [
+                "2026-07-08T16:49:23.983192Z"
+            ]
+        },
+        {
+            "id": "e39c0e1cc5e4c02c76c701d917d8dbe6",
+            "source": "spacenews",
+            "text": "The satellite industry’s most expensive problem isn’t in orbit",
+            "source_link": "https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T13:29:38.431554Z",
+            "shown_at": [
+                "2026-07-08T14:15:13.869179Z"
+            ]
+        },
+        {
+            "id": "fc6680f647b8b009e3bb23ac941e3bba",
+            "source": "spacenews",
+            "text": "Fi expands Starlink direct-to-device capability into dog-tracking",
+            "source_link": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T13:29:38.431482Z",
+            "shown_at": [
+                "2026-07-08T13:29:39.486910Z"
+            ]
+        },
+        {
+            "id": "eaac748b6d884184ea35ed827572faf1",
+            "source": "spacenews",
+            "text": "Venus Aerospace raises $91 million to scale rocket engine technology",
+            "source_link": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T12:05:19.381051Z",
+            "shown_at": [
+                "2026-07-08T12:05:21.932946Z"
+            ]
+        },
+        {
+            "id": "a14f831ab3aa223c038bc305455b1237",
+            "source": "spacenews",
+            "text": "The government’s options to address strained spaceports",
+            "source_link": "https://spacenews.com/the-governments-options-to-address-strained-spaceports/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T11:29:13.605145Z",
+            "shown_at": [
+                "2026-07-08T11:29:15.284873Z"
+            ]
+        },
+        {
+            "id": "4d842e0f19504c88b5e227ab5753bcce",
+            "source": "spacenews",
+            "text": "Space Force adds Relativity, Impulse Space to national security launch program",
+            "source_link": "https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T08:05:58.546959Z",
+            "shown_at": [
+                "2026-07-08T08:05:59.845109Z"
+            ]
+        },
+        {
+            "id": "7f1d7e8fb29505ad4adc93d6724d0d71",
+            "source": "spacenews",
+            "text": "Skyroot prepares for first orbital launch attempt",
+            "source_link": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T02:44:59.644890Z",
+            "shown_at": [
+                "2026-07-08T02:45:00.265818Z"
+            ]
+        },
+        {
+            "id": "58b4da5efebabce069257350a7ed8c08",
+            "source": "spacenews",
+            "text": "D-Orbit signs launch-services contract with ArkEdge Space",
+            "source_link": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-08T01:35:08.639607Z",
+            "shown_at": [
+                "2026-07-08T01:35:09.568586Z"
+            ]
+        },
         {
             "id": "619140e5a51d7b2dca7726caf3910c59",
             "source": "spacenews",
@@ -8012,321 +8158,6 @@
             "shown_at": [
                 "2026-04-29T21:39:18.713435Z",
                 "2026-05-03T09:04:34.000580Z"
-            ]
-        },
-        {
-            "id": "6b93e425c8fb88b22e195205602fdf1e",
-            "source": "spacenews",
-            "text": "Falcon 9 rocket stage projected to impact moon’s near side in August",
-            "source_link": "https://spacenews.com/falcon-9-rocket-stage-projected-to-impact-moons-near-side-in-august/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T15:49:29.351189Z",
-            "shown_at": [
-                "2026-04-29T15:49:30.336500Z"
-            ]
-        },
-        {
-            "id": "da31dd14172637a82504f65b9a474b44",
-            "source": "spacenews",
-            "text": "Falcon Heavy launches final ViaSat-3 terabit-class satellite",
-            "source_link": "https://spacenews.com/falcon-heavy-launches-final-viasat-3-terabit-class-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T15:14:20.201116Z",
-            "shown_at": [
-                "2026-04-29T15:14:21.185127Z",
-                "2026-05-03T05:34:17.720568Z"
-            ]
-        },
-        {
-            "id": "fe8ab8c10587ec39ffc014cee12792ac",
-            "source": "spacenews",
-            "text": "Revolutionizing global aerospace transportation",
-            "source_link": "https://spacenews.com/revolutionizing-global-aerospace-transportation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T14:39:24.885747Z",
-            "shown_at": [
-                "2026-04-29T14:39:25.982770Z",
-                "2026-05-03T10:14:21.502006Z",
-                "2026-05-04T07:29:19.099712Z"
-            ]
-        },
-        {
-            "id": "9a580327ad479821cf36d65cadb8921f",
-            "source": "spacenews",
-            "text": "Space Force awards BAE Systems $11.8 million to demo satellite communications for Golden Dome",
-            "source_link": "https://spacenews.com/space-force-awards-bae-systems-11-8-million-to-demo-satellite-communications-for-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T12:19:23.051508Z",
-            "shown_at": [
-                "2026-04-29T12:19:24.049129Z",
-                "2026-05-04T03:59:19.791487Z"
-            ]
-        },
-        {
-            "id": "16541a021e3a249acaededb2e1766ea1",
-            "source": "spacenews",
-            "text": "Appropriators reject NASA budget proposal",
-            "source_link": "https://spacenews.com/appropriators-reject-nasa-budget-proposal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T11:09:24.542467Z",
-            "shown_at": [
-                "2026-04-29T11:09:25.760453Z",
-                "2026-04-30T18:29:22.450209Z",
-                "2026-05-02T20:39:15.096728Z",
-                "2026-05-03T00:14:22.045078Z",
-                "2026-05-03T04:19:06.093215Z"
-            ]
-        },
-        {
-            "id": "18e9f7576ab8387fe17a87f6382a4fa5",
-            "source": "spacenews",
-            "text": "Pentagon budget affirms Space Force role tracking moving targets from orbit",
-            "source_link": "https://spacenews.com/pentagon-budget-affirms-space-force-role-tracking-moving-targets-from-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T20:34:44.255995Z",
-            "shown_at": [
-                "2026-04-28T21:09:18.269526Z",
-                "2026-04-29T00:39:00.978768Z",
-                "2026-05-04T06:19:20.831617Z"
-            ]
-        },
-        {
-            "id": "3adfaaac3716771016c258827cb321a3",
-            "source": "spacenews",
-            "text": "Space Foundation Premieres National Space Day Video May 1",
-            "source_link": "https://spacenews.com/space-foundation-premieres-national-space-day-video-may-1/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T20:34:44.255919Z",
-            "shown_at": [
-                "2026-04-28T20:34:45.131445Z",
-                "2026-05-03T14:54:25.636668Z"
-            ]
-        },
-        {
-            "id": "5de229d0644d5b9fa6ed9936e01b97c2",
-            "source": "spacenews",
-            "text": "EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy",
-            "source_link": "https://spacenews.com/eradrive-and-northrop-grumman-collaborate-on-ai-enabled-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T16:59:30.514005Z",
-            "shown_at": [
-                "2026-04-28T16:59:31.504109Z",
-                "2026-04-30T20:13:59.791812Z",
-                "2026-05-02T22:59:10.751593Z",
-                "2026-05-04T22:04:38.417365Z"
-            ]
-        },
-        {
-            "id": "55294184357d233acbf45e84da43fb8f",
-            "source": "spacenews",
-            "text": "Corrosion problem affects Gateway and commercial space station modules",
-            "source_link": "https://spacenews.com/corrosion-problem-affects-gateway-and-commercial-space-station-modules/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T10:34:25.244452Z",
-            "shown_at": [
-                "2026-04-28T11:09:09.120026Z",
-                "2026-05-02T12:14:13.488757Z",
-                "2026-05-04T09:54:13.221102Z"
-            ]
-        },
-        {
-            "id": "311821138d02d7f096cae317594b000d",
-            "source": "spacenews",
-            "text": "True Anomaly raises $650 million, reaching $2.2 billion valuation",
-            "source_link": "https://spacenews.com/true-anomaly-raises-650-million-reaching-2-2-billion-valuation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T10:34:25.244379Z",
-            "shown_at": [
-                "2026-04-28T10:34:26.490811Z",
-                "2026-04-30T09:32:39.755085Z",
-                "2026-04-30T15:34:29.886766Z",
-                "2026-05-02T18:04:39.062947Z",
-                "2026-05-05T03:24:13.714325Z"
-            ]
-        },
-        {
-            "id": "28f510014ac0d0244a180f17405232e6",
-            "source": "spacenews",
-            "text": "Startup targets radio segment of Golden Dome missile-defense network",
-            "source_link": "https://spacenews.com/startup-targets-radio-segment-of-golden-dome-missile-defense-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T09:24:16.850177Z",
-            "shown_at": [
-                "2026-04-28T09:24:17.654107Z",
-                "2026-04-28T19:24:28.236095Z"
-            ]
-        },
-        {
-            "id": "d147c659b2f8f9058f2b7e0ee022dce0",
-            "source": "spacenews",
-            "text": "Overview Energy to provide space-based solar power for Meta data centers",
-            "source_link": "https://spacenews.com/overview-energy-to-provide-space-based-solar-power-for-meta-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-27T19:19:08.705315Z",
-            "shown_at": [
-                "2026-04-27T19:54:17.936142Z",
-                "2026-04-28T08:49:22.557472Z",
-                "2026-04-28T13:29:08.698112Z",
-                "2026-04-29T09:59:21.629206Z",
-                "2026-05-02T11:04:43.636905Z"
-            ]
-        },
-        {
-            "id": "58b4da5efebabce069257350a7ed8c08",
-            "source": "spacenews",
-            "text": "D-Orbit signs launch-services contract with ArkEdge Space",
-            "source_link": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T01:35:08.639607Z",
-            "shown_at": [
-                "2026-07-08T01:35:09.568586Z"
-            ]
-        },
-        {
-            "id": "7f1d7e8fb29505ad4adc93d6724d0d71",
-            "source": "spacenews",
-            "text": "Skyroot prepares for first orbital launch attempt",
-            "source_link": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T02:44:59.644890Z",
-            "shown_at": [
-                "2026-07-08T02:45:00.265818Z"
-            ]
-        },
-        {
-            "id": "4d842e0f19504c88b5e227ab5753bcce",
-            "source": "spacenews",
-            "text": "Space Force adds Relativity, Impulse Space to national security launch program",
-            "source_link": "https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T08:05:58.546959Z",
-            "shown_at": [
-                "2026-07-08T08:05:59.845109Z"
-            ]
-        },
-        {
-            "id": "a14f831ab3aa223c038bc305455b1237",
-            "source": "spacenews",
-            "text": "The government’s options to address strained spaceports",
-            "source_link": "https://spacenews.com/the-governments-options-to-address-strained-spaceports/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T11:29:13.605145Z",
-            "shown_at": [
-                "2026-07-08T11:29:15.284873Z"
-            ]
-        },
-        {
-            "id": "eaac748b6d884184ea35ed827572faf1",
-            "source": "spacenews",
-            "text": "Venus Aerospace raises $91 million to scale rocket engine technology",
-            "source_link": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T12:05:19.381051Z",
-            "shown_at": [
-                "2026-07-08T12:05:21.932946Z"
-            ]
-        },
-        {
-            "id": "fc6680f647b8b009e3bb23ac941e3bba",
-            "source": "spacenews",
-            "text": "Fi expands Starlink direct-to-device capability into dog-tracking",
-            "source_link": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T13:29:38.431482Z",
-            "shown_at": [
-                "2026-07-08T13:29:39.486910Z"
-            ]
-        },
-        {
-            "id": "e39c0e1cc5e4c02c76c701d917d8dbe6",
-            "source": "spacenews",
-            "text": "The satellite industry’s most expensive problem isn’t in orbit",
-            "source_link": "https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T13:29:38.431554Z",
-            "shown_at": [
-                "2026-07-08T14:15:13.869179Z"
-            ]
-        },
-        {
-            "id": "ad4bd42e71dab84f1146b33c72da53de",
-            "source": "breaking_defense",
-            "text": "Help GPS resiliency against Russia with this one simple change",
-            "source_link": "https://breakingdefense.com/2026/07/help-gps-resiliency-against-russia-with-this-one-simple-change/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T16:49:23.313128Z",
-            "shown_at": [
-                "2026-07-08T16:49:23.983192Z"
-            ]
-        },
-        {
-            "id": "c41bb9f446b35e3c45e51d377393565d",
-            "source": "breaking_defense",
-            "text": "Eight NATO allies to create new satellite mega-constellation",
-            "source_link": "https://breakingdefense.com/2026/07/eight-nato-allies-to-create-new-satellite-mega-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T17:36:01.244322Z",
-            "shown_at": [
-                "2026-07-08T17:36:03.624881Z",
-                "2026-07-08T22:05:21.217228Z",
-                "2026-07-08T23:49:36.254852Z"
-            ]
-        },
-        {
-            "id": "85b12f103c89998ea08059578d01e125",
-            "source": "spacenews",
-            "text": "Is this the year for a NASA authorization bill?",
-            "source_link": "https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T18:19:43.088346Z",
-            "shown_at": [
-                "2026-07-08T18:19:45.269908Z"
-            ]
-        },
-        {
-            "id": "4f5b6194d1ed96128c534af5c8addc7e",
-            "source": "breaking_defense",
-            "text": "Space Force adds two startups to small, medium launch pool",
-            "source_link": "https://breakingdefense.com/2026/07/space-force-adds-two-startups-to-small-medium-launch-pool/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T19:35:00.394600Z",
-            "shown_at": [
-                "2026-07-08T19:35:01.726698Z"
-            ]
-        },
-        {
-            "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
-            "source": "spacenews",
-            "text": "ispace to send larger payloads to the moon on SpaceX’s Starship",
-            "source_link": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-08T21:29:25.972275Z",
-            "shown_at": [
-                "2026-07-08T21:29:28.892075Z"
             ]
         }
     ]
