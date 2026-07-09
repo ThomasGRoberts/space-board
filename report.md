@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 16 | 32 |
 | breaking_defense | 2 | 4 | 9 | 20 |
-| nyt | 0 | 1 | 8 | 18 |
+| nyt | 0 | 1 | 8 | 19 |
 
 # Shown Order
 
@@ -2688,3 +2688,4 @@
 - **Jul 09, 05:14 PM** - Space Force completes procurement reorganization, creating nine acquisition portfolios (spacenews)
 - **Jul 09, 05:49 PM** - Space Force awards Pulse Space $40 million to advance laser power technology (spacenews)
 - **Jul 09, 06:24 PM** - Xona unveils program to verify Pulsar-compatible devices (spacenews)
+- **Jul 09, 06:59 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
