@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 14 | 29 |
+| spacenews | 7 | 16 | 15 | 30 |
 | breaking_defense | 3 | 3 | 11 | 21 |
 | nyt | 0 | 1 | 10 | 20 |
 
@@ -2679,3 +2679,4 @@
 - **Jul 09, 08:39 AM** - Pegasus launches Swift reboost mission (spacenews)
 - **Jul 09, 09:39 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 09, 10:25 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
+- **Jul 09, 11:15 AM** - Chinese satellite manufacturer Hongqing raises $191 million (spacenews)
