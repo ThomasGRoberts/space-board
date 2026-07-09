@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-09T00:05:16.502667+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3ee8e583751f5c94dfee8d6a7cfcbe15",
+    "trigger_count": 0,
+    "current_item_id": "ba34917bc5a4c8583c3816c13e80bcd2",
     "data": [
         {
             "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
@@ -8234,6 +8234,36 @@
             "shown_at": [
                 "2026-07-09T15:19:41.358627Z"
             ]
+        },
+        {
+            "id": "ba34917bc5a4c8583c3816c13e80bcd2",
+            "source": "spacenews",
+            "text": "Volatility is often the price of ambition",
+            "source_link": "https://spacenews.com/volatility-is-often-the-price-of-ambition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T16:39:32.370961Z",
+            "shown_at": [
+                "2026-07-09T16:39:33.122017Z"
+            ]
+        },
+        {
+            "id": "df7bbbadb6ca0df297149be0c80c0d77",
+            "source": "spacenews",
+            "text": "Space Force completes procurement reorganization, creating nine acquisition portfolios",
+            "source_link": "https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T16:39:32.371024Z"
+        },
+        {
+            "id": "7a77874eb0b6cd203ddb7775b0e89d09",
+            "source": "spacenews",
+            "text": "Space Force awards Pulse Space $40 million to advance laser power technology",
+            "source_link": "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T16:39:32.371069Z"
         }
     ]
 }
