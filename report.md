@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 16 | 32 |
 | breaking_defense | 1 | 4 | 9 | 20 |
-| nyt | 0 | 1 | 7 | 18 |
+| nyt | 1 | 2 | 8 | 19 |
 
 # Shown Order
 
@@ -2691,3 +2691,4 @@
 - **Jul 09, 06:59 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 09, 07:35 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 09, 08:14 PM** - The Exploration Company establishes US entity to pursue government contracts (spacenews)
+- **Jul 09, 08:55 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)

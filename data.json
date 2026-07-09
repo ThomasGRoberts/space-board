@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-09T00:05:16.502667+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fe0c71a341b7a0d27c44e398110bd347",
+    "trigger_count": 0,
+    "current_item_id": "8ab187054c38136557e56cada22a392e",
     "data": [
         {
             "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
@@ -8305,6 +8305,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-07-09T20:14:51.859380Z"
+        },
+        {
+            "id": "8ab187054c38136557e56cada22a392e",
+            "source": "nyt",
+            "text": "Wally Funk, Who Set an Age Record for Space Travel, Dies at 87",
+            "source_link": "https://www.nytimes.com/2026/07/09/science/space/wally-funk-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T20:55:30.121081Z",
+            "shown_at": [
+                "2026-07-09T20:55:31.226826Z"
+            ]
         }
     ]
 }
