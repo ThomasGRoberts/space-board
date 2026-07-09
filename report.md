@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 14 | 29 |
+| spacenews | 7 | 17 | 15 | 30 |
 | breaking_defense | 3 | 3 | 12 | 21 |
 | nyt | 0 | 3 | 10 | 21 |
 
@@ -2676,3 +2676,4 @@
 - **Jul 09, 05:59 AM** - Connected Aircraft Fleet Set to Exceed 70,000 by 2035 (spacenews)
 - **Jul 09, 06:39 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 09, 07:44 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 09, 08:39 AM** - Pegasus launches Swift reboost mission (spacenews)
