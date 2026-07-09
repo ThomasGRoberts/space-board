@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 16 | 32 |
+| spacenews | 10 | 20 | 16 | 33 |
 | breaking_defense | 1 | 4 | 9 | 20 |
 | nyt | 1 | 1 | 8 | 18 |
 
@@ -2692,3 +2692,4 @@
 - **Jul 09, 07:35 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 09, 08:14 PM** - The Exploration Company establishes US entity to pursue government contracts (spacenews)
 - **Jul 09, 08:55 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
+- **Jul 09, 09:35 PM** - Environmental groups urge FCC to pause orbital data center applications (spacenews)
