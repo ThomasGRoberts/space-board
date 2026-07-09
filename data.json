@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-09T00:05:16.502667+00:00",
-    "trigger_count": 6,
-    "current_item_id": "df7bbbadb6ca0df297149be0c80c0d77",
+    "trigger_count": 0,
+    "current_item_id": "7a77874eb0b6cd203ddb7775b0e89d09",
     "data": [
         {
             "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
@@ -8264,9 +8264,12 @@
             "source": "spacenews",
             "text": "Space Force awards Pulse Space $40 million to advance laser power technology",
             "source_link": "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-09T16:39:32.371069Z"
+            "fetched_datetime": "2026-07-09T16:39:32.371069Z",
+            "shown_at": [
+                "2026-07-09T17:49:33.963615Z"
+            ]
         }
     ]
 }
