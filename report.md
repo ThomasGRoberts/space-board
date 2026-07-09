@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 15 | 30 |
-| breaking_defense | 3 | 3 | 11 | 21 |
-| nyt | 0 | 3 | 11 | 21 |
+| breaking_defense | 3 | 3 | 12 | 22 |
+| nyt | 0 | 3 | 10 | 21 |
 
 # Shown Order
 
@@ -2675,3 +2675,4 @@
 - **Jul 09, 05:24 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 09, 05:59 AM** - Connected Aircraft Fleet Set to Exceed 70,000 by 2035 (spacenews)
 - **Jul 09, 06:39 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
+- **Jul 09, 07:44 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
