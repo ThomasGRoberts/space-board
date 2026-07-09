@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 14 | 29 |
+| spacenews | 7 | 17 | 15 | 30 |
 | breaking_defense | 3 | 3 | 12 | 21 |
 | nyt | 0 | 3 | 11 | 22 |
 
@@ -2668,3 +2668,4 @@
 - **Jul 09, 01:05 AM** - Skyroot prepares for first orbital launch attempt (spacenews)
 - **Jul 09, 01:45 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 09, 02:19 AM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
+- **Jul 09, 02:54 AM** - NASA adds three European firms to the commercial data program (spacenews)
