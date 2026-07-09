@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 14 | 30 |
-| breaking_defense | 3 | 3 | 11 | 21 |
+| breaking_defense | 3 | 3 | 12 | 22 |
 | nyt | 0 | 1 | 10 | 20 |
 
 # Shown Order
@@ -2678,3 +2678,4 @@
 - **Jul 09, 07:44 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 09, 08:39 AM** - Pegasus launches Swift reboost mission (spacenews)
 - **Jul 09, 09:39 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
+- **Jul 09, 10:25 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
