@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 15 | 30 |
-| breaking_defense | 3 | 3 | 11 | 20 |
+| breaking_defense | 3 | 3 | 12 | 21 |
 | nyt | 0 | 3 | 11 | 21 |
 
 # Shown Order
@@ -2666,3 +2666,4 @@
 - **Jul 08, 11:49 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 09, 12:26 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 09, 01:05 AM** - Skyroot prepares for first orbital launch attempt (spacenews)
+- **Jul 09, 01:45 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
