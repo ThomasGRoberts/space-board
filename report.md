@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 19 | 20 | 33 |
-| nyt | 2 | 2 | 9 | 17 |
+| nyt | 2 | 2 | 10 | 18 |
 | breaking_defense | 0 | 4 | 9 | 20 |
 
 # Shown Order
@@ -2686,3 +2686,4 @@
 - **Jul 10, 01:39 PM** - Space capitalism needs more than a bull market (spacenews)
 - **Jul 10, 02:24 PM** - The space industry is weighing ambitious hiring against heritage (spacenews)
 - **Jul 10, 02:59 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 10, 03:39 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
