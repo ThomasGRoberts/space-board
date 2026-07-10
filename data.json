@@ -1,9 +1,179 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-09T00:05:16.502667+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c27f11fe0a7fb03579db66fae24d1cb6",
+    "last_run_datetime": "2026-07-10T00:05:20.260942+00:00",
+    "trigger_count": 0,
+    "current_item_id": "8ab187054c38136557e56cada22a392e",
     "data": [
+        {
+            "id": "c27f11fe0a7fb03579db66fae24d1cb6",
+            "source": "spacenews",
+            "text": "Interior Department requests information on offshore launch options",
+            "source_link": "https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T23:29:13.243920Z",
+            "shown_at": [
+                "2026-07-09T23:29:14.142558Z"
+            ]
+        },
+        {
+            "id": "7c522322905b1f087ec1aa66434223af",
+            "source": "spacenews",
+            "text": "SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development",
+            "source_link": "https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T22:49:29.512719Z",
+            "shown_at": [
+                "2026-07-09T22:49:30.535887Z"
+            ]
+        },
+        {
+            "id": "8ab187054c38136557e56cada22a392e",
+            "source": "nyt",
+            "text": "Wally Funk, Who Set an Age Record for Space Travel, Dies at 87",
+            "source_link": "https://www.nytimes.com/2026/07/09/science/space/wally-funk-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T20:55:30.121081Z",
+            "shown_at": [
+                "2026-07-09T20:55:31.226826Z",
+                "2026-07-10T00:05:26.822165Z"
+            ]
+        },
+        {
+            "id": "c1fb639fde86e6d1216146499aeee42c",
+            "source": "spacenews",
+            "text": "Environmental groups urge FCC to pause orbital data center applications",
+            "source_link": "https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T20:14:51.859380Z",
+            "shown_at": [
+                "2026-07-09T21:35:19.746161Z"
+            ]
+        },
+        {
+            "id": "fe0c71a341b7a0d27c44e398110bd347",
+            "source": "spacenews",
+            "text": "The Exploration Company establishes US entity to pursue government contracts",
+            "source_link": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T20:14:51.859304Z",
+            "shown_at": [
+                "2026-07-09T20:14:54.198932Z"
+            ]
+        },
+        {
+            "id": "9b7cdce8c90b2d8c0f80dd284a90447f",
+            "source": "spacenews",
+            "text": "Xona unveils program to verify Pulsar-compatible devices",
+            "source_link": "https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T18:24:58.207714Z",
+            "shown_at": [
+                "2026-07-09T18:24:59.527249Z"
+            ]
+        },
+        {
+            "id": "7a77874eb0b6cd203ddb7775b0e89d09",
+            "source": "spacenews",
+            "text": "Space Force awards Pulse Space $40 million to advance laser power technology",
+            "source_link": "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T16:39:32.371069Z",
+            "shown_at": [
+                "2026-07-09T17:49:33.963615Z"
+            ]
+        },
+        {
+            "id": "df7bbbadb6ca0df297149be0c80c0d77",
+            "source": "spacenews",
+            "text": "Space Force completes procurement reorganization, creating nine acquisition portfolios",
+            "source_link": "https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T16:39:32.371024Z",
+            "shown_at": [
+                "2026-07-09T17:14:59.897978Z"
+            ]
+        },
+        {
+            "id": "ba34917bc5a4c8583c3816c13e80bcd2",
+            "source": "spacenews",
+            "text": "Volatility is often the price of ambition",
+            "source_link": "https://spacenews.com/volatility-is-often-the-price-of-ambition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T16:39:32.370961Z",
+            "shown_at": [
+                "2026-07-09T16:39:33.122017Z"
+            ]
+        },
+        {
+            "id": "d5598271dd234eecf23e71151be6ff7e",
+            "source": "breaking_defense",
+            "text": "Why DoD, Silicon Valley now are betting on solar power beaming sats",
+            "source_link": "https://breakingdefense.com/2026/07/why-dod-silicon-valley-now-are-betting-on-solar-power-beaming-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T15:19:40.707564Z",
+            "shown_at": [
+                "2026-07-09T15:19:41.358627Z",
+                "2026-07-09T19:35:00.903292Z"
+            ]
+        },
+        {
+            "id": "3ee8e583751f5c94dfee8d6a7cfcbe15",
+            "source": "spacenews",
+            "text": "MDA Space buys French Earth data analytics company CLS",
+            "source_link": "https://spacenews.com/mda-space-buys-french-earth-data-analytics-company-cls/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T12:04:35.552454Z",
+            "shown_at": [
+                "2026-07-09T15:55:31.398921Z"
+            ]
+        },
+        {
+            "id": "37bdeccd4c655716f18d33cbc1447aa7",
+            "source": "spacenews",
+            "text": "Blue Origin seeks to raise $10 billion in outside capital",
+            "source_link": "https://spacenews.com/blue-origin-seeks-to-raise-10-billion-in-outside-capital/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T12:04:35.552408Z",
+            "shown_at": [
+                "2026-07-09T13:32:52.984434Z"
+            ]
+        },
+        {
+            "id": "ae742961ce21367cf383e39ec54934ab",
+            "source": "spacenews",
+            "text": "Golden Dome and the search for new space markets",
+            "source_link": "https://spacenews.com/golden-dome-and-the-search-for-new-space-markets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T12:04:35.552338Z",
+            "shown_at": [
+                "2026-07-09T12:04:36.963723Z"
+            ]
+        },
+        {
+            "id": "b5bc81955dba9bc8e34f9648ed244ad0",
+            "source": "spacenews",
+            "text": "New Singapore space agency seeks to build up the country’s space industry",
+            "source_link": "https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-09T04:06:03.044806Z",
+            "shown_at": [
+                "2026-07-09T04:06:04.465068Z"
+            ]
+        },
         {
             "id": "0ee99ea6d900f513dfb82f950aeaa9b6",
             "source": "spacenews",
@@ -7986,364 +8156,6 @@
                 "2026-05-08T07:14:31.463002Z",
                 "2026-05-08T08:24:19.551514Z",
                 "2026-05-08T09:34:29.769339Z"
-            ]
-        },
-        {
-            "id": "862c1982204683fe39117148b69d2f1e",
-            "source": "spacenews",
-            "text": "Space Force taps K2 satellites to test laser communications for missile-defense",
-            "source_link": "https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T01:29:01.755932Z",
-            "shown_at": [
-                "2026-05-01T01:29:02.801056Z",
-                "2026-05-06T02:49:17.830998Z"
-            ]
-        },
-        {
-            "id": "04f0502fbc993778fdb9bb08745d7a50",
-            "source": "spacenews",
-            "text": "SpaceComputer to conduct on-orbit test of secure computing infrastructure",
-            "source_link": "https://spacenews.com/spacecomputer-to-conduct-on-orbit-test-of-secure-computing-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T23:44:21.658954Z",
-            "shown_at": [
-                "2026-04-30T23:44:22.812176Z"
-            ]
-        },
-        {
-            "id": "9c69bfdd630fafdc6d24a06d4243c0cb",
-            "source": "spacenews",
-            "text": "Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program",
-            "source_link": "https://spacenews.com/northrop-grumman-delivers-sensor-for-missile-warning-satellite-as-pentagon-cancels-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T23:09:17.823602Z",
-            "shown_at": [
-                "2026-04-30T23:09:19.039332Z",
-                "2026-05-02T15:44:10.208867Z",
-                "2026-05-04T01:40:06.343047Z",
-                "2026-05-04T08:44:22.105802Z"
-            ]
-        },
-        {
-            "id": "1f2d0e6ff5f44654e9b660e68cc55844",
-            "source": "spacenews",
-            "text": "U.S. investors dominate Europe’s private-led space scale-up rounds",
-            "source_link": "https://spacenews.com/u-s-investors-dominate-europes-private-led-space-scale-up-rounds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T19:04:55.612150Z",
-            "shown_at": [
-                "2026-04-30T19:04:57.224800Z",
-                "2026-05-02T14:34:31.071985Z"
-            ]
-        },
-        {
-            "id": "821b09721f9fb3f85dc713df027e2e92",
-            "source": "spacenews",
-            "text": "House appropriators keep NASA funding flat",
-            "source_link": "https://spacenews.com/house-appropriators-keep-nasa-funding-flat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T16:09:13.034116Z",
-            "shown_at": [
-                "2026-04-30T16:09:13.880874Z",
-                "2026-04-30T22:34:25.383135Z",
-                "2026-05-02T21:49:08.419294Z",
-                "2026-05-04T05:09:18.719009Z",
-                "2026-05-06T01:29:16.059202Z"
-            ]
-        },
-        {
-            "id": "7d010786102019eba4336c93a8af71a8",
-            "source": "spacenews",
-            "text": "America needs a space alliance",
-            "source_link": "https://spacenews.com/america-needs-a-space-alliance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T13:14:08.125964Z",
-            "shown_at": [
-                "2026-04-30T14:24:26.969343Z",
-                "2026-05-04T00:29:18.580425Z",
-                "2026-05-04T19:39:25.811028Z"
-            ]
-        },
-        {
-            "id": "481e36dae428520d027062d3266bb378",
-            "source": "spacenews",
-            "text": "Planet and Carbon Mapper to fly SWIR Tanager",
-            "source_link": "https://spacenews.com/planet-and-carbon-mapper-to-fly-swir-tanager/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T13:14:08.125919Z",
-            "shown_at": [
-                "2026-04-30T13:49:30.942612Z"
-            ]
-        },
-        {
-            "id": "8c447425244ac4c0676d3d74b99bedf8",
-            "source": "spacenews",
-            "text": "York Space to buy satcom terminal manufacturer All.Space ",
-            "source_link": "https://spacenews.com/york-space-to-buy-satcom-terminal-manufacturer-all-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T13:14:08.125862Z",
-            "shown_at": [
-                "2026-04-30T13:14:08.860889Z",
-                "2026-05-04T20:54:08.858933Z"
-            ]
-        },
-        {
-            "id": "f8ef3b5ca3800f047746067fc40e924c",
-            "source": "spacenews",
-            "text": "Cosmoleap secures $73 million for reusable rocket with tower catch recovery",
-            "source_link": "https://spacenews.com/cosmoleap-secures-73-million-for-reusable-rocket-with-tower-catch-recovery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T11:59:13.494282Z",
-            "shown_at": [
-                "2026-04-30T12:34:35.147350Z",
-                "2026-05-03T06:44:28.162874Z",
-                "2026-05-04T11:04:48.292855Z"
-            ]
-        },
-        {
-            "id": "30663d009e4fce74a96cfaf462e7ed40",
-            "source": "spacenews",
-            "text": "Morocco signs the Artemis Accords",
-            "source_link": "https://spacenews.com/morocco-signs-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T11:59:13.494208Z",
-            "shown_at": [
-                "2026-04-30T11:59:14.485809Z",
-                "2026-05-03T11:24:32.904382Z",
-                "2026-05-03T16:09:09.756359Z"
-            ]
-        },
-        {
-            "id": "11bcb2c53cf03ad9cf452a04978e5798",
-            "source": "spacenews",
-            "text": "Canadian Space Agency cancels Spire satellite contract",
-            "source_link": "https://spacenews.com/canadian-space-agency-cancels-spire-satellite-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T01:09:21.895546Z",
-            "shown_at": [
-                "2026-04-30T01:09:22.637653Z",
-                "2026-04-30T21:24:18.792740Z",
-                "2026-05-02T19:29:10.397994Z",
-                "2026-05-03T01:59:23.022370Z"
-            ]
-        },
-        {
-            "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
-            "source": "spacenews",
-            "text": "May 13: Software Integration and Strategic Missile Defense",
-            "source_link": "https://spacenews.com/software-integration-and-strategic-missile-defense-virtual-event/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T22:14:33.853145Z",
-            "shown_at": [
-                "2026-04-29T22:49:20.601902Z",
-                "2026-05-03T07:54:16.040476Z"
-            ]
-        },
-        {
-            "id": "7927d7fc16106f6a4a788033a589150f",
-            "source": "spacenews",
-            "text": "ISS module cracking still unresolved despite stopping air leaks",
-            "source_link": "https://spacenews.com/iss-module-cracking-still-unresolved-despite-stopping-air-leaks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T22:14:33.853091Z",
-            "shown_at": [
-                "2026-04-29T22:14:34.674918Z"
-            ]
-        },
-        {
-            "id": "476758e489da47eff15ff51c805dfb7f",
-            "source": "spacenews",
-            "text": "Space Force selects firms to build counter-surveillance payloads for satellites",
-            "source_link": "https://spacenews.com/space-force-selects-firms-to-build-counter-surveillance-payloads-for-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T21:39:17.888541Z",
-            "shown_at": [
-                "2026-04-29T21:39:18.713435Z",
-                "2026-05-03T09:04:34.000580Z"
-            ]
-        },
-        {
-            "id": "b5bc81955dba9bc8e34f9648ed244ad0",
-            "source": "spacenews",
-            "text": "New Singapore space agency seeks to build up the country’s space industry",
-            "source_link": "https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T04:06:03.044806Z",
-            "shown_at": [
-                "2026-07-09T04:06:04.465068Z"
-            ]
-        },
-        {
-            "id": "ae742961ce21367cf383e39ec54934ab",
-            "source": "spacenews",
-            "text": "Golden Dome and the search for new space markets",
-            "source_link": "https://spacenews.com/golden-dome-and-the-search-for-new-space-markets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T12:04:35.552338Z",
-            "shown_at": [
-                "2026-07-09T12:04:36.963723Z"
-            ]
-        },
-        {
-            "id": "37bdeccd4c655716f18d33cbc1447aa7",
-            "source": "spacenews",
-            "text": "Blue Origin seeks to raise $10 billion in outside capital",
-            "source_link": "https://spacenews.com/blue-origin-seeks-to-raise-10-billion-in-outside-capital/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T12:04:35.552408Z",
-            "shown_at": [
-                "2026-07-09T13:32:52.984434Z"
-            ]
-        },
-        {
-            "id": "3ee8e583751f5c94dfee8d6a7cfcbe15",
-            "source": "spacenews",
-            "text": "MDA Space buys French Earth data analytics company CLS",
-            "source_link": "https://spacenews.com/mda-space-buys-french-earth-data-analytics-company-cls/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T12:04:35.552454Z",
-            "shown_at": [
-                "2026-07-09T15:55:31.398921Z"
-            ]
-        },
-        {
-            "id": "d5598271dd234eecf23e71151be6ff7e",
-            "source": "breaking_defense",
-            "text": "Why DoD, Silicon Valley now are betting on solar power beaming sats",
-            "source_link": "https://breakingdefense.com/2026/07/why-dod-silicon-valley-now-are-betting-on-solar-power-beaming-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T15:19:40.707564Z",
-            "shown_at": [
-                "2026-07-09T15:19:41.358627Z",
-                "2026-07-09T19:35:00.903292Z"
-            ]
-        },
-        {
-            "id": "ba34917bc5a4c8583c3816c13e80bcd2",
-            "source": "spacenews",
-            "text": "Volatility is often the price of ambition",
-            "source_link": "https://spacenews.com/volatility-is-often-the-price-of-ambition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T16:39:32.370961Z",
-            "shown_at": [
-                "2026-07-09T16:39:33.122017Z"
-            ]
-        },
-        {
-            "id": "df7bbbadb6ca0df297149be0c80c0d77",
-            "source": "spacenews",
-            "text": "Space Force completes procurement reorganization, creating nine acquisition portfolios",
-            "source_link": "https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T16:39:32.371024Z",
-            "shown_at": [
-                "2026-07-09T17:14:59.897978Z"
-            ]
-        },
-        {
-            "id": "7a77874eb0b6cd203ddb7775b0e89d09",
-            "source": "spacenews",
-            "text": "Space Force awards Pulse Space $40 million to advance laser power technology",
-            "source_link": "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T16:39:32.371069Z",
-            "shown_at": [
-                "2026-07-09T17:49:33.963615Z"
-            ]
-        },
-        {
-            "id": "9b7cdce8c90b2d8c0f80dd284a90447f",
-            "source": "spacenews",
-            "text": "Xona unveils program to verify Pulsar-compatible devices",
-            "source_link": "https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T18:24:58.207714Z",
-            "shown_at": [
-                "2026-07-09T18:24:59.527249Z"
-            ]
-        },
-        {
-            "id": "fe0c71a341b7a0d27c44e398110bd347",
-            "source": "spacenews",
-            "text": "The Exploration Company establishes US entity to pursue government contracts",
-            "source_link": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T20:14:51.859304Z",
-            "shown_at": [
-                "2026-07-09T20:14:54.198932Z"
-            ]
-        },
-        {
-            "id": "c1fb639fde86e6d1216146499aeee42c",
-            "source": "spacenews",
-            "text": "Environmental groups urge FCC to pause orbital data center applications",
-            "source_link": "https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T20:14:51.859380Z",
-            "shown_at": [
-                "2026-07-09T21:35:19.746161Z"
-            ]
-        },
-        {
-            "id": "8ab187054c38136557e56cada22a392e",
-            "source": "nyt",
-            "text": "Wally Funk, Who Set an Age Record for Space Travel, Dies at 87",
-            "source_link": "https://www.nytimes.com/2026/07/09/science/space/wally-funk-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T20:55:30.121081Z",
-            "shown_at": [
-                "2026-07-09T20:55:31.226826Z"
-            ]
-        },
-        {
-            "id": "7c522322905b1f087ec1aa66434223af",
-            "source": "spacenews",
-            "text": "SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development",
-            "source_link": "https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T22:49:29.512719Z",
-            "shown_at": [
-                "2026-07-09T22:49:30.535887Z"
-            ]
-        },
-        {
-            "id": "c27f11fe0a7fb03579db66fae24d1cb6",
-            "source": "spacenews",
-            "text": "Interior Department requests information on offshore launch options",
-            "source_link": "https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-09T23:29:13.243920Z",
-            "shown_at": [
-                "2026-07-09T23:29:14.142558Z"
             ]
         }
     ]
