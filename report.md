@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 16 | 32 |
 | nyt | 1 | 1 | 8 | 18 |
-| breaking_defense | 1 | 4 | 8 | 20 |
+| breaking_defense | 1 | 4 | 9 | 21 |
 
 # Shown Order
 
@@ -2668,3 +2668,4 @@
 - **Jul 10, 02:29 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 10, 03:05 AM** - Volatility is often the price of ambition (spacenews)
 - **Jul 10, 03:44 AM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
+- **Jul 10, 04:19 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
