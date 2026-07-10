@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 18 | 32 |
+| spacenews | 13 | 19 | 19 | 33 |
 | nyt | 2 | 2 | 8 | 18 |
 | breaking_defense | 1 | 4 | 9 | 20 |
 
@@ -2680,3 +2680,4 @@
 - **Jul 10, 09:49 AM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
 - **Jul 10, 10:29 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 10, 11:09 AM** - Blue Origin continues work on lunar landers during recovery from New Glenn explosion (spacenews)
+- **Jul 10, 11:44 AM** - ElevationSpace advances work on commercial reentry vehicle (spacenews)

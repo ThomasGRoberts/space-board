@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-10T00:05:20.260942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4124a4fa06cad9146a2c5cf02251ed03",
+    "trigger_count": 0,
+    "current_item_id": "845ab8cc12badda210562290e7f82428",
     "data": [
         {
             "id": "c27f11fe0a7fb03579db66fae24d1cb6",
@@ -8196,6 +8196,18 @@
             "fetched_datetime": "2026-07-10T09:49:35.122911Z",
             "shown_at": [
                 "2026-07-10T09:49:35.979402Z"
+            ]
+        },
+        {
+            "id": "845ab8cc12badda210562290e7f82428",
+            "source": "spacenews",
+            "text": "ElevationSpace advances work on commercial reentry vehicle",
+            "source_link": "https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T11:44:55.453689Z",
+            "shown_at": [
+                "2026-07-10T11:44:57.028840Z"
             ]
         }
     ]
