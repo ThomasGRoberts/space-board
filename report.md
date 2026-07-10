@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 17 | 33 |
+| spacenews | 9 | 20 | 18 | 34 |
 | nyt | 2 | 2 | 11 | 19 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 
@@ -2694,3 +2694,4 @@
 - **Jul 10, 06:45 PM** - Earth observation satellites pass telecom in European space industry sales (spacenews)
 - **Jul 10, 07:19 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 10, 07:54 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
+- **Jul 10, 08:29 PM** - SpaceX launches Transporter-17 amid concerns about rideshare program’s future (spacenews)
