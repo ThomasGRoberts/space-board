@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-10T00:05:20.260942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c41bb9f446b35e3c45e51d377393565d",
+    "trigger_count": 0,
+    "current_item_id": "d209a85f992051f20e5f766528e09282",
     "data": [
         {
             "id": "c27f11fe0a7fb03579db66fae24d1cb6",
@@ -8249,6 +8249,18 @@
             "fetched_datetime": "2026-07-10T14:24:52.941538Z",
             "shown_at": [
                 "2026-07-10T14:24:54.578213Z"
+            ]
+        },
+        {
+            "id": "d209a85f992051f20e5f766528e09282",
+            "source": "spacenews",
+            "text": "China unveils members of state-backed commercial space consortium",
+            "source_link": "https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T17:35:00.097153Z",
+            "shown_at": [
+                "2026-07-10T17:35:02.024174Z"
             ]
         }
     ]

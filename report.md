@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 18 | 33 |
+| spacenews | 11 | 20 | 19 | 34 |
 | nyt | 2 | 2 | 10 | 18 |
 | breaking_defense | 0 | 3 | 10 | 20 |
 
@@ -2689,3 +2689,4 @@
 - **Jul 10, 03:39 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
 - **Jul 10, 04:15 PM** - Volatility is often the price of ambition (spacenews)
 - **Jul 10, 04:55 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
+- **Jul 10, 05:35 PM** - China unveils members of state-backed commercial space consortium (spacenews)
