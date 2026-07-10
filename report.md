@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 18 | 32 |
 | nyt | 1 | 1 | 8 | 18 |
-| breaking_defense | 1 | 4 | 8 | 20 |
+| breaking_defense | 1 | 4 | 9 | 21 |
 
 # Shown Order
 
@@ -2675,3 +2675,4 @@
 - **Jul 10, 06:45 AM** - Simera Sense to provide imagers for Canary Islands constellation (spacenews)
 - **Jul 10, 07:19 AM** - China becomes second country to recover orbital booster with Long March 10B (spacenews)
 - **Jul 10, 07:54 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 10, 08:29 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
