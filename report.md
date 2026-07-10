@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 19 | 17 | 34 |
 | nyt | 1 | 2 | 11 | 18 |
-| breaking_defense | 0 | 1 | 10 | 19 |
+| breaking_defense | 0 | 1 | 11 | 20 |
 
 # Shown Order
 
@@ -2698,3 +2698,4 @@
 - **Jul 10, 09:05 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 10, 09:39 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
 - **Jul 10, 10:19 PM** - BAE microchip designed for strategic defense missions passes radiation test (spacenews)
+- **Jul 10, 10:54 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
