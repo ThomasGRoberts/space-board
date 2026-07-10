@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-10T00:05:20.260942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4b7ee3b287f677e3f1fe633fe530bf69",
+    "trigger_count": 0,
+    "current_item_id": "efb1abf66704349c9327e5902398cd1f",
     "data": [
         {
             "id": "c27f11fe0a7fb03579db66fae24d1cb6",
@@ -8210,6 +8210,27 @@
             "shown_at": [
                 "2026-07-10T11:44:57.028840Z"
             ]
+        },
+        {
+            "id": "efb1abf66704349c9327e5902398cd1f",
+            "source": "spacenews",
+            "text": "Startup testing nuclear battery technology in orbit",
+            "source_link": "https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T13:05:20.558487Z",
+            "shown_at": [
+                "2026-07-10T13:05:21.515032Z"
+            ]
+        },
+        {
+            "id": "fd905b1a160fd79aa05f927f30d06b59",
+            "source": "spacenews",
+            "text": "Space capitalism needs more than a bull market",
+            "source_link": "https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T13:05:20.558563Z"
         }
     ]
 }
