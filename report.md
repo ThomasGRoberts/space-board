@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 17 | 33 |
+| spacenews | 9 | 19 | 18 | 34 |
 | nyt | 1 | 2 | 11 | 19 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 
@@ -2697,3 +2697,4 @@
 - **Jul 10, 08:29 PM** - SpaceX launches Transporter-17 amid concerns about rideshare program’s future (spacenews)
 - **Jul 10, 09:05 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 10, 09:39 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
+- **Jul 10, 10:19 PM** - BAE microchip designed for strategic defense missions passes radiation test (spacenews)
