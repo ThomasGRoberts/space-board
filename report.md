@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 16 | 31 |
+| spacenews | 12 | 19 | 17 | 32 |
 | nyt | 1 | 1 | 7 | 18 |
 | breaking_defense | 1 | 4 | 9 | 21 |
 
@@ -2666,3 +2666,4 @@
 - **Jul 10, 01:19 AM** - NASA adds three European firms to the commercial data program (spacenews)
 - **Jul 10, 01:55 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 10, 02:29 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 10, 03:05 AM** - Volatility is often the price of ambition (spacenews)
