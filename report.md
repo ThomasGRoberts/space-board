@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 18 | 34 |
 | nyt | 2 | 2 | 10 | 18 |
-| breaking_defense | 0 | 2 | 10 | 19 |
+| breaking_defense | 0 | 2 | 11 | 20 |
 
 # Shown Order
 
@@ -2692,3 +2692,4 @@
 - **Jul 10, 05:35 PM** - China unveils members of state-backed commercial space consortium (spacenews)
 - **Jul 10, 06:09 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 10, 06:45 PM** - Earth observation satellites pass telecom in European space industry sales (spacenews)
+- **Jul 10, 07:19 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
