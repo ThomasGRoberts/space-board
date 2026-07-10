@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 18 | 33 |
-| nyt | 1 | 2 | 10 | 18 |
+| spacenews | 9 | 19 | 17 | 33 |
+| nyt | 1 | 2 | 11 | 19 |
 | breaking_defense | 0 | 1 | 11 | 20 |
 
 # Shown Order
@@ -2696,3 +2696,4 @@
 - **Jul 10, 07:54 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
 - **Jul 10, 08:29 PM** - SpaceX launches Transporter-17 amid concerns about rideshare program’s future (spacenews)
 - **Jul 10, 09:05 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 10, 09:39 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
