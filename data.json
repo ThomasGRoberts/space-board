@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-10T00:05:20.260942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "155a3bab5e7d3d21990b3f6bb71f7fb2",
+    "trigger_count": 0,
+    "current_item_id": "63faa8fe62097d25a91d076673ba4537",
     "data": [
         {
             "id": "c27f11fe0a7fb03579db66fae24d1cb6",
@@ -8262,6 +8262,18 @@
             "fetched_datetime": "2026-07-10T17:35:00.097153Z",
             "shown_at": [
                 "2026-07-10T17:35:02.024174Z"
+            ]
+        },
+        {
+            "id": "63faa8fe62097d25a91d076673ba4537",
+            "source": "spacenews",
+            "text": "Earth observation satellites pass telecom in European space industry sales",
+            "source_link": "https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T18:45:00.787478Z",
+            "shown_at": [
+                "2026-07-10T18:45:01.859969Z"
             ]
         }
     ]
