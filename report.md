@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 16 | 31 |
+| spacenews | 11 | 19 | 17 | 32 |
 | nyt | 1 | 1 | 7 | 18 |
 | breaking_defense | 1 | 4 | 9 | 21 |
 
@@ -2669,3 +2669,4 @@
 - **Jul 10, 03:05 AM** - Volatility is often the price of ambition (spacenews)
 - **Jul 10, 03:44 AM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
 - **Jul 10, 04:19 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
+- **Jul 10, 04:59 AM** - Apolink makes contact with first relay satellite (spacenews)
