@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 16 | 32 |
 | nyt | 1 | 1 | 8 | 18 |
-| breaking_defense | 1 | 4 | 8 | 20 |
+| breaking_defense | 1 | 4 | 9 | 21 |
 
 # Shown Order
 
@@ -2671,3 +2671,4 @@
 - **Jul 10, 04:19 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 10, 04:59 AM** - Apolink makes contact with first relay satellite (spacenews)
 - **Jul 10, 05:35 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 10, 06:09 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
