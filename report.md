@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 18 | 34 |
-| nyt | 2 | 2 | 10 | 18 |
+| nyt | 2 | 2 | 11 | 19 |
 | breaking_defense | 0 | 2 | 10 | 19 |
 
 # Shown Order
@@ -2690,3 +2690,4 @@
 - **Jul 10, 04:15 PM** - Volatility is often the price of ambition (spacenews)
 - **Jul 10, 04:55 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 10, 05:35 PM** - China unveils members of state-backed commercial space consortium (spacenews)
+- **Jul 10, 06:09 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
