@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 17 | 33 |
 | nyt | 1 | 1 | 7 | 18 |
-| breaking_defense | 1 | 4 | 8 | 19 |
+| breaking_defense | 1 | 4 | 9 | 20 |
 
 # Shown Order
 
@@ -2662,3 +2662,4 @@
 - **Jul 09, 10:49 PM** - SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development (spacenews)
 - **Jul 09, 11:29 PM** - Interior Department requests information on offshore launch options (spacenews)
 - **Jul 10, 12:05 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
+- **Jul 10, 12:44 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
