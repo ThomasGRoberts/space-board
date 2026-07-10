@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 17 | 32 |
 | nyt | 1 | 1 | 7 | 18 |
-| breaking_defense | 1 | 4 | 8 | 20 |
+| breaking_defense | 1 | 4 | 9 | 21 |
 
 # Shown Order
 
@@ -2665,3 +2665,4 @@
 - **Jul 10, 12:44 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 10, 01:19 AM** - NASA adds three European firms to the commercial data program (spacenews)
 - **Jul 10, 01:55 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
+- **Jul 10, 02:29 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
