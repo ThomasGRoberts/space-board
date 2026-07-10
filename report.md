@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 17 | 32 |
+| spacenews | 12 | 20 | 18 | 33 |
 | nyt | 1 | 1 | 7 | 18 |
 | breaking_defense | 1 | 4 | 9 | 20 |
 
@@ -2673,3 +2673,4 @@
 - **Jul 10, 05:35 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 10, 06:09 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 10, 06:45 AM** - Simera Sense to provide imagers for Canary Islands constellation (spacenews)
+- **Jul 10, 07:19 AM** - China becomes second country to recover orbital booster with Long March 10B (spacenews)

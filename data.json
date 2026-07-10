@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-10T00:05:20.260942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1ca9fb3df840886e7d4b70f06fd7f593",
+    "trigger_count": 0,
+    "current_item_id": "44695bfef2caf0d55cda588fbff6a09c",
     "data": [
         {
             "id": "c27f11fe0a7fb03579db66fae24d1cb6",
@@ -8167,6 +8167,18 @@
                 "2026-05-08T07:14:31.463002Z",
                 "2026-05-08T08:24:19.551514Z",
                 "2026-05-08T09:34:29.769339Z"
+            ]
+        },
+        {
+            "id": "44695bfef2caf0d55cda588fbff6a09c",
+            "source": "spacenews",
+            "text": "China becomes second country to recover orbital booster with Long March 10B",
+            "source_link": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T07:19:32.497317Z",
+            "shown_at": [
+                "2026-07-10T07:19:33.270849Z"
             ]
         }
     ]
