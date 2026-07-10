@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 16 | 32 |
+| spacenews | 12 | 21 | 17 | 33 |
 | nyt | 1 | 1 | 7 | 18 |
 | breaking_defense | 1 | 4 | 9 | 20 |
 
@@ -2663,3 +2663,4 @@
 - **Jul 09, 11:29 PM** - Interior Department requests information on offshore launch options (spacenews)
 - **Jul 10, 12:05 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 10, 12:44 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
+- **Jul 10, 01:19 AM** - NASA adds three European firms to the commercial data program (spacenews)
