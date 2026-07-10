@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 17 | 32 |
+| spacenews | 12 | 19 | 18 | 33 |
 | nyt | 1 | 1 | 8 | 18 |
 | breaking_defense | 1 | 4 | 9 | 20 |
 
@@ -2676,3 +2676,4 @@
 - **Jul 10, 07:19 AM** - China becomes second country to recover orbital booster with Long March 10B (spacenews)
 - **Jul 10, 07:54 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 10, 08:29 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
+- **Jul 10, 09:09 AM** - Pegasus launches Swift reboost mission (spacenews)
