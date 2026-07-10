@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-10T00:05:20.260942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fd905b1a160fd79aa05f927f30d06b59",
+    "trigger_count": 0,
+    "current_item_id": "b39ef3d29c550fd5907c414a2dc82d8d",
     "data": [
         {
             "id": "c27f11fe0a7fb03579db66fae24d1cb6",
@@ -8233,6 +8233,18 @@
             "fetched_datetime": "2026-07-10T13:05:20.558563Z",
             "shown_at": [
                 "2026-07-10T13:39:33.334772Z"
+            ]
+        },
+        {
+            "id": "b39ef3d29c550fd5907c414a2dc82d8d",
+            "source": "spacenews",
+            "text": "The space industry is weighing ambitious hiring against heritage",
+            "source_link": "https://spacenews.com/the-space-industry-is-weighing-ambitious-hiring-against-heritage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T14:24:52.941538Z",
+            "shown_at": [
+                "2026-07-10T14:24:54.578213Z"
             ]
         }
     ]

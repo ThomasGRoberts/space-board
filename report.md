@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 19 | 32 |
+| spacenews | 13 | 19 | 20 | 33 |
 | nyt | 2 | 2 | 9 | 18 |
 | breaking_defense | 1 | 4 | 9 | 20 |
 
@@ -2684,3 +2684,4 @@
 - **Jul 10, 12:25 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
 - **Jul 10, 01:05 PM** - Startup testing nuclear battery technology in orbit (spacenews)
 - **Jul 10, 01:39 PM** - Space capitalism needs more than a bull market (spacenews)
+- **Jul 10, 02:24 PM** - The space industry is weighing ambitious hiring against heritage (spacenews)
