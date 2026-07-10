@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-10T00:05:20.260942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e5041b58661e42e94c10af968c5ff1c7",
+    "trigger_count": 0,
+    "current_item_id": "4b7ee3b287f677e3f1fe633fe530bf69",
     "data": [
         {
             "id": "c27f11fe0a7fb03579db66fae24d1cb6",
@@ -8182,6 +8182,18 @@
             "fetched_datetime": "2026-07-10T07:19:32.497317Z",
             "shown_at": [
                 "2026-07-10T07:19:33.270849Z"
+            ]
+        },
+        {
+            "id": "4b7ee3b287f677e3f1fe633fe530bf69",
+            "source": "nyt",
+            "text": "This Star Just Ate a Planet, and It’s Not Done Yet",
+            "source_link": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T09:49:35.122911Z",
+            "shown_at": [
+                "2026-07-10T09:49:35.979402Z"
             ]
         }
     ]
