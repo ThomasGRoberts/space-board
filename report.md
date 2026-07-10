@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 17 | 32 |
-| nyt | 1 | 1 | 7 | 18 |
+| nyt | 1 | 1 | 8 | 19 |
 | breaking_defense | 1 | 4 | 8 | 20 |
 
 # Shown Order
@@ -2667,3 +2667,4 @@
 - **Jul 10, 01:55 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 10, 02:29 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 10, 03:05 AM** - Volatility is often the price of ambition (spacenews)
+- **Jul 10, 03:44 AM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
