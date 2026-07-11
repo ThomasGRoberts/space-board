@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 17 | 14 | 34 |
+| spacenews | 4 | 17 | 15 | 35 |
 | nyt | 2 | 4 | 14 | 23 |
-| breaking_defense | 0 | 1 | 11 | 21 |
+| breaking_defense | 0 | 0 | 11 | 20 |
 
 # Shown Order
 
@@ -2601,3 +2601,4 @@
 - **Jul 11, 01:39 PM** - Parabilis tests propulsion system for maneuverable cubesats (spacenews)
 - **Jul 11, 02:15 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 11, 02:49 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
+- **Jul 11, 03:24 PM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
