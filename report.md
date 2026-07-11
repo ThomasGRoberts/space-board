@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 17 | 34 |
 | nyt | 3 | 4 | 12 | 19 |
-| breaking_defense | 0 | 1 | 9 | 18 |
+| breaking_defense | 0 | 1 | 10 | 19 |
 
 # Shown Order
 
@@ -2580,3 +2580,4 @@
 - **Jul 11, 12:49 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 11, 01:29 AM** - FCC approves first Reflect Orbital satellite (spacenews)
 - **Jul 11, 02:05 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
+- **Jul 11, 02:39 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
