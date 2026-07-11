@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 17 | 34 |
-| nyt | 3 | 4 | 11 | 19 |
+| nyt | 3 | 4 | 12 | 20 |
 | breaking_defense | 0 | 1 | 10 | 18 |
 
 # Shown Order
@@ -2582,3 +2582,4 @@
 - **Jul 11, 02:05 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 11, 02:39 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 11, 03:19 AM** - Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard (spacenews)
+- **Jul 11, 03:54 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
