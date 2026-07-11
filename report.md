@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 16 | 15 | 33 |
+| spacenews | 5 | 17 | 15 | 34 |
 | nyt | 2 | 4 | 13 | 22 |
 | breaking_defense | 0 | 1 | 11 | 20 |
 
@@ -2598,3 +2598,4 @@
 - **Jul 11, 11:49 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 11, 12:29 PM** - Blue Origin continues work on lunar landers during recovery from New Glenn explosion (spacenews)
 - **Jul 11, 01:05 PM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
+- **Jul 11, 01:39 PM** - Parabilis tests propulsion system for maneuverable cubesats (spacenews)

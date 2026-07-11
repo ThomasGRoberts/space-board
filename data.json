@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-11T00:05:24.123093+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d2fe506e5471870beec243af31f94622",
+    "trigger_count": 0,
+    "current_item_id": "4b5eadcc7c6dfc36d66c5293c60082cc",
     "data": [
         {
             "id": "63faa8fe62097d25a91d076673ba4537",
@@ -8125,6 +8125,18 @@
             "fetched_datetime": "2026-07-11T01:29:24.398711Z",
             "shown_at": [
                 "2026-07-11T01:29:25.233521Z"
+            ]
+        },
+        {
+            "id": "4b5eadcc7c6dfc36d66c5293c60082cc",
+            "source": "spacenews",
+            "text": "Parabilis tests propulsion system for maneuverable cubesats",
+            "source_link": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-11T13:39:54.581488Z",
+            "shown_at": [
+                "2026-07-11T13:39:57.222633Z"
             ]
         }
     ]
