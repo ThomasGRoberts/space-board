@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 13 | 13 | 31 |
+| spacenews | 2 | 13 | 14 | 32 |
 | nyt | 2 | 4 | 14 | 25 |
 | breaking_defense | 0 | 0 | 12 | 22 |
 
@@ -2607,3 +2607,4 @@
 - **Jul 11, 05:09 PM** - Xona unveils program to verify Pulsar-compatible devices (spacenews)
 - **Jul 11, 05:45 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 11, 06:19 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
+- **Jul 11, 06:59 PM** - Space Force adds Relativity, Impulse Space to national security launch program (spacenews)
