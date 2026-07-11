@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 31 |
 | nyt | 2 | 3 | 14 | 25 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2614,3 +2614,4 @@
 - **Jul 11, 09:24 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 11, 09:59 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 11, 10:34 PM** - Iridium folds Aireon aviation safety service into Rocket Lab-bound business (spacenews)
+- **Jul 11, 11:14 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
