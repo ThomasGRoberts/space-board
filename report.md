@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 19 | 17 | 33 |
+| spacenews | 8 | 19 | 17 | 34 |
 | nyt | 3 | 4 | 12 | 19 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 
@@ -2584,3 +2584,4 @@
 - **Jul 11, 03:19 AM** - Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard (spacenews)
 - **Jul 11, 03:54 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 11, 04:28 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 11, 05:05 AM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)
