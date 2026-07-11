@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 17 | 35 |
-| nyt | 2 | 4 | 12 | 20 |
+| spacenews | 7 | 19 | 16 | 35 |
+| nyt | 2 | 4 | 13 | 21 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 
 # Shown Order
@@ -2594,3 +2594,4 @@
 - **Jul 11, 09:24 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 11, 09:59 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 11, 10:35 AM** - The government’s options to address strained spaceports (spacenews)
+- **Jul 11, 11:09 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
