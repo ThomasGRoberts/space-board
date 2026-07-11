@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 11 | 14 | 31 |
-| nyt | 2 | 3 | 13 | 24 |
+| nyt | 2 | 3 | 14 | 25 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2612,3 +2612,4 @@
 - **Jul 11, 08:14 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 11, 08:49 PM** - New Singapore space agency seeks to build up the country’s space industry (spacenews)
 - **Jul 11, 09:24 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
+- **Jul 11, 09:59 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
