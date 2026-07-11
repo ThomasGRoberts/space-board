@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 16 | 34 |
 | nyt | 3 | 4 | 12 | 20 |
-| breaking_defense | 0 | 1 | 10 | 18 |
+| breaking_defense | 0 | 1 | 11 | 19 |
 
 # Shown Order
 
@@ -2589,3 +2589,4 @@
 - **Jul 11, 06:19 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 11, 06:55 AM** - Airbus to build Aeolus-2 wind-monitoring satellite (spacenews)
 - **Jul 11, 07:35 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
+- **Jul 11, 08:09 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
