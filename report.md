@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 17 | 15 | 34 |
 | nyt | 2 | 4 | 13 | 22 |
-| breaking_defense | 0 | 1 | 11 | 20 |
+| breaking_defense | 0 | 1 | 12 | 21 |
 
 # Shown Order
 
@@ -2599,3 +2599,4 @@
 - **Jul 11, 12:29 PM** - Blue Origin continues work on lunar landers during recovery from New Glenn explosion (spacenews)
 - **Jul 11, 01:05 PM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 11, 01:39 PM** - Parabilis tests propulsion system for maneuverable cubesats (spacenews)
+- **Jul 11, 02:15 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
