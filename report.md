@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 14 | 33 |
+| spacenews | 4 | 14 | 15 | 34 |
 | nyt | 2 | 4 | 14 | 24 |
 | breaking_defense | 0 | 0 | 11 | 21 |
 
@@ -2604,3 +2604,4 @@
 - **Jul 11, 03:24 PM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
 - **Jul 11, 03:59 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 11, 04:35 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
+- **Jul 11, 05:09 PM** - Xona unveils program to verify Pulsar-compatible devices (spacenews)
