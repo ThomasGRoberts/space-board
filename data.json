@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-11T00:05:24.123093+00:00",
-    "trigger_count": 6,
-    "current_item_id": "29a07036680aeed78df0f5b32bbccdf2",
+    "trigger_count": 0,
+    "current_item_id": "65db498ecaca2ea23aa3e476cd4dc1d9",
     "data": [
         {
             "id": "63faa8fe62097d25a91d076673ba4537",
@@ -8093,6 +8093,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-07-11T00:49:23.968296Z"
+        },
+        {
+            "id": "65db498ecaca2ea23aa3e476cd4dc1d9",
+            "source": "spacenews",
+            "text": "FCC approves first Reflect Orbital satellite",
+            "source_link": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-11T01:29:24.398711Z",
+            "shown_at": [
+                "2026-07-11T01:29:25.233521Z"
+            ]
         }
     ]
 }
