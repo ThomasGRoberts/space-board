@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 13 | 14 | 32 |
 | nyt | 2 | 4 | 14 | 24 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 22 |
 
 # Shown Order
 
@@ -2608,3 +2608,4 @@
 - **Jul 11, 05:45 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 11, 06:19 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
 - **Jul 11, 06:59 PM** - Space Force adds Relativity, Impulse Space to national security launch program (spacenews)
+- **Jul 11, 07:35 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
