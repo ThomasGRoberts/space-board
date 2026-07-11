@@ -1,9 +1,108 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-10T00:05:20.260942+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-07-11T00:05:24.123093+00:00",
+    "trigger_count": 6,
     "current_item_id": "4b7ee3b287f677e3f1fe633fe530bf69",
     "data": [
+        {
+            "id": "63faa8fe62097d25a91d076673ba4537",
+            "source": "spacenews",
+            "text": "Earth observation satellites pass telecom in European space industry sales",
+            "source_link": "https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T18:45:00.787478Z",
+            "shown_at": [
+                "2026-07-10T18:45:01.859969Z"
+            ]
+        },
+        {
+            "id": "d209a85f992051f20e5f766528e09282",
+            "source": "spacenews",
+            "text": "China unveils members of state-backed commercial space consortium",
+            "source_link": "https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T17:35:00.097153Z",
+            "shown_at": [
+                "2026-07-10T17:35:02.024174Z"
+            ]
+        },
+        {
+            "id": "b39ef3d29c550fd5907c414a2dc82d8d",
+            "source": "spacenews",
+            "text": "The space industry is weighing ambitious hiring against heritage",
+            "source_link": "https://spacenews.com/the-space-industry-is-weighing-ambitious-hiring-against-heritage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T14:24:52.941538Z",
+            "shown_at": [
+                "2026-07-10T14:24:54.578213Z"
+            ]
+        },
+        {
+            "id": "fd905b1a160fd79aa05f927f30d06b59",
+            "source": "spacenews",
+            "text": "Space capitalism needs more than a bull market",
+            "source_link": "https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T13:05:20.558563Z",
+            "shown_at": [
+                "2026-07-10T13:39:33.334772Z"
+            ]
+        },
+        {
+            "id": "efb1abf66704349c9327e5902398cd1f",
+            "source": "spacenews",
+            "text": "Startup testing nuclear battery technology in orbit",
+            "source_link": "https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T13:05:20.558487Z",
+            "shown_at": [
+                "2026-07-10T13:05:21.515032Z"
+            ]
+        },
+        {
+            "id": "845ab8cc12badda210562290e7f82428",
+            "source": "spacenews",
+            "text": "ElevationSpace advances work on commercial reentry vehicle",
+            "source_link": "https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T11:44:55.453689Z",
+            "shown_at": [
+                "2026-07-10T11:44:57.028840Z"
+            ]
+        },
+        {
+            "id": "4b7ee3b287f677e3f1fe633fe530bf69",
+            "source": "nyt",
+            "text": "This Star Just Ate a Planet, and It’s Not Done Yet",
+            "source_link": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T09:49:35.122911Z",
+            "shown_at": [
+                "2026-07-10T09:49:35.979402Z",
+                "2026-07-10T12:25:55.326627Z",
+                "2026-07-10T21:39:18.640851Z",
+                "2026-07-10T23:35:12.618570Z"
+            ]
+        },
+        {
+            "id": "44695bfef2caf0d55cda588fbff6a09c",
+            "source": "spacenews",
+            "text": "China becomes second country to recover orbital booster with Long March 10B",
+            "source_link": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-10T07:19:32.497317Z",
+            "shown_at": [
+                "2026-07-10T07:19:33.270849Z"
+            ]
+        },
         {
             "id": "c27f11fe0a7fb03579db66fae24d1cb6",
             "source": "spacenews",
@@ -7971,317 +8070,6 @@
             "fetched_datetime": "2026-05-04T02:49:08.747611Z",
             "shown_at": [
                 "2026-05-04T02:49:09.603165Z"
-            ]
-        },
-        {
-            "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
-            "source": "spacenews",
-            "text": "National Geospatial-Intelligence Agency to open programs to more vendors",
-            "source_link": "https://spacenews.com/national-geospatial-intelligence-agency-to-open-programs-to-more-vendors/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-03T20:54:25.700985Z",
-            "shown_at": [
-                "2026-05-03T20:54:26.475175Z",
-                "2026-05-09T00:09:36.971952Z",
-                "2026-05-09T01:19:34.937030Z"
-            ]
-        },
-        {
-            "id": "c22a001ed2a724a9cca66ca74b2b6f81",
-            "source": "spacenews",
-            "text": "NGA pushes AI adoption as demand grows for ‘always-on’ intelligence ",
-            "source_link": "https://spacenews.com/nga-pushes-ai-adoption-as-demand-grows-for-always-on-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-03T20:18:54.826862Z",
-            "shown_at": [
-                "2026-05-03T20:18:55.737785Z",
-                "2026-05-06T06:24:20.086143Z",
-                "2026-05-06T14:04:36.070997Z",
-                "2026-05-07T07:29:12.831508Z",
-                "2026-05-08T18:54:20.478701Z"
-            ]
-        },
-        {
-            "id": "5e569a02fbd9105671bbb0af38eed18c",
-            "source": "spacenews",
-            "text": "Artemis 3 plans remain uncertain as schedule slips",
-            "source_link": "https://spacenews.com/artemis-3-plans-remain-uncertain-as-schedule-slips/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-03T00:49:28.498909Z",
-            "shown_at": [
-                "2026-05-03T00:49:29.601278Z",
-                "2026-05-03T18:34:31.920187Z"
-            ]
-        },
-        {
-            "id": "405df207848ef17b66dff29affbd9662",
-            "source": "spacenews",
-            "text": "Trump nominates Schiess as next Space Force chief",
-            "source_link": "https://spacenews.com/trump-nominates-schiess-as-next-space-force-chief/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T13:29:08.779097Z",
-            "shown_at": [
-                "2026-05-02T09:54:27.291015Z",
-                "2026-05-03T12:34:46.630646Z",
-                "2026-05-03T22:04:37.370600Z",
-                "2026-05-03T23:14:15.559833Z",
-                "2026-05-07T02:39:31.322083Z",
-                "2026-05-07T09:49:19.227001Z",
-                "2026-05-08T07:49:21.687680Z"
-            ]
-        },
-        {
-            "id": "ed9280a90a24837ac1a96606051585e8",
-            "source": "spacenews",
-            "text": "Starcloud seeks more orbital data center funding shortly after unicorn status",
-            "source_link": "https://spacenews.com/starcloud-seeks-more-orbital-data-center-funding-shortly-after-unicorn-status/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T13:29:08.779028Z",
-            "shown_at": [
-                "2026-05-01T13:29:09.609940Z",
-                "2026-05-03T17:24:28.387067Z",
-                "2026-05-05T05:44:27.856822Z",
-                "2026-05-07T01:29:16.865430Z",
-                "2026-05-07T04:59:09.590501Z"
-            ]
-        },
-        {
-            "id": "ec3fee0234c7cfd4bd39ce3f39dceacd",
-            "source": "spacenews",
-            "text": "Amazon Leo passes 300 satellites with Atlas and Ariane launches",
-            "source_link": "https://spacenews.com/amazon-leo-passes-300-satellites-with-atlas-and-ariane-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T12:19:27.559989Z",
-            "shown_at": [
-                "2026-05-01T12:19:28.356371Z",
-                "2026-05-06T03:58:59.758861Z"
-            ]
-        },
-        {
-            "id": "81942147bb55463cffb47b2b97f9c08d",
-            "source": "spacenews",
-            "text": "DARPA selects three companies for lunar orbiter studies",
-            "source_link": "https://spacenews.com/darpa-selects-three-companies-for-lunar-orbiter-studies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T11:09:06.000571Z",
-            "shown_at": [
-                "2026-05-01T11:09:06.740324Z",
-                "2026-05-05T09:19:15.824239Z"
-            ]
-        },
-        {
-            "id": "8c0677a696b9af4343d8bdeb55200422",
-            "source": "nyt",
-            "text": "Why So Many People Already Own Shares of Elon Musk’s SpaceX",
-            "source_link": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T10:29:11.805051Z",
-            "shown_at": [
-                "2026-05-01T10:29:12.584574Z",
-                "2026-05-01T11:44:34.776838Z",
-                "2026-05-01T12:54:21.169911Z",
-                "2026-05-02T10:29:12.707371Z",
-                "2026-05-02T11:39:21.470480Z",
-                "2026-05-02T12:49:07.326669Z",
-                "2026-05-02T13:59:11.427990Z",
-                "2026-05-02T15:09:06.105634Z",
-                "2026-05-02T16:19:12.104799Z",
-                "2026-05-02T17:29:02.179415Z",
-                "2026-05-02T18:54:26.847662Z",
-                "2026-05-02T20:04:33.470014Z",
-                "2026-05-02T21:14:14.660937Z",
-                "2026-05-02T22:24:20.964605Z",
-                "2026-05-02T23:39:17.318308Z",
-                "2026-05-03T01:24:17.349988Z",
-                "2026-05-03T02:34:22.714716Z",
-                "2026-05-03T03:44:33.109042Z",
-                "2026-05-03T04:59:19.066810Z",
-                "2026-05-03T06:09:15.501605Z",
-                "2026-05-03T07:18:58.839541Z",
-                "2026-05-03T08:29:29.760519Z",
-                "2026-05-03T09:39:09.722541Z",
-                "2026-05-03T10:49:07.814603Z",
-                "2026-05-03T11:59:16.183989Z",
-                "2026-05-03T13:09:27.247665Z",
-                "2026-05-03T14:19:19.189044Z",
-                "2026-05-03T15:29:09.351688Z",
-                "2026-05-03T16:49:25.084542Z",
-                "2026-05-03T17:58:46.376695Z",
-                "2026-05-03T19:09:14.707355Z",
-                "2026-05-03T21:29:11.171134Z",
-                "2026-05-03T22:39:15.992463Z",
-                "2026-05-03T23:54:20.473190Z",
-                "2026-05-04T01:04:30.915413Z",
-                "2026-05-04T02:14:06.559315Z",
-                "2026-05-04T03:24:28.118520Z",
-                "2026-05-04T04:34:32.731269Z",
-                "2026-05-04T05:44:12.240068Z",
-                "2026-05-04T06:54:40.322903Z",
-                "2026-05-04T08:09:17.918320Z",
-                "2026-05-04T09:19:22.789722Z",
-                "2026-05-04T10:29:14.867604Z",
-                "2026-05-04T16:09:21.403216Z",
-                "2026-05-04T19:04:31.521760Z",
-                "2026-05-04T20:19:11.230307Z",
-                "2026-05-04T21:29:09.385342Z",
-                "2026-05-04T22:39:18.122146Z",
-                "2026-05-05T00:24:29.908222Z",
-                "2026-05-05T02:49:19.495471Z",
-                "2026-05-05T04:00:20.762201Z",
-                "2026-05-05T05:09:23.585343Z",
-                "2026-05-05T06:24:13.733312Z",
-                "2026-05-05T07:34:37.642291Z",
-                "2026-05-05T08:45:07.066983Z",
-                "2026-05-05T09:54:20.570694Z",
-                "2026-05-05T12:19:20.282226Z",
-                "2026-05-05T19:34:19.226389Z",
-                "2026-05-05T20:49:44.402976Z",
-                "2026-05-06T00:54:19.438101Z",
-                "2026-05-06T02:14:15.181977Z",
-                "2026-05-06T03:24:15.112211Z",
-                "2026-05-06T04:34:35.024999Z",
-                "2026-05-06T05:43:40.252090Z",
-                "2026-05-06T06:59:14.781664Z",
-                "2026-05-06T08:14:33.305950Z",
-                "2026-05-06T09:24:32.979654Z",
-                "2026-05-06T11:44:18.741365Z",
-                "2026-05-06T13:29:33.666553Z",
-                "2026-05-06T17:14:18.049845Z",
-                "2026-05-06T19:04:51.574547Z",
-                "2026-05-06T20:49:11.026658Z",
-                "2026-05-06T22:34:26.457651Z",
-                "2026-05-06T23:44:20.150665Z",
-                "2026-05-07T00:54:11.770665Z",
-                "2026-05-07T02:04:39.706720Z",
-                "2026-05-07T03:14:24.034070Z",
-                "2026-05-07T04:24:18.940796Z",
-                "2026-05-07T05:34:47.286257Z",
-                "2026-05-07T06:49:25.747305Z",
-                "2026-05-07T08:04:57.109258Z",
-                "2026-05-07T09:14:28.694043Z",
-                "2026-05-07T10:24:18.378414Z",
-                "2026-05-07T14:05:36.356155Z",
-                "2026-05-07T17:44:40.264254Z",
-                "2026-05-07T19:29:23.205583Z",
-                "2026-05-07T20:39:11.006803Z",
-                "2026-05-07T21:49:36.628561Z",
-                "2026-05-07T22:59:19.483744Z",
-                "2026-05-08T00:09:24.977319Z",
-                "2026-05-08T01:19:21.862026Z",
-                "2026-05-08T02:29:19.944143Z",
-                "2026-05-08T03:39:13.882341Z",
-                "2026-05-08T04:49:18.644715Z",
-                "2026-05-08T05:59:24.307985Z",
-                "2026-05-08T07:14:31.463002Z",
-                "2026-05-08T08:24:19.551514Z",
-                "2026-05-08T09:34:29.769339Z"
-            ]
-        },
-        {
-            "id": "44695bfef2caf0d55cda588fbff6a09c",
-            "source": "spacenews",
-            "text": "China becomes second country to recover orbital booster with Long March 10B",
-            "source_link": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-10T07:19:32.497317Z",
-            "shown_at": [
-                "2026-07-10T07:19:33.270849Z"
-            ]
-        },
-        {
-            "id": "4b7ee3b287f677e3f1fe633fe530bf69",
-            "source": "nyt",
-            "text": "This Star Just Ate a Planet, and It’s Not Done Yet",
-            "source_link": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-10T09:49:35.122911Z",
-            "shown_at": [
-                "2026-07-10T09:49:35.979402Z",
-                "2026-07-10T12:25:55.326627Z",
-                "2026-07-10T21:39:18.640851Z",
-                "2026-07-10T23:35:12.618570Z"
-            ]
-        },
-        {
-            "id": "845ab8cc12badda210562290e7f82428",
-            "source": "spacenews",
-            "text": "ElevationSpace advances work on commercial reentry vehicle",
-            "source_link": "https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-10T11:44:55.453689Z",
-            "shown_at": [
-                "2026-07-10T11:44:57.028840Z"
-            ]
-        },
-        {
-            "id": "efb1abf66704349c9327e5902398cd1f",
-            "source": "spacenews",
-            "text": "Startup testing nuclear battery technology in orbit",
-            "source_link": "https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-10T13:05:20.558487Z",
-            "shown_at": [
-                "2026-07-10T13:05:21.515032Z"
-            ]
-        },
-        {
-            "id": "fd905b1a160fd79aa05f927f30d06b59",
-            "source": "spacenews",
-            "text": "Space capitalism needs more than a bull market",
-            "source_link": "https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-10T13:05:20.558563Z",
-            "shown_at": [
-                "2026-07-10T13:39:33.334772Z"
-            ]
-        },
-        {
-            "id": "b39ef3d29c550fd5907c414a2dc82d8d",
-            "source": "spacenews",
-            "text": "The space industry is weighing ambitious hiring against heritage",
-            "source_link": "https://spacenews.com/the-space-industry-is-weighing-ambitious-hiring-against-heritage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-10T14:24:52.941538Z",
-            "shown_at": [
-                "2026-07-10T14:24:54.578213Z"
-            ]
-        },
-        {
-            "id": "d209a85f992051f20e5f766528e09282",
-            "source": "spacenews",
-            "text": "China unveils members of state-backed commercial space consortium",
-            "source_link": "https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-10T17:35:00.097153Z",
-            "shown_at": [
-                "2026-07-10T17:35:02.024174Z"
-            ]
-        },
-        {
-            "id": "63faa8fe62097d25a91d076673ba4537",
-            "source": "spacenews",
-            "text": "Earth observation satellites pass telecom in European space industry sales",
-            "source_link": "https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-10T18:45:00.787478Z",
-            "shown_at": [
-                "2026-07-10T18:45:01.859969Z"
             ]
         }
     ]
