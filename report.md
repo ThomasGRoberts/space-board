@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 17 | 34 |
-| nyt | 1 | 2 | 11 | 18 |
-| breaking_defense | 0 | 1 | 11 | 19 |
+| nyt | 3 | 4 | 12 | 19 |
+| breaking_defense | 0 | 1 | 10 | 19 |
 
 # Shown Order
 
@@ -2577,3 +2577,4 @@
 - **Jul 10, 10:54 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 10, 11:35 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
 - **Jul 11, 12:15 AM** - Airbus to build Aeolus-2 wind-monitoring satellite (spacenews)
+- **Jul 11, 12:49 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
