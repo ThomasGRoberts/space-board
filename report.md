@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 11 | 13 | 31 |
+| spacenews | 2 | 11 | 14 | 32 |
 | nyt | 2 | 4 | 14 | 25 |
 | breaking_defense | 0 | 0 | 12 | 22 |
 
@@ -2610,3 +2610,4 @@
 - **Jul 11, 06:59 PM** - Space Force adds Relativity, Impulse Space to national security launch program (spacenews)
 - **Jul 11, 07:35 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 11, 08:14 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
+- **Jul 11, 08:49 PM** - New Singapore space agency seeks to build up the country’s space industry (spacenews)
