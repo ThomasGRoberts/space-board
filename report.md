@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 17 | 14 | 34 |
-| nyt | 2 | 4 | 13 | 23 |
+| nyt | 2 | 4 | 14 | 24 |
 | breaking_defense | 0 | 0 | 12 | 21 |
 
 # Shown Order
@@ -2603,3 +2603,4 @@
 - **Jul 11, 02:49 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
 - **Jul 11, 03:24 PM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
 - **Jul 11, 03:59 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 11, 04:35 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
