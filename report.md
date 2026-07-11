@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 16 | 34 |
 | nyt | 2 | 4 | 12 | 20 |
-| breaking_defense | 0 | 1 | 10 | 19 |
+| breaking_defense | 0 | 1 | 11 | 20 |
 
 # Shown Order
 
@@ -2592,3 +2592,4 @@
 - **Jul 11, 08:09 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 11, 08:49 AM** - New Singapore space agency seeks to build up the country’s space industry (spacenews)
 - **Jul 11, 09:24 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
+- **Jul 11, 09:59 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
