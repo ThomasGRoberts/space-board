@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 14 | 14 | 33 |
 | nyt | 2 | 4 | 14 | 24 |
-| breaking_defense | 0 | 0 | 11 | 21 |
+| breaking_defense | 0 | 0 | 12 | 22 |
 
 # Shown Order
 
@@ -2605,3 +2605,4 @@
 - **Jul 11, 03:59 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 11, 04:35 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 11, 05:09 PM** - Xona unveils program to verify Pulsar-compatible devices (spacenews)
+- **Jul 11, 05:45 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
