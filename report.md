@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 19 | 16 | 33 |
+| spacenews | 8 | 19 | 17 | 34 |
 | nyt | 3 | 4 | 12 | 19 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 
@@ -2587,3 +2587,4 @@
 - **Jul 11, 05:05 AM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)
 - **Jul 11, 05:45 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 11, 06:19 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 11, 06:55 AM** - Airbus to build Aeolus-2 wind-monitoring satellite (spacenews)
