@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-11T00:05:24.123093+00:00",
-    "trigger_count": 6,
-    "current_item_id": "65db498ecaca2ea23aa3e476cd4dc1d9",
+    "trigger_count": 0,
+    "current_item_id": "748cc6f29f7d0d9780f95a703259f0f6",
     "data": [
         {
             "id": "63faa8fe62097d25a91d076673ba4537",
@@ -8090,9 +8090,12 @@
             "source": "nyt",
             "text": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
             "source_link": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-11T00:49:23.968296Z"
+            "fetched_datetime": "2026-07-11T00:49:23.968296Z",
+            "shown_at": [
+                "2026-07-11T02:05:17.820091Z"
+            ]
         },
         {
             "id": "65db498ecaca2ea23aa3e476cd4dc1d9",

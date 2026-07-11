@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 17 | 34 |
-| nyt | 3 | 4 | 11 | 19 |
+| nyt | 3 | 4 | 12 | 20 |
 | breaking_defense | 0 | 1 | 10 | 18 |
 
 # Shown Order
@@ -2579,3 +2579,4 @@
 - **Jul 11, 12:15 AM** - Airbus to build Aeolus-2 wind-monitoring satellite (spacenews)
 - **Jul 11, 12:49 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 11, 01:29 AM** - FCC approves first Reflect Orbital satellite (spacenews)
+- **Jul 11, 02:05 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
