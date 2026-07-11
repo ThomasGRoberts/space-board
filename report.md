@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 16 | 34 |
-| nyt | 3 | 4 | 12 | 20 |
+| nyt | 3 | 4 | 13 | 21 |
 | breaking_defense | 0 | 1 | 10 | 19 |
 
 # Shown Order
@@ -2591,3 +2591,4 @@
 - **Jul 11, 07:35 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 11, 08:09 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 11, 08:49 AM** - New Singapore space agency seeks to build up the country’s space industry (spacenews)
+- **Jul 11, 09:24 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
