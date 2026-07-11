@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 15 | 33 |
-| nyt | 2 | 4 | 13 | 21 |
+| spacenews | 6 | 16 | 16 | 34 |
+| nyt | 2 | 4 | 12 | 21 |
 | breaking_defense | 0 | 1 | 11 | 20 |
 
 # Shown Order
@@ -2596,3 +2596,4 @@
 - **Jul 11, 10:35 AM** - The government’s options to address strained spaceports (spacenews)
 - **Jul 11, 11:09 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 11, 11:49 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
+- **Jul 11, 12:29 PM** - Blue Origin continues work on lunar landers during recovery from New Glenn explosion (spacenews)
