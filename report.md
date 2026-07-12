@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 28 |
-| nyt | 0 | 2 | 13 | 26 |
+| spacenews | 0 | 4 | 13 | 27 |
+| nyt | 0 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2631,3 +2631,4 @@
 - **Jul 12, 02:35 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
 - **Jul 12, 03:09 PM** - Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard (spacenews)
 - **Jul 12, 03:44 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 12, 04:19 PM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
