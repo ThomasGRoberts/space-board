@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 14 | 31 |
 | nyt | 0 | 3 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2615,3 +2615,4 @@
 - **Jul 12, 04:35 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 12, 05:14 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 12, 05:49 AM** - Isar Aerospace signs agreement for Canadian launch site (spacenews)
+- **Jul 12, 06:25 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
