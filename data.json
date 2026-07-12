@@ -1,9 +1,62 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-11T00:05:24.123093+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-07-12T00:05:30.083638+00:00",
+    "trigger_count": 3,
     "current_item_id": "748cc6f29f7d0d9780f95a703259f0f6",
     "data": [
+        {
+            "id": "4b5eadcc7c6dfc36d66c5293c60082cc",
+            "source": "spacenews",
+            "text": "Parabilis tests propulsion system for maneuverable cubesats",
+            "source_link": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-11T13:39:54.581488Z",
+            "shown_at": [
+                "2026-07-11T13:39:57.222633Z"
+            ]
+        },
+        {
+            "id": "65db498ecaca2ea23aa3e476cd4dc1d9",
+            "source": "spacenews",
+            "text": "FCC approves first Reflect Orbital satellite",
+            "source_link": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-11T01:29:24.398711Z",
+            "shown_at": [
+                "2026-07-11T01:29:25.233521Z"
+            ]
+        },
+        {
+            "id": "748cc6f29f7d0d9780f95a703259f0f6",
+            "source": "nyt",
+            "text": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+            "source_link": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-11T00:49:23.968296Z",
+            "shown_at": [
+                "2026-07-11T02:05:17.820091Z",
+                "2026-07-11T03:54:58.124462Z",
+                "2026-07-11T09:24:47.709220Z",
+                "2026-07-11T23:49:29.263476Z"
+            ]
+        },
+        {
+            "id": "29a07036680aeed78df0f5b32bbccdf2",
+            "source": "nyt",
+            "text": "What China’s Successful Rocket Launch Means for the Future of the Space Race",
+            "source_link": "https://www.nytimes.com/2026/07/10/science/china-space-race.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-11T00:49:23.968257Z",
+            "shown_at": [
+                "2026-07-11T00:49:25.911400Z",
+                "2026-07-11T05:45:03.252900Z",
+                "2026-07-11T07:35:05.816668Z"
+            ]
+        },
         {
             "id": "63faa8fe62097d25a91d076673ba4537",
             "source": "spacenews",
@@ -8046,114 +8099,6 @@
                 "2026-05-04T13:29:38.175528Z",
                 "2026-05-10T11:29:14.804310Z",
                 "2026-05-11T05:04:32.938782Z"
-            ]
-        },
-        {
-            "id": "bf9889be2db127e7a763ef26b62b64b9",
-            "source": "spacenews",
-            "text": "IonQ to offer ground-movement monitoring via Capella radar satellites",
-            "source_link": "https://spacenews.com/ionq-to-offer-ground-movement-monitoring-via-capella-radar-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T12:19:34.308071Z",
-            "shown_at": [
-                "2026-05-04T12:54:29.137015Z",
-                "2026-05-10T14:59:03.891438Z"
-            ]
-        },
-        {
-            "id": "2c5290e8395f688335efa1dcb41ff133",
-            "source": "spacenews",
-            "text": "Lawsuit claims Starship launches damage homes",
-            "source_link": "https://spacenews.com/lawsuit-claims-starship-launches-damage-homes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T12:19:34.308011Z",
-            "shown_at": [
-                "2026-05-04T12:19:35.220661Z",
-                "2026-05-05T06:59:23.300478Z",
-                "2026-05-08T04:14:23.083493Z",
-                "2026-05-10T09:09:04.614578Z",
-                "2026-05-10T18:29:22.482933Z"
-            ]
-        },
-        {
-            "id": "840f3d433ef9774329b8a4b527adabea",
-            "source": "spacenews",
-            "text": "Vantor wins $70 million award to enhance NGA data-delivery platform",
-            "source_link": "https://spacenews.com/vantor-wins-70-million-award-to-enhance-nga-data-delivery-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T11:39:19.174532Z",
-            "shown_at": [
-                "2026-05-04T11:39:20.180684Z",
-                "2026-05-08T12:29:22.989089Z",
-                "2026-05-11T09:49:15.491418Z"
-            ]
-        },
-        {
-            "id": "02fad59641f42558f4a977520c293382",
-            "source": "spacenews",
-            "text": "Falcon 9 launches South Korean satellite and 45 rideshare payloads",
-            "source_link": "https://spacenews.com/falcon-9-launches-south-korean-satellite-and-45-rideshare-payloads/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T02:49:08.747611Z",
-            "shown_at": [
-                "2026-05-04T02:49:09.603165Z"
-            ]
-        },
-        {
-            "id": "29a07036680aeed78df0f5b32bbccdf2",
-            "source": "nyt",
-            "text": "What China’s Successful Rocket Launch Means for the Future of the Space Race",
-            "source_link": "https://www.nytimes.com/2026/07/10/science/china-space-race.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-11T00:49:23.968257Z",
-            "shown_at": [
-                "2026-07-11T00:49:25.911400Z",
-                "2026-07-11T05:45:03.252900Z",
-                "2026-07-11T07:35:05.816668Z"
-            ]
-        },
-        {
-            "id": "748cc6f29f7d0d9780f95a703259f0f6",
-            "source": "nyt",
-            "text": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-            "source_link": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-11T00:49:23.968296Z",
-            "shown_at": [
-                "2026-07-11T02:05:17.820091Z",
-                "2026-07-11T03:54:58.124462Z",
-                "2026-07-11T09:24:47.709220Z",
-                "2026-07-11T23:49:29.263476Z"
-            ]
-        },
-        {
-            "id": "65db498ecaca2ea23aa3e476cd4dc1d9",
-            "source": "spacenews",
-            "text": "FCC approves first Reflect Orbital satellite",
-            "source_link": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-11T01:29:24.398711Z",
-            "shown_at": [
-                "2026-07-11T01:29:25.233521Z"
-            ]
-        },
-        {
-            "id": "4b5eadcc7c6dfc36d66c5293c60082cc",
-            "source": "spacenews",
-            "text": "Parabilis tests propulsion system for maneuverable cubesats",
-            "source_link": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-11T13:39:54.581488Z",
-            "shown_at": [
-                "2026-07-11T13:39:57.222633Z"
             ]
         }
     ]

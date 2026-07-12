@@ -3,15 +3,11 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 14 | 30 |
-| nyt | 2 | 3 | 14 | 26 |
+| nyt | 2 | 3 | 14 | 25 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
-- **May 04, 02:49 AM** - Falcon 9 launches South Korean satellite and 45 rideshare payloads (spacenews)
-- **May 04, 11:39 AM** - Vantor wins $70 million award to enhance NGA data-delivery platform (spacenews)
-- **May 04, 12:19 PM** - Lawsuit claims Starship launches damage homes (spacenews)
-- **May 04, 12:54 PM** - IonQ to offer ground-movement monitoring via Capella radar satellites (spacenews)
 - **May 04, 01:29 PM** - Taylor Geospatial unveils global field dataset (spacenews)
 - **May 04, 02:09 PM** - DARPA chief says agency must harness commercial space boom (spacenews)
 - **May 04, 02:44 PM** - Space’s missing half (spacenews)
@@ -26,7 +22,6 @@
 - **May 05, 01:39 AM** - Firefly plans late summer launch of first Alpha Block 2 rocket (spacenews)
 - **May 05, 02:14 AM** - NRO taps EarthDaily, Iceye, Pixxel to expand commercial data pipeline (spacenews)
 - **May 05, 04:34 AM** - Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035 (spacenews)
-- **May 05, 06:59 AM** - Lawsuit claims Starship launches damage homes (spacenews)
 - **May 05, 08:09 AM** - NATO governance policies need updating (spacenews)
 - **May 05, 10:29 AM** - Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035 (spacenews)
 - **May 05, 11:09 AM** - Ignition relaunches Artemis plans (spacenews)
@@ -88,7 +83,6 @@
 - **May 08, 12:44 AM** - Eutelsat and Station Satcom sign agreement to scale LEO services for maritime fleet (spacenews)
 - **May 08, 01:54 AM** - Lunar Outpost raises $30 million (spacenews)
 - **May 08, 03:04 AM** - SatVu zooms in energy facilities in Cuba, India and Australia (spacenews)
-- **May 08, 04:14 AM** - Lawsuit claims Starship launches damage homes (spacenews)
 - **May 08, 05:23 AM** - Lunar Outpost raises $30 million (spacenews)
 - **May 08, 06:34 AM** - Quantum Space hires Bridenstine as CEO (spacenews)
 - **May 08, 08:59 AM** - SatVu zooms in energy facilities in Cuba, India and Australia (spacenews)
@@ -96,7 +90,6 @@
 - **May 08, 10:44 AM** - Bringing imagery and communications under one roof (spacenews)
 - **May 08, 11:19 AM** - Overview Energy wins Air Force contract to study space-based solar power for military bases (spacenews)
 - **May 08, 11:54 AM** - Rocket Lab announces large launch contract and plans to acquire space robotics company (spacenews)
-- **May 08, 12:29 PM** - Vantor wins $70 million award to enhance NGA data-delivery platform (spacenews)
 - **May 08, 01:04 PM** - China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket  (spacenews)
 - **May 08, 01:39 PM** - Tech firms partner up to push intelligence processing closer to the battlefield (spacenews)
 - **May 08, 02:14 PM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
@@ -169,7 +162,6 @@
 - **May 10, 07:24 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 10, 07:59 AM** - Viasat wins $307 million Marine Corps satellite communications contract (spacenews)
 - **May 10, 08:34 AM** - Pentagon Releases Files on U.F.O.s (nyt)
-- **May 10, 09:09 AM** - Lawsuit claims Starship launches damage homes (spacenews)
 - **May 10, 09:44 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 10, 10:19 AM** - NRO taps EarthDaily, Iceye, Pixxel to expand commercial data pipeline (spacenews)
 - **May 10, 10:54 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
@@ -179,13 +171,11 @@
 - **May 10, 01:14 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 10, 01:49 PM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
 - **May 10, 02:23 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
-- **May 10, 02:59 PM** - IonQ to offer ground-movement monitoring via Capella radar satellites (spacenews)
 - **May 10, 03:34 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 10, 04:09 PM** - ESA and JAXA finalize agreement on Apophis asteroid mission (spacenews)
 - **May 10, 04:44 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 10, 05:19 PM** - Firefly plans late summer launch of first Alpha Block 2 rocket (spacenews)
 - **May 10, 05:54 PM** - Pentagon Releases Files on U.F.O.s (nyt)
-- **May 10, 06:29 PM** - Lawsuit claims Starship launches damage homes (spacenews)
 - **May 10, 07:09 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 10, 07:44 PM** - Tech firms partner up to push intelligence processing closer to the battlefield (spacenews)
 - **May 10, 08:19 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
@@ -211,7 +201,6 @@
 - **May 11, 07:59 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 11, 08:39 AM** - Ireland and Malta sign the Artemis Accords (spacenews)
 - **May 11, 09:14 AM** - Pentagon Releases Files on U.F.O.s (nyt)
-- **May 11, 09:49 AM** - Vantor wins $70 million award to enhance NGA data-delivery platform (spacenews)
 - **May 11, 10:24 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 11, 10:59 AM** - Tianzhou-10 cargo spacecraft arrives at Tiangong space station (spacenews)
 - **May 11, 11:34 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
