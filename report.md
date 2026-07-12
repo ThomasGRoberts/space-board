@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 13 | 29 |
+| spacenews | 1 | 8 | 14 | 30 |
 | nyt | 0 | 3 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 23 |
 
@@ -2620,3 +2620,4 @@
 - **Jul 12, 07:49 AM** - Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed  (spacenews)
 - **Jul 12, 08:29 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 12, 09:05 AM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
+- **Jul 12, 09:45 AM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)
