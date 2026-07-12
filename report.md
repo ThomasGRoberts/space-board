@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 27 |
-| nyt | 0 | 2 | 13 | 26 |
+| nyt | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2643,3 +2643,4 @@
 - **Jul 12, 10:05 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 12, 10:44 PM** - The Exploration Company establishes US entity to pursue government contracts (spacenews)
 - **Jul 12, 11:19 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 12, 11:54 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
