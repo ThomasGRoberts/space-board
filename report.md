@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 13 | 28 |
+| spacenews | 1 | 5 | 14 | 29 |
 | nyt | 0 | 2 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 24 |
 
@@ -2626,3 +2626,4 @@
 - **Jul 12, 11:35 AM** - NASA and Small Business Administration partner on funding key space technologies (spacenews)
 - **Jul 12, 12:09 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 12, 12:44 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
+- **Jul 12, 01:24 PM** - Venus Aerospace raises $91 million to scale rocket engine technology (spacenews)
