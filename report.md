@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 9 | 14 | 30 |
-| nyt | 0 | 3 | 13 | 25 |
+| spacenews | 1 | 9 | 13 | 30 |
+| nyt | 0 | 3 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -2610,3 +2610,4 @@
 - **Jul 12, 01:39 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 12, 02:15 AM** - China becomes second country to recover orbital booster with Long March 10B (spacenews)
 - **Jul 12, 02:49 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 12, 03:25 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
