@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 14 | 31 |
 | nyt | 0 | 3 | 13 | 25 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2606,3 +2606,4 @@
 - **Jul 11, 11:14 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 11, 11:49 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 12, 12:29 AM** - Blue Origin seeks to raise $10 billion in outside capital (spacenews)
+- **Jul 12, 01:05 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
