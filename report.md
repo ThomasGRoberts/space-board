@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 14 | 30 |
 | nyt | 0 | 3 | 13 | 25 |
-| breaking_defense | 0 | 0 | 12 | 23 |
+| breaking_defense | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2618,3 +2618,4 @@
 - **Jul 12, 06:25 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 12, 07:14 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 12, 07:49 AM** - Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed  (spacenews)
+- **Jul 12, 08:29 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
