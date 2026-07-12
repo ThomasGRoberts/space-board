@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 27 |
+| spacenews | 0 | 4 | 14 | 28 |
 | nyt | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 24 |
 
@@ -2629,3 +2629,4 @@
 - **Jul 12, 01:24 PM** - Venus Aerospace raises $91 million to scale rocket engine technology (spacenews)
 - **Jul 12, 01:59 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 12, 02:35 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
+- **Jul 12, 03:09 PM** - Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard (spacenews)
