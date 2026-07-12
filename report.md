@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 27 |
-| nyt | 0 | 2 | 13 | 26 |
+| nyt | 0 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2637,3 +2637,4 @@
 - **Jul 12, 06:15 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 12, 06:49 PM** - The space industry is weighing ambitious hiring against heritage (spacenews)
 - **Jul 12, 07:29 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
+- **Jul 12, 08:05 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
