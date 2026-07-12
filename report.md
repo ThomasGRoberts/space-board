@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 14 | 31 |
 | nyt | 0 | 3 | 13 | 25 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2609,3 +2609,4 @@
 - **Jul 12, 01:05 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 12, 01:39 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 12, 02:15 AM** - China becomes second country to recover orbital booster with Long March 10B (spacenews)
+- **Jul 12, 02:49 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
