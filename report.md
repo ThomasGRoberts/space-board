@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 9 | 14 | 30 |
-| nyt | 0 | 3 | 13 | 25 |
+| spacenews | 1 | 9 | 13 | 30 |
+| nyt | 0 | 3 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -2613,3 +2613,4 @@
 - **Jul 12, 03:25 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 12, 03:59 AM** - NASA and Small Business Administration partner on funding key space technologies (spacenews)
 - **Jul 12, 04:35 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 12, 05:14 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
