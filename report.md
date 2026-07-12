@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 14 | 30 |
 | nyt | 0 | 2 | 13 | 25 |
-| breaking_defense | 0 | 0 | 12 | 23 |
+| breaking_defense | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2621,3 +2621,4 @@
 - **Jul 12, 08:29 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 12, 09:05 AM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
 - **Jul 12, 09:45 AM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)
+- **Jul 12, 10:24 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
