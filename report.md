@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 27 |
+| spacenews | 0 | 4 | 14 | 28 |
 | nyt | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2632,3 +2632,4 @@
 - **Jul 12, 03:09 PM** - Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard (spacenews)
 - **Jul 12, 03:44 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 12, 04:19 PM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
+- **Jul 12, 04:55 PM** - Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed  (spacenews)
