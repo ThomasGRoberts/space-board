@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 12 | 26 |
+| spacenews | 0 | 2 | 13 | 27 |
 | nyt | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2641,3 +2641,4 @@
 - **Jul 12, 08:45 PM** - Golden Dome and the search for new space markets (spacenews)
 - **Jul 12, 09:19 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 12, 10:05 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
+- **Jul 12, 10:44 PM** - The Exploration Company establishes US entity to pursue government contracts (spacenews)
