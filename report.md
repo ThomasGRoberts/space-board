@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 14 | 29 |
 | nyt | 0 | 2 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 23 |
+| breaking_defense | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2624,3 +2624,4 @@
 - **Jul 12, 10:24 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 12, 10:59 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 12, 11:35 AM** - NASA and Small Business Administration partner on funding key space technologies (spacenews)
+- **Jul 12, 12:09 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
