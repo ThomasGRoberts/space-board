@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 27 |
-| nyt | 0 | 2 | 13 | 26 |
+| nyt | 0 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2628,3 +2628,4 @@
 - **Jul 12, 12:44 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 12, 01:24 PM** - Venus Aerospace raises $91 million to scale rocket engine technology (spacenews)
 - **Jul 12, 01:59 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
+- **Jul 12, 02:35 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
