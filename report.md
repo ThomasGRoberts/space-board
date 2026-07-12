@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 13 | 29 |
+| spacenews | 1 | 8 | 14 | 30 |
 | nyt | 0 | 3 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 23 |
 
@@ -2617,3 +2617,4 @@
 - **Jul 12, 05:49 AM** - Isar Aerospace signs agreement for Canadian launch site (spacenews)
 - **Jul 12, 06:25 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 12, 07:14 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
+- **Jul 12, 07:49 AM** - Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed  (spacenews)
