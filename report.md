@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 27 |
 | nyt | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 24 |
+| breaking_defense | 0 | 0 | 14 | 25 |
 
 # Shown Order
 
@@ -2636,3 +2636,4 @@
 - **Jul 12, 05:29 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 12, 06:15 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 12, 06:49 PM** - The space industry is weighing ambitious hiring against heritage (spacenews)
+- **Jul 12, 07:29 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
