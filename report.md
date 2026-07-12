@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 27 |
 | nyt | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 24 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2642,3 +2642,4 @@
 - **Jul 12, 09:19 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 12, 10:05 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 12, 10:44 PM** - The Exploration Company establishes US entity to pursue government contracts (spacenews)
+- **Jul 12, 11:19 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
