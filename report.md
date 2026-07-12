@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 13 | 29 |
+| spacenews | 1 | 8 | 14 | 30 |
 | nyt | 0 | 2 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 23 |
 
@@ -2623,3 +2623,4 @@
 - **Jul 12, 09:45 AM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)
 - **Jul 12, 10:24 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 12, 10:59 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
+- **Jul 12, 11:35 AM** - NASA and Small Business Administration partner on funding key space technologies (spacenews)
