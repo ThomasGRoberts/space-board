@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 13 | 30 |
+| spacenews | 2 | 9 | 14 | 31 |
 | nyt | 2 | 3 | 14 | 25 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -2605,3 +2605,4 @@
 - **Jul 11, 10:34 PM** - Iridium folds Aireon aviation safety service into Rocket Lab-bound business (spacenews)
 - **Jul 11, 11:14 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 11, 11:49 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
+- **Jul 12, 12:29 AM** - Blue Origin seeks to raise $10 billion in outside capital (spacenews)
