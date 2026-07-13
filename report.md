@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 26 |
+| spacenews | 1 | 2 | 14 | 27 |
 | nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2655,3 +2655,4 @@
 - **Jul 13, 05:29 AM** - Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed  (spacenews)
 - **Jul 13, 06:09 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 13, 06:45 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 13, 07:19 AM** - Earth observation satellites pass telecom in European space industry sales (spacenews)
