@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 26 |
+| spacenews | 1 | 2 | 14 | 27 |
 | nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2652,3 +2652,4 @@
 - **Jul 13, 03:35 AM** - ElevationSpace advances work on commercial reentry vehicle (spacenews)
 - **Jul 13, 04:15 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 13, 04:55 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
+- **Jul 13, 05:29 AM** - Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed  (spacenews)
