@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 16 | 29 |
 | nyt | 1 | 1 | 10 | 23 |
-| breaking_defense | 1 | 1 | 10 | 23 |
+| breaking_defense | 2 | 2 | 11 | 24 |
 
 # Shown Order
 
@@ -2677,3 +2677,4 @@
 - **Jul 13, 08:28 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 13, 09:05 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 13, 09:45 PM** - L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network (spacenews)
+- **Jul 13, 10:24 PM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
