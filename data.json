@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-13T00:05:20.843885+00:00",
-    "trigger_count": 6,
-    "current_item_id": "155a3bab5e7d3d21990b3f6bb71f7fb2",
+    "trigger_count": 0,
+    "current_item_id": "b065b5f92b9e5665489434e4ac5785f3",
     "data": [
         {
             "id": "4b5eadcc7c6dfc36d66c5293c60082cc",
@@ -8180,6 +8180,36 @@
             "shown_at": [
                 "2026-07-13T08:35:17.572949Z"
             ]
+        },
+        {
+            "id": "b065b5f92b9e5665489434e4ac5785f3",
+            "source": "spacenews",
+            "text": "Reditus Space completes first reentry vehicle",
+            "source_link": "https://spacenews.com/reditus-space-completes-first-reentry-vehicle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T13:19:31.380459Z",
+            "shown_at": [
+                "2026-07-13T13:19:33.599417Z"
+            ]
+        },
+        {
+            "id": "0f0e6ec00d30e14f110d69cd9121bf5f",
+            "source": "spacenews",
+            "text": "Voyager completes acquisition of Astrobotic",
+            "source_link": "https://spacenews.com/voyager-completes-acquisition-of-astrobotic/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T13:19:31.380572Z"
+        },
+        {
+            "id": "f7d073f28827f3bf2c26baa747e59476",
+            "source": "spacenews",
+            "text": "Getting ready for lunar planetary defense",
+            "source_link": "https://spacenews.com/getting-ready-for-lunar-planetary-defense/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T13:19:31.380640Z"
         }
     ]
 }
