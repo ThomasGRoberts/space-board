@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 13 | 27 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2659,3 +2659,4 @@
 - **Jul 13, 07:54 AM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
 - **Jul 13, 08:35 AM** - China lines up methalox Long March 10C as commercial workhorse after first booster recovery (spacenews)
 - **Jul 13, 09:35 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 13, 10:19 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
