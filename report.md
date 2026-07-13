@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| spacenews | 1 | 2 | 14 | 27 |
+| nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2646,3 +2646,4 @@
 - **Jul 12, 11:54 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 13, 12:29 AM** - Fi expands Starlink direct-to-device capability into dog-tracking (spacenews)
 - **Jul 13, 01:05 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 13, 01:45 AM** - SpaceX gears up for Starship Flight 13 (spacenews)
