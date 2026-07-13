@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 15 | 28 |
-| nyt | 1 | 1 | 10 | 23 |
+| nyt | 1 | 1 | 11 | 24 |
 | breaking_defense | 1 | 1 | 11 | 24 |
 
 # Shown Order
@@ -2671,3 +2671,4 @@
 - **Jul 13, 04:45 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 13, 05:25 PM** - Space Force adds Relativity, Impulse Space to national security launch program (spacenews)
 - **Jul 13, 05:59 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
+- **Jul 13, 06:35 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
