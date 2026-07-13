@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 15 | 28 |
+| spacenews | 8 | 8 | 16 | 29 |
 | nyt | 1 | 1 | 11 | 24 |
 | breaking_defense | 1 | 1 | 10 | 23 |
 
@@ -2676,3 +2676,4 @@
 - **Jul 13, 07:49 PM** - Poland to host new ESA center as government boosts investments in space (spacenews)
 - **Jul 13, 08:28 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 13, 09:05 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
+- **Jul 13, 09:45 PM** - L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network (spacenews)
