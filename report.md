@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 13 | 26 |
+| spacenews | 5 | 5 | 14 | 27 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
@@ -2664,3 +2664,4 @@
 - **Jul 13, 11:49 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 13, 12:37 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 13, 01:19 PM** - Reditus Space completes first reentry vehicle (spacenews)
+- **Jul 13, 02:06 PM** - Voyager completes acquisition of Astrobotic (spacenews)
