@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-13T00:05:20.843885+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d5f2fd212ffa59582c58d2bdb53186e3",
+    "trigger_count": 0,
+    "current_item_id": "6c2f984a8850b83a49c00531a6f9b4c2",
     "data": [
         {
             "id": "4b5eadcc7c6dfc36d66c5293c60082cc",
@@ -8227,6 +8227,18 @@
             "fetched_datetime": "2026-07-13T15:29:27.211066Z",
             "shown_at": [
                 "2026-07-13T15:29:28.349006Z"
+            ]
+        },
+        {
+            "id": "6c2f984a8850b83a49c00531a6f9b4c2",
+            "source": "breaking_defense",
+            "text": "Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo",
+            "source_link": "https://breakingdefense.com/2026/07/space-tag-jackal-puma-spacecraft-to-chase-each-other-victus-haze-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T16:05:32.717629Z",
+            "shown_at": [
+                "2026-07-13T16:05:35.310480Z"
             ]
         }
     ]
