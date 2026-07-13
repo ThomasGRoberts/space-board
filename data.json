@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-13T00:05:20.843885+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f7d073f28827f3bf2c26baa747e59476",
+    "trigger_count": 0,
+    "current_item_id": "d5f2fd212ffa59582c58d2bdb53186e3",
     "data": [
         {
             "id": "4b5eadcc7c6dfc36d66c5293c60082cc",
@@ -8215,6 +8215,18 @@
             "fetched_datetime": "2026-07-13T13:19:31.380640Z",
             "shown_at": [
                 "2026-07-13T14:50:31.321890Z"
+            ]
+        },
+        {
+            "id": "d5f2fd212ffa59582c58d2bdb53186e3",
+            "source": "spacenews",
+            "text": "Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy",
+            "source_link": "https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T15:29:27.211066Z",
+            "shown_at": [
+                "2026-07-13T15:29:28.349006Z"
             ]
         }
     ]

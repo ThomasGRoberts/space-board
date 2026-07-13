@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 14 | 27 |
+| spacenews | 6 | 6 | 15 | 28 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -2666,3 +2666,4 @@
 - **Jul 13, 01:19 PM** - Reditus Space completes first reentry vehicle (spacenews)
 - **Jul 13, 02:06 PM** - Voyager completes acquisition of Astrobotic (spacenews)
 - **Jul 13, 02:50 PM** - Getting ready for lunar planetary defense (spacenews)
+- **Jul 13, 03:29 PM** - Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy (spacenews)
