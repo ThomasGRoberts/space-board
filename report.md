@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 9 | 16 | 29 |
-| nyt | 1 | 1 | 10 | 23 |
+| nyt | 1 | 1 | 11 | 24 |
 | breaking_defense | 2 | 2 | 10 | 23 |
 
 # Shown Order
@@ -2679,3 +2679,4 @@
 - **Jul 13, 09:45 PM** - L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network (spacenews)
 - **Jul 13, 10:24 PM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 13, 11:05 PM** - Defense spending lifts Europe’s space economy (spacenews)
+- **Jul 13, 11:44 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
