@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 13 | 27 |
-| nyt | 0 | 0 | 12 | 25 |
+| spacenews | 2 | 3 | 13 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2662,3 +2662,4 @@
 - **Jul 13, 10:19 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 13, 11:06 AM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
 - **Jul 13, 11:49 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
+- **Jul 13, 12:37 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
