@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2648,3 +2648,4 @@
 - **Jul 13, 01:05 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 13, 01:45 AM** - SpaceX gears up for Starship Flight 13 (spacenews)
 - **Jul 13, 02:24 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
+- **Jul 13, 02:59 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
