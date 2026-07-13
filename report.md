@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 27 |
+| spacenews | 2 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2657,3 +2657,4 @@
 - **Jul 13, 06:45 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 13, 07:19 AM** - Earth observation satellites pass telecom in European space industry sales (spacenews)
 - **Jul 13, 07:54 AM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
+- **Jul 13, 08:35 AM** - China lines up methalox Long March 10C as commercial workhorse after first booster recovery (spacenews)
