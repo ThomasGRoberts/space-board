@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-13T00:05:20.843885+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f0e6ec00d30e14f110d69cd9121bf5f",
+    "trigger_count": 0,
+    "current_item_id": "f7d073f28827f3bf2c26baa747e59476",
     "data": [
         {
             "id": "4b5eadcc7c6dfc36d66c5293c60082cc",
@@ -8210,9 +8210,12 @@
             "source": "spacenews",
             "text": "Getting ready for lunar planetary defense",
             "source_link": "https://spacenews.com/getting-ready-for-lunar-planetary-defense/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-13T13:19:31.380640Z"
+            "fetched_datetime": "2026-07-13T13:19:31.380640Z",
+            "shown_at": [
+                "2026-07-13T14:50:31.321890Z"
+            ]
         }
     ]
 }

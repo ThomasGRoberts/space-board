@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 14 | 27 |
-| nyt | 0 | 0 | 11 | 25 |
+| spacenews | 5 | 5 | 15 | 28 |
+| nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -2665,3 +2665,4 @@
 - **Jul 13, 12:37 PM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 13, 01:19 PM** - Reditus Space completes first reentry vehicle (spacenews)
 - **Jul 13, 02:06 PM** - Voyager completes acquisition of Astrobotic (spacenews)
+- **Jul 13, 02:50 PM** - Getting ready for lunar planetary defense (spacenews)
