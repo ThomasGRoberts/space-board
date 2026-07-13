@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 16 | 29 |
 | nyt | 1 | 1 | 10 | 23 |
-| breaking_defense | 1 | 1 | 10 | 23 |
+| breaking_defense | 1 | 1 | 11 | 24 |
 
 # Shown Order
 
@@ -2674,3 +2674,4 @@
 - **Jul 13, 06:35 PM** - Mysterious Spheres Found in Australia Are Likely Space Debris (nyt)
 - **Jul 13, 07:09 PM** - China lines up methalox Long March 10C as commercial workhorse after first booster recovery (spacenews)
 - **Jul 13, 07:49 PM** - Poland to host new ESA center as government boosts investments in space (spacenews)
+- **Jul 13, 08:28 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
