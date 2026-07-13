@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 27 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2650,3 +2650,4 @@
 - **Jul 13, 02:24 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 13, 02:59 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 13, 03:35 AM** - ElevationSpace advances work on commercial reentry vehicle (spacenews)
+- **Jul 13, 04:15 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
