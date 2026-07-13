@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-13T00:05:20.843885+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c2f06ec37f371c6a08f94f4be8f8d76",
+    "trigger_count": 0,
+    "current_item_id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
     "data": [
         {
             "id": "4b5eadcc7c6dfc36d66c5293c60082cc",
@@ -8293,6 +8293,18 @@
             "fetched_datetime": "2026-07-13T22:24:53.654195Z",
             "shown_at": [
                 "2026-07-13T22:24:54.375715Z"
+            ]
+        },
+        {
+            "id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
+            "source": "spacenews",
+            "text": "Defense spending lifts Europe’s space economy",
+            "source_link": "https://spacenews.com/defense-spending-lifts-europes-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T23:05:29.824473Z",
+            "shown_at": [
+                "2026-07-13T23:05:31.282962Z"
             ]
         }
     ]

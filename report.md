@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 15 | 28 |
+| spacenews | 9 | 9 | 16 | 29 |
 | nyt | 1 | 1 | 10 | 23 |
 | breaking_defense | 2 | 2 | 11 | 24 |
 
@@ -2678,3 +2678,4 @@
 - **Jul 13, 09:05 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 13, 09:45 PM** - L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network (spacenews)
 - **Jul 13, 10:24 PM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
+- **Jul 13, 11:05 PM** - Defense spending lifts Europe’s space economy (spacenews)
