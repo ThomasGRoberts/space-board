@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 15 | 29 |
-| breaking_defense | 2 | 2 | 9 | 22 |
+| breaking_defense | 2 | 2 | 10 | 23 |
 | nyt | 1 | 1 | 10 | 22 |
 
 # Shown Order
@@ -2650,3 +2650,4 @@
 - **Jul 14, 04:05 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 14, 04:39 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 14, 05:15 AM** - Apolink makes contact with first relay satellite (spacenews)
+- **Jul 14, 05:49 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
