@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 14 | 28 |
-| breaking_defense | 2 | 2 | 10 | 21 |
+| breaking_defense | 2 | 2 | 11 | 22 |
 | nyt | 2 | 2 | 11 | 23 |
 
 # Shown Order
@@ -2663,3 +2663,4 @@
 - **Jul 14, 12:24 PM** - U.K. government preparing to release new space strategy (spacenews)
 - **Jul 14, 01:15 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 14, 01:49 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 14, 02:25 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
