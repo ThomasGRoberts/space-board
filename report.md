@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 15 | 28 |
+| spacenews | 8 | 10 | 16 | 29 |
 | breaking_defense | 2 | 2 | 10 | 22 |
 | nyt | 1 | 1 | 10 | 23 |
 
@@ -2658,3 +2658,4 @@
 - **Jul 14, 08:59 AM** - Poland to host new ESA center as government boosts investments in space (spacenews)
 - **Jul 14, 09:44 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 14, 10:19 AM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
+- **Jul 14, 10:59 AM** - Space capitalism needs more than a bull market (spacenews)
