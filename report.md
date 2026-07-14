@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 16 | 29 |
 | breaking_defense | 2 | 2 | 10 | 22 |
-| nyt | 1 | 1 | 9 | 21 |
+| nyt | 1 | 1 | 10 | 22 |
 
 # Shown Order
 
@@ -2661,3 +2661,4 @@
 - **Jul 14, 10:59 AM** - Space capitalism needs more than a bull market (spacenews)
 - **Jul 14, 11:40 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 14, 12:24 PM** - U.K. government preparing to release new space strategy (spacenews)
+- **Jul 14, 01:15 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
