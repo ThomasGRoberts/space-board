@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-14T00:05:22.343761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2276df31408ce85cf888b163373ac026",
+    "trigger_count": 0,
+    "current_item_id": "87eb1c0935f8832919f92b8384ae5df9",
     "data": [
         {
             "id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
@@ -8220,6 +8220,18 @@
             "fetched_datetime": "2026-07-14T18:55:03.117815Z",
             "shown_at": [
                 "2026-07-14T18:55:03.774525Z"
+            ]
+        },
+        {
+            "id": "87eb1c0935f8832919f92b8384ae5df9",
+            "source": "spacenews",
+            "text": "Space acquisition and NRO picks face SASC",
+            "source_link": "https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T19:29:37.620829Z",
+            "shown_at": [
+                "2026-07-14T19:29:40.194294Z"
             ]
         }
     ]

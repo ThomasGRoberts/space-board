@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 12 | 27 |
-| breaking_defense | 2 | 3 | 12 | 23 |
+| spacenews | 7 | 13 | 13 | 28 |
+| breaking_defense | 2 | 3 | 12 | 22 |
 | nyt | 1 | 2 | 11 | 22 |
 
 # Shown Order
@@ -2671,3 +2671,4 @@
 - **Jul 14, 05:35 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 14, 06:16 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 14, 06:55 PM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
+- **Jul 14, 07:29 PM** - Space acquisition and NRO picks face SASC (spacenews)
