@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 10 | 16 | 29 |
 | breaking_defense | 2 | 2 | 10 | 23 |
-| nyt | 1 | 1 | 10 | 23 |
+| nyt | 1 | 1 | 11 | 24 |
 
 # Shown Order
 
@@ -2645,3 +2645,4 @@
 - **Jul 13, 11:44 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 14, 12:25 AM** - Flexell Space raises $20 Million in Series A round (spacenews)
 - **Jul 14, 12:59 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
+- **Jul 14, 01:35 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
