@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 13 | 28 |
+| spacenews | 7 | 12 | 14 | 29 |
 | breaking_defense | 2 | 2 | 11 | 22 |
 | nyt | 2 | 2 | 11 | 22 |
 
@@ -2664,3 +2664,4 @@
 - **Jul 14, 01:15 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 14, 01:49 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 14, 02:25 PM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 14, 03:05 PM** - Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense (spacenews)

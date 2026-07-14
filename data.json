@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-14T00:05:22.343761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d5598271dd234eecf23e71151be6ff7e",
+    "trigger_count": 0,
+    "current_item_id": "df7c621e4ff522a8142e4e3c0c48cf1c",
     "data": [
         {
             "id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
@@ -8191,6 +8191,18 @@
             "fetched_datetime": "2026-07-14T13:49:25.647354Z",
             "shown_at": [
                 "2026-07-14T13:49:29.914786Z"
+            ]
+        },
+        {
+            "id": "df7c621e4ff522a8142e4e3c0c48cf1c",
+            "source": "spacenews",
+            "text": "Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense",
+            "source_link": "https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T15:05:45.827374Z",
+            "shown_at": [
+                "2026-07-14T15:05:46.849674Z"
             ]
         }
     ]
