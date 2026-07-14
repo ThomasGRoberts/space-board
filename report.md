@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 10 | 16 | 29 |
-| breaking_defense | 2 | 2 | 10 | 23 |
+| breaking_defense | 2 | 2 | 11 | 24 |
 | nyt | 1 | 1 | 10 | 23 |
 
 # Shown Order
@@ -2644,3 +2644,4 @@
 - **Jul 13, 11:05 PM** - Defense spending lifts Europe’s space economy (spacenews)
 - **Jul 13, 11:44 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 14, 12:25 AM** - Flexell Space raises $20 Million in Series A round (spacenews)
+- **Jul 14, 12:59 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
