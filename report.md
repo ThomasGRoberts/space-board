@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 15 | 29 |
-| breaking_defense | 2 | 2 | 9 | 22 |
+| breaking_defense | 2 | 2 | 10 | 23 |
 | nyt | 1 | 1 | 10 | 22 |
 
 # Shown Order
@@ -2653,3 +2653,4 @@
 - **Jul 14, 05:49 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 14, 06:25 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 14, 07:06 AM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)
+- **Jul 14, 07:45 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
