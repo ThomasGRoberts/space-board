@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 12 | 28 |
 | breaking_defense | 2 | 3 | 12 | 22 |
-| nyt | 1 | 2 | 11 | 22 |
+| nyt | 1 | 2 | 12 | 23 |
 
 # Shown Order
 
@@ -2675,3 +2675,4 @@
 - **Jul 14, 08:05 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 14, 08:45 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 14, 09:19 PM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
+- **Jul 14, 09:55 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
