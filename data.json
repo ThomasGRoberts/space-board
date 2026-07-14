@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-14T00:05:22.343761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ad4bd42e71dab84f1146b33c72da53de",
+    "trigger_count": 0,
+    "current_item_id": "2276df31408ce85cf888b163373ac026",
     "data": [
         {
             "id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
@@ -8208,6 +8208,18 @@
             "fetched_datetime": "2026-07-14T15:05:45.827374Z",
             "shown_at": [
                 "2026-07-14T15:05:46.849674Z"
+            ]
+        },
+        {
+            "id": "2276df31408ce85cf888b163373ac026",
+            "source": "breaking_defense",
+            "text": "The Space Force faces growing pains. Here’s how the next chief can help.",
+            "source_link": "https://breakingdefense.com/2026/07/the-space-force-faces-growing-pains-heres-how-the-next-chief-can-help/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T18:55:03.117815Z",
+            "shown_at": [
+                "2026-07-14T18:55:03.774525Z"
             ]
         }
     ]
