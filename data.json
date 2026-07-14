@@ -1,9 +1,156 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-13T00:05:20.843885+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-07-14T00:05:22.343761+00:00",
+    "trigger_count": 4,
     "current_item_id": "29a07036680aeed78df0f5b32bbccdf2",
     "data": [
+        {
+            "id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
+            "source": "spacenews",
+            "text": "Defense spending lifts Europe’s space economy",
+            "source_link": "https://spacenews.com/defense-spending-lifts-europes-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T23:05:29.824473Z",
+            "shown_at": [
+                "2026-07-13T23:05:31.282962Z"
+            ]
+        },
+        {
+            "id": "6c2f06ec37f371c6a08f94f4be8f8d76",
+            "source": "breaking_defense",
+            "text": "Reditus readies first launch of its re-entry vehicle/hypersonic target",
+            "source_link": "https://breakingdefense.com/2026/07/reditus-readies-first-launch-of-its-re-entry-vehicle-hypersonic-target/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T22:24:53.654195Z",
+            "shown_at": [
+                "2026-07-13T22:24:54.375715Z"
+            ]
+        },
+        {
+            "id": "b9a531d052149079304b9790a01df8af",
+            "source": "spacenews",
+            "text": "L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network",
+            "source_link": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T21:44:59.194255Z",
+            "shown_at": [
+                "2026-07-13T21:45:00.150578Z"
+            ]
+        },
+        {
+            "id": "37477ed356bf27f09760ea244612dffb",
+            "source": "spacenews",
+            "text": "Poland to host new ESA center as government boosts investments in space",
+            "source_link": "https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T19:49:31.957724Z",
+            "shown_at": [
+                "2026-07-13T19:49:33.052891Z"
+            ]
+        },
+        {
+            "id": "02c161e1ed288fa9d0416928f9c5d780",
+            "source": "nyt",
+            "text": "A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy",
+            "source_link": "https://www.nytimes.com/2026/07/13/science/space/sugar-milky-way.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T16:45:17.851873Z",
+            "shown_at": [
+                "2026-07-13T16:45:18.725647Z",
+                "2026-07-13T21:05:34.114759Z"
+            ]
+        },
+        {
+            "id": "6c2f984a8850b83a49c00531a6f9b4c2",
+            "source": "breaking_defense",
+            "text": "Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo",
+            "source_link": "https://breakingdefense.com/2026/07/space-tag-jackal-puma-spacecraft-to-chase-each-other-victus-haze-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T16:05:32.717629Z",
+            "shown_at": [
+                "2026-07-13T16:05:35.310480Z",
+                "2026-07-13T17:59:12.523860Z"
+            ]
+        },
+        {
+            "id": "d5f2fd212ffa59582c58d2bdb53186e3",
+            "source": "spacenews",
+            "text": "Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy",
+            "source_link": "https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T15:29:27.211066Z",
+            "shown_at": [
+                "2026-07-13T15:29:28.349006Z"
+            ]
+        },
+        {
+            "id": "f7d073f28827f3bf2c26baa747e59476",
+            "source": "spacenews",
+            "text": "Getting ready for lunar planetary defense",
+            "source_link": "https://spacenews.com/getting-ready-for-lunar-planetary-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T13:19:31.380640Z",
+            "shown_at": [
+                "2026-07-13T14:50:31.321890Z"
+            ]
+        },
+        {
+            "id": "0f0e6ec00d30e14f110d69cd9121bf5f",
+            "source": "spacenews",
+            "text": "Voyager completes acquisition of Astrobotic",
+            "source_link": "https://spacenews.com/voyager-completes-acquisition-of-astrobotic/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T13:19:31.380572Z",
+            "shown_at": [
+                "2026-07-13T14:06:10.772896Z"
+            ]
+        },
+        {
+            "id": "b065b5f92b9e5665489434e4ac5785f3",
+            "source": "spacenews",
+            "text": "Reditus Space completes first reentry vehicle",
+            "source_link": "https://spacenews.com/reditus-space-completes-first-reentry-vehicle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T13:19:31.380459Z",
+            "shown_at": [
+                "2026-07-13T13:19:33.599417Z"
+            ]
+        },
+        {
+            "id": "c93c3209ca1b156c8c7b3cbc6e3070f1",
+            "source": "spacenews",
+            "text": "China lines up methalox Long March 10C as commercial workhorse after first booster recovery",
+            "source_link": "https://spacenews.com/china-lines-up-methalox-long-march-10c-as-commercial-workhorse-after-first-booster-recovery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T08:35:15.785935Z",
+            "shown_at": [
+                "2026-07-13T08:35:17.572949Z",
+                "2026-07-13T19:09:31.036365Z"
+            ]
+        },
+        {
+            "id": "b4056fb6cf047459d38ebb82f9a7d6be",
+            "source": "spacenews",
+            "text": "SpaceX gears up for Starship Flight 13",
+            "source_link": "https://spacenews.com/spacex-gears-up-for-starship-flight-13/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-13T01:45:13.749471Z",
+            "shown_at": [
+                "2026-07-13T01:45:14.354224Z"
+            ]
+        },
         {
             "id": "4b5eadcc7c6dfc36d66c5293c60082cc",
             "source": "spacenews",
@@ -7990,322 +8137,6 @@
             "shown_at": [
                 "2026-05-05T11:44:32.529610Z",
                 "2026-05-11T08:39:14.921288Z"
-            ]
-        },
-        {
-            "id": "315c1f1debd59a11371a9161a36a023c",
-            "source": "spacenews",
-            "text": "Ignition relaunches Artemis plans",
-            "source_link": "https://spacenews.com/ignition-relaunches-artemis-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T11:09:16.205413Z",
-            "shown_at": [
-                "2026-05-05T11:09:17.073324Z",
-                "2026-05-06T09:59:21.577782Z",
-                "2026-05-07T00:19:19.544266Z",
-                "2026-05-09T07:24:55.576475Z",
-                "2026-05-11T15:54:40.637423Z",
-                "2026-05-12T07:00:41.308319Z"
-            ]
-        },
-        {
-            "id": "5f1bbfe24ad4ffac668bae3a4a7d34e1",
-            "source": "spacenews",
-            "text": "NRO taps EarthDaily, Iceye, Pixxel to expand commercial data pipeline",
-            "source_link": "https://spacenews.com/nro-taps-earthdaily-iceye-pixxel-to-expand-commercial-data-pipeline/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T01:39:07.207519Z",
-            "shown_at": [
-                "2026-05-05T02:14:32.400838Z",
-                "2026-05-10T10:19:15.969984Z"
-            ]
-        },
-        {
-            "id": "71740efbdcda02af376e345127562c5a",
-            "source": "spacenews",
-            "text": "Firefly plans late summer launch of first Alpha Block 2 rocket",
-            "source_link": "https://spacenews.com/firefly-plans-late-summer-launch-of-first-alpha-block-2-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T01:39:07.207458Z",
-            "shown_at": [
-                "2026-05-05T01:39:08.215635Z",
-                "2026-05-06T05:09:12.898705Z",
-                "2026-05-09T13:14:18.720831Z",
-                "2026-05-10T17:19:31.350360Z",
-                "2026-05-11T01:34:24.868395Z"
-            ]
-        },
-        {
-            "id": "55c6a2fe4aea745f5452b350ecb9c86e",
-            "source": "spacenews",
-            "text": "NATO governance policies need updating",
-            "source_link": "https://spacenews.com/nato-governance-policies-need-updating/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T23:49:14.118720Z",
-            "shown_at": [
-                "2026-05-04T23:49:15.046760Z",
-                "2026-05-05T08:09:25.313967Z",
-                "2026-05-05T12:59:07.088620Z",
-                "2026-05-11T18:14:19.039546Z"
-            ]
-        },
-        {
-            "id": "96ef40ae73ebb0a94a3c1fad8409f302",
-            "source": "spacenews",
-            "text": "Tech firms partner up to push intelligence processing closer to the battlefield",
-            "source_link": "https://spacenews.com/tech-firms-partner-up-to-push-intelligence-processing-closer-to-the-battlefield/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T18:29:13.162592Z",
-            "shown_at": [
-                "2026-05-04T18:29:13.799824Z",
-                "2026-05-08T13:39:09.823335Z",
-                "2026-05-10T19:44:32.422436Z"
-            ]
-        },
-        {
-            "id": "5337db845cfbc5a39f6bed8d9fab399b",
-            "source": "spacenews",
-            "text": "Interlune wins NASA contract for helium-3 extraction payload",
-            "source_link": "https://spacenews.com/interlune-wins-nasa-contract-for-helium-3-extraction-payload/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T16:44:24.764907Z",
-            "shown_at": [
-                "2026-05-04T17:54:20.407271Z"
-            ]
-        },
-        {
-            "id": "e076659a244dab6971ce910e94b18eb3",
-            "source": "spacenews",
-            "text": "Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035",
-            "source_link": "https://spacenews.com/global-smallsat-deployment-accelerates-with-16900-satellites-projected-through-2035/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T16:44:24.764865Z",
-            "shown_at": [
-                "2026-05-04T17:19:11.065049Z",
-                "2026-05-04T23:14:31.922538Z",
-                "2026-05-05T04:34:13.570634Z",
-                "2026-05-05T10:29:15.325234Z"
-            ]
-        },
-        {
-            "id": "c5a1b35a6fb4e7bc4a174edc1bafa878",
-            "source": "spacenews",
-            "text": "Pixxel pushes into orbital data centers for faster geospatial intelligence",
-            "source_link": "https://spacenews.com/pixxel-pushes-into-orbital-data-centers-for-faster-geospatial-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T16:44:24.764791Z",
-            "shown_at": [
-                "2026-05-04T16:44:25.796691Z"
-            ]
-        },
-        {
-            "id": "5818779ecbb002650ee138a2406ac4e6",
-            "source": "spacenews",
-            "text": "OroraTech deploys wildfire constellation for Greece",
-            "source_link": "https://spacenews.com/ororatech-deploys-wildfire-constellation-for-greece/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T14:09:11.801327Z",
-            "shown_at": [
-                "2026-05-04T15:19:31.200466Z",
-                "2026-05-05T01:04:35.991842Z",
-                "2026-05-07T18:19:32.725949Z",
-                "2026-05-08T20:04:48.478934Z"
-            ]
-        },
-        {
-            "id": "6da545206ac7bba1cba9d20ced3690b4",
-            "source": "spacenews",
-            "text": "Space’s missing half",
-            "source_link": "https://spacenews.com/spaces-missing-half/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T14:09:11.800782Z",
-            "shown_at": [
-                "2026-05-04T14:44:20.830327Z",
-                "2026-05-11T02:44:30.533790Z",
-                "2026-05-11T06:14:24.874987Z"
-            ]
-        },
-        {
-            "id": "242949a59fe6691e662c96e3090bc05a",
-            "source": "spacenews",
-            "text": "DARPA chief says agency must harness commercial space boom",
-            "source_link": "https://spacenews.com/darpa-chief-says-agency-must-harness-commercial-space-boom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T14:09:11.800721Z",
-            "shown_at": [
-                "2026-05-04T14:09:12.870179Z"
-            ]
-        },
-        {
-            "id": "f2f2db98aaaf48847651deb7c418004f",
-            "source": "spacenews",
-            "text": "Taylor Geospatial unveils global field dataset",
-            "source_link": "https://spacenews.com/taylor-geospatial-unveils-global-field-dataset/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T12:19:34.308116Z",
-            "shown_at": [
-                "2026-05-04T13:29:38.175528Z",
-                "2026-05-10T11:29:14.804310Z",
-                "2026-05-11T05:04:32.938782Z"
-            ]
-        },
-        {
-            "id": "b4056fb6cf047459d38ebb82f9a7d6be",
-            "source": "spacenews",
-            "text": "SpaceX gears up for Starship Flight 13",
-            "source_link": "https://spacenews.com/spacex-gears-up-for-starship-flight-13/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T01:45:13.749471Z",
-            "shown_at": [
-                "2026-07-13T01:45:14.354224Z"
-            ]
-        },
-        {
-            "id": "c93c3209ca1b156c8c7b3cbc6e3070f1",
-            "source": "spacenews",
-            "text": "China lines up methalox Long March 10C as commercial workhorse after first booster recovery",
-            "source_link": "https://spacenews.com/china-lines-up-methalox-long-march-10c-as-commercial-workhorse-after-first-booster-recovery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T08:35:15.785935Z",
-            "shown_at": [
-                "2026-07-13T08:35:17.572949Z",
-                "2026-07-13T19:09:31.036365Z"
-            ]
-        },
-        {
-            "id": "b065b5f92b9e5665489434e4ac5785f3",
-            "source": "spacenews",
-            "text": "Reditus Space completes first reentry vehicle",
-            "source_link": "https://spacenews.com/reditus-space-completes-first-reentry-vehicle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T13:19:31.380459Z",
-            "shown_at": [
-                "2026-07-13T13:19:33.599417Z"
-            ]
-        },
-        {
-            "id": "0f0e6ec00d30e14f110d69cd9121bf5f",
-            "source": "spacenews",
-            "text": "Voyager completes acquisition of Astrobotic",
-            "source_link": "https://spacenews.com/voyager-completes-acquisition-of-astrobotic/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T13:19:31.380572Z",
-            "shown_at": [
-                "2026-07-13T14:06:10.772896Z"
-            ]
-        },
-        {
-            "id": "f7d073f28827f3bf2c26baa747e59476",
-            "source": "spacenews",
-            "text": "Getting ready for lunar planetary defense",
-            "source_link": "https://spacenews.com/getting-ready-for-lunar-planetary-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T13:19:31.380640Z",
-            "shown_at": [
-                "2026-07-13T14:50:31.321890Z"
-            ]
-        },
-        {
-            "id": "d5f2fd212ffa59582c58d2bdb53186e3",
-            "source": "spacenews",
-            "text": "Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy",
-            "source_link": "https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T15:29:27.211066Z",
-            "shown_at": [
-                "2026-07-13T15:29:28.349006Z"
-            ]
-        },
-        {
-            "id": "6c2f984a8850b83a49c00531a6f9b4c2",
-            "source": "breaking_defense",
-            "text": "Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo",
-            "source_link": "https://breakingdefense.com/2026/07/space-tag-jackal-puma-spacecraft-to-chase-each-other-victus-haze-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T16:05:32.717629Z",
-            "shown_at": [
-                "2026-07-13T16:05:35.310480Z",
-                "2026-07-13T17:59:12.523860Z"
-            ]
-        },
-        {
-            "id": "02c161e1ed288fa9d0416928f9c5d780",
-            "source": "nyt",
-            "text": "A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy",
-            "source_link": "https://www.nytimes.com/2026/07/13/science/space/sugar-milky-way.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T16:45:17.851873Z",
-            "shown_at": [
-                "2026-07-13T16:45:18.725647Z",
-                "2026-07-13T21:05:34.114759Z"
-            ]
-        },
-        {
-            "id": "37477ed356bf27f09760ea244612dffb",
-            "source": "spacenews",
-            "text": "Poland to host new ESA center as government boosts investments in space",
-            "source_link": "https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T19:49:31.957724Z",
-            "shown_at": [
-                "2026-07-13T19:49:33.052891Z"
-            ]
-        },
-        {
-            "id": "b9a531d052149079304b9790a01df8af",
-            "source": "spacenews",
-            "text": "L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network",
-            "source_link": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T21:44:59.194255Z",
-            "shown_at": [
-                "2026-07-13T21:45:00.150578Z"
-            ]
-        },
-        {
-            "id": "6c2f06ec37f371c6a08f94f4be8f8d76",
-            "source": "breaking_defense",
-            "text": "Reditus readies first launch of its re-entry vehicle/hypersonic target",
-            "source_link": "https://breakingdefense.com/2026/07/reditus-readies-first-launch-of-its-re-entry-vehicle-hypersonic-target/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T22:24:53.654195Z",
-            "shown_at": [
-                "2026-07-13T22:24:54.375715Z"
-            ]
-        },
-        {
-            "id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
-            "source": "spacenews",
-            "text": "Defense spending lifts Europe’s space economy",
-            "source_link": "https://spacenews.com/defense-spending-lifts-europes-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-13T23:05:29.824473Z",
-            "shown_at": [
-                "2026-07-13T23:05:31.282962Z"
             ]
         }
     ]
