@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-14T00:05:22.343761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "748cc6f29f7d0d9780f95a703259f0f6",
+    "trigger_count": 0,
+    "current_item_id": "2dac7c8c7f724896629d3981ae953042",
     "data": [
         {
             "id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
@@ -8236,6 +8236,18 @@
             "fetched_datetime": "2026-07-14T19:29:37.620829Z",
             "shown_at": [
                 "2026-07-14T19:29:40.194294Z"
+            ]
+        },
+        {
+            "id": "2dac7c8c7f724896629d3981ae953042",
+            "source": "breaking_defense",
+            "text": "SDA awards L3Harris, Sierra  $1.75B for missile defense satellites",
+            "source_link": "https://breakingdefense.com/2026/07/sda-awards-l3harris-sierra-1-75b-for-missile-defense-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T22:35:10.107424Z",
+            "shown_at": [
+                "2026-07-14T22:35:10.908729Z"
             ]
         }
     ]
