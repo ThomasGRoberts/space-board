@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 12 | 27 |
+| spacenews | 6 | 13 | 13 | 28 |
 | breaking_defense | 2 | 3 | 12 | 23 |
 | nyt | 1 | 2 | 11 | 22 |
 
@@ -2674,3 +2674,4 @@
 - **Jul 14, 07:29 PM** - Space acquisition and NRO picks face SASC (spacenews)
 - **Jul 14, 08:05 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 14, 08:45 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
+- **Jul 14, 09:19 PM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
