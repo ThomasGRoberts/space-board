@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 15 | 28 |
+| spacenews | 9 | 10 | 16 | 29 |
 | breaking_defense | 2 | 2 | 9 | 22 |
-| nyt | 1 | 1 | 10 | 23 |
+| nyt | 1 | 1 | 10 | 22 |
 
 # Shown Order
 
@@ -2649,3 +2649,4 @@
 - **Jul 14, 02:28 AM** - Space capitalism needs more than a bull market (spacenews)
 - **Jul 14, 04:05 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 14, 04:39 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
+- **Jul 14, 05:15 AM** - Apolink makes contact with first relay satellite (spacenews)
