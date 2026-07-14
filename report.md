@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 15 | 28 |
 | breaking_defense | 2 | 2 | 10 | 23 |
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 1 | 1 | 10 | 23 |
 
 # Shown Order
 
@@ -2657,3 +2657,4 @@
 - **Jul 14, 08:19 AM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
 - **Jul 14, 08:59 AM** - Poland to host new ESA center as government boosts investments in space (spacenews)
 - **Jul 14, 09:44 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 14, 10:19 AM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
