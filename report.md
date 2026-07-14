@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 15 | 28 |
+| spacenews | 9 | 11 | 16 | 29 |
 | breaking_defense | 2 | 2 | 10 | 22 |
 | nyt | 1 | 1 | 10 | 22 |
 
@@ -2660,3 +2660,4 @@
 - **Jul 14, 10:19 AM** - Cosmic Conjoined Twins, Caught on Camera (nyt)
 - **Jul 14, 10:59 AM** - Space capitalism needs more than a bull market (spacenews)
 - **Jul 14, 11:40 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
+- **Jul 14, 12:24 PM** - U.K. government preparing to release new space strategy (spacenews)

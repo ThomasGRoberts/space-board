@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-14T00:05:22.343761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c41bb9f446b35e3c45e51d377393565d",
+    "trigger_count": 0,
+    "current_item_id": "07375351b12fbd67cd03c4aef519ae1c",
     "data": [
         {
             "id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
@@ -8165,6 +8165,18 @@
             "fetched_datetime": "2026-07-14T00:25:05.836465Z",
             "shown_at": [
                 "2026-07-14T00:25:06.954465Z"
+            ]
+        },
+        {
+            "id": "07375351b12fbd67cd03c4aef519ae1c",
+            "source": "spacenews",
+            "text": "U.K. government preparing to release new space strategy",
+            "source_link": "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T12:24:49.720440Z",
+            "shown_at": [
+                "2026-07-14T12:24:50.479808Z"
             ]
         }
     ]
