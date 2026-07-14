@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 14 | 28 |
+| spacenews | 8 | 10 | 15 | 29 |
 | breaking_defense | 2 | 2 | 10 | 22 |
 | nyt | 1 | 1 | 10 | 23 |
 
@@ -2655,3 +2655,4 @@
 - **Jul 14, 07:06 AM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)
 - **Jul 14, 07:45 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 14, 08:19 AM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
+- **Jul 14, 08:59 AM** - Poland to host new ESA center as government boosts investments in space (spacenews)
