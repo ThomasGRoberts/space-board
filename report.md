@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 15 | 28 |
 | breaking_defense | 2 | 2 | 10 | 23 |
-| nyt | 1 | 1 | 9 | 22 |
+| nyt | 1 | 1 | 10 | 23 |
 
 # Shown Order
 
@@ -2654,3 +2654,4 @@
 - **Jul 14, 06:25 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 14, 07:06 AM** - Orbit Fab hires new CEO and raises funding to support satellite refueling business (spacenews)
 - **Jul 14, 07:45 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 14, 08:19 AM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
