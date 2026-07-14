@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 12 | 28 |
 | breaking_defense | 2 | 3 | 12 | 22 |
-| nyt | 1 | 2 | 11 | 22 |
+| nyt | 1 | 2 | 12 | 22 |
 
 # Shown Order
 
@@ -2672,3 +2672,4 @@
 - **Jul 14, 06:16 PM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 14, 06:55 PM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
 - **Jul 14, 07:29 PM** - Space acquisition and NRO picks face SASC (spacenews)
+- **Jul 14, 08:05 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
