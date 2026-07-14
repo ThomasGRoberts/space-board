@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 15 | 28 |
-| breaking_defense | 2 | 2 | 10 | 23 |
-| nyt | 1 | 1 | 9 | 22 |
+| breaking_defense | 2 | 2 | 10 | 22 |
+| nyt | 1 | 1 | 10 | 23 |
 
 # Shown Order
 
@@ -2651,3 +2651,4 @@
 - **Jul 14, 04:39 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 14, 05:15 AM** - Apolink makes contact with first relay satellite (spacenews)
 - **Jul 14, 05:49 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 14, 06:25 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
