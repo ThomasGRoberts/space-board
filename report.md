@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 15 | 29 |
-| breaking_defense | 2 | 2 | 9 | 22 |
+| spacenews | 9 | 10 | 15 | 28 |
+| breaking_defense | 2 | 2 | 10 | 23 |
 | nyt | 1 | 1 | 10 | 22 |
 
 # Shown Order
@@ -2647,3 +2647,4 @@
 - **Jul 14, 12:59 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 14, 01:35 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 14, 02:28 AM** - Space capitalism needs more than a bull market (spacenews)
+- **Jul 14, 04:05 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
