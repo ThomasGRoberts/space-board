@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 12 | 27 |
+| spacenews | 4 | 13 | 12 | 28 |
 | breaking_defense | 2 | 4 | 12 | 23 |
 | nyt | 1 | 2 | 12 | 22 |
 
@@ -2677,3 +2677,4 @@
 - **Jul 14, 09:19 PM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
 - **Jul 14, 09:55 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 14, 10:35 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
+- **Jul 14, 11:09 PM** - Is this the year for a NASA authorization bill? (spacenews)
