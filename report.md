@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 12 | 28 |
-| breaking_defense | 2 | 3 | 11 | 22 |
+| breaking_defense | 2 | 3 | 12 | 23 |
 | nyt | 1 | 2 | 12 | 22 |
 
 # Shown Order
@@ -2673,3 +2673,4 @@
 - **Jul 14, 06:55 PM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
 - **Jul 14, 07:29 PM** - Space acquisition and NRO picks face SASC (spacenews)
 - **Jul 14, 08:05 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
+- **Jul 14, 08:45 PM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
