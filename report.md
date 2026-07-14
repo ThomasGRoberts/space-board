@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 13 | 28 |
+| spacenews | 6 | 12 | 14 | 28 |
 | breaking_defense | 1 | 2 | 11 | 22 |
 | nyt | 1 | 2 | 11 | 22 |
 
@@ -2667,3 +2667,4 @@
 - **Jul 14, 03:05 PM** - Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense (spacenews)
 - **Jul 14, 03:44 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 14, 04:19 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
+- **Jul 14, 04:59 PM** - Blue Origin seeks to raise $10 billion in outside capital (spacenews)
