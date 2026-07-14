@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 15 | 28 |
 | breaking_defense | 2 | 2 | 10 | 22 |
-| nyt | 1 | 1 | 9 | 22 |
+| nyt | 1 | 1 | 10 | 23 |
 
 # Shown Order
 
@@ -2648,3 +2648,4 @@
 - **Jul 14, 01:35 AM** - Cut the Alien Jokes, These Mysterious Spheres Are Likely Space Debris (nyt)
 - **Jul 14, 02:28 AM** - Space capitalism needs more than a bull market (spacenews)
 - **Jul 14, 04:05 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 14, 04:39 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
