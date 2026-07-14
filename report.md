@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 15 | 28 |
 | breaking_defense | 2 | 2 | 10 | 22 |
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 2 | 2 | 11 | 23 |
 
 # Shown Order
 
@@ -2662,3 +2662,4 @@
 - **Jul 14, 11:40 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 14, 12:24 PM** - U.K. government preparing to release new space strategy (spacenews)
 - **Jul 14, 01:15 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
+- **Jul 14, 01:49 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)

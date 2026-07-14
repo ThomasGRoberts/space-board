@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-14T00:05:22.343761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02c161e1ed288fa9d0416928f9c5d780",
+    "trigger_count": 0,
+    "current_item_id": "f5bea184ddfa012df4200bca0ee33a5c",
     "data": [
         {
             "id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
@@ -8178,6 +8178,18 @@
             "fetched_datetime": "2026-07-14T12:24:49.720440Z",
             "shown_at": [
                 "2026-07-14T12:24:50.479808Z"
+            ]
+        },
+        {
+            "id": "f5bea184ddfa012df4200bca0ee33a5c",
+            "source": "nyt",
+            "text": "Dark Sky Defenders Raise Alarm Along the Border of West Texas",
+            "source_link": "https://www.nytimes.com/2026/07/14/science/texas-astronomy-dark-sky-border.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T13:49:25.647354Z",
+            "shown_at": [
+                "2026-07-14T13:49:29.914786Z"
             ]
         }
     ]
