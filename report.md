@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 23 |
-| spacenews | 3 | 11 | 12 | 27 |
+| spacenews | 4 | 12 | 13 | 28 |
 | nyt | 1 | 2 | 13 | 23 |
 
 # Shown Order
@@ -2677,3 +2677,4 @@
 - **Jul 15, 07:45 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 15, 08:25 AM** - New Singapore space agency seeks to build up the country’s space industry (spacenews)
 - **Jul 15, 08:59 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 15, 09:35 AM** - Isaacman attends Soyuz launch of ISS crew (spacenews)

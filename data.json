@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-15T00:05:12.781159+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5bea184ddfa012df4200bca0ee33a5c",
+    "trigger_count": 0,
+    "current_item_id": "414386b2edb5de5ab673983c20e4e56c",
     "data": [
         {
             "id": "2dac7c8c7f724896629d3981ae953042",
@@ -8171,6 +8171,18 @@
             "shown_at": [
                 "2026-05-05T18:24:34.232361Z",
                 "2026-05-09T20:14:17.052076Z"
+            ]
+        },
+        {
+            "id": "414386b2edb5de5ab673983c20e4e56c",
+            "source": "spacenews",
+            "text": "Isaacman attends Soyuz launch of ISS crew",
+            "source_link": "https://spacenews.com/isaacman-attends-soyuz-launch-of-iss-crew/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T09:35:08.543117Z",
+            "shown_at": [
+                "2026-07-15T09:35:09.214044Z"
             ]
         }
     ]
