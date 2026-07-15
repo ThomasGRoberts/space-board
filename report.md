@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 23 |
-| spacenews | 3 | 13 | 11 | 27 |
+| spacenews | 3 | 13 | 12 | 28 |
 | nyt | 1 | 2 | 12 | 22 |
 
 # Shown Order
@@ -2663,3 +2663,4 @@
 - **Jul 14, 11:09 PM** - Is this the year for a NASA authorization bill? (spacenews)
 - **Jul 14, 11:45 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 15, 12:19 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 15, 12:54 AM** - The government’s options to address strained spaceports (spacenews)
