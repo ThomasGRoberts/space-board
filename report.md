@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 22 |
 | spacenews | 3 | 12 | 12 | 28 |
-| nyt | 1 | 2 | 12 | 22 |
+| nyt | 1 | 2 | 13 | 23 |
 
 # Shown Order
 
@@ -2667,3 +2667,4 @@
 - **Jul 15, 01:29 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 15, 02:05 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 15, 02:44 AM** - Space Force completes procurement reorganization, creating nine acquisition portfolios (spacenews)
+- **Jul 15, 03:19 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
