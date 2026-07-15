@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 22 |
 | spacenews | 3 | 13 | 12 | 28 |
-| nyt | 1 | 2 | 12 | 22 |
+| nyt | 1 | 2 | 13 | 23 |
 
 # Shown Order
 
@@ -2664,3 +2664,4 @@
 - **Jul 14, 11:45 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 15, 12:19 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 15, 12:54 AM** - The government’s options to address strained spaceports (spacenews)
+- **Jul 15, 01:29 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
