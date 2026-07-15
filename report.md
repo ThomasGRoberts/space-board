@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 12 | 22 |
+| breaking_defense | 2 | 4 | 13 | 23 |
 | spacenews | 4 | 13 | 12 | 28 |
 | nyt | 1 | 2 | 12 | 22 |
 
@@ -2662,3 +2662,4 @@
 - **Jul 14, 10:35 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 14, 11:09 PM** - Is this the year for a NASA authorization bill? (spacenews)
 - **Jul 14, 11:45 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 15, 12:19 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
