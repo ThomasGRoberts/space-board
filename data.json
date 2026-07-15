@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-15T00:05:12.781159+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2276df31408ce85cf888b163373ac026",
+    "trigger_count": 0,
+    "current_item_id": "ccbefde14f6f6f679f6fd9d4a91d6753",
     "data": [
         {
             "id": "2dac7c8c7f724896629d3981ae953042",
@@ -8211,6 +8211,27 @@
             "shown_at": [
                 "2026-07-15T11:20:04.845225Z"
             ]
+        },
+        {
+            "id": "ccbefde14f6f6f679f6fd9d4a91d6753",
+            "source": "spacenews",
+            "text": "Icarus Robotics taps KULR to provide batteries for Space Station robots",
+            "source_link": "https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T13:15:07.990705Z",
+            "shown_at": [
+                "2026-07-15T13:15:10.226265Z"
+            ]
+        },
+        {
+            "id": "ba6276bcd0a9ead01789b8fa78cc30cb",
+            "source": "spacenews",
+            "text": "Laying the groundwork for the first human mission to Mars",
+            "source_link": "https://spacenews.com/laying-the-groundwork-for-the-first-human-mission-to-mars/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T13:15:07.990763Z"
         }
     ]
 }
