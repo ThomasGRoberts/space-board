@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 23 |
-| spacenews | 5 | 13 | 13 | 28 |
+| spacenews | 6 | 14 | 14 | 29 |
 | nyt | 1 | 2 | 12 | 22 |
 
 # Shown Order
@@ -2680,3 +2680,4 @@
 - **Jul 15, 09:35 AM** - Isaacman attends Soyuz launch of ISS crew (spacenews)
 - **Jul 15, 10:09 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
 - **Jul 15, 10:45 AM** - Japan seeks to ramp up launch activity (spacenews)
+- **Jul 15, 11:20 AM** - Satellite investment sets annual record halfway through 2026 (spacenews)
