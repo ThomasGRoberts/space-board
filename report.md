@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 23 |
-| spacenews | 4 | 12 | 13 | 28 |
+| spacenews | 5 | 13 | 14 | 29 |
 | nyt | 1 | 2 | 12 | 22 |
 
 # Shown Order
@@ -2679,3 +2679,4 @@
 - **Jul 15, 08:59 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 15, 09:35 AM** - Isaacman attends Soyuz launch of ISS crew (spacenews)
 - **Jul 15, 10:09 AM** - Why DoD, Silicon Valley now are betting on solar power beaming sats (breaking_defense)
+- **Jul 15, 10:45 AM** - Japan seeks to ramp up launch activity (spacenews)
