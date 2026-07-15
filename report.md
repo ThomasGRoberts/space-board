@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 22 |
 | spacenews | 3 | 12 | 13 | 28 |
-| nyt | 1 | 2 | 12 | 22 |
+| nyt | 1 | 2 | 13 | 23 |
 
 # Shown Order
 
@@ -2670,3 +2670,4 @@
 - **Jul 15, 03:19 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 15, 03:55 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 15, 04:29 AM** - Is this the year for a NASA authorization bill? (spacenews)
+- **Jul 15, 05:09 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
