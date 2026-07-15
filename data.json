@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-15T00:05:12.781159+00:00",
-    "trigger_count": 6,
-    "current_item_id": "29126683097ebdc0270c252d04ca9652",
+    "trigger_count": 0,
+    "current_item_id": "a193d3a686f3ce672cdecddd152ce1eb",
     "data": [
         {
             "id": "2dac7c8c7f724896629d3981ae953042",
@@ -8287,6 +8287,18 @@
             "fetched_datetime": "2026-07-15T18:54:46.233142Z",
             "shown_at": [
                 "2026-07-15T18:54:49.395425Z"
+            ]
+        },
+        {
+            "id": "a193d3a686f3ce672cdecddd152ce1eb",
+            "source": "spacenews",
+            "text": "Space Force awards Slingshot $69 million for AI-enabled training technology",
+            "source_link": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T20:09:45.489425Z",
+            "shown_at": [
+                "2026-07-15T20:09:46.631877Z"
             ]
         }
     ]
