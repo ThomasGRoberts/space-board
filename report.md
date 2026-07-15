@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 11 | 23 |
-| spacenews | 9 | 15 | 17 | 29 |
+| breaking_defense | 3 | 5 | 12 | 24 |
+| spacenews | 9 | 15 | 16 | 29 |
 | nyt | 0 | 1 | 11 | 22 |
 
 # Shown Order
@@ -2696,3 +2696,4 @@
 - **Jul 15, 07:35 PM** - Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base (spacenews)
 - **Jul 15, 08:09 PM** - Space Force awards Slingshot $69 million for AI-enabled training technology (spacenews)
 - **Jul 15, 08:45 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
+- **Jul 15, 09:24 PM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)

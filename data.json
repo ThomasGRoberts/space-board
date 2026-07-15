@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-15T00:05:12.781159+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02c161e1ed288fa9d0416928f9c5d780",
+    "trigger_count": 0,
+    "current_item_id": "22f9d29a8fea19d074d90ef6443c7652",
     "data": [
         {
             "id": "2dac7c8c7f724896629d3981ae953042",
@@ -8300,6 +8300,18 @@
             "fetched_datetime": "2026-07-15T20:09:45.489425Z",
             "shown_at": [
                 "2026-07-15T20:09:46.631877Z"
+            ]
+        },
+        {
+            "id": "22f9d29a8fea19d074d90ef6443c7652",
+            "source": "breaking_defense",
+            "text": "On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy",
+            "source_link": "https://breakingdefense.com/2026/07/on-eve-of-retirement-saltzman-champions-militarys-role-as-ballast-for-democracy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T21:24:53.949802Z",
+            "shown_at": [
+                "2026-07-15T21:24:56.141840Z"
             ]
         }
     ]
