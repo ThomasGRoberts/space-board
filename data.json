@@ -1,9 +1,95 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-14T00:05:22.343761+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-07-15T00:05:12.781159+00:00",
+    "trigger_count": 4,
     "current_item_id": "f5bea184ddfa012df4200bca0ee33a5c",
     "data": [
+        {
+            "id": "2dac7c8c7f724896629d3981ae953042",
+            "source": "breaking_defense",
+            "text": "SDA awards L3Harris, Sierra  $1.75B for missile defense satellites",
+            "source_link": "https://breakingdefense.com/2026/07/sda-awards-l3harris-sierra-1-75b-for-missile-defense-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T22:35:10.107424Z",
+            "shown_at": [
+                "2026-07-14T22:35:10.908729Z"
+            ]
+        },
+        {
+            "id": "87eb1c0935f8832919f92b8384ae5df9",
+            "source": "spacenews",
+            "text": "Space acquisition and NRO picks face SASC",
+            "source_link": "https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T19:29:37.620829Z",
+            "shown_at": [
+                "2026-07-14T19:29:40.194294Z"
+            ]
+        },
+        {
+            "id": "2276df31408ce85cf888b163373ac026",
+            "source": "breaking_defense",
+            "text": "The Space Force faces growing pains. Here’s how the next chief can help.",
+            "source_link": "https://breakingdefense.com/2026/07/the-space-force-faces-growing-pains-heres-how-the-next-chief-can-help/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T18:55:03.117815Z",
+            "shown_at": [
+                "2026-07-14T18:55:03.774525Z"
+            ]
+        },
+        {
+            "id": "df7c621e4ff522a8142e4e3c0c48cf1c",
+            "source": "spacenews",
+            "text": "Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense",
+            "source_link": "https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T15:05:45.827374Z",
+            "shown_at": [
+                "2026-07-14T15:05:46.849674Z"
+            ]
+        },
+        {
+            "id": "f5bea184ddfa012df4200bca0ee33a5c",
+            "source": "nyt",
+            "text": "Dark Sky Defenders Raise Alarm Along the Border of West Texas",
+            "source_link": "https://www.nytimes.com/2026/07/14/science/texas-astronomy-dark-sky-border.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T13:49:25.647354Z",
+            "shown_at": [
+                "2026-07-14T13:49:29.914786Z",
+                "2026-07-14T17:35:25.154241Z",
+                "2026-07-14T23:45:04.656224Z"
+            ]
+        },
+        {
+            "id": "07375351b12fbd67cd03c4aef519ae1c",
+            "source": "spacenews",
+            "text": "U.K. government preparing to release new space strategy",
+            "source_link": "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T12:24:49.720440Z",
+            "shown_at": [
+                "2026-07-14T12:24:50.479808Z"
+            ]
+        },
+        {
+            "id": "586eb0827b96364aa9bec80363ac1a22",
+            "source": "spacenews",
+            "text": "Flexell Space raises $20 Million in Series A round",
+            "source_link": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-14T00:25:05.836465Z",
+            "shown_at": [
+                "2026-07-14T00:25:06.954465Z"
+            ]
+        },
         {
             "id": "2cb5c4e3d8f185059fc7744a5c0d68e3",
             "source": "spacenews",
@@ -8070,186 +8156,6 @@
             "shown_at": [
                 "2026-05-05T18:24:34.232361Z",
                 "2026-05-09T20:14:17.052076Z"
-            ]
-        },
-        {
-            "id": "8eb81c22acc55b29647f0a395afed5c8",
-            "source": "spacenews",
-            "text": "Facing AI, data and scale imperatives at the 2026 GEOINT Symposium",
-            "source_link": "https://spacenews.com/facing-ai-data-and-scale-imperatives-at-the-2026-geoint-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T16:48:27.482067Z",
-            "shown_at": [
-                "2026-05-05T17:35:05.711168Z"
-            ]
-        },
-        {
-            "id": "d3bfc45d215065652e8185f2a02f4073",
-            "source": "spacenews",
-            "text": "Polish space company Eycore launches first SAR Earth observation satellite",
-            "source_link": "https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T16:48:27.482012Z",
-            "shown_at": [
-                "2026-05-05T16:48:28.456263Z"
-            ]
-        },
-        {
-            "id": "21d7dd689869f55cc50cf956f4d0d081",
-            "source": "spacenews",
-            "text": "Hancom InSpace gains hyperspectral sensor",
-            "source_link": "https://spacenews.com/hancom-inspace-gains-hyperspectral-sensor/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T13:49:50.560343Z",
-            "shown_at": [
-                "2026-05-05T15:44:23.064428Z",
-                "2026-05-10T05:39:22.777387Z"
-            ]
-        },
-        {
-            "id": "bdf1009cc6103f6d057ef5b06cfebda4",
-            "source": "spacenews",
-            "text": "Do AI tools undermine trust in geospatial imagery?",
-            "source_link": "https://spacenews.com/do-ai-tools-undermine-trust-in-geospatial-imagery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T13:49:50.560312Z",
-            "shown_at": [
-                "2026-05-05T15:04:59.721580Z",
-                "2026-05-07T03:49:12.243846Z",
-                "2026-05-12T01:04:57.533196Z",
-                "2026-05-12T04:34:35.480119Z"
-            ]
-        },
-        {
-            "id": "082732d94e9109e48de5cac2e9a74d45",
-            "source": "spacenews",
-            "text": "Quantum Space hires Bridenstine as CEO",
-            "source_link": "https://spacenews.com/quantum-space-hires-bridenstine-as-ceo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T13:49:50.560275Z",
-            "shown_at": [
-                "2026-05-05T14:24:35.200474Z",
-                "2026-05-08T06:34:27.022043Z",
-                "2026-05-09T14:24:22.688960Z",
-                "2026-05-09T17:54:20.551726Z"
-            ]
-        },
-        {
-            "id": "163e6fde1e291190af13a31817bc283d",
-            "source": "spacenews",
-            "text": "Anduril teams with commercial space firms, Sandia lab on Golden Dome interceptor program",
-            "source_link": "https://spacenews.com/anduril-teams-with-commercial-space-firms-sandia-lab-on-golden-dome-interceptor-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T13:49:50.560218Z",
-            "shown_at": [
-                "2026-05-05T13:49:51.506227Z",
-                "2026-05-05T20:14:52.140141Z",
-                "2026-05-07T06:14:29.778665Z"
-            ]
-        },
-        {
-            "id": "55f695b298a0fcd297927d519d639c15",
-            "source": "spacenews",
-            "text": "Ireland and Malta sign the Artemis Accords",
-            "source_link": "https://spacenews.com/ireland-and-malta-sign-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T11:09:16.205474Z",
-            "shown_at": [
-                "2026-05-05T11:44:32.529610Z",
-                "2026-05-11T08:39:14.921288Z"
-            ]
-        },
-        {
-            "id": "586eb0827b96364aa9bec80363ac1a22",
-            "source": "spacenews",
-            "text": "Flexell Space raises $20 Million in Series A round",
-            "source_link": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-14T00:25:05.836465Z",
-            "shown_at": [
-                "2026-07-14T00:25:06.954465Z"
-            ]
-        },
-        {
-            "id": "07375351b12fbd67cd03c4aef519ae1c",
-            "source": "spacenews",
-            "text": "U.K. government preparing to release new space strategy",
-            "source_link": "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-14T12:24:49.720440Z",
-            "shown_at": [
-                "2026-07-14T12:24:50.479808Z"
-            ]
-        },
-        {
-            "id": "f5bea184ddfa012df4200bca0ee33a5c",
-            "source": "nyt",
-            "text": "Dark Sky Defenders Raise Alarm Along the Border of West Texas",
-            "source_link": "https://www.nytimes.com/2026/07/14/science/texas-astronomy-dark-sky-border.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-14T13:49:25.647354Z",
-            "shown_at": [
-                "2026-07-14T13:49:29.914786Z",
-                "2026-07-14T17:35:25.154241Z",
-                "2026-07-14T23:45:04.656224Z"
-            ]
-        },
-        {
-            "id": "df7c621e4ff522a8142e4e3c0c48cf1c",
-            "source": "spacenews",
-            "text": "Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense",
-            "source_link": "https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-14T15:05:45.827374Z",
-            "shown_at": [
-                "2026-07-14T15:05:46.849674Z"
-            ]
-        },
-        {
-            "id": "2276df31408ce85cf888b163373ac026",
-            "source": "breaking_defense",
-            "text": "The Space Force faces growing pains. Here’s how the next chief can help.",
-            "source_link": "https://breakingdefense.com/2026/07/the-space-force-faces-growing-pains-heres-how-the-next-chief-can-help/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-14T18:55:03.117815Z",
-            "shown_at": [
-                "2026-07-14T18:55:03.774525Z"
-            ]
-        },
-        {
-            "id": "87eb1c0935f8832919f92b8384ae5df9",
-            "source": "spacenews",
-            "text": "Space acquisition and NRO picks face SASC",
-            "source_link": "https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-14T19:29:37.620829Z",
-            "shown_at": [
-                "2026-07-14T19:29:40.194294Z"
-            ]
-        },
-        {
-            "id": "2dac7c8c7f724896629d3981ae953042",
-            "source": "breaking_defense",
-            "text": "SDA awards L3Harris, Sierra  $1.75B for missile defense satellites",
-            "source_link": "https://breakingdefense.com/2026/07/sda-awards-l3harris-sierra-1-75b-for-missile-defense-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-14T22:35:10.107424Z",
-            "shown_at": [
-                "2026-07-14T22:35:10.908729Z"
             ]
         }
     ]

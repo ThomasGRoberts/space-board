@@ -2,22 +2,14 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 12 | 28 |
 | breaking_defense | 2 | 4 | 12 | 22 |
+| spacenews | 4 | 13 | 12 | 28 |
 | nyt | 1 | 2 | 12 | 22 |
 
 # Shown Order
 
-- **May 05, 11:44 AM** - Ireland and Malta sign the Artemis Accords (spacenews)
-- **May 05, 01:49 PM** - Anduril teams with commercial space firms, Sandia lab on Golden Dome interceptor program (spacenews)
-- **May 05, 02:24 PM** - Quantum Space hires Bridenstine as CEO (spacenews)
-- **May 05, 03:04 PM** - Do AI tools undermine trust in geospatial imagery? (spacenews)
-- **May 05, 03:44 PM** - Hancom InSpace gains hyperspectral sensor (spacenews)
-- **May 05, 04:48 PM** - Polish space company Eycore launches first SAR Earth observation satellite (spacenews)
-- **May 05, 05:35 PM** - Facing AI, data and scale imperatives at the 2026 GEOINT Symposium (spacenews)
 - **May 05, 06:24 PM** - The budget proposal that overshadowed Artemis 2 (spacenews)
 - **May 05, 06:59 PM** - Extending space-enabled intelligence below the ocean surface (spacenews)
-- **May 05, 08:14 PM** - Anduril teams with commercial space firms, Sandia lab on Golden Dome interceptor program (spacenews)
 - **May 05, 09:24 PM** - Voyager ‘very optimistic’ about Starlab amid potential NASA changes (spacenews)
 - **May 05, 09:59 PM** - Ukrainian forces test direct-to-device satellite imagery for frontline troops (spacenews)
 - **May 05, 10:34 PM** - New NGA head makes industry debut at GEOINT Symposium 2026 (spacenews)
@@ -41,8 +33,6 @@
 - **May 06, 09:24 PM** - Startup develops software to help military tap commercial imaging satellites (spacenews)
 - **May 06, 09:59 PM** - NGA Rapid Capabilities Office to embrace speed and risk-taking (spacenews)
 - **May 06, 11:09 PM** - Loft Orbital expands into full-service constellation deals (spacenews)
-- **May 07, 03:49 AM** - Do AI tools undermine trust in geospatial imagery? (spacenews)
-- **May 07, 06:14 AM** - Anduril teams with commercial space firms, Sandia lab on Golden Dome interceptor program (spacenews)
 - **May 07, 08:39 AM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
 - **May 07, 11:05 AM** - Speed tops price in national security contracting decisions (spacenews)
 - **May 07, 11:44 AM** - As satellite imagery evolves, its role in operations comes into view (spacenews)
@@ -62,7 +52,6 @@
 - **May 08, 01:54 AM** - Lunar Outpost raises $30 million (spacenews)
 - **May 08, 03:04 AM** - SatVu zooms in energy facilities in Cuba, India and Australia (spacenews)
 - **May 08, 05:23 AM** - Lunar Outpost raises $30 million (spacenews)
-- **May 08, 06:34 AM** - Quantum Space hires Bridenstine as CEO (spacenews)
 - **May 08, 08:59 AM** - SatVu zooms in energy facilities in Cuba, India and Australia (spacenews)
 - **May 08, 10:09 AM** - Astranis secures $450 million in equity, debt to expand small GEO satellite production (spacenews)
 - **May 08, 10:44 AM** - Bringing imagery and communications under one roof (spacenews)
@@ -104,13 +93,11 @@
 - **May 09, 12:04 PM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
 - **May 09, 12:39 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 01:49 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
-- **May 09, 02:24 PM** - Quantum Space hires Bridenstine as CEO (spacenews)
 - **May 09, 02:59 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 03:34 PM** - Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement (spacenews)
 - **May 09, 04:09 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 09, 04:44 PM** - Viasat wins $307 million Marine Corps satellite communications contract (spacenews)
 - **May 09, 05:19 PM** - Pentagon Releases Files on U.F.O.s (nyt)
-- **May 09, 05:54 PM** - Quantum Space hires Bridenstine as CEO (spacenews)
 - **May 09, 06:29 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 09, 07:04 PM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
 - **May 09, 07:38 PM** - Pentagon Releases Files on U.F.O.s (nyt)
@@ -130,7 +117,6 @@
 - **May 10, 03:54 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 10, 04:29 AM** - Swift reboost mission completes environmental tests (spacenews)
 - **May 10, 05:04 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
-- **May 10, 05:39 AM** - Hancom InSpace gains hyperspectral sensor (spacenews)
 - **May 10, 06:14 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 10, 06:49 AM** - Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement (spacenews)
 - **May 10, 07:24 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
@@ -165,7 +151,6 @@
 - **May 11, 06:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 11, 07:24 AM** - China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket  (spacenews)
 - **May 11, 07:59 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
-- **May 11, 08:39 AM** - Ireland and Malta sign the Artemis Accords (spacenews)
 - **May 11, 09:14 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 11, 10:24 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 11, 10:59 AM** - Tianzhou-10 cargo spacecraft arrives at Tiangong space station (spacenews)
@@ -189,13 +174,11 @@
 - **May 11, 11:19 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 11, 11:54 PM** - MDA Space continues work on Gateway robotic arm (spacenews)
 - **May 12, 12:29 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
-- **May 12, 01:04 AM** - Do AI tools undermine trust in geospatial imagery? (spacenews)
 - **May 12, 01:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 02:14 AM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
 - **May 12, 02:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 03:24 AM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
 - **May 12, 03:59 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
-- **May 12, 04:34 AM** - Do AI tools undermine trust in geospatial imagery? (spacenews)
 - **May 12, 05:09 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 12, 05:44 AM** - Roadmap for a space-to-space economy (spacenews)
 - **May 12, 06:19 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
