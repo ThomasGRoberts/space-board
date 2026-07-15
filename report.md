@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 12 | 22 |
+| breaking_defense | 2 | 4 | 13 | 23 |
 | spacenews | 3 | 12 | 12 | 27 |
 | nyt | 1 | 2 | 12 | 23 |
 
@@ -2665,3 +2665,4 @@
 - **Jul 15, 12:19 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 15, 12:54 AM** - The government’s options to address strained spaceports (spacenews)
 - **Jul 15, 01:29 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
+- **Jul 15, 02:05 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
