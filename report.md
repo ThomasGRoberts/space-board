@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 13 | 22 |
+| breaking_defense | 2 | 4 | 14 | 23 |
 | spacenews | 3 | 12 | 12 | 27 |
 | nyt | 1 | 2 | 13 | 23 |
 
@@ -2668,3 +2668,4 @@
 - **Jul 15, 02:05 AM** - Space Force adds two startups to small, medium launch pool (breaking_defense)
 - **Jul 15, 02:44 AM** - Space Force completes procurement reorganization, creating nine acquisition portfolios (spacenews)
 - **Jul 15, 03:19 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
+- **Jul 15, 03:55 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
