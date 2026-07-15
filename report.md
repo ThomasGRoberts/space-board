@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 12 | 24 |
-| spacenews | 9 | 14 | 16 | 28 |
-| nyt | 0 | 1 | 11 | 22 |
+| spacenews | 9 | 14 | 17 | 29 |
+| nyt | 0 | 1 | 10 | 22 |
 
 # Shown Order
 
@@ -2697,3 +2697,4 @@
 - **Jul 15, 08:09 PM** - Space Force awards Slingshot $69 million for AI-enabled training technology (spacenews)
 - **Jul 15, 08:45 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 15, 09:24 PM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
+- **Jul 15, 09:59 PM** - Isaacman attends Soyuz launch of ISS crew (spacenews)
