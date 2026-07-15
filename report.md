@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 23 |
-| spacenews | 3 | 12 | 12 | 27 |
-| nyt | 1 | 2 | 13 | 22 |
+| spacenews | 3 | 12 | 13 | 28 |
+| nyt | 1 | 2 | 12 | 22 |
 
 # Shown Order
 
@@ -2672,3 +2672,4 @@
 - **Jul 15, 04:29 AM** - Is this the year for a NASA authorization bill? (spacenews)
 - **Jul 15, 05:09 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 15, 05:44 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
+- **Jul 15, 06:29 AM** - Venus Aerospace raises $91 million to scale rocket engine technology (spacenews)
