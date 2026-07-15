@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-15T00:05:12.781159+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c2f06ec37f371c6a08f94f4be8f8d76",
+    "trigger_count": 0,
+    "current_item_id": "27cef0b4e93a3f93a80dff7b90190841",
     "data": [
         {
             "id": "2dac7c8c7f724896629d3981ae953042",
@@ -8252,6 +8252,27 @@
             "shown_at": [
                 "2026-07-15T14:35:17.870897Z"
             ]
+        },
+        {
+            "id": "27cef0b4e93a3f93a80dff7b90190841",
+            "source": "spacenews",
+            "text": "Saltzman’s farewell warning: Prepare for war in space to preserve peace",
+            "source_link": "https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T18:20:13.063190Z",
+            "shown_at": [
+                "2026-07-15T18:20:13.845921Z"
+            ]
+        },
+        {
+            "id": "29126683097ebdc0270c252d04ca9652",
+            "source": "spacenews",
+            "text": "Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base",
+            "source_link": "https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T18:20:13.063274Z"
         }
     ]
 }

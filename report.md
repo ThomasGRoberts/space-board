@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 23 |
-| spacenews | 7 | 13 | 15 | 28 |
+| breaking_defense | 2 | 3 | 12 | 23 |
+| spacenews | 9 | 15 | 16 | 29 |
 | nyt | 0 | 1 | 11 | 23 |
 
 # Shown Order
@@ -2691,3 +2691,4 @@
 - **Jul 15, 04:25 PM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
 - **Jul 15, 04:59 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 15, 05:39 PM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
+- **Jul 15, 06:20 PM** - Saltzman’s farewell warning: Prepare for war in space to preserve peace (spacenews)
