@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 12 | 23 |
+| breaking_defense | 2 | 4 | 13 | 24 |
 | spacenews | 7 | 13 | 15 | 28 |
 | nyt | 0 | 2 | 11 | 23 |
 
@@ -2687,3 +2687,4 @@
 - **Jul 15, 01:55 PM** - Laying the groundwork for the first human mission to Mars (spacenews)
 - **Jul 15, 02:35 PM** - Startup working with University of Texas focuses on trapping small debris (spacenews)
 - **Jul 15, 03:15 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
+- **Jul 15, 03:49 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
