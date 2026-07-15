@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 22 |
 | spacenews | 3 | 12 | 13 | 28 |
-| nyt | 1 | 2 | 12 | 22 |
+| nyt | 1 | 2 | 13 | 23 |
 
 # Shown Order
 
@@ -2673,3 +2673,4 @@
 - **Jul 15, 05:09 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 15, 05:44 AM** - Help GPS resiliency against Russia with this one simple change (breaking_defense)
 - **Jul 15, 06:29 AM** - Venus Aerospace raises $91 million to scale rocket engine technology (spacenews)
+- **Jul 15, 07:05 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
