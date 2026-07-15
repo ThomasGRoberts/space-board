@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 24 |
-| spacenews | 9 | 13 | 16 | 28 |
+| spacenews | 9 | 13 | 17 | 29 |
 | nyt | 0 | 1 | 11 | 23 |
 
 # Shown Order
@@ -2700,3 +2700,4 @@
 - **Jul 15, 09:59 PM** - Isaacman attends Soyuz launch of ISS crew (spacenews)
 - **Jul 15, 10:35 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 15, 11:09 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
+- **Jul 15, 11:44 PM** - Space Force completes procurement reorganization, creating nine acquisition portfolios (spacenews)
