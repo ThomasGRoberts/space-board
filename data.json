@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-15T00:05:12.781159+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ba6276bcd0a9ead01789b8fa78cc30cb",
+    "trigger_count": 0,
+    "current_item_id": "bc42e3f9fbdb91f2892c497df43c7c3f",
     "data": [
         {
             "id": "2dac7c8c7f724896629d3981ae953042",
@@ -8234,6 +8234,18 @@
             "fetched_datetime": "2026-07-15T13:15:07.990763Z",
             "shown_at": [
                 "2026-07-15T13:55:36.580935Z"
+            ]
+        },
+        {
+            "id": "bc42e3f9fbdb91f2892c497df43c7c3f",
+            "source": "spacenews",
+            "text": "Startup working with University of Texas focuses on trapping small debris",
+            "source_link": "https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T14:35:14.640865Z",
+            "shown_at": [
+                "2026-07-15T14:35:17.870897Z"
             ]
         }
     ]
