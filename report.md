@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 23 |
-| spacenews | 3 | 12 | 12 | 27 |
+| spacenews | 3 | 12 | 13 | 28 |
 | nyt | 1 | 2 | 13 | 22 |
 
 # Shown Order
@@ -2669,3 +2669,4 @@
 - **Jul 15, 02:44 AM** - Space Force completes procurement reorganization, creating nine acquisition portfolios (spacenews)
 - **Jul 15, 03:19 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 15, 03:55 AM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
+- **Jul 15, 04:29 AM** - Is this the year for a NASA authorization bill? (spacenews)
