@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 24 |
-| spacenews | 9 | 15 | 16 | 28 |
+| spacenews | 8 | 15 | 16 | 29 |
 | nyt | 0 | 1 | 11 | 22 |
 
 # Shown Order
@@ -2693,3 +2693,4 @@
 - **Jul 15, 05:39 PM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 15, 06:20 PM** - Saltzman’s farewell warning: Prepare for war in space to preserve peace (spacenews)
 - **Jul 15, 06:54 PM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
+- **Jul 15, 07:35 PM** - Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-15T00:05:12.781159+00:00",
-    "trigger_count": 6,
-    "current_item_id": "145d38c1ce1ef3bf26901c2a3552667f",
+    "trigger_count": 0,
+    "current_item_id": "29126683097ebdc0270c252d04ca9652",
     "data": [
         {
             "id": "2dac7c8c7f724896629d3981ae953042",
@@ -8270,9 +8270,12 @@
             "source": "spacenews",
             "text": "Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base",
             "source_link": "https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-15T18:20:13.063274Z"
+            "fetched_datetime": "2026-07-15T18:20:13.063274Z",
+            "shown_at": [
+                "2026-07-15T19:35:16.046536Z"
+            ]
         },
         {
             "id": "145d38c1ce1ef3bf26901c2a3552667f",
