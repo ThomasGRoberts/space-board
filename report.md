@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 23 |
-| spacenews | 7 | 13 | 14 | 29 |
+| spacenews | 7 | 13 | 15 | 30 |
 | nyt | 0 | 2 | 11 | 22 |
 
 # Shown Order
@@ -2684,3 +2684,4 @@
 - **Jul 15, 11:54 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 15, 12:34 PM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
 - **Jul 15, 01:15 PM** - Icarus Robotics taps KULR to provide batteries for Space Station robots (spacenews)
+- **Jul 15, 01:55 PM** - Laying the groundwork for the first human mission to Mars (spacenews)
