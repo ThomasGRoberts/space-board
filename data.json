@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-15T00:05:12.781159+00:00",
-    "trigger_count": 6,
-    "current_item_id": "27cef0b4e93a3f93a80dff7b90190841",
+    "trigger_count": 0,
+    "current_item_id": "145d38c1ce1ef3bf26901c2a3552667f",
     "data": [
         {
             "id": "2dac7c8c7f724896629d3981ae953042",
@@ -8273,6 +8273,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-07-15T18:20:13.063274Z"
+        },
+        {
+            "id": "145d38c1ce1ef3bf26901c2a3552667f",
+            "source": "breaking_defense",
+            "text": "SDA resumes data relay satellite launch following tech fixes",
+            "source_link": "https://breakingdefense.com/2026/07/sda-resumes-data-relay-satellite-launch-following-tech-fixes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T18:54:46.233142Z",
+            "shown_at": [
+                "2026-07-15T18:54:49.395425Z"
+            ]
         }
     ]
 }
