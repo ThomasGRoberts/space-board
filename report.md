@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 12 | 23 |
 | spacenews | 7 | 13 | 16 | 29 |
-| nyt | 0 | 1 | 11 | 22 |
+| nyt | 0 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -2689,3 +2689,4 @@
 - **Jul 15, 03:15 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 15, 03:49 PM** - Eight NATO allies to create new satellite mega-constellation (breaking_defense)
 - **Jul 15, 04:25 PM** - ispace to send larger payloads to the moon on SpaceX’s Starship (spacenews)
+- **Jul 15, 04:59 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
