@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 13 | 25 |
-| spacenews | 8 | 15 | 15 | 30 |
+| spacenews | 8 | 15 | 16 | 31 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2699,3 +2699,4 @@
 - **Jul 16, 03:44 PM** - Defense Innovation Unit seeks commercial path to deliver electrical power from orbit (spacenews)
 - **Jul 16, 04:19 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 16, 04:54 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
+- **Jul 16, 05:29 PM** - Defense Innovation Unit seeks commercial path to deliver electrical power from orbit (spacenews)
