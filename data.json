@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-16T00:05:20.033153+00:00",
-    "trigger_count": 6,
-    "current_item_id": "22f9d29a8fea19d074d90ef6443c7652",
+    "trigger_count": 0,
+    "current_item_id": "1d3621d7a7e2e96fa338f68b24da4b4a",
     "data": [
         {
             "id": "22f9d29a8fea19d074d90ef6443c7652",
@@ -8176,6 +8176,18 @@
                 "2026-05-06T12:54:18.507760Z",
                 "2026-05-08T11:19:23.330864Z",
                 "2026-05-11T03:54:18.306209Z"
+            ]
+        },
+        {
+            "id": "1d3621d7a7e2e96fa338f68b24da4b4a",
+            "source": "spacenews",
+            "text": "Swissto12 raises $70 million to accelerate small GEO satellite production",
+            "source_link": "https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T07:05:22.173370Z",
+            "shown_at": [
+                "2026-07-16T07:05:22.768208Z"
             ]
         }
     ]
