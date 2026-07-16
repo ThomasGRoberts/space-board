@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 25 |
-| spacenews | 9 | 12 | 16 | 29 |
-| nyt | 0 | 1 | 11 | 23 |
+| spacenews | 9 | 12 | 17 | 30 |
+| nyt | 0 | 1 | 10 | 23 |
 
 # Shown Order
 
@@ -2679,3 +2679,4 @@
 - **Jul 16, 03:24 AM** - FCC approves first Reflect Orbital satellite (spacenews)
 - **Jul 16, 03:59 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 16, 04:39 AM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
+- **Jul 16, 05:15 AM** - Voyager completes acquisition of Astrobotic (spacenews)
