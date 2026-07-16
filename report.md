@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 25 |
 | spacenews | 10 | 13 | 17 | 29 |
-| nyt | 0 | 1 | 10 | 23 |
+| nyt | 0 | 1 | 11 | 24 |
 
 # Shown Order
 
@@ -2686,3 +2686,4 @@
 - **Jul 16, 07:39 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 16, 08:19 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
 - **Jul 16, 08:55 AM** - Isaacman attends Soyuz launch of ISS crew (spacenews)
+- **Jul 16, 09:28 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
