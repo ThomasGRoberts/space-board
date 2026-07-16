@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 12 | 24 |
+| breaking_defense | 3 | 5 | 13 | 25 |
 | spacenews | 6 | 15 | 15 | 31 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2701,3 +2701,4 @@
 - **Jul 16, 04:54 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 16, 05:29 PM** - Defense Innovation Unit seeks commercial path to deliver electrical power from orbit (spacenews)
 - **Jul 16, 06:04 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
+- **Jul 16, 06:39 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
