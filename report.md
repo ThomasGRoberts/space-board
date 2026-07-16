@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 12 | 25 |
+| breaking_defense | 2 | 4 | 13 | 25 |
 | spacenews | 7 | 14 | 15 | 30 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2694,3 +2694,4 @@
 - **Jul 16, 12:35 PM** - Office of Space Commerce makes its case for mission authorization (spacenews)
 - **Jul 16, 01:14 PM** - Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations (spacenews)
 - **Jul 16, 01:49 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
+- **Jul 16, 02:29 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
