@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 24 |
 | spacenews | 9 | 12 | 17 | 29 |
-| nyt | 0 | 1 | 10 | 22 |
+| nyt | 0 | 1 | 11 | 23 |
 
 # Shown Order
 
@@ -2674,3 +2674,4 @@
 - **Jul 16, 12:19 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 16, 12:54 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 16, 01:29 AM** - Space acquisition and NRO picks face SASC (spacenews)
+- **Jul 16, 02:05 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
