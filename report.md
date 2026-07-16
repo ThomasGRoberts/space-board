@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 25 |
-| spacenews | 7 | 14 | 15 | 30 |
-| nyt | 0 | 0 | 11 | 23 |
+| spacenews | 8 | 15 | 16 | 31 |
+| nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -2696,3 +2696,4 @@
 - **Jul 16, 01:49 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 16, 02:29 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 16, 03:05 PM** - Trump’s pick to lead Space Force defends plan to more than double budget (spacenews)
+- **Jul 16, 03:44 PM** - Defense Innovation Unit seeks commercial path to deliver electrical power from orbit (spacenews)
