@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 25 |
-| spacenews | 9 | 12 | 16 | 28 |
+| spacenews | 9 | 12 | 17 | 29 |
 | nyt | 0 | 1 | 10 | 23 |
 
 # Shown Order
@@ -2676,3 +2676,4 @@
 - **Jul 16, 01:29 AM** - Space acquisition and NRO picks face SASC (spacenews)
 - **Jul 16, 02:05 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 16, 02:45 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
+- **Jul 16, 03:24 AM** - FCC approves first Reflect Orbital satellite (spacenews)
