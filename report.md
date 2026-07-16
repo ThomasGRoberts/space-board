@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 11 | 24 |
+| breaking_defense | 2 | 4 | 12 | 25 |
 | spacenews | 10 | 13 | 17 | 29 |
-| nyt | 0 | 1 | 11 | 24 |
+| nyt | 0 | 1 | 11 | 23 |
 
 # Shown Order
 
@@ -2684,3 +2684,4 @@
 - **Jul 16, 06:29 AM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
 - **Jul 16, 07:05 AM** - Swissto12 raises $70 million to accelerate small GEO satellite production (spacenews)
 - **Jul 16, 07:39 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
+- **Jul 16, 08:19 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
