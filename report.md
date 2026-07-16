@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 25 |
 | spacenews | 7 | 14 | 16 | 30 |
-| nyt | 0 | 1 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2693,3 +2693,4 @@
 - **Jul 16, 11:59 AM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
 - **Jul 16, 12:35 PM** - Office of Space Commerce makes its case for mission authorization (spacenews)
 - **Jul 16, 01:14 PM** - Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations (spacenews)
+- **Jul 16, 01:49 PM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
