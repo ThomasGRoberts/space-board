@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 24 |
 | spacenews | 6 | 14 | 15 | 31 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2703,3 +2703,4 @@
 - **Jul 16, 06:04 PM** - This Star Just Ate a Planet, and It’s Not Done Yet (nyt)
 - **Jul 16, 06:39 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
 - **Jul 16, 07:19 PM** - Defense spending lifts Europe’s space economy (spacenews)
+- **Jul 16, 07:54 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
