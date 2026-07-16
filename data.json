@@ -1,9 +1,142 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-15T00:05:12.781159+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-07-16T00:05:20.033153+00:00",
+    "trigger_count": 4,
     "current_item_id": "df7bbbadb6ca0df297149be0c80c0d77",
     "data": [
+        {
+            "id": "22f9d29a8fea19d074d90ef6443c7652",
+            "source": "breaking_defense",
+            "text": "On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy",
+            "source_link": "https://breakingdefense.com/2026/07/on-eve-of-retirement-saltzman-champions-militarys-role-as-ballast-for-democracy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T21:24:53.949802Z",
+            "shown_at": [
+                "2026-07-15T21:24:56.141840Z"
+            ]
+        },
+        {
+            "id": "a193d3a686f3ce672cdecddd152ce1eb",
+            "source": "spacenews",
+            "text": "Space Force awards Slingshot $69 million for AI-enabled training technology",
+            "source_link": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T20:09:45.489425Z",
+            "shown_at": [
+                "2026-07-15T20:09:46.631877Z"
+            ]
+        },
+        {
+            "id": "145d38c1ce1ef3bf26901c2a3552667f",
+            "source": "breaking_defense",
+            "text": "SDA resumes data relay satellite launch following tech fixes",
+            "source_link": "https://breakingdefense.com/2026/07/sda-resumes-data-relay-satellite-launch-following-tech-fixes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T18:54:46.233142Z",
+            "shown_at": [
+                "2026-07-15T18:54:49.395425Z"
+            ]
+        },
+        {
+            "id": "29126683097ebdc0270c252d04ca9652",
+            "source": "spacenews",
+            "text": "Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base",
+            "source_link": "https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T18:20:13.063274Z",
+            "shown_at": [
+                "2026-07-15T19:35:16.046536Z"
+            ]
+        },
+        {
+            "id": "27cef0b4e93a3f93a80dff7b90190841",
+            "source": "spacenews",
+            "text": "Saltzman’s farewell warning: Prepare for war in space to preserve peace",
+            "source_link": "https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T18:20:13.063190Z",
+            "shown_at": [
+                "2026-07-15T18:20:13.845921Z"
+            ]
+        },
+        {
+            "id": "bc42e3f9fbdb91f2892c497df43c7c3f",
+            "source": "spacenews",
+            "text": "Startup working with University of Texas focuses on trapping small debris",
+            "source_link": "https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T14:35:14.640865Z",
+            "shown_at": [
+                "2026-07-15T14:35:17.870897Z"
+            ]
+        },
+        {
+            "id": "ba6276bcd0a9ead01789b8fa78cc30cb",
+            "source": "spacenews",
+            "text": "Laying the groundwork for the first human mission to Mars",
+            "source_link": "https://spacenews.com/laying-the-groundwork-for-the-first-human-mission-to-mars/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T13:15:07.990763Z",
+            "shown_at": [
+                "2026-07-15T13:55:36.580935Z"
+            ]
+        },
+        {
+            "id": "ccbefde14f6f6f679f6fd9d4a91d6753",
+            "source": "spacenews",
+            "text": "Icarus Robotics taps KULR to provide batteries for Space Station robots",
+            "source_link": "https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T13:15:07.990705Z",
+            "shown_at": [
+                "2026-07-15T13:15:10.226265Z"
+            ]
+        },
+        {
+            "id": "12393e25b6e83880fb45e9734b1d373f",
+            "source": "spacenews",
+            "text": "Satellite investment sets annual record halfway through 2026",
+            "source_link": "https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T11:20:03.375468Z",
+            "shown_at": [
+                "2026-07-15T11:20:04.845225Z"
+            ]
+        },
+        {
+            "id": "07508ddc913897cea1174cccf5f33d5b",
+            "source": "spacenews",
+            "text": "Japan seeks to ramp up launch activity",
+            "source_link": "https://spacenews.com/japan-seeks-to-ramp-up-launch-activity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T10:45:24.480548Z",
+            "shown_at": [
+                "2026-07-15T10:45:26.059750Z"
+            ]
+        },
+        {
+            "id": "414386b2edb5de5ab673983c20e4e56c",
+            "source": "spacenews",
+            "text": "Isaacman attends Soyuz launch of ISS crew",
+            "source_link": "https://spacenews.com/isaacman-attends-soyuz-launch-of-iss-crew/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-15T09:35:08.543117Z",
+            "shown_at": [
+                "2026-07-15T09:35:09.214044Z",
+                "2026-07-15T21:59:18.288907Z"
+            ]
+        },
         {
             "id": "2dac7c8c7f724896629d3981ae953042",
             "source": "breaking_defense",
@@ -8032,290 +8165,6 @@
                 "2026-05-06T12:54:18.507760Z",
                 "2026-05-08T11:19:23.330864Z",
                 "2026-05-11T03:54:18.306209Z"
-            ]
-        },
-        {
-            "id": "3f40e18964a7a1431afe8bf1dfec83e0",
-            "source": "spacenews",
-            "text": "Astranis secures $450 million in equity, debt to expand small GEO satellite production",
-            "source_link": "https://spacenews.com/astranis-secures-450-million-in-equity-debt-to-expand-small-geo-satellite-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T12:19:21.863091Z",
-            "shown_at": [
-                "2026-05-06T12:19:22.726423Z",
-                "2026-05-08T10:09:30.832064Z",
-                "2026-05-11T12:09:30.855589Z",
-                "2026-05-12T20:39:24.627947Z"
-            ]
-        },
-        {
-            "id": "4f252aedaa6974c60313ae6966c61e1f",
-            "source": "spacenews",
-            "text": "Ground station operators grapple with military targeting",
-            "source_link": "https://spacenews.com/ground-station-operators-grapple-with-military-targeting/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T11:09:26.765626Z",
-            "shown_at": [
-                "2026-05-06T11:09:28.495667Z"
-            ]
-        },
-        {
-            "id": "879c1371ec60b32d124f31e6eb99d5fb",
-            "source": "spacenews",
-            "text": "Scout Space raises $18 million to expand orbital tracking technology",
-            "source_link": "https://spacenews.com/scout-space-raises-18-million-to-expand-orbital-tracking-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T10:34:31.987486Z",
-            "shown_at": [
-                "2026-05-06T10:34:32.987411Z",
-                "2026-05-13T06:04:51.123863Z"
-            ]
-        },
-        {
-            "id": "678b8fe32c0e1dcf5da8294fee79c935",
-            "source": "spacenews",
-            "text": "Loft Orbital expands into full-service constellation deals",
-            "source_link": "https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905377Z",
-            "shown_at": [
-                "2026-05-06T00:19:03.811879Z",
-                "2026-05-06T23:09:14.784752Z"
-            ]
-        },
-        {
-            "id": "6b10098b60e32a0c9f5da624f6545f09",
-            "source": "spacenews",
-            "text": "Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement",
-            "source_link": "https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905335Z",
-            "shown_at": [
-                "2026-05-05T23:44:27.314702Z",
-                "2026-05-09T15:34:30.527148Z",
-                "2026-05-10T06:49:24.963316Z"
-            ]
-        },
-        {
-            "id": "e615fd790c7f0ece32e1d41e0b532bb2",
-            "source": "spacenews",
-            "text": "Startup develops software to help military tap commercial imaging satellites",
-            "source_link": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905292Z",
-            "shown_at": [
-                "2026-05-05T23:09:12.218703Z",
-                "2026-05-06T08:49:16.167992Z",
-                "2026-05-06T21:24:13.577396Z",
-                "2026-05-08T22:59:16.275257Z"
-            ]
-        },
-        {
-            "id": "d55fb0a2fc6deb2ba47f1017c7b69403",
-            "source": "spacenews",
-            "text": "New NGA head makes industry debut at GEOINT Symposium 2026",
-            "source_link": "https://spacenews.com/new-nga-head-makes-industry-debut-at-geoint-symposium-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905247Z",
-            "shown_at": [
-                "2026-05-05T22:34:19.836785Z",
-                "2026-05-07T15:01:30.306437Z",
-                "2026-05-09T21:24:23.671837Z"
-            ]
-        },
-        {
-            "id": "ae4f6bc818aefda2d359265b027ba28e",
-            "source": "spacenews",
-            "text": "Ukrainian forces test direct-to-device satellite imagery for frontline troops",
-            "source_link": "https://spacenews.com/ukrainian-forces-test-direct-to-device-satellite-imagery-for-frontline-troops/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905196Z",
-            "shown_at": [
-                "2026-05-05T21:59:18.565415Z",
-                "2026-05-07T23:34:29.629952Z"
-            ]
-        },
-        {
-            "id": "cd33f714cb45f02e75f58f78dbfddcd5",
-            "source": "spacenews",
-            "text": "Voyager ‘very optimistic’ about Starlab amid potential NASA changes",
-            "source_link": "https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905114Z",
-            "shown_at": [
-                "2026-05-05T21:24:20.236879Z",
-                "2026-05-06T07:39:11.685882Z",
-                "2026-05-10T12:39:13.594161Z",
-                "2026-05-10T22:04:43.219715Z"
-            ]
-        },
-        {
-            "id": "d4a722679c9e47fa468c255fdba6256a",
-            "source": "spacenews",
-            "text": "Extending space-enabled intelligence below the ocean surface",
-            "source_link": "https://spacenews.com/extending-space-enabled-intelligence-below-the-ocean-surface/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T16:48:27.482136Z",
-            "shown_at": [
-                "2026-05-05T18:59:19.025224Z",
-                "2026-05-07T21:14:14.378153Z",
-                "2026-05-09T09:44:07.618627Z"
-            ]
-        },
-        {
-            "id": "90e5cf0099b1f26b18337496ab10c9ed",
-            "source": "spacenews",
-            "text": "The budget proposal that overshadowed Artemis 2",
-            "source_link": "https://spacenews.com/the-budget-proposal-that-overshadowed-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T16:48:27.482104Z",
-            "shown_at": [
-                "2026-05-05T18:24:34.232361Z",
-                "2026-05-09T20:14:17.052076Z"
-            ]
-        },
-        {
-            "id": "414386b2edb5de5ab673983c20e4e56c",
-            "source": "spacenews",
-            "text": "Isaacman attends Soyuz launch of ISS crew",
-            "source_link": "https://spacenews.com/isaacman-attends-soyuz-launch-of-iss-crew/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T09:35:08.543117Z",
-            "shown_at": [
-                "2026-07-15T09:35:09.214044Z",
-                "2026-07-15T21:59:18.288907Z"
-            ]
-        },
-        {
-            "id": "07508ddc913897cea1174cccf5f33d5b",
-            "source": "spacenews",
-            "text": "Japan seeks to ramp up launch activity",
-            "source_link": "https://spacenews.com/japan-seeks-to-ramp-up-launch-activity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T10:45:24.480548Z",
-            "shown_at": [
-                "2026-07-15T10:45:26.059750Z"
-            ]
-        },
-        {
-            "id": "12393e25b6e83880fb45e9734b1d373f",
-            "source": "spacenews",
-            "text": "Satellite investment sets annual record halfway through 2026",
-            "source_link": "https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T11:20:03.375468Z",
-            "shown_at": [
-                "2026-07-15T11:20:04.845225Z"
-            ]
-        },
-        {
-            "id": "ccbefde14f6f6f679f6fd9d4a91d6753",
-            "source": "spacenews",
-            "text": "Icarus Robotics taps KULR to provide batteries for Space Station robots",
-            "source_link": "https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T13:15:07.990705Z",
-            "shown_at": [
-                "2026-07-15T13:15:10.226265Z"
-            ]
-        },
-        {
-            "id": "ba6276bcd0a9ead01789b8fa78cc30cb",
-            "source": "spacenews",
-            "text": "Laying the groundwork for the first human mission to Mars",
-            "source_link": "https://spacenews.com/laying-the-groundwork-for-the-first-human-mission-to-mars/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T13:15:07.990763Z",
-            "shown_at": [
-                "2026-07-15T13:55:36.580935Z"
-            ]
-        },
-        {
-            "id": "bc42e3f9fbdb91f2892c497df43c7c3f",
-            "source": "spacenews",
-            "text": "Startup working with University of Texas focuses on trapping small debris",
-            "source_link": "https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T14:35:14.640865Z",
-            "shown_at": [
-                "2026-07-15T14:35:17.870897Z"
-            ]
-        },
-        {
-            "id": "27cef0b4e93a3f93a80dff7b90190841",
-            "source": "spacenews",
-            "text": "Saltzman’s farewell warning: Prepare for war in space to preserve peace",
-            "source_link": "https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T18:20:13.063190Z",
-            "shown_at": [
-                "2026-07-15T18:20:13.845921Z"
-            ]
-        },
-        {
-            "id": "29126683097ebdc0270c252d04ca9652",
-            "source": "spacenews",
-            "text": "Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base",
-            "source_link": "https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T18:20:13.063274Z",
-            "shown_at": [
-                "2026-07-15T19:35:16.046536Z"
-            ]
-        },
-        {
-            "id": "145d38c1ce1ef3bf26901c2a3552667f",
-            "source": "breaking_defense",
-            "text": "SDA resumes data relay satellite launch following tech fixes",
-            "source_link": "https://breakingdefense.com/2026/07/sda-resumes-data-relay-satellite-launch-following-tech-fixes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T18:54:46.233142Z",
-            "shown_at": [
-                "2026-07-15T18:54:49.395425Z"
-            ]
-        },
-        {
-            "id": "a193d3a686f3ce672cdecddd152ce1eb",
-            "source": "spacenews",
-            "text": "Space Force awards Slingshot $69 million for AI-enabled training technology",
-            "source_link": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T20:09:45.489425Z",
-            "shown_at": [
-                "2026-07-15T20:09:46.631877Z"
-            ]
-        },
-        {
-            "id": "22f9d29a8fea19d074d90ef6443c7652",
-            "source": "breaking_defense",
-            "text": "On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy",
-            "source_link": "https://breakingdefense.com/2026/07/on-eve-of-retirement-saltzman-champions-militarys-role-as-ballast-for-democracy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-15T21:24:53.949802Z",
-            "shown_at": [
-                "2026-07-15T21:24:56.141840Z"
             ]
         }
     ]
