@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-16T00:05:20.033153+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02c161e1ed288fa9d0416928f9c5d780",
+    "trigger_count": 0,
+    "current_item_id": "4fc01e6aa125f285b5d121e9ad22a51e",
     "data": [
         {
             "id": "22f9d29a8fea19d074d90ef6443c7652",
@@ -8247,6 +8247,18 @@
             "fetched_datetime": "2026-07-16T15:44:46.613499Z",
             "shown_at": [
                 "2026-07-16T15:44:47.284986Z"
+            ]
+        },
+        {
+            "id": "4fc01e6aa125f285b5d121e9ad22a51e",
+            "source": "breaking_defense",
+            "text": "Schiess likely to sail through Space Force chief confirmation",
+            "source_link": "https://breakingdefense.com/2026/07/schiess-likely-to-sail-through-space-force-chief-confirmation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T16:54:40.524795Z",
+            "shown_at": [
+                "2026-07-16T16:54:41.714799Z"
             ]
         }
     ]

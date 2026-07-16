@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 12 | 24 |
+| breaking_defense | 3 | 5 | 13 | 25 |
 | spacenews | 8 | 15 | 15 | 31 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2698,3 +2698,4 @@
 - **Jul 16, 03:05 PM** - Trump’s pick to lead Space Force defends plan to more than double budget (spacenews)
 - **Jul 16, 03:44 PM** - Defense Innovation Unit seeks commercial path to deliver electrical power from orbit (spacenews)
 - **Jul 16, 04:19 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
+- **Jul 16, 04:54 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
