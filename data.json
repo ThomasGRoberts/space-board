@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-16T00:05:20.033153+00:00",
-    "trigger_count": 6,
-    "current_item_id": "22f9d29a8fea19d074d90ef6443c7652",
+    "trigger_count": 0,
+    "current_item_id": "383654767c9615f74bd87a6844b1968a",
     "data": [
         {
             "id": "22f9d29a8fea19d074d90ef6443c7652",
@@ -8197,6 +8197,27 @@
             "shown_at": [
                 "2026-07-16T07:05:22.768208Z"
             ]
+        },
+        {
+            "id": "383654767c9615f74bd87a6844b1968a",
+            "source": "spacenews",
+            "text": "Office of Space Commerce makes its case for mission authorization",
+            "source_link": "https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T12:35:15.025475Z",
+            "shown_at": [
+                "2026-07-16T12:35:15.774086Z"
+            ]
+        },
+        {
+            "id": "eb5b7558a7b0572006c6625e4d43d1a8",
+            "source": "spacenews",
+            "text": "Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations",
+            "source_link": "https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T12:35:15.025555Z"
         }
     ]
 }
