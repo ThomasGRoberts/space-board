@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 12 | 24 |
 | spacenews | 7 | 16 | 15 | 32 |
-| nyt | 0 | 0 | 12 | 22 |
+| nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2707,3 +2707,4 @@
 - **Jul 16, 08:29 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 16, 09:09 PM** - SpaceX launches 21 satellites for military data network  (spacenews)
 - **Jul 16, 09:45 PM** - Nature study identifies a new way to spot nuclear weapons in orbit (spacenews)
+- **Jul 16, 10:24 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
