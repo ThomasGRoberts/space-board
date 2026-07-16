@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 25 |
-| spacenews | 9 | 13 | 16 | 29 |
+| spacenews | 9 | 13 | 17 | 30 |
 | nyt | 0 | 1 | 11 | 23 |
 
 # Shown Order
@@ -2688,3 +2688,4 @@
 - **Jul 16, 08:55 AM** - Isaacman attends Soyuz launch of ISS crew (spacenews)
 - **Jul 16, 09:28 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 16, 10:05 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
+- **Jul 16, 10:45 AM** - Golden Dome and the search for new space markets (spacenews)
