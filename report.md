@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 11 | 24 |
+| breaking_defense | 2 | 4 | 12 | 25 |
 | spacenews | 9 | 12 | 17 | 28 |
 | nyt | 0 | 1 | 11 | 23 |
 
@@ -2672,3 +2672,4 @@
 - **Jul 15, 11:09 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 15, 11:44 PM** - Space Force completes procurement reorganization, creating nine acquisition portfolios (spacenews)
 - **Jul 16, 12:19 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 16, 12:54 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
