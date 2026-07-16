@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 24 |
-| spacenews | 9 | 12 | 16 | 28 |
-| nyt | 0 | 1 | 11 | 23 |
+| spacenews | 9 | 12 | 17 | 29 |
+| nyt | 0 | 1 | 10 | 23 |
 
 # Shown Order
 
@@ -2673,3 +2673,4 @@
 - **Jul 15, 11:44 PM** - Space Force completes procurement reorganization, creating nine acquisition portfolios (spacenews)
 - **Jul 16, 12:19 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 16, 12:54 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
+- **Jul 16, 01:29 AM** - Space acquisition and NRO picks face SASC (spacenews)
