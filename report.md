@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 12 | 24 |
-| spacenews | 7 | 16 | 15 | 31 |
+| spacenews | 7 | 16 | 16 | 32 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2709,3 +2709,4 @@
 - **Jul 16, 09:45 PM** - Nature study identifies a new way to spot nuclear weapons in orbit (spacenews)
 - **Jul 16, 10:24 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 16, 11:09 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
+- **Jul 16, 11:44 PM** - Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense (spacenews)
