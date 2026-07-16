@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 25 |
 | spacenews | 10 | 13 | 17 | 29 |
-| nyt | 0 | 1 | 10 | 23 |
+| nyt | 0 | 1 | 11 | 24 |
 
 # Shown Order
 
@@ -2683,3 +2683,4 @@
 - **Jul 16, 05:49 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
 - **Jul 16, 06:29 AM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
 - **Jul 16, 07:05 AM** - Swissto12 raises $70 million to accelerate small GEO satellite production (spacenews)
+- **Jul 16, 07:39 AM** - Wally Funk, Who Set an Age Record for Space Travel, Dies at 87 (nyt)
