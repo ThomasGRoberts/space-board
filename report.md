@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 24 |
-| spacenews | 5 | 14 | 14 | 31 |
+| spacenews | 7 | 16 | 15 | 32 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2705,3 +2705,4 @@
 - **Jul 16, 07:19 PM** - Defense spending lifts Europe’s space economy (spacenews)
 - **Jul 16, 07:54 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 16, 08:29 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
+- **Jul 16, 09:09 PM** - SpaceX launches 21 satellites for military data network  (spacenews)

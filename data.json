@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-16T00:05:20.033153+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2dac7c8c7f724896629d3981ae953042",
+    "trigger_count": 0,
+    "current_item_id": "5d68b2d89233603ebad36db607972cfc",
     "data": [
         {
             "id": "22f9d29a8fea19d074d90ef6443c7652",
@@ -8266,6 +8266,27 @@
             "shown_at": [
                 "2026-07-16T16:54:41.714799Z"
             ]
+        },
+        {
+            "id": "5d68b2d89233603ebad36db607972cfc",
+            "source": "spacenews",
+            "text": "SpaceX launches 21 satellites for military data network ",
+            "source_link": "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T21:09:16.584337Z",
+            "shown_at": [
+                "2026-07-16T21:09:19.302623Z"
+            ]
+        },
+        {
+            "id": "e40b3bd225857565ac892e6515553040",
+            "source": "spacenews",
+            "text": "Nature study identifies a new way to spot nuclear weapons in orbit",
+            "source_link": "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T21:09:16.584411Z"
         }
     ]
 }
