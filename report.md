@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 25 |
-| spacenews | 9 | 14 | 16 | 29 |
+| spacenews | 9 | 14 | 17 | 30 |
 | nyt | 0 | 1 | 11 | 24 |
 
 # Shown Order
@@ -2692,3 +2692,4 @@
 - **Jul 16, 11:25 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 16, 11:59 AM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
 - **Jul 16, 12:35 PM** - Office of Space Commerce makes its case for mission authorization (spacenews)
+- **Jul 16, 01:14 PM** - Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations (spacenews)
