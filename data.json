@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-16T00:05:20.033153+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2dac7c8c7f724896629d3981ae953042",
+    "trigger_count": 0,
+    "current_item_id": "c4ca313d823a1de19a4bf175904a07cb",
     "data": [
         {
             "id": "22f9d29a8fea19d074d90ef6443c7652",
@@ -8222,6 +8222,18 @@
             "fetched_datetime": "2026-07-16T12:35:15.025555Z",
             "shown_at": [
                 "2026-07-16T13:14:59.053821Z"
+            ]
+        },
+        {
+            "id": "c4ca313d823a1de19a4bf175904a07cb",
+            "source": "spacenews",
+            "text": "Trump’s pick to lead Space Force defends plan to more than double budget",
+            "source_link": "https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T15:05:32.314024Z",
+            "shown_at": [
+                "2026-07-16T15:05:35.393818Z"
             ]
         }
     ]
