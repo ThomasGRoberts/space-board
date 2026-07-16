@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-16T00:05:20.033153+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5d68b2d89233603ebad36db607972cfc",
+    "trigger_count": 0,
+    "current_item_id": "e40b3bd225857565ac892e6515553040",
     "data": [
         {
             "id": "22f9d29a8fea19d074d90ef6443c7652",
@@ -8284,9 +8284,12 @@
             "source": "spacenews",
             "text": "Nature study identifies a new way to spot nuclear weapons in orbit",
             "source_link": "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-16T21:09:16.584411Z"
+            "fetched_datetime": "2026-07-16T21:09:16.584411Z",
+            "shown_at": [
+                "2026-07-16T21:45:03.542002Z"
+            ]
         }
     ]
 }
