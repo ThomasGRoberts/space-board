@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 12 | 24 |
+| breaking_defense | 2 | 4 | 13 | 25 |
 | spacenews | 7 | 13 | 15 | 29 |
 | nyt | 0 | 1 | 11 | 24 |
 
@@ -2690,3 +2690,4 @@
 - **Jul 16, 10:05 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 16, 10:45 AM** - Golden Dome and the search for new space markets (spacenews)
 - **Jul 16, 11:25 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
+- **Jul 16, 11:59 AM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
