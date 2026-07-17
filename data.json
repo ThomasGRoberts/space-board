@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-17T00:05:02.089897+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c2f984a8850b83a49c00531a6f9b4c2",
+    "trigger_count": 0,
+    "current_item_id": "1c66caca13a44a708060f84bf7de3d5d",
     "data": [
         {
             "id": "e40b3bd225857565ac892e6515553040",
@@ -8230,6 +8230,18 @@
             "fetched_datetime": "2026-07-17T10:29:37.089539Z",
             "shown_at": [
                 "2026-07-17T10:29:38.720966Z"
+            ]
+        },
+        {
+            "id": "1c66caca13a44a708060f84bf7de3d5d",
+            "source": "spacenews",
+            "text": "SpaceX’s only problem is finding more space to work with",
+            "source_link": "https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-17T13:29:23.923606Z",
+            "shown_at": [
+                "2026-07-17T13:29:24.768334Z"
             ]
         }
     ]
