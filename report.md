@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 16 | 32 |
-| breaking_defense | 1 | 3 | 11 | 23 |
+| breaking_defense | 1 | 3 | 12 | 24 |
 | nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -2702,3 +2702,4 @@
 - **Jul 17, 11:04 AM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 17, 11:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 17, 12:14 PM** - L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network (spacenews)
+- **Jul 17, 12:54 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
