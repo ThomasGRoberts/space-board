@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 15 | 32 |
-| breaking_defense | 1 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 22 |
+| breaking_defense | 1 | 3 | 12 | 23 |
+| nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2684,3 +2684,4 @@
 - **Jul 17, 12:19 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 17, 12:59 AM** - SpaceX aborts Starship Flight 13 launch attempt (spacenews)
 - **Jul 17, 01:34 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
+- **Jul 17, 02:09 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
