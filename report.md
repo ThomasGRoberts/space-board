@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 16 | 31 |
 | breaking_defense | 1 | 3 | 12 | 24 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2704,3 +2704,4 @@
 - **Jul 17, 12:14 PM** - L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network (spacenews)
 - **Jul 17, 12:54 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
 - **Jul 17, 01:29 PM** - SpaceX’s only problem is finding more space to work with (spacenews)
+- **Jul 17, 02:04 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
