@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 15 | 31 |
 | breaking_defense | 1 | 4 | 13 | 25 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2711,3 +2711,4 @@
 - **Jul 17, 04:29 PM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
 - **Jul 17, 05:05 PM** - Parabilis tests propulsion system for maneuverable cubesats (spacenews)
 - **Jul 17, 05:39 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
+- **Jul 17, 06:14 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
