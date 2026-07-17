@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 15 | 32 |
 | breaking_defense | 1 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 22 |
+| nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2693,3 +2693,4 @@
 - **Jul 17, 05:44 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 17, 06:19 AM** - China becomes second country to recover orbital booster with Long March 10B (spacenews)
 - **Jul 17, 06:54 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
+- **Jul 17, 07:34 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
