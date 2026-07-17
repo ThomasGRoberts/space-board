@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 15 | 30 |
 | breaking_defense | 1 | 2 | 13 | 25 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2720,3 +2720,4 @@
 - **Jul 17, 09:44 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 17, 10:19 PM** - Icarus Robotics taps KULR to provide batteries for Space Station robots (spacenews)
 - **Jul 17, 10:54 PM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
+- **Jul 17, 11:29 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
