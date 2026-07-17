@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 15 | 30 |
+| spacenews | 5 | 13 | 16 | 31 |
 | breaking_defense | 0 | 3 | 12 | 25 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -2709,3 +2709,4 @@
 - **Jul 17, 03:14 PM** - L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network (spacenews)
 - **Jul 17, 03:54 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 17, 04:29 PM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
+- **Jul 17, 05:05 PM** - Parabilis tests propulsion system for maneuverable cubesats (spacenews)
