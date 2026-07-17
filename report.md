@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 14 | 29 |
+| spacenews | 3 | 10 | 15 | 30 |
 | breaking_defense | 1 | 2 | 13 | 25 |
 | nyt | 1 | 1 | 13 | 25 |
 
@@ -2718,3 +2718,4 @@
 - **Jul 17, 08:34 PM** - Swissto12 raises $70 million to accelerate small GEO satellite production (spacenews)
 - **Jul 17, 09:09 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 17, 09:44 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
+- **Jul 17, 10:19 PM** - Icarus Robotics taps KULR to provide batteries for Space Station robots (spacenews)
