@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 15 | 32 |
 | breaking_defense | 1 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 22 |
+| nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2687,3 +2687,4 @@
 - **Jul 17, 02:09 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 17, 02:44 AM** - China becomes second country to recover orbital booster with Long March 10B (spacenews)
 - **Jul 17, 03:19 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
+- **Jul 17, 03:54 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
