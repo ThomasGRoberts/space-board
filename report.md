@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 15 | 32 |
+| spacenews | 8 | 17 | 16 | 33 |
 | breaking_defense | 1 | 3 | 12 | 23 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2688,3 +2688,4 @@
 - **Jul 17, 02:44 AM** - China becomes second country to recover orbital booster with Long March 10B (spacenews)
 - **Jul 17, 03:19 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
 - **Jul 17, 03:54 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 17, 04:29 AM** - L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network (spacenews)
