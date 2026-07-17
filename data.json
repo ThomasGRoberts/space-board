@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-17T00:05:02.089897+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4b5eadcc7c6dfc36d66c5293c60082cc",
+    "trigger_count": 0,
+    "current_item_id": "30c9b3f4d68063a4ec088d2b7f14d206",
     "data": [
         {
             "id": "e40b3bd225857565ac892e6515553040",
@@ -8248,6 +8248,18 @@
             "fetched_datetime": "2026-07-17T13:29:23.923606Z",
             "shown_at": [
                 "2026-07-17T13:29:24.768334Z"
+            ]
+        },
+        {
+            "id": "30c9b3f4d68063a4ec088d2b7f14d206",
+            "source": "breaking_defense",
+            "text": "DIU seeking ‘near-term’ power-beaming satellite demo",
+            "source_link": "https://breakingdefense.com/2026/07/diu-seeking-near-term-power-beaming-satellite-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-17T17:39:21.775223Z",
+            "shown_at": [
+                "2026-07-17T17:39:22.933670Z"
             ]
         }
     ]
