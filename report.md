@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 15 | 30 |
 | breaking_defense | 1 | 3 | 13 | 25 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 12 | 25 |
 
 # Shown Order
 
@@ -2714,3 +2714,4 @@
 - **Jul 17, 06:14 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 17, 06:49 PM** - FCC approves first Reflect Orbital satellite (spacenews)
 - **Jul 17, 07:24 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
+- **Jul 17, 07:59 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
