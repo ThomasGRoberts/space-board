@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 15 | 32 |
 | breaking_defense | 1 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 22 |
+| nyt | 1 | 1 | 13 | 23 |
 
 # Shown Order
 
@@ -2696,3 +2696,4 @@
 - **Jul 17, 07:34 AM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 17, 08:09 AM** - Space acquisition and NRO picks face SASC (spacenews)
 - **Jul 17, 08:44 AM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
+- **Jul 17, 09:19 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
