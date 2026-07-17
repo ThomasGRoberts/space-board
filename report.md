@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 16 | 32 |
-| breaking_defense | 1 | 3 | 11 | 23 |
+| breaking_defense | 1 | 3 | 12 | 24 |
 | nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -2699,3 +2699,4 @@
 - **Jul 17, 09:19 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 17, 09:54 AM** - Office of Space Commerce makes its case for mission authorization (spacenews)
 - **Jul 17, 10:29 AM** - Serbia signs the Artemis Accords (spacenews)
+- **Jul 17, 11:04 AM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
