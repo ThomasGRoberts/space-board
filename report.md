@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 15 | 32 |
-| breaking_defense | 1 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 22 |
+| breaking_defense | 1 | 3 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2681,3 +2681,4 @@
 - **Jul 16, 10:24 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 16, 11:09 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 16, 11:44 PM** - Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense (spacenews)
+- **Jul 17, 12:19 AM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
