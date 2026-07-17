@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 15 | 29 |
-| breaking_defense | 1 | 3 | 13 | 25 |
+| spacenews | 5 | 10 | 16 | 30 |
+| breaking_defense | 1 | 3 | 12 | 25 |
 | nyt | 1 | 1 | 12 | 25 |
 
 # Shown Order
@@ -2715,3 +2715,4 @@
 - **Jul 17, 06:49 PM** - FCC approves first Reflect Orbital satellite (spacenews)
 - **Jul 17, 07:24 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 17, 07:59 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 17, 08:34 PM** - Swissto12 raises $70 million to accelerate small GEO satellite production (spacenews)
