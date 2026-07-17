@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 15 | 30 |
+| spacenews | 5 | 11 | 16 | 31 |
 | breaking_defense | 1 | 4 | 12 | 25 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2712,3 +2712,4 @@
 - **Jul 17, 05:05 PM** - Parabilis tests propulsion system for maneuverable cubesats (spacenews)
 - **Jul 17, 05:39 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 17, 06:14 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
+- **Jul 17, 06:49 PM** - FCC approves first Reflect Orbital satellite (spacenews)
