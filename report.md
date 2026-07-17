@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 16 | 31 |
-| breaking_defense | 1 | 3 | 12 | 24 |
+| spacenews | 5 | 11 | 15 | 31 |
+| breaking_defense | 1 | 3 | 13 | 25 |
 | nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2713,3 +2713,4 @@
 - **Jul 17, 05:39 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 17, 06:14 PM** - F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry (nyt)
 - **Jul 17, 06:49 PM** - FCC approves first Reflect Orbital satellite (spacenews)
+- **Jul 17, 07:24 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
