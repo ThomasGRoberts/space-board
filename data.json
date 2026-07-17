@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-17T00:05:02.089897+00:00",
-    "trigger_count": 6,
-    "current_item_id": "383654767c9615f74bd87a6844b1968a",
+    "trigger_count": 0,
+    "current_item_id": "99643810d42c854ef8dd1d78dbb1a8a5",
     "data": [
         {
             "id": "e40b3bd225857565ac892e6515553040",
@@ -8214,6 +8214,18 @@
             "fetched_datetime": "2026-07-17T09:19:35.742895Z",
             "shown_at": [
                 "2026-07-17T09:19:36.639559Z"
+            ]
+        },
+        {
+            "id": "99643810d42c854ef8dd1d78dbb1a8a5",
+            "source": "spacenews",
+            "text": "Serbia signs the Artemis Accords",
+            "source_link": "https://spacenews.com/serbia-signs-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-17T10:29:37.089539Z",
+            "shown_at": [
+                "2026-07-17T10:29:38.720966Z"
             ]
         }
     ]
