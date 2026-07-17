@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 30 |
+| spacenews | 6 | 13 | 16 | 31 |
 | breaking_defense | 1 | 3 | 12 | 25 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2706,3 +2706,4 @@
 - **Jul 17, 01:29 PM** - SpaceX’s only problem is finding more space to work with (spacenews)
 - **Jul 17, 02:04 PM** - What China’s Successful Rocket Launch Means for the Future of the Space Race (nyt)
 - **Jul 17, 02:39 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
+- **Jul 17, 03:14 PM** - L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network (spacenews)
