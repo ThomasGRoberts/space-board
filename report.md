@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 15 | 31 |
+| spacenews | 7 | 16 | 16 | 32 |
 | breaking_defense | 1 | 3 | 12 | 24 |
 | nyt | 1 | 1 | 12 | 23 |
 
@@ -2697,3 +2697,4 @@
 - **Jul 17, 08:09 AM** - Space acquisition and NRO picks face SASC (spacenews)
 - **Jul 17, 08:44 AM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 17, 09:19 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 17, 09:54 AM** - Office of Space Commerce makes its case for mission authorization (spacenews)
