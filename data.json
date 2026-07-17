@@ -1,9 +1,106 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-16T00:05:20.033153+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-07-17T00:05:02.089897+00:00",
+    "trigger_count": 4,
     "current_item_id": "df7c621e4ff522a8142e4e3c0c48cf1c",
     "data": [
+        {
+            "id": "e40b3bd225857565ac892e6515553040",
+            "source": "spacenews",
+            "text": "Nature study identifies a new way to spot nuclear weapons in orbit",
+            "source_link": "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T21:09:16.584411Z",
+            "shown_at": [
+                "2026-07-16T21:45:03.542002Z"
+            ]
+        },
+        {
+            "id": "5d68b2d89233603ebad36db607972cfc",
+            "source": "spacenews",
+            "text": "SpaceX launches 21 satellites for military data network ",
+            "source_link": "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T21:09:16.584337Z",
+            "shown_at": [
+                "2026-07-16T21:09:19.302623Z"
+            ]
+        },
+        {
+            "id": "4fc01e6aa125f285b5d121e9ad22a51e",
+            "source": "breaking_defense",
+            "text": "Schiess likely to sail through Space Force chief confirmation",
+            "source_link": "https://breakingdefense.com/2026/07/schiess-likely-to-sail-through-space-force-chief-confirmation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T16:54:40.524795Z",
+            "shown_at": [
+                "2026-07-16T16:54:41.714799Z"
+            ]
+        },
+        {
+            "id": "e5f127e2c7e873ace378965c77b4e736",
+            "source": "spacenews",
+            "text": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit",
+            "source_link": "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T15:44:46.613499Z",
+            "shown_at": [
+                "2026-07-16T15:44:47.284986Z",
+                "2026-07-16T17:29:21.194067Z"
+            ]
+        },
+        {
+            "id": "c4ca313d823a1de19a4bf175904a07cb",
+            "source": "spacenews",
+            "text": "Trump’s pick to lead Space Force defends plan to more than double budget",
+            "source_link": "https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T15:05:32.314024Z",
+            "shown_at": [
+                "2026-07-16T15:05:35.393818Z"
+            ]
+        },
+        {
+            "id": "eb5b7558a7b0572006c6625e4d43d1a8",
+            "source": "spacenews",
+            "text": "Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations",
+            "source_link": "https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T12:35:15.025555Z",
+            "shown_at": [
+                "2026-07-16T13:14:59.053821Z"
+            ]
+        },
+        {
+            "id": "383654767c9615f74bd87a6844b1968a",
+            "source": "spacenews",
+            "text": "Office of Space Commerce makes its case for mission authorization",
+            "source_link": "https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T12:35:15.025475Z",
+            "shown_at": [
+                "2026-07-16T12:35:15.774086Z"
+            ]
+        },
+        {
+            "id": "1d3621d7a7e2e96fa338f68b24da4b4a",
+            "source": "spacenews",
+            "text": "Swissto12 raises $70 million to accelerate small GEO satellite production",
+            "source_link": "https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-16T07:05:22.173370Z",
+            "shown_at": [
+                "2026-07-16T07:05:22.768208Z"
+            ]
+        },
         {
             "id": "22f9d29a8fea19d074d90ef6443c7652",
             "source": "breaking_defense",
@@ -8078,220 +8175,6 @@
             "shown_at": [
                 "2026-05-06T21:59:23.564080Z",
                 "2026-05-13T08:09:32.791494Z"
-            ]
-        },
-        {
-            "id": "690092abe4f9526b9f6dcf8b4f1be531",
-            "source": "spacenews",
-            "text": "Scolese puts talent at center of NRO transition as he prepares to step down",
-            "source_link": "https://spacenews.com/scolese-puts-talent-at-center-of-nro-transition-as-he-prepares-to-step-down/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T20:14:31.746748Z",
-            "shown_at": [
-                "2026-05-06T20:14:32.974159Z",
-                "2026-05-08T17:44:14.249581Z",
-                "2026-05-11T22:34:30.977386Z"
-            ]
-        },
-        {
-            "id": "78e2d460430db38bc7efadbeb5658927",
-            "source": "spacenews",
-            "text": "Eutelsat and Station Satcom sign agreement to scale LEO services for maritime fleet",
-            "source_link": "https://spacenews.com/eutelsat-and-station-satcom-sign-agreement-to-scale-leo-services-for-maritime-fleet/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T17:54:24.712577Z",
-            "shown_at": [
-                "2026-05-06T18:29:32.892408Z",
-                "2026-05-06T19:39:33.151102Z",
-                "2026-05-08T00:44:38.523518Z"
-            ]
-        },
-        {
-            "id": "7e8c702fe799e8fce4023110e5700dd0",
-            "source": "spacenews",
-            "text": "Bringing imagery and communications under one roof",
-            "source_link": "https://spacenews.com/bringing-imagery-and-communications-under-one-roof/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T17:54:24.712505Z",
-            "shown_at": [
-                "2026-05-06T17:54:25.685769Z",
-                "2026-05-08T10:44:23.780116Z"
-            ]
-        },
-        {
-            "id": "0103b6c82546bb492fabceee1cc1ceb0",
-            "source": "spacenews",
-            "text": "Riding the orbital data center wave",
-            "source_link": "https://spacenews.com/riding-the-orbital-data-center-wave/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T15:49:33.457089Z",
-            "shown_at": [
-                "2026-05-06T16:34:46.851287Z",
-                "2026-05-07T20:04:44.026997Z",
-                "2026-05-08T21:49:08.693283Z",
-                "2026-05-10T20:54:18.631570Z",
-                "2026-05-11T19:34:47.572837Z"
-            ]
-        },
-        {
-            "id": "08f88501d661d99616102607b0137d5c",
-            "source": "spacenews",
-            "text": "China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket ",
-            "source_link": "https://spacenews.com/chinas-nayuta-space-raises-fresh-funding-for-aerodynamic-recovery-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T15:49:33.457032Z",
-            "shown_at": [
-                "2026-05-06T15:49:34.554461Z",
-                "2026-05-08T13:04:50.891951Z",
-                "2026-05-09T22:34:29.614535Z",
-                "2026-05-11T07:24:22.872446Z"
-            ]
-        },
-        {
-            "id": "ed5f6ad59f87e2ebb6270c9e563cc3db",
-            "source": "spacenews",
-            "text": "Between resource scarcity and orbital inflation: rethinking the space model",
-            "source_link": "https://spacenews.com/between-resource-scarcity-and-orbital-inflation-rethinking-the-space-model/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T14:39:21.285970Z",
-            "shown_at": [
-                "2026-05-06T15:14:19.660662Z",
-                "2026-05-07T08:39:27.990495Z",
-                "2026-05-08T14:14:22.535010Z",
-                "2026-05-11T00:24:13.204861Z",
-                "2026-05-13T02:29:23.145845Z"
-            ]
-        },
-        {
-            "id": "e3aabad63e5fbb2fba7def4240009aa8",
-            "source": "spacenews",
-            "text": "Powering Unified Space Systems Operations",
-            "source_link": "https://spacenews.com/powering-unified-space-systems-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T14:39:21.285912Z",
-            "shown_at": [
-                "2026-05-06T14:39:22.252432Z",
-                "2026-05-09T03:39:09.744788Z",
-                "2026-05-10T02:09:24.767812Z",
-                "2026-05-10T23:14:27.655555Z"
-            ]
-        },
-        {
-            "id": "de6bd67b7ee2c73df79cc009a69d1f16",
-            "source": "spacenews",
-            "text": "Overview Energy wins Air Force contract to study space-based solar power for military bases",
-            "source_link": "https://spacenews.com/overview-energy-wins-air-force-contract-to-study-space-based-solar-power-for-military-bases/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T12:19:21.863163Z",
-            "shown_at": [
-                "2026-05-06T12:54:18.507760Z",
-                "2026-05-08T11:19:23.330864Z",
-                "2026-05-11T03:54:18.306209Z"
-            ]
-        },
-        {
-            "id": "1d3621d7a7e2e96fa338f68b24da4b4a",
-            "source": "spacenews",
-            "text": "Swissto12 raises $70 million to accelerate small GEO satellite production",
-            "source_link": "https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-16T07:05:22.173370Z",
-            "shown_at": [
-                "2026-07-16T07:05:22.768208Z"
-            ]
-        },
-        {
-            "id": "383654767c9615f74bd87a6844b1968a",
-            "source": "spacenews",
-            "text": "Office of Space Commerce makes its case for mission authorization",
-            "source_link": "https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-16T12:35:15.025475Z",
-            "shown_at": [
-                "2026-07-16T12:35:15.774086Z"
-            ]
-        },
-        {
-            "id": "eb5b7558a7b0572006c6625e4d43d1a8",
-            "source": "spacenews",
-            "text": "Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations",
-            "source_link": "https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-16T12:35:15.025555Z",
-            "shown_at": [
-                "2026-07-16T13:14:59.053821Z"
-            ]
-        },
-        {
-            "id": "c4ca313d823a1de19a4bf175904a07cb",
-            "source": "spacenews",
-            "text": "Trump’s pick to lead Space Force defends plan to more than double budget",
-            "source_link": "https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-16T15:05:32.314024Z",
-            "shown_at": [
-                "2026-07-16T15:05:35.393818Z"
-            ]
-        },
-        {
-            "id": "e5f127e2c7e873ace378965c77b4e736",
-            "source": "spacenews",
-            "text": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit",
-            "source_link": "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-16T15:44:46.613499Z",
-            "shown_at": [
-                "2026-07-16T15:44:47.284986Z",
-                "2026-07-16T17:29:21.194067Z"
-            ]
-        },
-        {
-            "id": "4fc01e6aa125f285b5d121e9ad22a51e",
-            "source": "breaking_defense",
-            "text": "Schiess likely to sail through Space Force chief confirmation",
-            "source_link": "https://breakingdefense.com/2026/07/schiess-likely-to-sail-through-space-force-chief-confirmation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-16T16:54:40.524795Z",
-            "shown_at": [
-                "2026-07-16T16:54:41.714799Z"
-            ]
-        },
-        {
-            "id": "5d68b2d89233603ebad36db607972cfc",
-            "source": "spacenews",
-            "text": "SpaceX launches 21 satellites for military data network ",
-            "source_link": "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-16T21:09:16.584337Z",
-            "shown_at": [
-                "2026-07-16T21:09:19.302623Z"
-            ]
-        },
-        {
-            "id": "e40b3bd225857565ac892e6515553040",
-            "source": "spacenews",
-            "text": "Nature study identifies a new way to spot nuclear weapons in orbit",
-            "source_link": "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-16T21:09:16.584411Z",
-            "shown_at": [
-                "2026-07-16T21:45:03.542002Z"
             ]
         }
     ]
