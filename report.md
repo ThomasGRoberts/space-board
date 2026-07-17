@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 15 | 32 |
 | breaking_defense | 1 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 22 |
+| nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2690,3 +2690,4 @@
 - **Jul 17, 03:54 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 17, 04:29 AM** - L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network (spacenews)
 - **Jul 17, 05:09 AM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
+- **Jul 17, 05:44 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
