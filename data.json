@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-17T00:05:02.089897+00:00",
-    "trigger_count": 6,
-    "current_item_id": "29a07036680aeed78df0f5b32bbccdf2",
+    "trigger_count": 0,
+    "current_item_id": "9dd77e34045c87f51df2a1f5661862f5",
     "data": [
         {
             "id": "e40b3bd225857565ac892e6515553040",
@@ -8176,6 +8176,18 @@
             "shown_at": [
                 "2026-05-06T21:59:23.564080Z",
                 "2026-05-13T08:09:32.791494Z"
+            ]
+        },
+        {
+            "id": "9dd77e34045c87f51df2a1f5661862f5",
+            "source": "spacenews",
+            "text": "SpaceX aborts Starship Flight 13 launch attempt",
+            "source_link": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-17T00:59:54.902662Z",
+            "shown_at": [
+                "2026-07-17T00:59:56.943206Z"
             ]
         }
     ]
