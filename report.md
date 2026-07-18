@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 25 |
-| spacenews | 3 | 11 | 14 | 29 |
+| spacenews | 3 | 11 | 15 | 30 |
 | nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2717,3 +2717,4 @@
 - **Jul 18, 01:53 AM** - U.K. government preparing to release new space strategy (spacenews)
 - **Jul 18, 02:29 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
 - **Jul 18, 03:04 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 18, 03:39 AM** - SpaceX launches 21 satellites for military data network  (spacenews)
