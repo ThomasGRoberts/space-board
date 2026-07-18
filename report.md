@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 14 | 25 |
 | spacenews | 3 | 11 | 14 | 30 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2716,3 +2716,4 @@
 - **Jul 18, 01:19 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 18, 01:53 AM** - U.K. government preparing to release new space strategy (spacenews)
 - **Jul 18, 02:29 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
+- **Jul 18, 03:04 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
