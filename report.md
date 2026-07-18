@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 14 | 25 |
 | spacenews | 3 | 11 | 14 | 30 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2719,3 +2719,4 @@
 - **Jul 18, 03:04 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 18, 03:39 AM** - SpaceX launches 21 satellites for military data network  (spacenews)
 - **Jul 18, 04:14 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
+- **Jul 18, 04:49 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
