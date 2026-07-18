@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 25 |
-| spacenews | 3 | 11 | 14 | 29 |
+| spacenews | 3 | 11 | 15 | 30 |
 | nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Jul 18, 03:39 AM** - SpaceX launches 21 satellites for military data network  (spacenews)
 - **Jul 18, 04:14 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 18, 04:49 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 18, 05:24 AM** - SpaceX’s only problem is finding more space to work with (spacenews)
