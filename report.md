@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 14 | 25 |
+| breaking_defense | 1 | 2 | 14 | 26 |
 | spacenews | 2 | 9 | 14 | 30 |
 | nyt | 0 | 1 | 13 | 25 |
 
@@ -2736,3 +2736,4 @@
 - **Jul 18, 12:59 PM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 18, 01:34 PM** - Japan seeks to ramp up launch activity (spacenews)
 - **Jul 18, 02:09 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 18, 02:44 PM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
