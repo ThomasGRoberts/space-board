@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 14 | 25 |
 | spacenews | 3 | 11 | 14 | 30 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2722,3 +2722,4 @@
 - **Jul 18, 04:49 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 18, 05:24 AM** - SpaceX’s only problem is finding more space to work with (spacenews)
 - **Jul 18, 05:59 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
+- **Jul 18, 06:34 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
