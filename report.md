@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 13 | 25 |
+| breaking_defense | 1 | 2 | 14 | 26 |
 | spacenews | 3 | 10 | 15 | 30 |
-| nyt | 1 | 1 | 12 | 25 |
+| nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2724,3 +2724,4 @@
 - **Jul 18, 05:59 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 18, 06:34 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 18, 07:09 AM** - Defense spending lifts Europe’s space economy (spacenews)
+- **Jul 18, 07:44 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
