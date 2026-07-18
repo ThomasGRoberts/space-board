@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 14 | 26 |
-| spacenews | 3 | 11 | 14 | 30 |
+| spacenews | 3 | 11 | 15 | 31 |
 | nyt | 0 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2731,3 +2731,4 @@
 - **Jul 18, 10:04 AM** - U.K. government preparing to release new space strategy (spacenews)
 - **Jul 18, 10:39 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 18, 11:14 AM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
+- **Jul 18, 11:49 AM** - U.K. government preparing to release new space strategy (spacenews)
