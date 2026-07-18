@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 26 |
-| spacenews | 2 | 7 | 14 | 29 |
+| spacenews | 3 | 8 | 15 | 30 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2740,3 +2740,4 @@
 - **Jul 18, 03:19 PM** - Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense (spacenews)
 - **Jul 18, 03:54 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 18, 04:29 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
+- **Jul 18, 05:04 PM** - Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites (spacenews)

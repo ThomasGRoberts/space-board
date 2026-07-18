@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-18T00:05:36.055284+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4fc01e6aa125f285b5d121e9ad22a51e",
+    "trigger_count": 0,
+    "current_item_id": "4c4203f1b20bf867ccdc5289fac8b8e0",
     "data": [
         {
             "id": "30c9b3f4d68063a4ec088d2b7f14d206",
@@ -8256,6 +8256,18 @@
             "fetched_datetime": "2026-07-18T08:19:42.677309Z",
             "shown_at": [
                 "2026-07-18T08:19:43.413722Z"
+            ]
+        },
+        {
+            "id": "4c4203f1b20bf867ccdc5289fac8b8e0",
+            "source": "spacenews",
+            "text": "Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites",
+            "source_link": "https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-18T17:04:58.482643Z",
+            "shown_at": [
+                "2026-07-18T17:04:59.309732Z"
             ]
         }
     ]
