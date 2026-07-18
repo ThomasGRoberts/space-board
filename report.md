@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 26 |
-| spacenews | 5 | 8 | 15 | 29 |
+| spacenews | 5 | 8 | 16 | 30 |
 | nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
@@ -2749,3 +2749,4 @@
 - **Jul 18, 08:34 PM** - China lines up methalox Long March 10C as commercial workhorse after first booster recovery (spacenews)
 - **Jul 18, 09:09 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 18, 09:44 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
+- **Jul 18, 10:19 PM** - Reditus Space completes first reentry vehicle (spacenews)
