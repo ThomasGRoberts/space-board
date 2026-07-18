@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 25 |
-| spacenews | 5 | 10 | 15 | 31 |
+| breaking_defense | 0 | 1 | 14 | 26 |
+| spacenews | 5 | 10 | 15 | 30 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2744,3 +2744,4 @@
 - **Jul 18, 05:39 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 18, 06:14 PM** - Mauritius becomes 70th nation to sign the Artemis Accords (spacenews)
 - **Jul 18, 06:49 PM** - Space Force triples launch contract ceiling amid rising demand (spacenews)
+- **Jul 18, 07:24 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
