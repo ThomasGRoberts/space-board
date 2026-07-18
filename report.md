@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 14 | 25 |
 | spacenews | 3 | 11 | 14 | 31 |
-| nyt | 0 | 1 | 12 | 24 |
+| nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2729,3 +2729,4 @@
 - **Jul 18, 08:54 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 18, 09:29 AM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
 - **Jul 18, 10:04 AM** - U.K. government preparing to release new space strategy (spacenews)
+- **Jul 18, 10:39 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
