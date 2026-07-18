@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 13 | 25 |
+| breaking_defense | 1 | 2 | 14 | 26 |
 | spacenews | 3 | 11 | 15 | 30 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2718,3 +2718,4 @@
 - **Jul 18, 02:29 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
 - **Jul 18, 03:04 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 18, 03:39 AM** - SpaceX launches 21 satellites for military data network  (spacenews)
+- **Jul 18, 04:14 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
