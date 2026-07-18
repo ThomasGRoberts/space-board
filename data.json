@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-18T00:05:36.055284+00:00",
-    "trigger_count": 6,
-    "current_item_id": "145d38c1ce1ef3bf26901c2a3552667f",
+    "trigger_count": 0,
+    "current_item_id": "fde51986cb09bbc8afcd020028f133e6",
     "data": [
         {
             "id": "30c9b3f4d68063a4ec088d2b7f14d206",
@@ -8230,6 +8230,18 @@
             "fetched_datetime": "2026-07-18T00:05:40.924392Z",
             "shown_at": [
                 "2026-07-18T00:05:42.965563Z"
+            ]
+        },
+        {
+            "id": "fde51986cb09bbc8afcd020028f133e6",
+            "source": "spacenews",
+            "text": "Skyroot Aerospace reaches orbit on first Vikram-1 launch",
+            "source_link": "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-18T08:19:42.677309Z",
+            "shown_at": [
+                "2026-07-18T08:19:43.413722Z"
             ]
         }
     ]
