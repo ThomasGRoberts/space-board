@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 14 | 26 |
-| spacenews | 2 | 8 | 14 | 29 |
+| spacenews | 2 | 8 | 14 | 30 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2737,3 +2737,4 @@
 - **Jul 18, 01:34 PM** - Japan seeks to ramp up launch activity (spacenews)
 - **Jul 18, 02:09 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 18, 02:44 PM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
+- **Jul 18, 03:19 PM** - Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense (spacenews)
