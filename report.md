@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 13 | 25 |
+| breaking_defense | 1 | 2 | 14 | 26 |
 | spacenews | 4 | 11 | 15 | 30 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2727,3 +2727,4 @@
 - **Jul 18, 07:44 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 18, 08:19 AM** - Skyroot Aerospace reaches orbit on first Vikram-1 launch (spacenews)
 - **Jul 18, 08:54 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 18, 09:29 AM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
