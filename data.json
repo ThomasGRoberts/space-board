@@ -1,9 +1,72 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-17T00:05:02.089897+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6919a360447ec808b38f33b7a945533",
+    "last_run_datetime": "2026-07-18T00:05:36.055284+00:00",
+    "trigger_count": 0,
+    "current_item_id": "b4a89f926d3eeff0332780766f1e739e",
     "data": [
+        {
+            "id": "30c9b3f4d68063a4ec088d2b7f14d206",
+            "source": "breaking_defense",
+            "text": "DIU seeking ‘near-term’ power-beaming satellite demo",
+            "source_link": "https://breakingdefense.com/2026/07/diu-seeking-near-term-power-beaming-satellite-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-17T17:39:21.775223Z",
+            "shown_at": [
+                "2026-07-17T17:39:22.933670Z"
+            ]
+        },
+        {
+            "id": "1c66caca13a44a708060f84bf7de3d5d",
+            "source": "spacenews",
+            "text": "SpaceX’s only problem is finding more space to work with",
+            "source_link": "https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-17T13:29:23.923606Z",
+            "shown_at": [
+                "2026-07-17T13:29:24.768334Z"
+            ]
+        },
+        {
+            "id": "99643810d42c854ef8dd1d78dbb1a8a5",
+            "source": "spacenews",
+            "text": "Serbia signs the Artemis Accords",
+            "source_link": "https://spacenews.com/serbia-signs-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-17T10:29:37.089539Z",
+            "shown_at": [
+                "2026-07-17T10:29:38.720966Z"
+            ]
+        },
+        {
+            "id": "c6919a360447ec808b38f33b7a945533",
+            "source": "nyt",
+            "text": "Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered",
+            "source_link": "https://www.nytimes.com/2026/07/17/science/space/two-super-puff-planets-discovered.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-17T09:19:35.742895Z",
+            "shown_at": [
+                "2026-07-17T09:19:36.639559Z",
+                "2026-07-17T11:39:32.930082Z",
+                "2026-07-17T19:59:37.927219Z",
+                "2026-07-17T23:29:39.795162Z"
+            ]
+        },
+        {
+            "id": "9dd77e34045c87f51df2a1f5661862f5",
+            "source": "spacenews",
+            "text": "SpaceX aborts Starship Flight 13 launch attempt",
+            "source_link": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-17T00:59:54.902662Z",
+            "shown_at": [
+                "2026-07-17T00:59:56.943206Z"
+            ]
+        },
         {
             "id": "e40b3bd225857565ac892e6515553040",
             "source": "spacenews",
@@ -8145,131 +8208,15 @@
             ]
         },
         {
-            "id": "571d69a632d422f4b08d276e7b4647b1",
+            "id": "b4a89f926d3eeff0332780766f1e739e",
             "source": "spacenews",
-            "text": "Starfighters hires Blue Origin veterans to accelerate air-launch platform",
-            "source_link": "https://spacenews.com/starfighters-hires-blue-origin-veterans-to-accelerate-air-launch-platform/",
+            "text": "NASA terminates Draper lunar lander mission",
+            "source_link": "https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-07T12:19:28.317482Z",
+            "fetched_datetime": "2026-07-18T00:05:40.924392Z",
             "shown_at": [
-                "2026-05-07T12:54:37.768866Z",
-                "2026-05-10T00:54:10.764533Z",
-                "2026-05-10T13:49:22.539185Z",
-                "2026-05-12T03:24:20.568258Z"
-            ]
-        },
-        {
-            "id": "702fe7fee20ef812805493de65d6c876",
-            "source": "spacenews",
-            "text": "Anthropic to consider using SpaceX orbital data center satellites",
-            "source_link": "https://spacenews.com/anthropic-to-consider-using-spacex-orbital-data-center-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T12:19:28.317427Z",
-            "shown_at": [
-                "2026-05-07T12:19:29.279375Z",
-                "2026-05-13T19:59:30.116386Z"
-            ]
-        },
-        {
-            "id": "e3538a9ba1737ec64082504286e2fb89",
-            "source": "spacenews",
-            "text": "As satellite imagery evolves, its role in operations comes into view",
-            "source_link": "https://spacenews.com/as-satellite-imagery-evolves-its-role-in-operations-comes-into-view/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T11:05:28.203769Z",
-            "shown_at": [
-                "2026-05-07T11:44:18.039853Z"
-            ]
-        },
-        {
-            "id": "9a9550ba8ebae15b279612a9584cfc5f",
-            "source": "spacenews",
-            "text": "Speed tops price in national security contracting decisions",
-            "source_link": "https://spacenews.com/speed-tops-price-in-national-security-contracting-decisions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T11:05:28.203683Z",
-            "shown_at": [
-                "2026-05-07T11:05:29.349534Z"
-            ]
-        },
-        {
-            "id": "8de3e3e3e16798071ba12bb070d409ea",
-            "source": "spacenews",
-            "text": "NGA Rapid Capabilities Office to embrace speed and risk-taking",
-            "source_link": "https://spacenews.com/nga-rapid-capabilities-office-to-embrace-speed-and-risk-taking/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-06T21:59:22.490412Z",
-            "shown_at": [
-                "2026-05-06T21:59:23.564080Z",
-                "2026-05-13T08:09:32.791494Z"
-            ]
-        },
-        {
-            "id": "9dd77e34045c87f51df2a1f5661862f5",
-            "source": "spacenews",
-            "text": "SpaceX aborts Starship Flight 13 launch attempt",
-            "source_link": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-17T00:59:54.902662Z",
-            "shown_at": [
-                "2026-07-17T00:59:56.943206Z"
-            ]
-        },
-        {
-            "id": "c6919a360447ec808b38f33b7a945533",
-            "source": "nyt",
-            "text": "Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered",
-            "source_link": "https://www.nytimes.com/2026/07/17/science/space/two-super-puff-planets-discovered.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-17T09:19:35.742895Z",
-            "shown_at": [
-                "2026-07-17T09:19:36.639559Z",
-                "2026-07-17T11:39:32.930082Z",
-                "2026-07-17T19:59:37.927219Z",
-                "2026-07-17T23:29:39.795162Z"
-            ]
-        },
-        {
-            "id": "99643810d42c854ef8dd1d78dbb1a8a5",
-            "source": "spacenews",
-            "text": "Serbia signs the Artemis Accords",
-            "source_link": "https://spacenews.com/serbia-signs-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-17T10:29:37.089539Z",
-            "shown_at": [
-                "2026-07-17T10:29:38.720966Z"
-            ]
-        },
-        {
-            "id": "1c66caca13a44a708060f84bf7de3d5d",
-            "source": "spacenews",
-            "text": "SpaceX’s only problem is finding more space to work with",
-            "source_link": "https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-17T13:29:23.923606Z",
-            "shown_at": [
-                "2026-07-17T13:29:24.768334Z"
-            ]
-        },
-        {
-            "id": "30c9b3f4d68063a4ec088d2b7f14d206",
-            "source": "breaking_defense",
-            "text": "DIU seeking ‘near-term’ power-beaming satellite demo",
-            "source_link": "https://breakingdefense.com/2026/07/diu-seeking-near-term-power-beaming-satellite-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-17T17:39:21.775223Z",
-            "shown_at": [
-                "2026-07-17T17:39:22.933670Z"
+                "2026-07-18T00:05:42.965563Z"
             ]
         }
     ]

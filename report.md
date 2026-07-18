@@ -2,17 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 14 | 29 |
 | breaking_defense | 1 | 2 | 13 | 25 |
+| spacenews | 4 | 11 | 15 | 30 |
 | nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
-- **May 06, 09:59 PM** - NGA Rapid Capabilities Office to embrace speed and risk-taking (spacenews)
-- **May 07, 11:05 AM** - Speed tops price in national security contracting decisions (spacenews)
-- **May 07, 11:44 AM** - As satellite imagery evolves, its role in operations comes into view (spacenews)
-- **May 07, 12:19 PM** - Anthropic to consider using SpaceX orbital data center satellites (spacenews)
-- **May 07, 12:54 PM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
 - **May 07, 01:29 PM** - Skyroot raises $60 million ahead of first orbital launch attempt (spacenews)
 - **May 07, 03:59 PM** - Military space boom meets Beltway friction (spacenews)
 - **May 07, 04:34 PM** - Odin Space opens U.S. office in Los Angeles (spacenews)
@@ -65,7 +60,6 @@
 - **May 09, 11:09 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 11:44 PM** - MDA Space continues work on Gateway robotic arm (spacenews)
 - **May 10, 12:19 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
-- **May 10, 12:54 AM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
 - **May 10, 01:29 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 10, 02:44 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 10, 03:19 AM** - MDA Space continues work on Gateway robotic arm (spacenews)
@@ -80,7 +74,6 @@
 - **May 10, 10:54 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 10, 12:04 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 10, 01:14 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
-- **May 10, 01:49 PM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
 - **May 10, 02:23 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 10, 03:34 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 10, 04:09 PM** - ESA and JAXA finalize agreement on Apophis asteroid mission (spacenews)
@@ -121,7 +114,6 @@
 - **May 12, 01:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 02:14 AM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
 - **May 12, 02:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
-- **May 12, 03:24 AM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
 - **May 12, 03:59 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 05:09 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 12, 05:44 AM** - Roadmap for a space-to-space economy (spacenews)
@@ -162,7 +154,6 @@
 - **May 13, 05:29 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 13, 06:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 13, 07:34 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
-- **May 13, 08:09 AM** - NGA Rapid Capabilities Office to embrace speed and risk-taking (spacenews)
 - **May 13, 08:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 13, 09:24 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 13, 09:59 AM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
@@ -179,7 +170,6 @@
 - **May 13, 06:10 PM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
 - **May 13, 06:49 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 13, 07:24 PM** - Pentagon Releases Files on U.F.O.s (nyt)
-- **May 13, 07:59 PM** - Anthropic to consider using SpaceX orbital data center satellites (spacenews)
 - **May 13, 08:39 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 13, 09:14 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 13, 09:49 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)
@@ -2721,3 +2711,4 @@
 - **Jul 17, 10:19 PM** - Icarus Robotics taps KULR to provide batteries for Space Station robots (spacenews)
 - **Jul 17, 10:54 PM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 17, 11:29 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 18, 12:05 AM** - NASA terminates Draper lunar lander mission (spacenews)
