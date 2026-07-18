@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 14 | 26 |
+| breaking_defense | 1 | 2 | 15 | 27 |
 | spacenews | 2 | 7 | 14 | 29 |
 | nyt | 0 | 1 | 13 | 25 |
 
@@ -2739,3 +2739,4 @@
 - **Jul 18, 02:44 PM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
 - **Jul 18, 03:19 PM** - Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense (spacenews)
 - **Jul 18, 03:54 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 18, 04:29 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
