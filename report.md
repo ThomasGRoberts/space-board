@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 25 |
 | spacenews | 4 | 11 | 15 | 31 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2726,3 +2726,4 @@
 - **Jul 18, 07:09 AM** - Defense spending lifts Europe’s space economy (spacenews)
 - **Jul 18, 07:44 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 18, 08:19 AM** - Skyroot Aerospace reaches orbit on first Vikram-1 launch (spacenews)
+- **Jul 18, 08:54 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
