@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 25 |
-| spacenews | 3 | 11 | 14 | 29 |
+| spacenews | 3 | 11 | 15 | 30 |
 | nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2714,3 +2714,4 @@
 - **Jul 18, 12:05 AM** - NASA terminates Draper lunar lander mission (spacenews)
 - **Jul 18, 12:44 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 18, 01:19 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 18, 01:53 AM** - U.K. government preparing to release new space strategy (spacenews)
