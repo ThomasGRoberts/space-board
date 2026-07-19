@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 15 | 28 |
+| spacenews | 3 | 5 | 14 | 28 |
 | breaking_defense | 0 | 1 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2764,3 +2764,4 @@
 - **Jul 19, 11:49 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 19, 12:29 PM** - Satellite investment sets annual record halfway through 2026 (spacenews)
 - **Jul 19, 01:05 PM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
+- **Jul 19, 01:39 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
