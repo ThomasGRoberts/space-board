@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 15 | 30 |
-| breaking_defense | 0 | 1 | 13 | 26 |
+| breaking_defense | 0 | 1 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2745,3 +2745,4 @@
 - **Jul 19, 12:39 AM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
 - **Jul 19, 01:14 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 19, 01:49 AM** - Getting ready for lunar planetary defense (spacenews)
+- **Jul 19, 02:24 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
