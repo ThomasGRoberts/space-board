@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 15 | 29 |
 | breaking_defense | 0 | 1 | 13 | 27 |
-| nyt | 0 | 1 | 13 | 25 |
+| nyt | 0 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -2755,3 +2755,4 @@
 - **Jul 19, 06:29 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 19, 07:04 AM** - Voyager completes acquisition of Astrobotic (spacenews)
 - **Jul 19, 07:39 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
+- **Jul 19, 08:14 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
