@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 13 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2779,3 +2779,4 @@
 - **Jul 19, 08:44 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 19, 09:19 PM** - Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base (spacenews)
 - **Jul 19, 09:54 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
+- **Jul 19, 10:29 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
