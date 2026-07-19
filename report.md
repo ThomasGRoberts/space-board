@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 14 | 28 |
+| spacenews | 3 | 5 | 15 | 29 |
 | breaking_defense | 0 | 1 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2768,3 +2768,4 @@
 - **Jul 19, 02:14 PM** - SpaceX gears up for Starship Flight 13 (spacenews)
 - **Jul 19, 02:49 PM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 19, 03:24 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 19, 03:59 PM** - Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense (spacenews)
