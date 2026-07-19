@@ -2,17 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| spacenews | 5 | 8 | 16 | 30 |
 | breaking_defense | 0 | 1 | 13 | 26 |
-| spacenews | 5 | 8 | 15 | 29 |
 | nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
-- **May 07, 01:29 PM** - Skyroot raises $60 million ahead of first orbital launch attempt (spacenews)
-- **May 07, 03:59 PM** - Military space boom meets Beltway friction (spacenews)
-- **May 07, 04:34 PM** - Odin Space opens U.S. office in Los Angeles (spacenews)
-- **May 07, 05:09 PM** - Roadmap for a space-to-space economy (spacenews)
-- **May 07, 06:54 PM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
 - **May 07, 10:24 PM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
 - **May 08, 01:54 AM** - Lunar Outpost raises $30 million (spacenews)
 - **May 08, 03:04 AM** - SatVu zooms in energy facilities in Cuba, India and Australia (spacenews)
@@ -37,15 +32,12 @@
 - **May 09, 04:14 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 04:49 AM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
 - **May 09, 05:24 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
-- **May 09, 05:59 AM** - Military space boom meets Beltway friction (spacenews)
 - **May 09, 06:39 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 09, 07:59 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 08:34 AM** - Paraguay signs the Artemis Accords (spacenews)
 - **May 09, 09:09 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 10:19 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
-- **May 09, 10:54 AM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
 - **May 09, 11:29 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
-- **May 09, 12:04 PM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
 - **May 09, 12:39 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 01:49 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 02:59 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
@@ -116,14 +108,12 @@
 - **May 12, 02:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 03:59 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 05:09 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
-- **May 12, 05:44 AM** - Roadmap for a space-to-space economy (spacenews)
 - **May 12, 06:19 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 12, 07:39 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 12, 08:14 AM** - MDA Space continues work on Gateway robotic arm (spacenews)
 - **May 12, 08:49 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 12, 09:24 AM** - Swift reboost mission completes environmental tests (spacenews)
 - **May 12, 09:59 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
-- **May 12, 10:34 AM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
 - **May 12, 11:09 AM** - Space is having its internet moment. Investors should act accordingly. (spacenews)
 - **May 12, 11:44 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 12, 12:24 PM** - Transcelestial tests space-to-ground laser communications technologies (spacenews)
@@ -144,7 +134,6 @@
 - **May 12, 10:59 PM** - FCC approves SpaceX spectrum deal with $2.4 billion escrow condition (spacenews)
 - **May 12, 11:34 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 13, 12:09 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
-- **May 13, 12:44 AM** - Roadmap for a space-to-space economy (spacenews)
 - **May 13, 01:19 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 13, 01:54 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 13, 03:09 AM** - Pentagon Releases Files on U.F.O.s (nyt)
@@ -2752,3 +2741,4 @@
 - **Jul 18, 10:19 PM** - Reditus Space completes first reentry vehicle (spacenews)
 - **Jul 18, 10:54 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 18, 11:28 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 19, 12:05 AM** - Office of Space Commerce makes its case for mission authorization (spacenews)
