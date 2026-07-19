@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 15 | 29 |
+| spacenews | 4 | 7 | 16 | 30 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 0 | 1 | 13 | 26 |
 
@@ -2747,3 +2747,4 @@
 - **Jul 19, 01:49 AM** - Getting ready for lunar planetary defense (spacenews)
 - **Jul 19, 02:24 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 19, 02:59 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 19, 03:34 AM** - SpaceX’s only problem is finding more space to work with (spacenews)
