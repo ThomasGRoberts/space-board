@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 15 | 29 |
 | breaking_defense | 0 | 1 | 13 | 27 |
-| nyt | 0 | 1 | 13 | 25 |
+| nyt | 0 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -2746,3 +2746,4 @@
 - **Jul 19, 01:14 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 19, 01:49 AM** - Getting ready for lunar planetary defense (spacenews)
 - **Jul 19, 02:24 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
+- **Jul 19, 02:59 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
