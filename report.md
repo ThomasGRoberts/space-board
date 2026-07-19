@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 15 | 29 |
 | breaking_defense | 0 | 1 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2761,3 +2761,4 @@
 - **Jul 19, 09:59 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 19, 10:34 AM** - Space acquisition and NRO picks face SASC (spacenews)
 - **Jul 19, 11:14 AM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
+- **Jul 19, 11:49 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
