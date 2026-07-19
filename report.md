@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 14 | 29 |
-| breaking_defense | 0 | 1 | 13 | 27 |
+| spacenews | 3 | 7 | 15 | 30 |
+| breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 0 | 1 | 14 | 26 |
 
 # Shown Order
@@ -2756,3 +2756,4 @@
 - **Jul 19, 07:04 AM** - Voyager completes acquisition of Astrobotic (spacenews)
 - **Jul 19, 07:39 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 19, 08:14 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
+- **Jul 19, 08:49 AM** - Space acquisition and NRO picks face SASC (spacenews)
