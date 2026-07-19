@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 15 | 29 |
 | breaking_defense | 0 | 1 | 13 | 27 |
-| nyt | 0 | 1 | 13 | 25 |
+| nyt | 0 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -2749,3 +2749,4 @@
 - **Jul 19, 02:59 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 19, 03:34 AM** - SpaceX’s only problem is finding more space to work with (spacenews)
 - **Jul 19, 04:09 AM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
+- **Jul 19, 04:44 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
