@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 15 | 30 |
-| breaking_defense | 0 | 1 | 13 | 26 |
+| breaking_defense | 0 | 1 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2742,3 +2742,4 @@
 - **Jul 18, 10:54 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 18, 11:28 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 19, 12:05 AM** - Office of Space Commerce makes its case for mission authorization (spacenews)
+- **Jul 19, 12:39 AM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
