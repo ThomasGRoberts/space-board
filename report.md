@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 15 | 29 |
+| spacenews | 4 | 7 | 16 | 30 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 0 | 1 | 13 | 26 |
 
@@ -2744,3 +2744,4 @@
 - **Jul 19, 12:05 AM** - Office of Space Commerce makes its case for mission authorization (spacenews)
 - **Jul 19, 12:39 AM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
 - **Jul 19, 01:14 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
+- **Jul 19, 01:49 AM** - Getting ready for lunar planetary defense (spacenews)
