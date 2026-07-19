@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 15 | 30 |
-| breaking_defense | 0 | 1 | 13 | 26 |
+| breaking_defense | 0 | 1 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2751,3 +2751,4 @@
 - **Jul 19, 04:09 AM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 19, 04:44 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 19, 05:19 AM** - Trump’s pick to lead Space Force defends plan to more than double budget (spacenews)
+- **Jul 19, 05:54 AM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
