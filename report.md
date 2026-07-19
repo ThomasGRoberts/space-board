@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 13 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2773,3 +2773,4 @@
 - **Jul 19, 05:14 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 19, 05:49 PM** - Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense (spacenews)
 - **Jul 19, 06:24 PM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
+- **Jul 19, 06:59 PM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
