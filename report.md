@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 3 | 13 | 27 |
+| spacenews | 0 | 3 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -2798,3 +2798,4 @@
 - **Jul 20, 08:39 AM** - SpaceX launches 21 satellites for military data network  (spacenews)
 - **Jul 20, 09:19 AM** - On eve of retirement, Saltzman champions military’s role as ‘ballast’ for democracy (breaking_defense)
 - **Jul 20, 09:54 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
+- **Jul 20, 10:29 AM** - Isaacman attends Soyuz launch of ISS crew (spacenews)
