@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 28 |
+| spacenews | 0 | 4 | 14 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2789,3 +2789,4 @@
 - **Jul 20, 03:14 AM** - Nature study identifies a new way to spot nuclear weapons in orbit (spacenews)
 - **Jul 20, 03:49 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
 - **Jul 20, 04:24 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
+- **Jul 20, 04:58 AM** - SpaceX launches 21 satellites for military data network  (spacenews)
