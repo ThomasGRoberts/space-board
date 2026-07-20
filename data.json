@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-20T00:09:17.205112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c2f984a8850b83a49c00531a6f9b4c2",
+    "trigger_count": 0,
+    "current_item_id": "58459470d0ff64156ee8fd034b7c3696",
     "data": [
         {
             "id": "59eaadbaa051a5501d301de734627224",
@@ -8308,6 +8308,18 @@
             "fetched_datetime": "2026-07-20T11:39:35.679574Z",
             "shown_at": [
                 "2026-07-20T11:39:36.594911Z"
+            ]
+        },
+        {
+            "id": "58459470d0ff64156ee8fd034b7c3696",
+            "source": "spacenews",
+            "text": "Pipelines to payloads: risk management lessons for the space economy",
+            "source_link": "https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-20T13:24:37.979549Z",
+            "shown_at": [
+                "2026-07-20T13:24:38.934875Z"
             ]
         }
     ]
