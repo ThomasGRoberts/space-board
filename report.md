@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2821,3 +2821,4 @@
 - **Jul 20, 10:09 PM** - Nature study identifies a new way to spot nuclear weapons in orbit (spacenews)
 - **Jul 20, 10:44 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 20, 11:19 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
+- **Jul 20, 11:54 PM** - Isaacman attends Soyuz launch of ISS crew (spacenews)
