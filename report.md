@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2819,3 +2819,4 @@
 - **Jul 20, 08:59 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 20, 09:34 PM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 20, 10:09 PM** - Nature study identifies a new way to spot nuclear weapons in orbit (spacenews)
+- **Jul 20, 10:44 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
