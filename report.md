@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2791,3 +2791,4 @@
 - **Jul 20, 04:24 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 20, 04:58 AM** - SpaceX launches 21 satellites for military data network  (spacenews)
 - **Jul 20, 05:34 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
+- **Jul 20, 06:13 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
