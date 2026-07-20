@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2794,3 +2794,4 @@
 - **Jul 20, 06:13 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
 - **Jul 20, 06:54 AM** - Serbia signs the Artemis Accords (spacenews)
 - **Jul 20, 07:29 AM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
+- **Jul 20, 08:04 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
