@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 13 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2808,3 +2808,4 @@
 - **Jul 20, 02:34 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
 - **Jul 20, 03:09 PM** - Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy (spacenews)
 - **Jul 20, 03:44 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 20, 04:19 PM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
