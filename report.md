@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2788,3 +2788,4 @@
 - **Jul 20, 02:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 20, 03:14 AM** - Nature study identifies a new way to spot nuclear weapons in orbit (spacenews)
 - **Jul 20, 03:49 AM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
+- **Jul 20, 04:24 AM** - A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy (nyt)
