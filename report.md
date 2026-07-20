@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2817,3 +2817,4 @@
 - **Jul 20, 07:49 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 20, 08:24 PM** - SpaceX launches 21 satellites for military data network  (spacenews)
 - **Jul 20, 08:59 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 20, 09:34 PM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
