@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2812,3 +2812,4 @@
 - **Jul 20, 04:54 PM** - Space Force awards Slingshot $69 million for AI-enabled training technology (spacenews)
 - **Jul 20, 05:29 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 20, 06:04 PM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
+- **Jul 20, 06:39 PM** - Flexell Space raises $20 Million in Series A round (spacenews)
