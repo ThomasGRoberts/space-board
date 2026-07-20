@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2810,3 +2810,4 @@
 - **Jul 20, 03:44 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 20, 04:19 PM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
 - **Jul 20, 04:54 PM** - Space Force awards Slingshot $69 million for AI-enabled training technology (spacenews)
+- **Jul 20, 05:29 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
