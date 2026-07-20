@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2804,3 +2804,4 @@
 - **Jul 20, 12:14 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 20, 12:49 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
 - **Jul 20, 01:24 PM** - Pipelines to payloads: risk management lessons for the space economy (spacenews)
+- **Jul 20, 01:59 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
