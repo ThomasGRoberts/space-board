@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 13 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2802,3 +2802,4 @@
 - **Jul 20, 11:04 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 20, 11:39 AM** - AI rocket engine startup LegendSpace raises $29.5 million angel round (spacenews)
 - **Jul 20, 12:14 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 20, 12:49 PM** - Space tag: Jackal, Puma spacecraft to chase each other Victus Haze demo (breaking_defense)
