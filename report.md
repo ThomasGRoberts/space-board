@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2785,3 +2785,4 @@
 - **Jul 20, 12:19 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 20, 01:24 AM** - Laying the groundwork for the first human mission to Mars (spacenews)
 - **Jul 20, 02:05 AM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
+- **Jul 20, 02:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
