@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2801,3 +2801,4 @@
 - **Jul 20, 10:29 AM** - Isaacman attends Soyuz launch of ISS crew (spacenews)
 - **Jul 20, 11:04 AM** - Reditus readies first launch of its re-entry vehicle/hypersonic target (breaking_defense)
 - **Jul 20, 11:39 AM** - AI rocket engine startup LegendSpace raises $29.5 million angel round (spacenews)
+- **Jul 20, 12:14 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
