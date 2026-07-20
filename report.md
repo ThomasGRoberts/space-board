@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 28 |
+| spacenews | 0 | 4 | 14 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2786,3 +2786,4 @@
 - **Jul 20, 01:24 AM** - Laying the groundwork for the first human mission to Mars (spacenews)
 - **Jul 20, 02:05 AM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 20, 02:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 20, 03:14 AM** - Nature study identifies a new way to spot nuclear weapons in orbit (spacenews)
