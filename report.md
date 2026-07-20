@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2813,3 +2813,4 @@
 - **Jul 20, 05:29 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 20, 06:04 PM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 20, 06:39 PM** - Flexell Space raises $20 Million in Series A round (spacenews)
+- **Jul 20, 07:14 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
