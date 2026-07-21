@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2823,3 +2823,4 @@
 - **Jul 21, 04:49 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 21, 05:24 AM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 21, 05:59 AM** - Swissto12 raises $70 million to accelerate small GEO satellite production (spacenews)
+- **Jul 21, 06:34 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
