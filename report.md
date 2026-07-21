@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2813,3 +2813,4 @@
 - **Jul 20, 10:44 PM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 20, 11:19 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 20, 11:54 PM** - Isaacman attends Soyuz launch of ISS crew (spacenews)
+- **Jul 21, 12:28 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
