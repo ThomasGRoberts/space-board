@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 3 | 3 | 14 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2821,3 +2821,4 @@
 - **Jul 21, 03:39 AM** - SpaceX’s only problem is finding more space to work with (spacenews)
 - **Jul 21, 04:14 AM** - Italian startup ORiS raises funding for laser power-beaming technology (spacenews)
 - **Jul 21, 04:49 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 21, 05:24 AM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
