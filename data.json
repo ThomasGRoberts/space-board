@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-21T00:04:55.912827+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4fc01e6aa125f285b5d121e9ad22a51e",
+    "trigger_count": 0,
+    "current_item_id": "8b6a2577a8277e8505d85293d7d24c50",
     "data": [
         {
             "id": "58459470d0ff64156ee8fd034b7c3696",
@@ -8441,6 +8441,18 @@
             "fetched_datetime": "2026-07-21T19:44:27.548336Z",
             "shown_at": [
                 "2026-07-21T20:19:22.054468Z"
+            ]
+        },
+        {
+            "id": "8b6a2577a8277e8505d85293d7d24c50",
+            "source": "spacenews",
+            "text": "SpaceX launches Northrop mission to extend the life of aging satellites",
+            "source_link": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T21:34:43.122089Z",
+            "shown_at": [
+                "2026-07-21T21:34:44.065776Z"
             ]
         }
     ]
