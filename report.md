@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2817,3 +2817,4 @@
 - **Jul 21, 01:09 AM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 21, 01:44 AM** - SpaceX’s only problem is finding more space to work with (spacenews)
 - **Jul 21, 02:19 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
+- **Jul 21, 03:05 AM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
