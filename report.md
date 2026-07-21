@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 17 | 31 |
-| breaking_defense | 0 | 0 | 11 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -2847,3 +2847,4 @@
 - **Jul 21, 07:04 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 21, 07:44 PM** - Northrop adds to charges on Vulcan solid rocket motor program (spacenews)
 - **Jul 21, 08:19 PM** - Commercial Space Federation (CSF) Welcomes Three New Associate Members (spacenews)
+- **Jul 21, 08:59 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
