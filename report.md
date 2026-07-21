@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 15 | 29 |
-| breaking_defense | 0 | 0 | 12 | 25 |
-| nyt | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2832,3 +2832,4 @@
 - **Jul 21, 10:04 AM** - KBR organizes defense technology business to pursue Golden Dome work (spacenews)
 - **Jul 21, 10:39 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 21, 11:14 AM** - Agile Space Industries Appoints new CTO and Board member. (spacenews)
+- **Jul 21, 11:49 AM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
