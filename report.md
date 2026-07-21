@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| spacenews | 3 | 3 | 15 | 28 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2822,3 +2822,4 @@
 - **Jul 21, 04:14 AM** - Italian startup ORiS raises funding for laser power-beaming technology (spacenews)
 - **Jul 21, 04:49 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 21, 05:24 AM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
+- **Jul 21, 05:59 AM** - Swissto12 raises $70 million to accelerate small GEO satellite production (spacenews)
