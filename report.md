@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2838,3 +2838,4 @@
 - **Jul 21, 01:34 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 21, 02:09 PM** - SDA awards L3Harris, Sierra  $1.75B for missile defense satellites (breaking_defense)
 - **Jul 21, 02:44 PM** - Nature study identifies a new way to spot nuclear weapons in orbit (spacenews)
+- **Jul 21, 03:19 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
