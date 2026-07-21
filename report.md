@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 16 | 29 |
+| spacenews | 7 | 9 | 17 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2843,3 +2843,4 @@
 - **Jul 21, 04:39 PM** - Italian startup ORiS raises funding for laser power-beaming technology (spacenews)
 - **Jul 21, 05:14 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 21, 05:49 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
+- **Jul 21, 06:24 PM** - Agile Space Industries Appoints new CTO and Board member (spacenews)
