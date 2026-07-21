@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-21T00:04:55.912827+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2276df31408ce85cf888b163373ac026",
+    "trigger_count": 0,
+    "current_item_id": "759b95c11eeb1a3556c7be3193bb3e34",
     "data": [
         {
             "id": "58459470d0ff64156ee8fd034b7c3696",
@@ -8372,6 +8372,27 @@
             "shown_at": [
                 "2026-07-21T11:14:27.678272Z"
             ]
+        },
+        {
+            "id": "759b95c11eeb1a3556c7be3193bb3e34",
+            "source": "spacenews",
+            "text": "UK and Florida commit $400,000 to joint space projects",
+            "source_link": "https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T12:24:53.842344Z",
+            "shown_at": [
+                "2026-07-21T12:24:55.888716Z"
+            ]
+        },
+        {
+            "id": "be49067ef925ec51cc110d6eca63fe00",
+            "source": "spacenews",
+            "text": "German component supplier deltaVision raises 10.2 million euros",
+            "source_link": "https://spacenews.com/german-component-supplier-deltavision-raises-10-2-million-euros/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T12:24:53.842401Z"
         }
     ]
 }
