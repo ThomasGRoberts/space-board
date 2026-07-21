@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 18 | 31 |
+| spacenews | 10 | 12 | 17 | 31 |
 | breaking_defense | 0 | 0 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2849,3 +2849,4 @@
 - **Jul 21, 08:19 PM** - Commercial Space Federation (CSF) Welcomes Three New Associate Members (spacenews)
 - **Jul 21, 08:59 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 21, 09:34 PM** - SpaceX launches Northrop mission to extend the life of aging satellites (spacenews)
+- **Jul 21, 10:09 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
