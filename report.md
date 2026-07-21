@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 17 | 31 |
+| spacenews | 11 | 13 | 18 | 32 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2850,3 +2850,4 @@
 - **Jul 21, 08:59 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 21, 09:34 PM** - SpaceX launches Northrop mission to extend the life of aging satellites (spacenews)
 - **Jul 21, 10:09 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 21, 10:44 PM** - Zenno Astronautics to relocate to the United States (spacenews)

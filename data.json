@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-21T00:04:55.912827+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6919a360447ec808b38f33b7a945533",
+    "trigger_count": 0,
+    "current_item_id": "8d25d6c2fe326135a2b0559717b2cf9e",
     "data": [
         {
             "id": "58459470d0ff64156ee8fd034b7c3696",
@@ -8454,6 +8454,18 @@
             "fetched_datetime": "2026-07-21T21:34:43.122089Z",
             "shown_at": [
                 "2026-07-21T21:34:44.065776Z"
+            ]
+        },
+        {
+            "id": "8d25d6c2fe326135a2b0559717b2cf9e",
+            "source": "spacenews",
+            "text": "Zenno Astronautics to relocate to the United States",
+            "source_link": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T22:44:31.918322Z",
+            "shown_at": [
+                "2026-07-21T22:44:34.330247Z"
             ]
         }
     ]
