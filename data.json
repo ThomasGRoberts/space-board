@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-20T00:09:17.205112+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-07-21T00:04:55.912827+00:00",
+    "trigger_count": 2,
     "current_item_id": "414386b2edb5de5ab673983c20e4e56c",
     "data": [
+        {
+            "id": "58459470d0ff64156ee8fd034b7c3696",
+            "source": "spacenews",
+            "text": "Pipelines to payloads: risk management lessons for the space economy",
+            "source_link": "https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-20T13:24:37.979549Z",
+            "shown_at": [
+                "2026-07-20T13:24:38.934875Z"
+            ]
+        },
+        {
+            "id": "6c709b1bd8b79bedc41de34acaf8a971",
+            "source": "spacenews",
+            "text": "AI rocket engine startup LegendSpace raises $29.5 million angel round",
+            "source_link": "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-20T11:39:35.679574Z",
+            "shown_at": [
+                "2026-07-20T11:39:36.594911Z"
+            ]
+        },
         {
             "id": "59eaadbaa051a5501d301de734627224",
             "source": "spacenews",
@@ -8283,61 +8307,6 @@
             "shown_at": [
                 "2026-05-08T03:04:47.341678Z",
                 "2026-05-08T08:59:19.249383Z"
-            ]
-        },
-        {
-            "id": "5ef0d1a0035d28376143757a976eaf77",
-            "source": "spacenews",
-            "text": "Lunar Outpost raises $30 million",
-            "source_link": "https://spacenews.com/lunar-outpost-raises-30-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T01:54:02.347898Z",
-            "shown_at": [
-                "2026-05-08T01:54:03.203453Z",
-                "2026-05-08T05:23:42.565250Z",
-                "2026-05-11T20:49:06.792195Z",
-                "2026-05-12T13:53:01.455372Z"
-            ]
-        },
-        {
-            "id": "6542435a0ffa63c5426bcecfd9472987",
-            "source": "spacenews",
-            "text": "Rocket Lab joins Raytheon on space interceptor program for Golden Dome",
-            "source_link": "https://spacenews.com/rocket-lab-joins-raytheon-on-space-interceptor-program-for-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T22:24:15.752735Z",
-            "shown_at": [
-                "2026-05-07T22:24:16.947719Z",
-                "2026-05-09T04:49:14.405412Z",
-                "2026-05-09T19:04:46.242984Z",
-                "2026-05-12T02:14:17.304694Z",
-                "2026-05-14T18:54:17.058099Z"
-            ]
-        },
-        {
-            "id": "6c709b1bd8b79bedc41de34acaf8a971",
-            "source": "spacenews",
-            "text": "AI rocket engine startup LegendSpace raises $29.5 million angel round",
-            "source_link": "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-20T11:39:35.679574Z",
-            "shown_at": [
-                "2026-07-20T11:39:36.594911Z"
-            ]
-        },
-        {
-            "id": "58459470d0ff64156ee8fd034b7c3696",
-            "source": "spacenews",
-            "text": "Pipelines to payloads: risk management lessons for the space economy",
-            "source_link": "https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-20T13:24:37.979549Z",
-            "shown_at": [
-                "2026-07-20T13:24:38.934875Z"
             ]
         }
     ]
