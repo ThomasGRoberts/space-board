@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2826,3 +2826,4 @@
 - **Jul 21, 06:34 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 21, 07:09 AM** - IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation (spacenews)
 - **Jul 21, 07:44 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
+- **Jul 21, 08:19 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
