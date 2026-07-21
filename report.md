@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2841,3 +2841,4 @@
 - **Jul 21, 03:19 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 21, 03:54 PM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
 - **Jul 21, 04:39 PM** - Italian startup ORiS raises funding for laser power-beaming technology (spacenews)
+- **Jul 21, 05:14 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
