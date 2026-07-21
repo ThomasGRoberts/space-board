@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 16 | 29 |
+| spacenews | 7 | 8 | 17 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2834,3 +2834,4 @@
 - **Jul 21, 11:14 AM** - Agile Space Industries Appoints new CTO and Board member. (spacenews)
 - **Jul 21, 11:49 AM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
 - **Jul 21, 12:24 PM** - UK and Florida commit $400,000 to joint space projects (spacenews)
+- **Jul 21, 12:59 PM** - German component supplier deltaVision raises 10.2 million euros (spacenews)
