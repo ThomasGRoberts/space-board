@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-21T00:04:55.912827+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6919a360447ec808b38f33b7a945533",
+    "trigger_count": 0,
+    "current_item_id": "142ece7d02ea94c813ec50d810f445bf",
     "data": [
         {
             "id": "58459470d0ff64156ee8fd034b7c3696",
@@ -8417,6 +8417,27 @@
             "shown_at": [
                 "2026-07-21T18:24:42.908275Z"
             ]
+        },
+        {
+            "id": "142ece7d02ea94c813ec50d810f445bf",
+            "source": "spacenews",
+            "text": "Northrop adds to charges on Vulcan solid rocket motor program",
+            "source_link": "https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T19:44:27.548265Z",
+            "shown_at": [
+                "2026-07-21T19:44:29.499970Z"
+            ]
+        },
+        {
+            "id": "620b2a314d28dc9b2f0733f445393d4f",
+            "source": "spacenews",
+            "text": "Commercial Space Federation (CSF) Welcomes Three New Associate Members",
+            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T19:44:27.548336Z"
         }
     ]
 }
