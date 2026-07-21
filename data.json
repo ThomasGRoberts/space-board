@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-21T00:04:55.912827+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6919a360447ec808b38f33b7a945533",
+    "trigger_count": 0,
+    "current_item_id": "4e4a920cec0584cf5209169182ac0117",
     "data": [
         {
             "id": "58459470d0ff64156ee8fd034b7c3696",
@@ -8329,6 +8329,18 @@
             "fetched_datetime": "2026-07-21T04:14:37.939541Z",
             "shown_at": [
                 "2026-07-21T04:14:38.935734Z"
+            ]
+        },
+        {
+            "id": "4e4a920cec0584cf5209169182ac0117",
+            "source": "spacenews",
+            "text": "IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation",
+            "source_link": "https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T07:09:26.137196Z",
+            "shown_at": [
+                "2026-07-21T07:09:26.912990Z"
             ]
         }
     ]
