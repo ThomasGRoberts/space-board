@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2835,3 +2835,4 @@
 - **Jul 21, 11:49 AM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
 - **Jul 21, 12:24 PM** - UK and Florida commit $400,000 to joint space projects (spacenews)
 - **Jul 21, 12:59 PM** - German component supplier deltaVision raises 10.2 million euros (spacenews)
+- **Jul 21, 01:34 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
