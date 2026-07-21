@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2830,3 +2830,4 @@
 - **Jul 21, 08:54 AM** - Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites (spacenews)
 - **Jul 21, 09:29 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 21, 10:04 AM** - KBR organizes defense technology business to pursue Golden Dome work (spacenews)
+- **Jul 21, 10:39 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
