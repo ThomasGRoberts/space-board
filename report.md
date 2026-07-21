@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 15 | 28 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2828,3 +2828,4 @@
 - **Jul 21, 07:44 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 21, 08:19 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 21, 08:54 AM** - Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites (spacenews)
+- **Jul 21, 09:29 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
