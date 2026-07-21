@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-21T00:04:55.912827+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1c66caca13a44a708060f84bf7de3d5d",
+    "trigger_count": 0,
+    "current_item_id": "eba91993adb3ce8252d9899d5a75b671",
     "data": [
         {
             "id": "58459470d0ff64156ee8fd034b7c3696",
@@ -8313,6 +8313,18 @@
             "shown_at": [
                 "2026-05-08T03:04:47.341678Z",
                 "2026-05-08T08:59:19.249383Z"
+            ]
+        },
+        {
+            "id": "eba91993adb3ce8252d9899d5a75b671",
+            "source": "spacenews",
+            "text": "Italian startup ORiS raises funding for laser power-beaming technology",
+            "source_link": "https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T04:14:37.939541Z",
+            "shown_at": [
+                "2026-07-21T04:14:38.935734Z"
             ]
         }
     ]

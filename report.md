@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 14 | 27 |
+| spacenews | 3 | 3 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2819,3 +2819,4 @@
 - **Jul 21, 02:19 AM** - Dark Sky Defenders Raise Alarm Along the Border of West Texas (nyt)
 - **Jul 21, 03:05 AM** - The Space Force faces growing pains. Here’s how the next chief can help. (breaking_defense)
 - **Jul 21, 03:39 AM** - SpaceX’s only problem is finding more space to work with (spacenews)
+- **Jul 21, 04:14 AM** - Italian startup ORiS raises funding for laser power-beaming technology (spacenews)
