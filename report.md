@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 14 | 32 |
-| breaking_defense | 2 | 2 | 12 | 24 |
+| spacenews | 7 | 18 | 15 | 33 |
+| breaking_defense | 2 | 2 | 12 | 23 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2779,3 +2779,4 @@
 - **Jul 22, 09:34 PM** - China’s Shijian-31 satellite is sweeping GEO using a unique orbit (spacenews)
 - **Jul 22, 10:14 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 22, 10:49 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 22, 11:24 PM** - SpaceX launches Northrop mission to extend the life of aging satellites (spacenews)
