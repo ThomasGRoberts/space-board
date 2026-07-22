@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 16 | 31 |
+| spacenews | 9 | 13 | 17 | 32 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2754,3 +2754,4 @@
 - **Jul 22, 05:44 AM** - Skyroot Aerospace reaches orbit on first Vikram-1 launch (spacenews)
 - **Jul 22, 06:29 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 22, 07:09 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 22, 07:44 AM** - German component supplier deltaVision raises 10.2 million euros (spacenews)
