@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 16 | 32 |
+| spacenews | 10 | 16 | 17 | 33 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2765,3 +2765,4 @@
 - **Jul 22, 12:44 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 22, 01:24 PM** - The strategic competition with China: winning the multi-domain race (spacenews)
 - **Jul 22, 01:59 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 22, 02:39 PM** - Vast establishes division for national security projects (spacenews)
