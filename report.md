@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 16 | 32 |
 | breaking_defense | 0 | 0 | 12 | 24 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2767,3 +2767,4 @@
 - **Jul 22, 01:59 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 22, 02:39 PM** - Vast establishes division for national security projects (spacenews)
 - **Jul 22, 03:14 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
+- **Jul 22, 03:49 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
