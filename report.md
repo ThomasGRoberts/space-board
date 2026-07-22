@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 16 | 32 |
+| spacenews | 10 | 15 | 17 | 33 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2758,3 +2758,4 @@
 - **Jul 22, 08:19 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 22, 08:54 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 22, 09:34 AM** - Gravity-1 sea launch off Shanghai puts 9 satellites into orbit (spacenews)
+- **Jul 22, 10:11 AM** - Artemis 2 astronaut advocates for equatorial lunar landings (spacenews)

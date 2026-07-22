@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-22T00:04:50.495945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4820c0686445c644d773093813f1ee98",
+    "trigger_count": 0,
+    "current_item_id": "8a5583816b5bb2d6929ccec03ff58bbc",
     "data": [
         {
             "id": "8d25d6c2fe326135a2b0559717b2cf9e",
@@ -8263,6 +8263,18 @@
             "fetched_datetime": "2026-07-22T09:34:47.200317Z",
             "shown_at": [
                 "2026-07-22T09:34:47.868497Z"
+            ]
+        },
+        {
+            "id": "8a5583816b5bb2d6929ccec03ff58bbc",
+            "source": "spacenews",
+            "text": "Artemis 2 astronaut advocates for equatorial lunar landings",
+            "source_link": "https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T10:11:10.952527Z",
+            "shown_at": [
+                "2026-07-22T10:11:11.823613Z"
             ]
         }
     ]
