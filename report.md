@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 16 | 32 |
+| spacenews | 10 | 16 | 17 | 33 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2771,3 +2771,4 @@
 - **Jul 22, 04:24 PM** - AI rocket engine startup LegendSpace raises $29.5 million angel round (spacenews)
 - **Jul 22, 04:59 PM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 22, 05:34 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 22, 06:09 PM** - Skyroot Aerospace reaches orbit on first Vikram-1 launch (spacenews)
