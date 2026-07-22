@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-22T00:04:50.495945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6919a360447ec808b38f33b7a945533",
+    "trigger_count": 0,
+    "current_item_id": "8a9e2dd8dad1f82e286e7627a1db5379",
     "data": [
         {
             "id": "8d25d6c2fe326135a2b0559717b2cf9e",
@@ -8277,6 +8277,18 @@
             "fetched_datetime": "2026-07-22T10:11:10.952527Z",
             "shown_at": [
                 "2026-07-22T10:11:11.823613Z"
+            ]
+        },
+        {
+            "id": "8a9e2dd8dad1f82e286e7627a1db5379",
+            "source": "spacenews",
+            "text": "Relativity Space to expand Terran R production in Florida",
+            "source_link": "https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T12:06:22.514384Z",
+            "shown_at": [
+                "2026-07-22T12:06:23.535721Z"
             ]
         }
     ]
