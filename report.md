@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 16 | 33 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| spacenews | 9 | 16 | 16 | 32 |
+| breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2772,3 +2772,4 @@
 - **Jul 22, 04:59 PM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 22, 05:34 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 22, 06:09 PM** - Skyroot Aerospace reaches orbit on first Vikram-1 launch (spacenews)
+- **Jul 22, 06:44 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
