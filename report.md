@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 15 | 32 |
-| breaking_defense | 2 | 2 | 12 | 23 |
+| breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2777,3 +2777,4 @@
 - **Jul 22, 07:54 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 22, 08:39 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 22, 09:34 PM** - China’s Shijian-31 satellite is sweeping GEO using a unique orbit (spacenews)
+- **Jul 22, 10:14 PM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
