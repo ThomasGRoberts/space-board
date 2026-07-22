@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 17 | 31 |
 | breaking_defense | 0 | 0 | 12 | 25 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2750,3 +2750,4 @@
 - **Jul 22, 03:24 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 22, 03:59 AM** - Swissto12 raises $70 million to accelerate small GEO satellite production (spacenews)
 - **Jul 22, 04:34 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
+- **Jul 22, 05:09 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
