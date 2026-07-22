@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 15 | 32 |
 | breaking_defense | 2 | 2 | 13 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2775,3 +2775,4 @@
 - **Jul 22, 06:44 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 22, 07:19 PM** - FCC approves sweeping space reforms while clearing more C-band for 5G (spacenews)
 - **Jul 22, 07:54 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
+- **Jul 22, 08:39 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
