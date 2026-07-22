@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-22T00:04:50.495945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6919a360447ec808b38f33b7a945533",
+    "trigger_count": 0,
+    "current_item_id": "4820c0686445c644d773093813f1ee98",
     "data": [
         {
             "id": "8d25d6c2fe326135a2b0559717b2cf9e",
@@ -8251,6 +8251,18 @@
                 "2026-05-17T22:09:08.221629Z",
                 "2026-05-17T23:54:13.407134Z",
                 "2026-05-18T01:39:06.343865Z"
+            ]
+        },
+        {
+            "id": "4820c0686445c644d773093813f1ee98",
+            "source": "spacenews",
+            "text": "Gravity-1 sea launch off Shanghai puts 9 satellites into orbit",
+            "source_link": "https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T09:34:47.200317Z",
+            "shown_at": [
+                "2026-07-22T09:34:47.868497Z"
             ]
         }
     ]

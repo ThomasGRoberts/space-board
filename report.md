@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 16 | 31 |
-| breaking_defense | 0 | 0 | 12 | 24 |
+| spacenews | 10 | 14 | 17 | 32 |
+| breaking_defense | 0 | 0 | 11 | 24 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2757,3 +2757,4 @@
 - **Jul 22, 07:44 AM** - German component supplier deltaVision raises 10.2 million euros (spacenews)
 - **Jul 22, 08:19 AM** - SDA resumes data relay satellite launch following tech fixes (breaking_defense)
 - **Jul 22, 08:54 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 22, 09:34 AM** - Gravity-1 sea launch off Shanghai puts 9 satellites into orbit (spacenews)
