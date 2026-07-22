@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 13 | 17 | 31 |
+| spacenews | 11 | 13 | 18 | 32 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2745,3 +2745,4 @@
 - **Jul 22, 12:29 AM** - AI rocket engine startup LegendSpace raises $29.5 million angel round (spacenews)
 - **Jul 22, 01:04 AM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 22, 01:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 22, 02:14 AM** - Zenno Astronautics to relocate to the United States (spacenews)
