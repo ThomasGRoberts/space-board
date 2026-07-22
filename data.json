@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-22T00:04:50.495945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e992922f7be609479ef40db4ff823b05",
+    "trigger_count": 0,
+    "current_item_id": "7c25ba35eb1292f426c688a8adffcd92",
     "data": [
         {
             "id": "8d25d6c2fe326135a2b0559717b2cf9e",
@@ -8343,6 +8343,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-07-22T18:44:23.533050Z"
+        },
+        {
+            "id": "7c25ba35eb1292f426c688a8adffcd92",
+            "source": "spacenews",
+            "text": "FCC approves sweeping space reforms while clearing more C-band for 5G",
+            "source_link": "https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T19:19:22.309757Z",
+            "shown_at": [
+                "2026-07-22T19:19:25.019454Z"
+            ]
         }
     ]
 }
