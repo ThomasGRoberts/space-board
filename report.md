@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 17 | 32 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -2759,3 +2759,4 @@
 - **Jul 22, 08:54 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 22, 09:34 AM** - Gravity-1 sea launch off Shanghai puts 9 satellites into orbit (spacenews)
 - **Jul 22, 10:11 AM** - Artemis 2 astronaut advocates for equatorial lunar landings (spacenews)
+- **Jul 22, 10:54 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
