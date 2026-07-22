@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-22T00:04:50.495945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6919a360447ec808b38f33b7a945533",
+    "trigger_count": 0,
+    "current_item_id": "815f3bb3d51ded2f36822635f3c5907c",
     "data": [
         {
             "id": "8d25d6c2fe326135a2b0559717b2cf9e",
@@ -8358,6 +8358,18 @@
             "fetched_datetime": "2026-07-22T19:19:22.309757Z",
             "shown_at": [
                 "2026-07-22T19:19:25.019454Z"
+            ]
+        },
+        {
+            "id": "815f3bb3d51ded2f36822635f3c5907c",
+            "source": "spacenews",
+            "text": "China’s Shijian-31 satellite is sweeping GEO using a unique orbit",
+            "source_link": "https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T21:34:51.399159Z",
+            "shown_at": [
+                "2026-07-22T21:34:52.459444Z"
             ]
         }
     ]
