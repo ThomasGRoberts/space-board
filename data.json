@@ -1,9 +1,142 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-21T00:04:55.912827+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-07-22T00:04:50.495945+00:00",
+    "trigger_count": 2,
     "current_item_id": "c6919a360447ec808b38f33b7a945533",
     "data": [
+        {
+            "id": "8d25d6c2fe326135a2b0559717b2cf9e",
+            "source": "spacenews",
+            "text": "Zenno Astronautics to relocate to the United States",
+            "source_link": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T22:44:31.918322Z",
+            "shown_at": [
+                "2026-07-21T22:44:34.330247Z"
+            ]
+        },
+        {
+            "id": "8b6a2577a8277e8505d85293d7d24c50",
+            "source": "spacenews",
+            "text": "SpaceX launches Northrop mission to extend the life of aging satellites",
+            "source_link": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T21:34:43.122089Z",
+            "shown_at": [
+                "2026-07-21T21:34:44.065776Z"
+            ]
+        },
+        {
+            "id": "620b2a314d28dc9b2f0733f445393d4f",
+            "source": "spacenews",
+            "text": "Commercial Space Federation (CSF) Welcomes Three New Associate Members",
+            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T19:44:27.548336Z",
+            "shown_at": [
+                "2026-07-21T20:19:22.054468Z"
+            ]
+        },
+        {
+            "id": "142ece7d02ea94c813ec50d810f445bf",
+            "source": "spacenews",
+            "text": "Northrop adds to charges on Vulcan solid rocket motor program",
+            "source_link": "https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T19:44:27.548265Z",
+            "shown_at": [
+                "2026-07-21T19:44:29.499970Z"
+            ]
+        },
+        {
+            "id": "b5fdc19c7029fb2ffd7fbfbb82f356e0",
+            "source": "spacenews",
+            "text": "Agile Space Industries Appoints new CTO and Board member",
+            "source_link": "https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T18:24:41.959062Z",
+            "shown_at": [
+                "2026-07-21T18:24:42.908275Z"
+            ]
+        },
+        {
+            "id": "be49067ef925ec51cc110d6eca63fe00",
+            "source": "spacenews",
+            "text": "German component supplier deltaVision raises 10.2 million euros",
+            "source_link": "https://spacenews.com/german-component-supplier-deltavision-raises-10-2-million-euros/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T12:24:53.842401Z",
+            "shown_at": [
+                "2026-07-21T12:59:33.658037Z"
+            ]
+        },
+        {
+            "id": "759b95c11eeb1a3556c7be3193bb3e34",
+            "source": "spacenews",
+            "text": "UK and Florida commit $400,000 to joint space projects",
+            "source_link": "https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T12:24:53.842344Z",
+            "shown_at": [
+                "2026-07-21T12:24:55.888716Z"
+            ]
+        },
+        {
+            "id": "060be1136d9c801ef9c615ebb88e1540",
+            "source": "spacenews",
+            "text": "Agile Space Industries Appoints new CTO and Board member.",
+            "source_link": "https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T11:14:26.906941Z",
+            "shown_at": [
+                "2026-07-21T11:14:27.678272Z"
+            ]
+        },
+        {
+            "id": "f2b4635884c3d999d442d409898f7212",
+            "source": "spacenews",
+            "text": "KBR organizes defense technology business to pursue Golden Dome work",
+            "source_link": "https://spacenews.com/kbr-organizes-defense-technology-business-to-pursue-golden-dome-work/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T10:04:43.569138Z",
+            "shown_at": [
+                "2026-07-21T10:04:44.638998Z"
+            ]
+        },
+        {
+            "id": "4e4a920cec0584cf5209169182ac0117",
+            "source": "spacenews",
+            "text": "IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation",
+            "source_link": "https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T07:09:26.137196Z",
+            "shown_at": [
+                "2026-07-21T07:09:26.912990Z"
+            ]
+        },
+        {
+            "id": "eba91993adb3ce8252d9899d5a75b671",
+            "source": "spacenews",
+            "text": "Italian startup ORiS raises funding for laser power-beaming technology",
+            "source_link": "https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-21T04:14:37.939541Z",
+            "shown_at": [
+                "2026-07-21T04:14:38.935734Z",
+                "2026-07-21T16:39:13.493432Z"
+            ]
+        },
         {
             "id": "58459470d0ff64156ee8fd034b7c3696",
             "source": "spacenews",
@@ -8103,371 +8236,6 @@
                 "2026-05-17T22:09:08.221629Z",
                 "2026-05-17T23:54:13.407134Z",
                 "2026-05-18T01:39:06.343865Z"
-            ]
-        },
-        {
-            "id": "825b4a98b85014481bed56a9f7aee50a",
-            "source": "spacenews",
-            "text": "ESA and JAXA finalize agreement on Apophis asteroid mission",
-            "source_link": "https://spacenews.com/esa-and-jaxa-finalize-agreement-on-apophis-asteroid-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-10T16:09:04.476844Z",
-            "shown_at": [
-                "2026-05-10T16:09:05.451828Z",
-                "2026-05-17T00:24:19.142443Z"
-            ]
-        },
-        {
-            "id": "e5ae3e5ce3eb5a8f4e581c66f34698e5",
-            "source": "spacenews",
-            "text": "MDA Space continues work on Gateway robotic arm",
-            "source_link": "https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-09T23:44:12.214748Z",
-            "shown_at": [
-                "2026-05-09T23:44:13.284456Z",
-                "2026-05-10T03:19:19.982844Z",
-                "2026-05-11T23:54:18.850010Z",
-                "2026-05-12T08:14:23.579146Z",
-                "2026-05-14T00:44:30.941984Z",
-                "2026-05-15T15:34:23.758669Z"
-            ]
-        },
-        {
-            "id": "200a04a30a07a2435803882e8a7faad3",
-            "source": "spacenews",
-            "text": "Viasat wins $307 million Marine Corps satellite communications contract",
-            "source_link": "https://spacenews.com/viasat-wins-307-million-marine-corps-satellite-communications-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-09T16:44:16.167554Z",
-            "shown_at": [
-                "2026-05-09T16:44:17.426525Z",
-                "2026-05-10T07:59:09.686208Z"
-            ]
-        },
-        {
-            "id": "d9e70dec311ad7c9182024dd540f657a",
-            "source": "nyt",
-            "text": "U.F.O. Files Released by U.S. Shed Light on What the Government Knows",
-            "source_link": "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T21:14:09.977310Z",
-            "shown_at": [
-                "2026-05-08T21:14:10.968193Z",
-                "2026-05-09T00:44:20.960933Z",
-                "2026-05-09T10:19:19.959446Z",
-                "2026-05-09T11:29:06.589982Z",
-                "2026-05-09T16:09:21.737486Z",
-                "2026-05-10T02:44:13.332360Z",
-                "2026-05-10T03:54:31.063333Z",
-                "2026-05-10T05:04:40.343419Z",
-                "2026-05-10T13:14:17.188624Z",
-                "2026-05-11T04:29:03.945627Z",
-                "2026-05-11T07:59:02.556591Z",
-                "2026-05-12T07:39:13.149491Z",
-                "2026-05-13T23:34:44.060736Z",
-                "2026-05-14T03:05:07.026204Z",
-                "2026-05-14T10:43:55.709461Z",
-                "2026-05-15T06:34:25.713167Z",
-                "2026-05-15T08:34:34.734784Z",
-                "2026-05-15T10:54:19.105471Z",
-                "2026-05-15T19:09:10.544544Z",
-                "2026-05-15T20:54:13.206961Z"
-            ]
-        },
-        {
-            "id": "a4f68de55d1396fa51c22e22563c986e",
-            "source": "spacenews",
-            "text": "Swift reboost mission completes environmental tests",
-            "source_link": "https://spacenews.com/swift-reboost-mission-completes-environmental-tests/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T20:39:25.198664Z",
-            "shown_at": [
-                "2026-05-08T20:39:26.368205Z",
-                "2026-05-10T04:29:16.105744Z",
-                "2026-05-12T09:24:17.030545Z"
-            ]
-        },
-        {
-            "id": "66d3fd9c687179cd898d7e96dbfd3ca5",
-            "source": "spacenews",
-            "text": "SatVu zooms in on energy facilities in Cuba, India and Australia",
-            "source_link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T15:59:27.679923Z",
-            "shown_at": [
-                "2026-05-08T16:34:43.141090Z",
-                "2026-05-09T02:29:05.755718Z",
-                "2026-05-15T13:49:10.311308Z"
-            ]
-        },
-        {
-            "id": "06eb42473c4aba481ad30bd7d9224037",
-            "source": "spacenews",
-            "text": "Paraguay signs the Artemis Accords",
-            "source_link": "https://spacenews.com/paraguay-signs-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T15:59:27.679718Z",
-            "shown_at": [
-                "2026-05-08T15:59:29.325646Z",
-                "2026-05-09T08:34:52.920250Z"
-            ]
-        },
-        {
-            "id": "9020baccaac675375f52486f5b653989",
-            "source": "nyt",
-            "text": "Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away",
-            "source_link": "https://www.nytimes.com/2026/05/07/science/plutino-atmosphere-astronomy-pluto.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T14:49:11.901360Z",
-            "shown_at": [
-                "2026-05-08T15:24:07.940854Z",
-                "2026-05-08T17:09:23.171071Z",
-                "2026-05-08T18:19:13.847639Z",
-                "2026-05-08T23:34:24.415076Z",
-                "2026-05-09T04:14:22.760675Z",
-                "2026-05-09T05:24:31.946446Z",
-                "2026-05-09T07:59:11.180368Z",
-                "2026-05-09T09:09:18.776248Z",
-                "2026-05-09T12:39:29.216422Z",
-                "2026-05-09T13:49:25.140793Z",
-                "2026-05-09T14:59:22.560692Z",
-                "2026-05-09T21:59:09.935627Z",
-                "2026-05-09T23:09:14.603917Z",
-                "2026-05-10T00:19:13.528714Z",
-                "2026-05-10T06:14:21.942107Z",
-                "2026-05-10T07:24:27.072508Z",
-                "2026-05-10T10:54:09.384430Z",
-                "2026-05-10T12:04:37.963750Z",
-                "2026-05-10T14:23:49.431736Z",
-                "2026-05-10T15:34:35.508199Z",
-                "2026-05-10T20:19:17.658466Z",
-                "2026-05-10T21:29:22.218795Z",
-                "2026-05-10T22:38:57.670744Z",
-                "2026-05-11T00:59:08.871236Z",
-                "2026-05-11T10:24:21.248703Z",
-                "2026-05-11T11:34:23.344048Z",
-                "2026-05-11T17:39:42.860884Z",
-                "2026-05-11T18:54:15.120466Z",
-                "2026-05-11T21:59:12.541929Z",
-                "2026-05-12T05:09:15.676668Z",
-                "2026-05-12T06:19:17.495095Z",
-                "2026-05-12T11:44:42.103569Z",
-                "2026-05-12T13:04:46.459664Z",
-                "2026-05-12T17:09:16.438874Z",
-                "2026-05-12T23:34:36.076632Z",
-                "2026-05-13T01:19:25.680143Z",
-                "2026-05-13T13:34:43.126722Z",
-                "2026-05-14T04:49:35.960507Z",
-                "2026-05-14T06:34:29.022674Z",
-                "2026-05-14T13:39:31.893568Z"
-            ]
-        },
-        {
-            "id": "12e46efef0e0291c2f8a421c839204af",
-            "source": "nyt",
-            "text": "Pentagon Releases Files on U.F.O.s",
-            "source_link": "https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T14:49:11.901309Z",
-            "shown_at": [
-                "2026-05-08T14:49:12.855895Z",
-                "2026-05-08T19:29:11.273799Z",
-                "2026-05-08T22:24:15.039487Z",
-                "2026-05-09T01:54:13.340689Z",
-                "2026-05-09T03:04:33.481901Z",
-                "2026-05-09T06:39:24.269599Z",
-                "2026-05-09T17:19:38.822149Z",
-                "2026-05-09T18:29:12.813521Z",
-                "2026-05-09T19:38:53.619436Z",
-                "2026-05-09T20:49:17.050839Z",
-                "2026-05-10T01:29:10.136686Z",
-                "2026-05-10T08:34:26.740225Z",
-                "2026-05-10T09:44:22.972093Z",
-                "2026-05-10T16:44:19.716924Z",
-                "2026-05-10T17:54:07.283014Z",
-                "2026-05-10T19:09:19.404206Z",
-                "2026-05-10T23:49:16.028114Z",
-                "2026-05-11T09:14:14.015075Z",
-                "2026-05-11T16:29:15.795437Z",
-                "2026-05-11T23:19:34.365926Z",
-                "2026-05-12T08:49:33.951065Z",
-                "2026-05-12T21:14:32.454398Z",
-                "2026-05-13T03:09:15.973451Z",
-                "2026-05-13T17:29:22.322414Z",
-                "2026-05-13T19:24:38.282168Z",
-                "2026-05-14T20:04:38.790923Z",
-                "2026-05-14T21:49:16.624473Z",
-                "2026-05-14T23:34:27.566947Z",
-                "2026-05-15T01:19:12.818802Z"
-            ]
-        },
-        {
-            "id": "a7238091833ae10fb51983742158fbec",
-            "source": "spacenews",
-            "text": "Rocket Lab announces large launch contract and plans to acquire space robotics company",
-            "source_link": "https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T11:54:12.138116Z",
-            "shown_at": [
-                "2026-05-08T11:54:13.130165Z",
-                "2026-05-12T18:19:27.671310Z"
-            ]
-        },
-        {
-            "id": "18036bd2e8cd48eefa7bf27185eb7c73",
-            "source": "spacenews",
-            "text": "SatVu zooms in energy facilities in Cuba, India and Australia",
-            "source_link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T03:04:46.544542Z",
-            "shown_at": [
-                "2026-05-08T03:04:47.341678Z",
-                "2026-05-08T08:59:19.249383Z"
-            ]
-        },
-        {
-            "id": "eba91993adb3ce8252d9899d5a75b671",
-            "source": "spacenews",
-            "text": "Italian startup ORiS raises funding for laser power-beaming technology",
-            "source_link": "https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T04:14:37.939541Z",
-            "shown_at": [
-                "2026-07-21T04:14:38.935734Z",
-                "2026-07-21T16:39:13.493432Z"
-            ]
-        },
-        {
-            "id": "4e4a920cec0584cf5209169182ac0117",
-            "source": "spacenews",
-            "text": "IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation",
-            "source_link": "https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T07:09:26.137196Z",
-            "shown_at": [
-                "2026-07-21T07:09:26.912990Z"
-            ]
-        },
-        {
-            "id": "f2b4635884c3d999d442d409898f7212",
-            "source": "spacenews",
-            "text": "KBR organizes defense technology business to pursue Golden Dome work",
-            "source_link": "https://spacenews.com/kbr-organizes-defense-technology-business-to-pursue-golden-dome-work/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T10:04:43.569138Z",
-            "shown_at": [
-                "2026-07-21T10:04:44.638998Z"
-            ]
-        },
-        {
-            "id": "060be1136d9c801ef9c615ebb88e1540",
-            "source": "spacenews",
-            "text": "Agile Space Industries Appoints new CTO and Board member.",
-            "source_link": "https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T11:14:26.906941Z",
-            "shown_at": [
-                "2026-07-21T11:14:27.678272Z"
-            ]
-        },
-        {
-            "id": "759b95c11eeb1a3556c7be3193bb3e34",
-            "source": "spacenews",
-            "text": "UK and Florida commit $400,000 to joint space projects",
-            "source_link": "https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T12:24:53.842344Z",
-            "shown_at": [
-                "2026-07-21T12:24:55.888716Z"
-            ]
-        },
-        {
-            "id": "be49067ef925ec51cc110d6eca63fe00",
-            "source": "spacenews",
-            "text": "German component supplier deltaVision raises 10.2 million euros",
-            "source_link": "https://spacenews.com/german-component-supplier-deltavision-raises-10-2-million-euros/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T12:24:53.842401Z",
-            "shown_at": [
-                "2026-07-21T12:59:33.658037Z"
-            ]
-        },
-        {
-            "id": "b5fdc19c7029fb2ffd7fbfbb82f356e0",
-            "source": "spacenews",
-            "text": "Agile Space Industries Appoints new CTO and Board member",
-            "source_link": "https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T18:24:41.959062Z",
-            "shown_at": [
-                "2026-07-21T18:24:42.908275Z"
-            ]
-        },
-        {
-            "id": "142ece7d02ea94c813ec50d810f445bf",
-            "source": "spacenews",
-            "text": "Northrop adds to charges on Vulcan solid rocket motor program",
-            "source_link": "https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T19:44:27.548265Z",
-            "shown_at": [
-                "2026-07-21T19:44:29.499970Z"
-            ]
-        },
-        {
-            "id": "620b2a314d28dc9b2f0733f445393d4f",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes Three New Associate Members",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T19:44:27.548336Z",
-            "shown_at": [
-                "2026-07-21T20:19:22.054468Z"
-            ]
-        },
-        {
-            "id": "8b6a2577a8277e8505d85293d7d24c50",
-            "source": "spacenews",
-            "text": "SpaceX launches Northrop mission to extend the life of aging satellites",
-            "source_link": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T21:34:43.122089Z",
-            "shown_at": [
-                "2026-07-21T21:34:44.065776Z"
-            ]
-        },
-        {
-            "id": "8d25d6c2fe326135a2b0559717b2cf9e",
-            "source": "spacenews",
-            "text": "Zenno Astronautics to relocate to the United States",
-            "source_link": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-21T22:44:31.918322Z",
-            "shown_at": [
-                "2026-07-21T22:44:34.330247Z"
             ]
         }
     ]
