@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-22T00:04:50.495945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7c25ba35eb1292f426c688a8adffcd92",
+    "trigger_count": 0,
+    "current_item_id": "269c0b4624cea9ec355f4ddcab8c6fdd",
     "data": [
         {
             "id": "8d25d6c2fe326135a2b0559717b2cf9e",
@@ -8340,9 +8340,12 @@
             "source": "breaking_defense",
             "text": "Extra $11 billion to fund huge leap in Space Force launches",
             "source_link": "https://breakingdefense.com/2026/07/extra-11-billion-to-fund-huge-leap-in-space-force-launches/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-22T18:44:23.533050Z"
+            "fetched_datetime": "2026-07-22T18:44:23.533050Z",
+            "shown_at": [
+                "2026-07-22T19:54:41.393403Z"
+            ]
         },
         {
             "id": "7c25ba35eb1292f426c688a8adffcd92",

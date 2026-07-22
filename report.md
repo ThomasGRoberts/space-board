@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 16 | 33 |
-| breaking_defense | 2 | 2 | 12 | 24 |
+| breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2774,3 +2774,4 @@
 - **Jul 22, 06:09 PM** - Skyroot Aerospace reaches orbit on first Vikram-1 launch (spacenews)
 - **Jul 22, 06:44 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 22, 07:19 PM** - FCC approves sweeping space reforms while clearing more C-band for 5G (spacenews)
+- **Jul 22, 07:54 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
