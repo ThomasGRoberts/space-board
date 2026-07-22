@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 16 | 32 |
 | breaking_defense | 0 | 0 | 12 | 24 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2764,3 +2764,4 @@
 - **Jul 22, 12:06 PM** - Relativity Space to expand Terran R production in Florida (spacenews)
 - **Jul 22, 12:44 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 22, 01:24 PM** - The strategic competition with China: winning the multi-domain race (spacenews)
+- **Jul 22, 01:59 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
