@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 15 | 32 |
+| spacenews | 9 | 16 | 16 | 33 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2763,3 +2763,4 @@
 - **Jul 22, 11:29 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 22, 12:06 PM** - Relativity Space to expand Terran R production in Florida (spacenews)
 - **Jul 22, 12:44 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
+- **Jul 22, 01:24 PM** - The strategic competition with China: winning the multi-domain race (spacenews)
