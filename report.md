@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 13 | 28 |
+| spacenews | 3 | 11 | 14 | 29 |
 | breaking_defense | 0 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2749,3 +2749,4 @@
 - **Jul 23, 07:24 PM** - Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech (spacenews)
 - **Jul 23, 07:59 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 08:34 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
+- **Jul 23, 09:09 PM** - AI rocket engine startup LegendSpace raises $29.5 million angel round (spacenews)
