@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-23T00:05:00.934831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6919a360447ec808b38f33b7a945533",
+    "trigger_count": 0,
+    "current_item_id": "15d1e8cac97f2b3db6a2416df0ca1fbf",
     "data": [
         {
             "id": "815f3bb3d51ded2f36822635f3c5907c",
@@ -8229,6 +8229,18 @@
                 "2026-05-12T12:24:17.485347Z",
                 "2026-05-15T11:29:09.810096Z",
                 "2026-05-18T04:34:43.606284Z"
+            ]
+        },
+        {
+            "id": "15d1e8cac97f2b3db6a2416df0ca1fbf",
+            "source": "spacenews",
+            "text": "Airbus space business takes advantage of growing demand for satellite systems",
+            "source_link": "https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-23T12:14:36.093300Z",
+            "shown_at": [
+                "2026-07-23T12:14:36.996257Z"
             ]
         }
     ]
