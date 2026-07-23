@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 14 | 30 |
-| breaking_defense | 2 | 2 | 13 | 24 |
+| spacenews | 3 | 13 | 13 | 29 |
+| breaking_defense | 2 | 2 | 14 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2739,3 +2739,4 @@
 - **Jul 23, 12:49 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 23, 01:24 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 02:05 PM** - Serbia signs the Artemis Accords (spacenews)
+- **Jul 23, 02:44 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
