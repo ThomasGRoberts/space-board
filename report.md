@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 15 | 29 |
 | breaking_defense | 0 | 2 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2752,3 +2752,4 @@
 - **Jul 23, 09:09 PM** - AI rocket engine startup LegendSpace raises $29.5 million angel round (spacenews)
 - **Jul 23, 09:44 PM** - NASA programs feel effects of workforce reductions (spacenews)
 - **Jul 23, 10:19 PM** - Poland commits $745 million to EU’s IRIS² constellation project (spacenews)
+- **Jul 23, 10:54 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
