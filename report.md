@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 12 | 12 | 29 |
+| spacenews | 3 | 13 | 13 | 30 |
 | breaking_defense | 0 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2746,3 +2746,4 @@
 - **Jul 23, 05:29 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 06:04 PM** - Mauritius becomes 70th nation to sign the Artemis Accords (spacenews)
 - **Jul 23, 06:49 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
+- **Jul 23, 07:24 PM** - Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech (spacenews)

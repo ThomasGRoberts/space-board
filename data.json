@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-23T00:05:00.934831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e992922f7be609479ef40db4ff823b05",
+    "trigger_count": 0,
+    "current_item_id": "808298ce0b8625de931ffb46a9062cee",
     "data": [
         {
             "id": "815f3bb3d51ded2f36822635f3c5907c",
@@ -8251,6 +8251,18 @@
             "fetched_datetime": "2026-07-23T12:14:36.093300Z",
             "shown_at": [
                 "2026-07-23T12:14:36.996257Z"
+            ]
+        },
+        {
+            "id": "808298ce0b8625de931ffb46a9062cee",
+            "source": "spacenews",
+            "text": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
+            "source_link": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-23T19:24:16.275932Z",
+            "shown_at": [
+                "2026-07-23T19:24:17.165661Z"
             ]
         }
     ]
