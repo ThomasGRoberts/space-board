@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 14 | 32 |
 | breaking_defense | 2 | 2 | 13 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2722,3 +2722,4 @@
 - **Jul 23, 02:24 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 02:59 AM** - Skyroot Aerospace reaches orbit on first Vikram-1 launch (spacenews)
 - **Jul 23, 03:34 AM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
+- **Jul 23, 04:09 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
