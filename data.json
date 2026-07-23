@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-23T00:05:00.934831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "23a5f665d21820ca42fdcb606b804001",
+    "trigger_count": 0,
+    "current_item_id": "03f2a4773734baed268696244eab1792",
     "data": [
         {
             "id": "815f3bb3d51ded2f36822635f3c5907c",
@@ -8285,9 +8285,12 @@
             "source": "spacenews",
             "text": "Poland commits $745 million to EU’s IRIS² constellation project",
             "source_link": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-23T21:44:26.117333Z"
+            "fetched_datetime": "2026-07-23T21:44:26.117333Z",
+            "shown_at": [
+                "2026-07-23T22:19:26.247418Z"
+            ]
         }
     ]
 }

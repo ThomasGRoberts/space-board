@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 14 | 29 |
+| spacenews | 4 | 12 | 15 | 30 |
 | breaking_defense | 0 | 2 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2751,3 +2751,4 @@
 - **Jul 23, 08:34 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 23, 09:09 PM** - AI rocket engine startup LegendSpace raises $29.5 million angel round (spacenews)
 - **Jul 23, 09:44 PM** - NASA programs feel effects of workforce reductions (spacenews)
+- **Jul 23, 10:19 PM** - Poland commits $745 million to EU’s IRIS² constellation project (spacenews)
