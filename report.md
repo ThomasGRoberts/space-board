@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 14 | 32 |
+| spacenews | 7 | 18 | 15 | 33 |
 | breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2720,3 +2720,4 @@
 - **Jul 23, 01:14 AM** - Agile Space Industries Appoints new CTO and Board member. (spacenews)
 - **Jul 23, 01:49 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 23, 02:24 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 23, 02:59 AM** - Skyroot Aerospace reaches orbit on first Vikram-1 launch (spacenews)
