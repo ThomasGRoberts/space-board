@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 13 | 29 |
-| breaking_defense | 2 | 2 | 13 | 24 |
+| breaking_defense | 2 | 2 | 14 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2742,3 +2742,4 @@
 - **Jul 23, 02:44 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 23, 03:21 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 04:11 PM** - German component supplier deltaVision raises 10.2 million euros (spacenews)
+- **Jul 23, 04:50 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
