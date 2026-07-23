@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 13 | 29 |
 | breaking_defense | 2 | 2 | 13 | 25 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2743,3 +2743,4 @@
 - **Jul 23, 03:21 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 04:11 PM** - German component supplier deltaVision raises 10.2 million euros (spacenews)
 - **Jul 23, 04:50 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
+- **Jul 23, 05:29 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
