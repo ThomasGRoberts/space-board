@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 15 | 32 |
-| breaking_defense | 2 | 2 | 12 | 24 |
+| breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2724,3 +2724,4 @@
 - **Jul 23, 03:34 AM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
 - **Jul 23, 04:09 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 04:44 AM** - Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites (spacenews)
+- **Jul 23, 05:24 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
