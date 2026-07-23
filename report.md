@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 14 | 31 |
 | breaking_defense | 2 | 2 | 13 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2728,3 +2728,4 @@
 - **Jul 23, 05:59 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 06:44 AM** - Relativity Space to expand Terran R production in Florida (spacenews)
 - **Jul 23, 07:19 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
+- **Jul 23, 07:54 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
