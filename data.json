@@ -1,9 +1,118 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-22T00:04:50.495945+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-07-23T00:05:00.934831+00:00",
+    "trigger_count": 1,
     "current_item_id": "e992922f7be609479ef40db4ff823b05",
     "data": [
+        {
+            "id": "815f3bb3d51ded2f36822635f3c5907c",
+            "source": "spacenews",
+            "text": "China’s Shijian-31 satellite is sweeping GEO using a unique orbit",
+            "source_link": "https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T21:34:51.399159Z",
+            "shown_at": [
+                "2026-07-22T21:34:52.459444Z"
+            ]
+        },
+        {
+            "id": "7c25ba35eb1292f426c688a8adffcd92",
+            "source": "spacenews",
+            "text": "FCC approves sweeping space reforms while clearing more C-band for 5G",
+            "source_link": "https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T19:19:22.309757Z",
+            "shown_at": [
+                "2026-07-22T19:19:25.019454Z"
+            ]
+        },
+        {
+            "id": "269c0b4624cea9ec355f4ddcab8c6fdd",
+            "source": "breaking_defense",
+            "text": "Extra $11 billion to fund huge leap in Space Force launches",
+            "source_link": "https://breakingdefense.com/2026/07/extra-11-billion-to-fund-huge-leap-in-space-force-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T18:44:23.533050Z",
+            "shown_at": [
+                "2026-07-22T19:54:41.393403Z"
+            ]
+        },
+        {
+            "id": "e992922f7be609479ef40db4ff823b05",
+            "source": "breaking_defense",
+            "text": "FCC approves satellite spectrum license streamlining",
+            "source_link": "https://breakingdefense.com/2026/07/fcc-approves-satellite-spectrum-license-streamlining/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T18:44:23.532992Z",
+            "shown_at": [
+                "2026-07-22T18:44:30.233913Z",
+                "2026-07-22T23:59:16.419846Z"
+            ]
+        },
+        {
+            "id": "fe4ad68f41e4fe86cbb68cca542978f1",
+            "source": "spacenews",
+            "text": "Vast establishes division for national security projects",
+            "source_link": "https://spacenews.com/vast-establishes-division-for-national-security-projects/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T14:39:34.431832Z",
+            "shown_at": [
+                "2026-07-22T14:39:36.837532Z"
+            ]
+        },
+        {
+            "id": "93fb19cc3f3dd91572ea73988382472c",
+            "source": "spacenews",
+            "text": "The strategic competition with China: winning the multi-domain race",
+            "source_link": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T13:24:31.753984Z",
+            "shown_at": [
+                "2026-07-22T13:24:32.712584Z"
+            ]
+        },
+        {
+            "id": "8a9e2dd8dad1f82e286e7627a1db5379",
+            "source": "spacenews",
+            "text": "Relativity Space to expand Terran R production in Florida",
+            "source_link": "https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T12:06:22.514384Z",
+            "shown_at": [
+                "2026-07-22T12:06:23.535721Z"
+            ]
+        },
+        {
+            "id": "8a5583816b5bb2d6929ccec03ff58bbc",
+            "source": "spacenews",
+            "text": "Artemis 2 astronaut advocates for equatorial lunar landings",
+            "source_link": "https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T10:11:10.952527Z",
+            "shown_at": [
+                "2026-07-22T10:11:11.823613Z"
+            ]
+        },
+        {
+            "id": "4820c0686445c644d773093813f1ee98",
+            "source": "spacenews",
+            "text": "Gravity-1 sea launch off Shanghai puts 9 satellites into orbit",
+            "source_link": "https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-22T09:34:47.200317Z",
+            "shown_at": [
+                "2026-07-22T09:34:47.868497Z"
+            ]
+        },
         {
             "id": "8d25d6c2fe326135a2b0559717b2cf9e",
             "source": "spacenews",
@@ -8101,279 +8210,6 @@
                 "2026-05-12T12:24:17.485347Z",
                 "2026-05-15T11:29:09.810096Z",
                 "2026-05-18T04:34:43.606284Z"
-            ]
-        },
-        {
-            "id": "7e138ce79edbfe10cb11b4563a34bc8b",
-            "source": "spacenews",
-            "text": "Space is having its internet moment. Investors should act accordingly.",
-            "source_link": "https://spacenews.com/space-is-having-its-internet-moment-investors-should-act-accordingly/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T11:09:32.147391Z",
-            "shown_at": [
-                "2026-05-12T11:09:36.613426Z",
-                "2026-05-16T03:19:15.361587Z",
-                "2026-05-16T10:19:08.929892Z",
-                "2026-05-18T09:54:29.848126Z"
-            ]
-        },
-        {
-            "id": "87b71e8821dc498a050013c93dcbe532",
-            "source": "spacenews",
-            "text": "NASA retaining six-month ISS missions",
-            "source_link": "https://spacenews.com/nasa-retaining-six-month-iss-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T21:24:22.991457Z",
-            "shown_at": [
-                "2026-05-11T21:24:23.963500Z",
-                "2026-05-13T04:19:19.558798Z"
-            ]
-        },
-        {
-            "id": "485e3f62d54ac5afe9eb9f9105551aa4",
-            "source": "spacenews",
-            "text": "Creotech plans $118 million capital raise, investment in new satellite factory",
-            "source_link": "https://spacenews.com/creotech-plans-118-million-capital-raise-investment-in-new-satellite-factory/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T17:04:30.280968Z",
-            "shown_at": [
-                "2026-05-11T17:04:31.234370Z",
-                "2026-05-15T03:38:56.139670Z"
-            ]
-        },
-        {
-            "id": "a5a55c644e3708c7dd65d5f421df4066",
-            "source": "spacenews",
-            "text": "Special Operations Forces test mobile platform for direct satellite imagery access",
-            "source_link": "https://spacenews.com/special-operations-forces-test-mobile-platform-for-direct-satellite-imagery-access/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T14:44:21.714344Z",
-            "shown_at": [
-                "2026-05-11T14:44:22.770675Z",
-                "2026-05-14T04:14:37.741189Z",
-                "2026-05-14T07:49:07.843129Z",
-                "2026-05-14T09:34:30.833119Z"
-            ]
-        },
-        {
-            "id": "1ef269b5d9210c4e1143a06fda8d995e",
-            "source": "spacenews",
-            "text": "Failing to pass a defense budget is a self-inflicted wound in the space race",
-            "source_link": "https://spacenews.com/failing-to-pass-a-defense-budget-is-a-self-inflicted-wound-in-the-space-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T13:19:46.050057Z",
-            "shown_at": [
-                "2026-05-11T13:54:22.486903Z",
-                "2026-05-14T14:49:33.136100Z",
-                "2026-05-15T05:24:11.148361Z",
-                "2026-05-17T12:49:23.732941Z"
-            ]
-        },
-        {
-            "id": "9005566d18abedcbf783a5bb5847bee7",
-            "source": "spacenews",
-            "text": "Cowboy raises $275 million to build rockets with orbital data center upper stages",
-            "source_link": "https://spacenews.com/cowboy-raises-275-million-to-build-rockets-with-orbital-data-center-upper-stages/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T13:19:46.049998Z",
-            "shown_at": [
-                "2026-05-11T13:19:47.090419Z",
-                "2026-05-17T03:54:18.195716Z",
-                "2026-05-17T19:49:08.232450Z"
-            ]
-        },
-        {
-            "id": "985d1aa47e9cfe24ce13f2bdf1c98826",
-            "source": "spacenews",
-            "text": "Former NASA chief of staff returns to lead agency launch operations",
-            "source_link": "https://spacenews.com/former-nasa-chief-of-staff-returns-to-lead-agency-launch-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T12:44:37.317067Z",
-            "shown_at": [
-                "2026-05-11T12:44:38.274063Z",
-                "2026-05-13T09:59:20.320722Z",
-                "2026-05-13T18:10:03.368122Z",
-                "2026-05-15T20:19:24.663145Z",
-                "2026-05-17T18:04:24.044579Z"
-            ]
-        },
-        {
-            "id": "55a9736c75a0e8b61147044b569321f5",
-            "source": "spacenews",
-            "text": "Tianzhou-10 cargo spacecraft arrives at Tiangong space station",
-            "source_link": "https://spacenews.com/tianzhou-10-cargo-spacecraft-arrives-at-tiangong-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T10:59:27.952205Z",
-            "shown_at": [
-                "2026-05-11T10:59:29.814249Z"
-            ]
-        },
-        {
-            "id": "386808b2f313abd07c28a5ec577fda12",
-            "source": "nyt",
-            "text": "U.S.-China Rivalry Reaches South American Skies",
-            "source_link": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T02:09:18.403618Z",
-            "shown_at": [
-                "2026-05-11T02:09:19.403984Z",
-                "2026-05-11T03:19:09.911748Z",
-                "2026-05-11T05:39:00.333981Z",
-                "2026-05-11T06:49:13.272683Z",
-                "2026-05-11T15:19:18.953064Z",
-                "2026-05-11T20:14:26.039150Z",
-                "2026-05-12T00:29:04.116831Z",
-                "2026-05-12T01:39:22.356738Z",
-                "2026-05-12T02:49:15.881396Z",
-                "2026-05-12T03:59:36.724829Z",
-                "2026-05-12T09:59:15.913041Z",
-                "2026-05-12T19:29:06.813813Z",
-                "2026-05-13T04:54:17.730245Z",
-                "2026-05-13T06:39:39.583557Z",
-                "2026-05-13T08:49:23.267857Z",
-                "2026-05-13T21:14:22.884501Z",
-                "2026-05-14T15:24:17.252629Z",
-                "2026-05-14T18:19:09.147471Z",
-                "2026-05-15T04:49:06.236685Z",
-                "2026-05-15T14:59:02.901748Z",
-                "2026-05-15T16:49:09.426763Z",
-                "2026-05-15T22:39:04.465918Z",
-                "2026-05-16T02:44:08.381574Z",
-                "2026-05-16T06:14:07.589674Z",
-                "2026-05-16T07:59:12.449815Z",
-                "2026-05-16T09:44:18.956713Z",
-                "2026-05-16T11:29:09.206066Z",
-                "2026-05-16T13:14:18.091718Z",
-                "2026-05-16T15:34:22.194598Z",
-                "2026-05-16T17:19:17.760757Z",
-                "2026-05-16T19:09:11.059284Z",
-                "2026-05-17T00:58:55.880262Z",
-                "2026-05-17T02:44:10.070188Z",
-                "2026-05-17T06:14:18.736667Z",
-                "2026-05-17T11:39:18.590830Z",
-                "2026-05-17T15:08:53.799081Z",
-                "2026-05-17T20:23:50.173171Z",
-                "2026-05-17T22:09:08.221629Z",
-                "2026-05-17T23:54:13.407134Z",
-                "2026-05-18T01:39:06.343865Z"
-            ]
-        },
-        {
-            "id": "4820c0686445c644d773093813f1ee98",
-            "source": "spacenews",
-            "text": "Gravity-1 sea launch off Shanghai puts 9 satellites into orbit",
-            "source_link": "https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-22T09:34:47.200317Z",
-            "shown_at": [
-                "2026-07-22T09:34:47.868497Z"
-            ]
-        },
-        {
-            "id": "8a5583816b5bb2d6929ccec03ff58bbc",
-            "source": "spacenews",
-            "text": "Artemis 2 astronaut advocates for equatorial lunar landings",
-            "source_link": "https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-22T10:11:10.952527Z",
-            "shown_at": [
-                "2026-07-22T10:11:11.823613Z"
-            ]
-        },
-        {
-            "id": "8a9e2dd8dad1f82e286e7627a1db5379",
-            "source": "spacenews",
-            "text": "Relativity Space to expand Terran R production in Florida",
-            "source_link": "https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-22T12:06:22.514384Z",
-            "shown_at": [
-                "2026-07-22T12:06:23.535721Z"
-            ]
-        },
-        {
-            "id": "93fb19cc3f3dd91572ea73988382472c",
-            "source": "spacenews",
-            "text": "The strategic competition with China: winning the multi-domain race",
-            "source_link": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-22T13:24:31.753984Z",
-            "shown_at": [
-                "2026-07-22T13:24:32.712584Z"
-            ]
-        },
-        {
-            "id": "fe4ad68f41e4fe86cbb68cca542978f1",
-            "source": "spacenews",
-            "text": "Vast establishes division for national security projects",
-            "source_link": "https://spacenews.com/vast-establishes-division-for-national-security-projects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-22T14:39:34.431832Z",
-            "shown_at": [
-                "2026-07-22T14:39:36.837532Z"
-            ]
-        },
-        {
-            "id": "e992922f7be609479ef40db4ff823b05",
-            "source": "breaking_defense",
-            "text": "FCC approves satellite spectrum license streamlining",
-            "source_link": "https://breakingdefense.com/2026/07/fcc-approves-satellite-spectrum-license-streamlining/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-22T18:44:23.532992Z",
-            "shown_at": [
-                "2026-07-22T18:44:30.233913Z",
-                "2026-07-22T23:59:16.419846Z"
-            ]
-        },
-        {
-            "id": "269c0b4624cea9ec355f4ddcab8c6fdd",
-            "source": "breaking_defense",
-            "text": "Extra $11 billion to fund huge leap in Space Force launches",
-            "source_link": "https://breakingdefense.com/2026/07/extra-11-billion-to-fund-huge-leap-in-space-force-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-22T18:44:23.533050Z",
-            "shown_at": [
-                "2026-07-22T19:54:41.393403Z"
-            ]
-        },
-        {
-            "id": "7c25ba35eb1292f426c688a8adffcd92",
-            "source": "spacenews",
-            "text": "FCC approves sweeping space reforms while clearing more C-band for 5G",
-            "source_link": "https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-22T19:19:22.309757Z",
-            "shown_at": [
-                "2026-07-22T19:19:25.019454Z"
-            ]
-        },
-        {
-            "id": "815f3bb3d51ded2f36822635f3c5907c",
-            "source": "spacenews",
-            "text": "China’s Shijian-31 satellite is sweeping GEO using a unique orbit",
-            "source_link": "https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-22T21:34:51.399159Z",
-            "shown_at": [
-                "2026-07-22T21:34:52.459444Z"
             ]
         }
     ]
