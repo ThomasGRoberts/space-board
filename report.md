@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 15 | 33 |
-| breaking_defense | 2 | 2 | 12 | 23 |
+| spacenews | 7 | 18 | 15 | 32 |
+| breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2718,3 +2718,4 @@
 - **Jul 22, 11:59 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 23, 12:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 01:14 AM** - Agile Space Industries Appoints new CTO and Board member. (spacenews)
+- **Jul 23, 01:49 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
