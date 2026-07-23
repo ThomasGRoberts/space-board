@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 14 | 32 |
 | breaking_defense | 2 | 2 | 13 | 24 |
-| nyt | 0 | 0 | 11 | 22 |
+| nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2716,3 +2716,4 @@
 - **Jul 22, 10:49 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 22, 11:24 PM** - SpaceX launches Northrop mission to extend the life of aging satellites (spacenews)
 - **Jul 22, 11:59 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
+- **Jul 23, 12:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
