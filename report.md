@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 14 | 31 |
+| spacenews | 7 | 17 | 15 | 32 |
 | breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2726,3 +2726,4 @@
 - **Jul 23, 04:44 AM** - Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites (spacenews)
 - **Jul 23, 05:24 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 23, 05:59 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 23, 06:44 AM** - Relativity Space to expand Terran R production in Florida (spacenews)
