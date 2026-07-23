@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 14 | 32 |
 | breaking_defense | 2 | 2 | 13 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2719,3 +2719,4 @@
 - **Jul 23, 12:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 01:14 AM** - Agile Space Industries Appoints new CTO and Board member. (spacenews)
 - **Jul 23, 01:49 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
+- **Jul 23, 02:24 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
