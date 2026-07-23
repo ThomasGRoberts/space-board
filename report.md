@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 14 | 31 |
+| spacenews | 7 | 16 | 15 | 32 |
 | breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2729,3 +2729,4 @@
 - **Jul 23, 06:44 AM** - Relativity Space to expand Terran R production in Florida (spacenews)
 - **Jul 23, 07:19 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 23, 07:54 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 23, 08:29 AM** - German component supplier deltaVision raises 10.2 million euros (spacenews)
