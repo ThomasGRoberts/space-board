@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 14 | 31 |
-| breaking_defense | 2 | 2 | 13 | 24 |
+| breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2733,3 +2733,4 @@
 - **Jul 23, 09:05 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 23, 09:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 10:20 AM** - Artemis 2 astronaut advocates for equatorial lunar landings (spacenews)
+- **Jul 23, 10:59 AM** - Schiess likely to sail through Space Force chief confirmation (breaking_defense)
