@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 14 | 29 |
 | breaking_defense | 2 | 2 | 13 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2737,3 +2737,4 @@
 - **Jul 23, 11:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 12:14 PM** - Airbus space business takes advantage of growing demand for satellite systems (spacenews)
 - **Jul 23, 12:49 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
+- **Jul 23, 01:24 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
