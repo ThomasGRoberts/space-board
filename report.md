@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 14 | 32 |
 | breaking_defense | 2 | 2 | 13 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2725,3 +2725,4 @@
 - **Jul 23, 04:09 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 04:44 AM** - Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites (spacenews)
 - **Jul 23, 05:24 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
+- **Jul 23, 05:59 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
