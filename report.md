@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 14 | 29 |
-| breaking_defense | 0 | 2 | 12 | 24 |
+| breaking_defense | 0 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2753,3 +2753,4 @@
 - **Jul 23, 09:44 PM** - NASA programs feel effects of workforce reductions (spacenews)
 - **Jul 23, 10:19 PM** - Poland commits $745 million to EU’s IRIS² constellation project (spacenews)
 - **Jul 23, 10:54 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 23, 11:29 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
