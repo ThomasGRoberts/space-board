@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 13 | 29 |
 | breaking_defense | 0 | 2 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2747,3 +2747,4 @@
 - **Jul 23, 06:04 PM** - Mauritius becomes 70th nation to sign the Artemis Accords (spacenews)
 - **Jul 23, 06:49 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 23, 07:24 PM** - Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech (spacenews)
+- **Jul 23, 07:59 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
