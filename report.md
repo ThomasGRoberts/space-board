@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 13 | 13 | 29 |
+| spacenews | 3 | 13 | 14 | 30 |
 | breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2741,3 +2741,4 @@
 - **Jul 23, 02:05 PM** - Serbia signs the Artemis Accords (spacenews)
 - **Jul 23, 02:44 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 23, 03:21 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 23, 04:11 PM** - German component supplier deltaVision raises 10.2 million euros (spacenews)
