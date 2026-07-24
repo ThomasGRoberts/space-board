@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 15 | 29 |
-| breaking_defense | 0 | 2 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 23 |
+| breaking_defense | 0 | 2 | 13 | 26 |
+| nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
 
@@ -2735,3 +2735,4 @@
 - **Jul 24, 07:54 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 24, 08:29 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 24, 09:04 AM** - Air Force takes over troubled military GPS receiver program (spacenews)
+- **Jul 24, 09:44 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
