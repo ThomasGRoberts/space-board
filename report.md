@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 15 | 29 |
 | breaking_defense | 0 | 2 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2729,3 +2729,4 @@
 - **Jul 24, 04:14 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 24, 04:49 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 24, 05:24 AM** - Northrop adds to charges on Vulcan solid rocket motor program (spacenews)
+- **Jul 24, 05:59 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
