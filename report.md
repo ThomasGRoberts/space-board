@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 16 | 30 |
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2738,3 +2738,4 @@
 - **Jul 24, 09:44 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 24, 10:19 AM** - EU delays release of Copernicus imagery over Gulf of Oman  (spacenews)
 - **Jul 24, 10:54 AM** - Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites (spacenews)
+- **Jul 24, 11:29 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
