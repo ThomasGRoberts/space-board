@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-24T00:04:35.286359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e992922f7be609479ef40db4ff823b05",
+    "trigger_count": 0,
+    "current_item_id": "7d24fd18023e3ea6e0619770ec5d04a6",
     "data": [
         {
             "id": "03f2a4773734baed268696244eab1792",
@@ -8241,6 +8241,18 @@
             "fetched_datetime": "2026-07-24T09:04:57.416428Z",
             "shown_at": [
                 "2026-07-24T09:04:58.079403Z"
+            ]
+        },
+        {
+            "id": "7d24fd18023e3ea6e0619770ec5d04a6",
+            "source": "spacenews",
+            "text": "EU delays release of Copernicus imagery over Gulf of Oman ",
+            "source_link": "https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T10:19:28.626661Z",
+            "shown_at": [
+                "2026-07-24T10:19:29.485152Z"
             ]
         }
     ]
