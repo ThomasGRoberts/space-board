@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 16 | 29 |
 | breaking_defense | 0 | 2 | 13 | 27 |
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 
 # Shown Order
 
@@ -2744,3 +2744,4 @@
 - **Jul 24, 01:14 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 24, 01:49 PM** - Northrop adds to charges on Vulcan solid rocket motor program (spacenews)
 - **Jul 24, 02:24 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
+- **Jul 24, 02:59 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
