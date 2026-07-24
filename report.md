@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 15 | 29 |
 | breaking_defense | 0 | 2 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2720,3 +2720,4 @@
 - **Jul 23, 10:54 PM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
 - **Jul 23, 11:29 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 24, 12:04 AM** - Vast establishes division for national security projects (spacenews)
+- **Jul 24, 12:39 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
