@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 16 | 30 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 8 | 10 | 16 | 29 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 1 | 1 | 11 | 23 |
 
 # Shown Order
@@ -2755,3 +2755,4 @@
 - **Jul 24, 07:54 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 24, 08:29 PM** - ULA deals with financial challenges caused by Vulcan grounding (spacenews)
 - **Jul 24, 09:05 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 24, 09:39 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
