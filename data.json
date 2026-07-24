@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-24T00:04:35.286359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c20bdb00cbd5b1df3fdf8750f35c82b8",
+    "trigger_count": 0,
+    "current_item_id": "76a3ef60e53d31f498fc2833db52dd89",
     "data": [
         {
             "id": "03f2a4773734baed268696244eab1792",
@@ -8294,6 +8294,18 @@
             "shown_at": [
                 "2026-07-24T13:14:44.862348Z",
                 "2026-07-24T14:59:16.672374Z"
+            ]
+        },
+        {
+            "id": "76a3ef60e53d31f498fc2833db52dd89",
+            "source": "spacenews",
+            "text": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT",
+            "source_link": "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T15:34:50.351791Z",
+            "shown_at": [
+                "2026-07-24T15:34:51.164262Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 16 | 29 |
+| spacenews | 8 | 11 | 17 | 30 |
 | breaking_defense | 0 | 2 | 13 | 26 |
 | nyt | 1 | 1 | 10 | 23 |
 
@@ -2745,3 +2745,4 @@
 - **Jul 24, 01:49 PM** - Northrop adds to charges on Vulcan solid rocket motor program (spacenews)
 - **Jul 24, 02:24 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 24, 02:59 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 24, 03:34 PM** - LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT (spacenews)
