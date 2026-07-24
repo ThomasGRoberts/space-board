@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 16 | 29 |
+| spacenews | 8 | 11 | 17 | 30 |
 | breaking_defense | 0 | 2 | 13 | 26 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 10 | 22 |
 
 # Shown Order
 
@@ -2748,3 +2748,4 @@
 - **Jul 24, 03:34 PM** - LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT (spacenews)
 - **Jul 24, 04:14 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 24, 04:59 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 24, 05:34 PM** - NASA terminates Draper lunar lander mission (spacenews)
