@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 15 | 29 |
-| breaking_defense | 0 | 2 | 12 | 24 |
+| spacenews | 4 | 11 | 14 | 29 |
+| breaking_defense | 0 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2727,3 +2727,4 @@
 - **Jul 24, 03:05 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 24, 03:39 AM** - Poland commits $745 million to EU’s IRIS² constellation project (spacenews)
 - **Jul 24, 04:14 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 24, 04:49 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
