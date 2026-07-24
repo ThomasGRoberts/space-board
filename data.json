@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-24T00:04:35.286359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "269c0b4624cea9ec355f4ddcab8c6fdd",
+    "trigger_count": 0,
+    "current_item_id": "babc7b743bb33ecb9ccce0562a7bf762",
     "data": [
         {
             "id": "03f2a4773734baed268696244eab1792",
@@ -8228,6 +8228,18 @@
             "shown_at": [
                 "2026-05-12T18:54:20.296366Z",
                 "2026-05-16T05:04:30.191429Z"
+            ]
+        },
+        {
+            "id": "babc7b743bb33ecb9ccce0562a7bf762",
+            "source": "spacenews",
+            "text": "Air Force takes over troubled military GPS receiver program",
+            "source_link": "https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T09:04:57.416428Z",
+            "shown_at": [
+                "2026-07-24T09:04:58.079403Z"
             ]
         }
     ]
