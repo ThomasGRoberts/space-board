@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 16 | 30 |
 | breaking_defense | 0 | 2 | 13 | 26 |
-| nyt | 0 | 0 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 
 # Shown Order
 
@@ -2741,3 +2741,4 @@
 - **Jul 24, 11:29 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 24, 12:05 PM** - Office of Space Commerce to move ahead on mission authorization (spacenews)
 - **Jul 24, 12:39 PM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
+- **Jul 24, 01:14 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)

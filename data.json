@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-24T00:04:35.286359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "30c9b3f4d68063a4ec088d2b7f14d206",
+    "trigger_count": 0,
+    "current_item_id": "c20bdb00cbd5b1df3fdf8750f35c82b8",
     "data": [
         {
             "id": "03f2a4773734baed268696244eab1792",
@@ -8279,6 +8279,18 @@
             "fetched_datetime": "2026-07-24T12:05:08.138306Z",
             "shown_at": [
                 "2026-07-24T12:05:09.149887Z"
+            ]
+        },
+        {
+            "id": "c20bdb00cbd5b1df3fdf8750f35c82b8",
+            "source": "nyt",
+            "text": "He’s the Last Great Land Artist You’ve Never Heard Of",
+            "source_link": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T13:14:42.654980Z",
+            "shown_at": [
+                "2026-07-24T13:14:44.862348Z"
             ]
         }
     ]
