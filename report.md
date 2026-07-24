@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 16 | 30 |
-| breaking_defense | 0 | 2 | 13 | 26 |
+| spacenews | 8 | 11 | 16 | 29 |
+| breaking_defense | 0 | 2 | 14 | 27 |
 | nyt | 1 | 1 | 10 | 22 |
 
 # Shown Order
@@ -2749,3 +2749,4 @@
 - **Jul 24, 04:14 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 24, 04:59 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 24, 05:34 PM** - NASA terminates Draper lunar lander mission (spacenews)
+- **Jul 24, 06:09 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
