@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 16 | 30 |
+| spacenews | 8 | 13 | 17 | 31 |
 | breaking_defense | 0 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 10 | 22 |
 
@@ -2739,3 +2739,4 @@
 - **Jul 24, 10:19 AM** - EU delays release of Copernicus imagery over Gulf of Oman  (spacenews)
 - **Jul 24, 10:54 AM** - Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites (spacenews)
 - **Jul 24, 11:29 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
+- **Jul 24, 12:05 PM** - Office of Space Commerce to move ahead on mission authorization (spacenews)
