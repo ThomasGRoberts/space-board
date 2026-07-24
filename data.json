@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-24T00:04:35.286359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7d24fd18023e3ea6e0619770ec5d04a6",
+    "trigger_count": 0,
+    "current_item_id": "18d20cce1f43836f4173f1a41239b187",
     "data": [
         {
             "id": "03f2a4773734baed268696244eab1792",
@@ -8253,6 +8253,18 @@
             "fetched_datetime": "2026-07-24T10:19:28.626661Z",
             "shown_at": [
                 "2026-07-24T10:19:29.485152Z"
+            ]
+        },
+        {
+            "id": "18d20cce1f43836f4173f1a41239b187",
+            "source": "spacenews",
+            "text": "Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites",
+            "source_link": "https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T10:54:37.539257Z",
+            "shown_at": [
+                "2026-07-24T10:54:38.462651Z"
             ]
         }
     ]
