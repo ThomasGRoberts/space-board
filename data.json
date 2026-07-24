@@ -1,9 +1,57 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-23T00:05:00.934831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "30c9b3f4d68063a4ec088d2b7f14d206",
+    "last_run_datetime": "2026-07-24T00:04:35.286359+00:00",
+    "trigger_count": 0,
+    "current_item_id": "fe4ad68f41e4fe86cbb68cca542978f1",
     "data": [
+        {
+            "id": "03f2a4773734baed268696244eab1792",
+            "source": "spacenews",
+            "text": "Poland commits $745 million to EU’s IRIS² constellation project",
+            "source_link": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-23T21:44:26.117333Z",
+            "shown_at": [
+                "2026-07-23T22:19:26.247418Z"
+            ]
+        },
+        {
+            "id": "23a5f665d21820ca42fdcb606b804001",
+            "source": "spacenews",
+            "text": "NASA programs feel effects of workforce reductions",
+            "source_link": "https://spacenews.com/nasa-programs-feel-effects-of-workforce-reductions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-23T21:44:26.117275Z",
+            "shown_at": [
+                "2026-07-23T21:44:28.982227Z"
+            ]
+        },
+        {
+            "id": "808298ce0b8625de931ffb46a9062cee",
+            "source": "spacenews",
+            "text": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
+            "source_link": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-23T19:24:16.275932Z",
+            "shown_at": [
+                "2026-07-23T19:24:17.165661Z"
+            ]
+        },
+        {
+            "id": "15d1e8cac97f2b3db6a2416df0ca1fbf",
+            "source": "spacenews",
+            "text": "Airbus space business takes advantage of growing demand for satellite systems",
+            "source_link": "https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-23T12:14:36.093300Z",
+            "shown_at": [
+                "2026-07-23T12:14:36.996257Z"
+            ]
+        },
         {
             "id": "815f3bb3d51ded2f36822635f3c5907c",
             "source": "spacenews",
@@ -68,7 +116,8 @@
             "type": "news",
             "fetched_datetime": "2026-07-22T14:39:34.431832Z",
             "shown_at": [
-                "2026-07-22T14:39:36.837532Z"
+                "2026-07-22T14:39:36.837532Z",
+                "2026-07-24T00:04:41.925426Z"
             ]
         },
         {
@@ -8165,133 +8214,6 @@
             "shown_at": [
                 "2026-05-12T18:54:20.296366Z",
                 "2026-05-16T05:04:30.191429Z"
-            ]
-        },
-        {
-            "id": "3af2c4437913c35674e27c6082c05632",
-            "source": "breaking_defense",
-            "text": "SOCOM to test SkyFi satellite imagery-to-tablet prototype",
-            "source_link": "https://breakingdefense.com/2026/05/socom-to-test-skyfi-satellite-imagery-to-tablet-prototype/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T15:45:59.664449Z",
-            "shown_at": [
-                "2026-05-12T15:46:00.404516Z",
-                "2026-05-12T17:44:31.161797Z",
-                "2026-05-12T20:04:31.845651Z",
-                "2026-05-13T00:09:18.513809Z",
-                "2026-05-13T01:54:12.679392Z",
-                "2026-05-13T11:49:17.965603Z",
-                "2026-05-13T18:49:10.101524Z",
-                "2026-05-13T22:24:22.006777Z",
-                "2026-05-14T01:54:27.445136Z",
-                "2026-05-14T03:39:06.578350Z",
-                "2026-05-14T07:09:16.605571Z",
-                "2026-05-14T11:19:07.105708Z",
-                "2026-05-14T21:14:20.477615Z",
-                "2026-05-14T22:59:09.357390Z",
-                "2026-05-15T07:44:10.710234Z",
-                "2026-05-15T10:19:19.382808Z",
-                "2026-05-15T14:24:39.213824Z",
-                "2026-05-15T17:59:21.668490Z",
-                "2026-05-15T19:44:20.415055Z",
-                "2026-05-16T02:09:08.337730Z",
-                "2026-05-16T03:54:13.372512Z",
-                "2026-05-16T09:09:11.258633Z",
-                "2026-05-16T21:29:14.397628Z",
-                "2026-05-17T05:04:31.773057Z",
-                "2026-05-17T06:49:14.699092Z",
-                "2026-05-18T05:44:13.749921Z",
-                "2026-05-18T07:34:38.886832Z",
-                "2026-05-18T11:39:26.028735Z",
-                "2026-05-19T06:59:27.266403Z"
-            ]
-        },
-        {
-            "id": "36d7e77a7c26db083c56e34d63fb680a",
-            "source": "spacenews",
-            "text": "Star Catcher raises $65 million for space power grid",
-            "source_link": "https://spacenews.com/star-catcher-raises-65-million-for-space-power-grid/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T14:46:32.590581Z",
-            "shown_at": [
-                "2026-05-12T16:29:16.256889Z",
-                "2026-05-17T02:09:21.847988Z"
-            ]
-        },
-        {
-            "id": "9770779c84bea20e41424bdd8c5223d8",
-            "source": "spacenews",
-            "text": "Space Force awards TrustPoint $4 million for LEO navigation demonstration",
-            "source_link": "https://spacenews.com/space-force-awards-trustpoint-4-million-for-leo-navigation-demonstration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T14:46:32.590525Z",
-            "shown_at": [
-                "2026-05-12T14:46:33.579505Z"
-            ]
-        },
-        {
-            "id": "db2255af90b190f2f76ff8bfe9a7c433",
-            "source": "spacenews",
-            "text": "Transcelestial tests space-to-ground laser communications technologies",
-            "source_link": "https://spacenews.com/transcelestial-tests-space-to-ground-laser-communications-technologies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T12:24:16.478428Z",
-            "shown_at": [
-                "2026-05-12T12:24:17.485347Z",
-                "2026-05-15T11:29:09.810096Z",
-                "2026-05-18T04:34:43.606284Z"
-            ]
-        },
-        {
-            "id": "15d1e8cac97f2b3db6a2416df0ca1fbf",
-            "source": "spacenews",
-            "text": "Airbus space business takes advantage of growing demand for satellite systems",
-            "source_link": "https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-23T12:14:36.093300Z",
-            "shown_at": [
-                "2026-07-23T12:14:36.996257Z"
-            ]
-        },
-        {
-            "id": "808298ce0b8625de931ffb46a9062cee",
-            "source": "spacenews",
-            "text": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
-            "source_link": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-23T19:24:16.275932Z",
-            "shown_at": [
-                "2026-07-23T19:24:17.165661Z"
-            ]
-        },
-        {
-            "id": "23a5f665d21820ca42fdcb606b804001",
-            "source": "spacenews",
-            "text": "NASA programs feel effects of workforce reductions",
-            "source_link": "https://spacenews.com/nasa-programs-feel-effects-of-workforce-reductions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-23T21:44:26.117275Z",
-            "shown_at": [
-                "2026-07-23T21:44:28.982227Z"
-            ]
-        },
-        {
-            "id": "03f2a4773734baed268696244eab1792",
-            "source": "spacenews",
-            "text": "Poland commits $745 million to EU’s IRIS² constellation project",
-            "source_link": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-23T21:44:26.117333Z",
-            "shown_at": [
-                "2026-07-23T22:19:26.247418Z"
             ]
         }
     ]
