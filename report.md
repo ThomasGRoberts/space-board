@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 17 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 
 # Shown Order
 
@@ -2754,3 +2754,4 @@
 - **Jul 24, 07:19 PM** - Northrop adds to charges on Vulcan solid rocket motor program (spacenews)
 - **Jul 24, 07:54 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 24, 08:29 PM** - ULA deals with financial challenges caused by Vulcan grounding (spacenews)
+- **Jul 24, 09:05 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
