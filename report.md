@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 15 | 29 |
-| breaking_defense | 0 | 2 | 12 | 24 |
+| spacenews | 4 | 11 | 14 | 29 |
+| breaking_defense | 0 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2724,3 +2724,4 @@
 - **Jul 24, 01:19 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
 - **Jul 24, 01:54 AM** - Pipelines to payloads: risk management lessons for the space economy (spacenews)
 - **Jul 24, 02:29 AM** - Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered (nyt)
+- **Jul 24, 03:05 AM** - DIU seeking ‘near-term’ power-beaming satellite demo (breaking_defense)
