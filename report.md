@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 16 | 29 |
+| spacenews | 8 | 10 | 17 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -2751,3 +2751,4 @@
 - **Jul 24, 05:34 PM** - NASA terminates Draper lunar lander mission (spacenews)
 - **Jul 24, 06:09 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 24, 06:44 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 24, 07:19 PM** - Northrop adds to charges on Vulcan solid rocket motor program (spacenews)
