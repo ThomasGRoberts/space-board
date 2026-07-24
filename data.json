@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-24T00:04:35.286359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "269c0b4624cea9ec355f4ddcab8c6fdd",
+    "trigger_count": 0,
+    "current_item_id": "588405bb1c53e74b287785eaa0636926",
     "data": [
         {
             "id": "03f2a4773734baed268696244eab1792",
@@ -8313,6 +8313,18 @@
             "fetched_datetime": "2026-07-24T15:34:50.351791Z",
             "shown_at": [
                 "2026-07-24T15:34:51.164262Z"
+            ]
+        },
+        {
+            "id": "588405bb1c53e74b287785eaa0636926",
+            "source": "spacenews",
+            "text": "ULA deals with financial challenges caused by Vulcan grounding",
+            "source_link": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T20:29:35.561070Z",
+            "shown_at": [
+                "2026-07-24T20:29:36.645389Z"
             ]
         }
     ]
