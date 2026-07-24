@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 15 | 30 |
 | breaking_defense | 0 | 0 | 14 | 26 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2757,3 +2757,4 @@
 - **Jul 24, 09:05 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 24, 09:39 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 24, 10:14 PM** - Vast establishes division for national security projects (spacenews)
+- **Jul 24, 10:49 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
