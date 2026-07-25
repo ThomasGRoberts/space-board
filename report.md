@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 14 | 30 |
 | nyt | 1 | 1 | 13 | 23 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2690,3 +2690,4 @@
 - **Jul 25, 11:05 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 25, 11:39 AM** - Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites (spacenews)
 - **Jul 25, 12:14 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 25, 01:14 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
