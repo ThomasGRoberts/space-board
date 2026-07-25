@@ -1,9 +1,99 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-24T00:04:35.286359+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-07-25T00:04:59.216585+00:00",
+    "trigger_count": 1,
     "current_item_id": "8bd3b70deacb7871f36522d6c881aa56",
     "data": [
+        {
+            "id": "588405bb1c53e74b287785eaa0636926",
+            "source": "spacenews",
+            "text": "ULA deals with financial challenges caused by Vulcan grounding",
+            "source_link": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T20:29:35.561070Z",
+            "shown_at": [
+                "2026-07-24T20:29:36.645389Z"
+            ]
+        },
+        {
+            "id": "76a3ef60e53d31f498fc2833db52dd89",
+            "source": "spacenews",
+            "text": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT",
+            "source_link": "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T15:34:50.351791Z",
+            "shown_at": [
+                "2026-07-24T15:34:51.164262Z"
+            ]
+        },
+        {
+            "id": "c20bdb00cbd5b1df3fdf8750f35c82b8",
+            "source": "nyt",
+            "text": "He’s the Last Great Land Artist You’ve Never Heard Of",
+            "source_link": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T13:14:42.654980Z",
+            "shown_at": [
+                "2026-07-24T13:14:44.862348Z",
+                "2026-07-24T14:59:16.672374Z",
+                "2026-07-24T16:59:36.131444Z",
+                "2026-07-24T18:44:35.500580Z",
+                "2026-07-24T21:05:05.986185Z",
+                "2026-07-24T22:49:35.182305Z"
+            ]
+        },
+        {
+            "id": "8bd3b70deacb7871f36522d6c881aa56",
+            "source": "spacenews",
+            "text": "Office of Space Commerce to move ahead on mission authorization",
+            "source_link": "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T12:05:08.138306Z",
+            "shown_at": [
+                "2026-07-24T12:05:09.149887Z",
+                "2026-07-24T23:59:43.162606Z"
+            ]
+        },
+        {
+            "id": "18d20cce1f43836f4173f1a41239b187",
+            "source": "spacenews",
+            "text": "Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites",
+            "source_link": "https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T10:54:37.539257Z",
+            "shown_at": [
+                "2026-07-24T10:54:38.462651Z"
+            ]
+        },
+        {
+            "id": "7d24fd18023e3ea6e0619770ec5d04a6",
+            "source": "spacenews",
+            "text": "EU delays release of Copernicus imagery over Gulf of Oman ",
+            "source_link": "https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T10:19:28.626661Z",
+            "shown_at": [
+                "2026-07-24T10:19:29.485152Z"
+            ]
+        },
+        {
+            "id": "babc7b743bb33ecb9ccce0562a7bf762",
+            "source": "spacenews",
+            "text": "Air Force takes over troubled military GPS receiver program",
+            "source_link": "https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-24T09:04:57.416428Z",
+            "shown_at": [
+                "2026-07-24T09:04:58.079403Z"
+            ]
+        },
         {
             "id": "03f2a4773734baed268696244eab1792",
             "source": "spacenews",
@@ -8074,263 +8164,6 @@
                 "2026-05-13T12:59:16.195202Z",
                 "2026-05-14T02:29:11.114422Z",
                 "2026-05-18T06:24:06.967759Z"
-            ]
-        },
-        {
-            "id": "79792fdcba8d99e36bbcab179aab0ffc",
-            "source": "spacenews",
-            "text": "SES joins Eutelsat in canceling GEO expansion satellites",
-            "source_link": "https://spacenews.com/ses-joins-eutelsat-in-canceling-geo-expansion-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T12:24:31.563217Z",
-            "shown_at": [
-                "2026-05-13T12:24:32.558124Z",
-                "2026-05-16T06:49:06.307018Z",
-                "2026-05-16T13:49:14.609287Z"
-            ]
-        },
-        {
-            "id": "63a7f34de87f041303b6e4971e69ce55",
-            "source": "nyt",
-            "text": "5 Great Stargazing Trains",
-            "source_link": "https://www.nytimes.com/2026/05/13/travel/stargazing-train-rides.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T11:14:32.092849Z",
-            "shown_at": [
-                "2026-05-13T11:14:33.097928Z",
-                "2026-05-14T01:19:14.430309Z",
-                "2026-05-14T08:24:16.045385Z",
-                "2026-05-15T03:04:46.972602Z",
-                "2026-05-15T13:14:30.467332Z",
-                "2026-05-16T00:59:16.268789Z",
-                "2026-05-16T04:29:13.297834Z",
-                "2026-05-16T20:54:20.497067Z",
-                "2026-05-16T23:14:12.551539Z",
-                "2026-05-17T04:29:11.358394Z",
-                "2026-05-17T08:04:42.173774Z",
-                "2026-05-17T09:54:17.877917Z",
-                "2026-05-17T13:24:07.037087Z",
-                "2026-05-17T16:54:16.018666Z",
-                "2026-05-17T18:39:04.887005Z",
-                "2026-05-18T03:24:14.593013Z",
-                "2026-05-18T05:09:09.779289Z",
-                "2026-05-18T06:59:12.365012Z",
-                "2026-05-18T08:44:12.892920Z",
-                "2026-05-18T10:29:26.871578Z",
-                "2026-05-18T14:04:50.615684Z",
-                "2026-05-18T15:49:33.268552Z",
-                "2026-05-18T17:34:35.981619Z",
-                "2026-05-18T19:19:09.263354Z",
-                "2026-05-18T21:04:51.550103Z",
-                "2026-05-18T22:49:09.958898Z",
-                "2026-05-19T00:34:37.507131Z",
-                "2026-05-19T02:19:16.914508Z",
-                "2026-05-19T04:04:34.036543Z",
-                "2026-05-19T06:24:16.393810Z",
-                "2026-05-19T08:09:21.528458Z",
-                "2026-05-19T09:54:12.798977Z",
-                "2026-05-19T11:39:10.274370Z",
-                "2026-05-19T14:39:29.634420Z",
-                "2026-05-19T16:59:21.485736Z",
-                "2026-05-19T18:44:23.775127Z",
-                "2026-05-19T20:34:33.760263Z",
-                "2026-05-19T22:31:17.173638Z",
-                "2026-05-20T01:11:22.409650Z",
-                "2026-05-20T03:19:24.322077Z",
-                "2026-05-20T05:04:27.105216Z",
-                "2026-05-20T07:09:36.723209Z",
-                "2026-05-20T09:39:24.537295Z"
-            ]
-        },
-        {
-            "id": "c473ce6563c5067a503b69eb981e3835",
-            "source": "spacenews",
-            "text": "Varda to collaborate with United Therapeutics on microgravity drug research",
-            "source_link": "https://spacenews.com/varda-to-collaborate-with-united-therapeutics-on-microgravity-drug-research/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T10:34:31.656007Z",
-            "shown_at": [
-                "2026-05-13T10:34:32.495229Z",
-                "2026-05-17T23:19:17.952404Z",
-                "2026-05-18T01:04:36.389980Z",
-                "2026-05-19T02:54:14.118895Z",
-                "2026-05-19T17:34:29.727323Z"
-            ]
-        },
-        {
-            "id": "0171fbeb2095052005c3ea80303a43b0",
-            "source": "spacenews",
-            "text": "FCC approves SpaceX spectrum deal with $2.4 billion escrow condition",
-            "source_link": "https://spacenews.com/fcc-approves-spacex-spectrum-deal-with-2-4-billion-escrow-condition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T22:59:06.899113Z",
-            "shown_at": [
-                "2026-05-12T22:59:07.915718Z"
-            ]
-        },
-        {
-            "id": "b9b8971f34a114856dd28b97173b79ab",
-            "source": "breaking_defense",
-            "text": "US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief",
-            "source_link": "https://breakingdefense.com/2026/05/us-close-allies-creating-joint-orbital-warfare-plan-spacecom-chief/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T22:24:24.832310Z",
-            "shown_at": [
-                "2026-05-12T22:24:26.088018Z",
-                "2026-05-13T03:44:29.847749Z",
-                "2026-05-13T05:29:09.888851Z",
-                "2026-05-13T07:34:34.907162Z",
-                "2026-05-13T09:24:12.337828Z",
-                "2026-05-13T16:30:36.223236Z",
-                "2026-05-13T20:39:26.281244Z",
-                "2026-05-14T00:09:19.176994Z",
-                "2026-05-14T05:24:28.605527Z",
-                "2026-05-14T08:59:19.267203Z",
-                "2026-05-14T14:14:30.963120Z",
-                "2026-05-15T00:44:18.369411Z",
-                "2026-05-15T02:28:59.967458Z",
-                "2026-05-15T04:14:08.843753Z",
-                "2026-05-15T05:59:36.082694Z",
-                "2026-05-15T12:39:17.444202Z",
-                "2026-05-16T05:39:11.320644Z",
-                "2026-05-16T10:54:12.512428Z",
-                "2026-05-16T14:24:19.503459Z",
-                "2026-05-16T16:08:52.063239Z",
-                "2026-05-16T19:44:08.107104Z",
-                "2026-05-16T23:49:11.725904Z",
-                "2026-05-17T08:39:10.339158Z",
-                "2026-05-17T10:28:56.012087Z",
-                "2026-05-17T13:59:04.705834Z",
-                "2026-05-17T17:29:06.633259Z",
-                "2026-05-17T19:14:13.461880Z",
-                "2026-05-17T20:59:02.154162Z",
-                "2026-05-18T09:19:25.318607Z",
-                "2026-05-19T03:29:09.766812Z",
-                "2026-05-19T05:14:22.349940Z",
-                "2026-05-19T10:29:11.720488Z",
-                "2026-05-19T16:24:10.141904Z",
-                "2026-05-19T18:09:08.456278Z"
-            ]
-        },
-        {
-            "id": "ced5b61c7f30a473827829d854d909a7",
-            "source": "spacenews",
-            "text": "Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome",
-            "source_link": "https://spacenews.com/congressional-budget-office-estimates-1-2-trillion-price-tag-for-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T21:49:24.903541Z",
-            "shown_at": [
-                "2026-05-12T21:49:25.861505Z",
-                "2026-05-14T05:59:10.843802Z"
-            ]
-        },
-        {
-            "id": "f1afbd70dcd1ee9e05662196e5cd2dc1",
-            "source": "spacenews",
-            "text": "Quantum Space to build spacecraft in Tulsa",
-            "source_link": "https://spacenews.com/quantum-space-to-build-spacecraft-in-tulsa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T18:54:19.206700Z",
-            "shown_at": [
-                "2026-05-12T18:54:20.296366Z",
-                "2026-05-16T05:04:30.191429Z"
-            ]
-        },
-        {
-            "id": "babc7b743bb33ecb9ccce0562a7bf762",
-            "source": "spacenews",
-            "text": "Air Force takes over troubled military GPS receiver program",
-            "source_link": "https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-24T09:04:57.416428Z",
-            "shown_at": [
-                "2026-07-24T09:04:58.079403Z"
-            ]
-        },
-        {
-            "id": "7d24fd18023e3ea6e0619770ec5d04a6",
-            "source": "spacenews",
-            "text": "EU delays release of Copernicus imagery over Gulf of Oman ",
-            "source_link": "https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-24T10:19:28.626661Z",
-            "shown_at": [
-                "2026-07-24T10:19:29.485152Z"
-            ]
-        },
-        {
-            "id": "18d20cce1f43836f4173f1a41239b187",
-            "source": "spacenews",
-            "text": "Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites",
-            "source_link": "https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-24T10:54:37.539257Z",
-            "shown_at": [
-                "2026-07-24T10:54:38.462651Z"
-            ]
-        },
-        {
-            "id": "8bd3b70deacb7871f36522d6c881aa56",
-            "source": "spacenews",
-            "text": "Office of Space Commerce to move ahead on mission authorization",
-            "source_link": "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-24T12:05:08.138306Z",
-            "shown_at": [
-                "2026-07-24T12:05:09.149887Z",
-                "2026-07-24T23:59:43.162606Z"
-            ]
-        },
-        {
-            "id": "c20bdb00cbd5b1df3fdf8750f35c82b8",
-            "source": "nyt",
-            "text": "He’s the Last Great Land Artist You’ve Never Heard Of",
-            "source_link": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-24T13:14:42.654980Z",
-            "shown_at": [
-                "2026-07-24T13:14:44.862348Z",
-                "2026-07-24T14:59:16.672374Z",
-                "2026-07-24T16:59:36.131444Z",
-                "2026-07-24T18:44:35.500580Z",
-                "2026-07-24T21:05:05.986185Z",
-                "2026-07-24T22:49:35.182305Z"
-            ]
-        },
-        {
-            "id": "76a3ef60e53d31f498fc2833db52dd89",
-            "source": "spacenews",
-            "text": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT",
-            "source_link": "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-24T15:34:50.351791Z",
-            "shown_at": [
-                "2026-07-24T15:34:51.164262Z"
-            ]
-        },
-        {
-            "id": "588405bb1c53e74b287785eaa0636926",
-            "source": "spacenews",
-            "text": "ULA deals with financial challenges caused by Vulcan grounding",
-            "source_link": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-24T20:29:35.561070Z",
-            "shown_at": [
-                "2026-07-24T20:29:36.645389Z"
             ]
         }
     ]
