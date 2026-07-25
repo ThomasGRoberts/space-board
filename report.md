@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 16 | 30 |
 | nyt | 1 | 1 | 11 | 23 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2672,3 +2672,4 @@
 - **Jul 24, 11:59 PM** - Office of Space Commerce to move ahead on mission authorization (spacenews)
 - **Jul 25, 12:35 AM** - SpaceX conducts 13th Starship test flight (spacenews)
 - **Jul 25, 01:09 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 25, 01:44 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
