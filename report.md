@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 16 | 31 |
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -2683,3 +2683,4 @@
 - **Jul 25, 06:24 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 25, 06:59 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 25, 07:35 AM** - SpaceX conducts 13th Starship test flight (spacenews)
+- **Jul 25, 08:14 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
