@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 14 | 30 |
-| nyt | 0 | 1 | 13 | 23 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| nyt | 0 | 1 | 12 | 23 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2693,3 +2693,4 @@
 - **Jul 25, 01:14 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 25, 01:49 PM** - Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites (spacenews)
 - **Jul 25, 02:24 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 25, 02:59 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
