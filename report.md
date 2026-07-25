@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 31 |
-| nyt | 0 | 1 | 12 | 22 |
+| nyt | 0 | 1 | 13 | 23 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2698,3 +2698,4 @@
 - **Jul 25, 04:09 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 25, 04:44 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 25, 05:19 PM** - Artemis 2 astronaut advocates for equatorial lunar landings (spacenews)
+- **Jul 25, 05:54 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
