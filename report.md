@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 14 | 30 |
+| spacenews | 2 | 10 | 15 | 31 |
 | nyt | 0 | 1 | 12 | 23 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2700,3 +2700,4 @@
 - **Jul 25, 05:19 PM** - Artemis 2 astronaut advocates for equatorial lunar landings (spacenews)
 - **Jul 25, 05:54 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 25, 06:29 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
+- **Jul 25, 07:04 PM** - EU delays release of Copernicus imagery over Gulf of Oman  (spacenews)
