@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 30 |
 | nyt | 0 | 1 | 13 | 23 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2696,3 +2696,4 @@
 - **Jul 25, 02:59 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 25, 03:34 PM** - Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech (spacenews)
 - **Jul 25, 04:09 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 25, 04:44 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
