@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 14 | 30 |
 | nyt | 0 | 1 | 13 | 23 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2702,3 +2702,4 @@
 - **Jul 25, 06:29 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 25, 07:04 PM** - EU delays release of Copernicus imagery over Gulf of Oman  (spacenews)
 - **Jul 25, 07:44 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 25, 08:19 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
