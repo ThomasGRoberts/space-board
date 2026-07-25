@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 30 |
 | nyt | 0 | 1 | 13 | 23 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2699,3 +2699,4 @@
 - **Jul 25, 04:44 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 25, 05:19 PM** - Artemis 2 astronaut advocates for equatorial lunar landings (spacenews)
 - **Jul 25, 05:54 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 25, 06:29 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
