@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 16 | 31 |
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -2677,3 +2677,4 @@
 - **Jul 25, 02:54 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 25, 03:29 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 25, 04:05 AM** - Agile Space Industries Appoints new CTO and Board member (spacenews)
+- **Jul 25, 04:39 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
