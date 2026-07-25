@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 16 | 30 |
 | nyt | 1 | 1 | 11 | 23 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2675,3 +2675,4 @@
 - **Jul 25, 01:44 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 25, 02:19 AM** - Airbus space business takes advantage of growing demand for satellite systems (spacenews)
 - **Jul 25, 02:54 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 25, 03:29 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
