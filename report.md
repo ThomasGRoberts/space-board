@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 15 | 30 |
 | nyt | 1 | 1 | 11 | 23 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2684,3 +2684,4 @@
 - **Jul 25, 06:59 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 25, 07:35 AM** - SpaceX conducts 13th Starship test flight (spacenews)
 - **Jul 25, 08:14 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 25, 09:09 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
