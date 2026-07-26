@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 13 | 29 |
+| spacenews | 1 | 8 | 14 | 30 |
 | nyt | 0 | 1 | 13 | 23 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
@@ -2716,3 +2716,4 @@
 - **Jul 26, 04:34 AM** - NASA programs feel effects of workforce reductions (spacenews)
 - **Jul 26, 05:09 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 26, 05:44 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
+- **Jul 26, 06:19 AM** - Office of Space Commerce to move ahead on mission authorization (spacenews)
