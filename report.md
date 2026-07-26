@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2744,3 +2744,4 @@
 - **Jul 26, 09:09 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 26, 09:44 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 26, 10:19 PM** - ULA deals with financial challenges caused by Vulcan grounding (spacenews)
+- **Jul 26, 10:54 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
