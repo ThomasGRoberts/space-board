@@ -1,9 +1,22 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-25T00:04:59.216585+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-07-26T00:05:12.675244+00:00",
+    "trigger_count": 2,
     "current_item_id": "269c0b4624cea9ec355f4ddcab8c6fdd",
     "data": [
+        {
+            "id": "ce7345ed4251a13c6bab877738a09d29",
+            "source": "spacenews",
+            "text": "SpaceX conducts 13th Starship test flight",
+            "source_link": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-25T00:35:07.417095Z",
+            "shown_at": [
+                "2026-07-25T00:35:12.082071Z",
+                "2026-07-25T07:35:26.067876Z"
+            ]
+        },
         {
             "id": "588405bb1c53e74b287785eaa0636926",
             "source": "spacenews",
@@ -8187,33 +8200,6 @@
                 "2026-05-13T14:37:04.043547Z",
                 "2026-05-15T01:54:12.725514Z",
                 "2026-05-15T09:09:13.710413Z"
-            ]
-        },
-        {
-            "id": "57de20b000c827965842556d3855d193",
-            "source": "spacenews",
-            "text": "SpaceX sets date for first Starship version 3 launch",
-            "source_link": "https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T12:24:31.563295Z",
-            "shown_at": [
-                "2026-05-13T12:59:16.195202Z",
-                "2026-05-14T02:29:11.114422Z",
-                "2026-05-18T06:24:06.967759Z"
-            ]
-        },
-        {
-            "id": "ce7345ed4251a13c6bab877738a09d29",
-            "source": "spacenews",
-            "text": "SpaceX conducts 13th Starship test flight",
-            "source_link": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-25T00:35:07.417095Z",
-            "shown_at": [
-                "2026-07-25T00:35:12.082071Z",
-                "2026-07-25T07:35:26.067876Z"
             ]
         }
     ]

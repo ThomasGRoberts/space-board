@@ -2,18 +2,16 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 14 | 29 |
+| spacenews | 1 | 7 | 13 | 28 |
 | nyt | 0 | 1 | 13 | 24 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
-- **May 13, 12:59 PM** - SpaceX sets date for first Starship version 3 launch (spacenews)
 - **May 13, 02:37 PM** - Rocketeers are Competing at the IREC for Your Attention (spacenews)
 - **May 13, 03:39 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)
 - **May 13, 09:49 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)
 - **May 13, 10:59 PM** - SLS to launch without upper stage for Artemis 3 (spacenews)
-- **May 14, 02:29 AM** - SpaceX sets date for first Starship version 3 launch (spacenews)
 - **May 14, 10:09 AM** - Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group (spacenews)
 - **May 14, 11:54 AM** - House appropriators approve spending bill that keeps NASA budget flat (spacenews)
 - **May 14, 12:29 PM** - Why Earth observation data is getting stuck in orbit (spacenews)
@@ -67,7 +65,6 @@
 - **May 18, 02:14 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 18, 02:49 AM** - Zenk Space raises $26 million, targets June debut launch  (spacenews)
 - **May 18, 03:59 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
-- **May 18, 06:24 AM** - SpaceX sets date for first Starship version 3 launch (spacenews)
 - **May 18, 08:09 AM** - SLS to launch without upper stage for Artemis 3 (spacenews)
 - **May 18, 11:04 AM** - The next war will be won — or lost — in orbit (spacenews)
 - **May 18, 12:14 PM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
