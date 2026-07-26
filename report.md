@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 14 | 29 |
+| spacenews | 1 | 5 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2724,3 +2724,4 @@
 - **Jul 26, 09:14 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 26, 09:49 AM** - Gravity-1 sea launch off Shanghai puts 9 satellites into orbit (spacenews)
 - **Jul 26, 10:25 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 26, 10:59 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
