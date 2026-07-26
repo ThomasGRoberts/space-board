@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 7 | 13 | 29 |
 | nyt | 0 | 1 | 13 | 24 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2708,3 +2708,4 @@
 - **Jul 25, 11:54 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 26, 12:29 AM** - Pipelines to payloads: risk management lessons for the space economy (spacenews)
 - **Jul 26, 01:04 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 26, 01:39 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
