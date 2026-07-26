@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 14 | 29 |
-| nyt | 0 | 0 | 13 | 25 |
+| spacenews | 1 | 3 | 14 | 28 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2735,3 +2735,4 @@
 - **Jul 26, 03:49 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 26, 04:24 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 26, 04:59 PM** - EU delays release of Copernicus imagery over Gulf of Oman  (spacenews)
+- **Jul 26, 05:39 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
