@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2738,3 +2738,4 @@
 - **Jul 26, 05:39 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 26, 06:14 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 26, 06:49 PM** - Poland commits $745 million to EU’s IRIS² constellation project (spacenews)
+- **Jul 26, 07:24 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
