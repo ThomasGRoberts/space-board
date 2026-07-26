@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 14 | 29 |
 | nyt | 0 | 1 | 13 | 24 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2712,3 +2712,4 @@
 - **Jul 26, 02:14 AM** - Gravity-1 sea launch off Shanghai puts 9 satellites into orbit (spacenews)
 - **Jul 26, 02:49 AM** - NASA and ESA facilities avoid major damage from wildfires in Spain (spacenews)
 - **Jul 26, 03:24 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 26, 03:59 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
