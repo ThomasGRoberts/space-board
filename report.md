@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 14 | 30 |
-| nyt | 0 | 1 | 12 | 23 |
+| nyt | 0 | 1 | 13 | 24 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Jul 26, 06:54 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 26, 07:29 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 26, 08:05 AM** - AI rocket engine startup LegendSpace raises $29.5 million angel round (spacenews)
+- **Jul 26, 08:39 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
