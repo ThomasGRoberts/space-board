@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 13 | 28 |
+| spacenews | 1 | 7 | 14 | 29 |
 | nyt | 0 | 1 | 13 | 24 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
@@ -2706,3 +2706,4 @@
 - **Jul 25, 10:44 PM** - LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT (spacenews)
 - **Jul 25, 11:19 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 25, 11:54 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
+- **Jul 26, 12:29 AM** - Pipelines to payloads: risk management lessons for the space economy (spacenews)
