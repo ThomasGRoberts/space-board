@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2742,3 +2742,4 @@
 - **Jul 26, 07:59 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 26, 08:34 PM** - SpaceX launches Northrop mission to extend the life of aging satellites (spacenews)
 - **Jul 26, 09:09 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 26, 09:44 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
