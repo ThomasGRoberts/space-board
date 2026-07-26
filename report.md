@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 14 | 29 |
 | nyt | 0 | 1 | 13 | 24 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2718,3 +2718,4 @@
 - **Jul 26, 05:44 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 26, 06:19 AM** - Office of Space Commerce to move ahead on mission authorization (spacenews)
 - **Jul 26, 06:54 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 26, 07:29 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
