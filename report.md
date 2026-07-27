@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 14 | 27 |
+| spacenews | 1 | 1 | 15 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2746,3 +2746,4 @@
 - **Jul 27, 12:04 AM** - German component supplier deltaVision raises 10.2 million euros (spacenews)
 - **Jul 27, 12:39 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 27, 01:14 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
+- **Jul 27, 01:49 AM** - Zenno Astronautics to relocate to the United States (spacenews)
