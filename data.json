@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-27T00:04:39.243401+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bcf53ba8b54830b670641a0c4b39afe5",
+    "trigger_count": 0,
+    "current_item_id": "2f43cf8d96bc261d600691ba76396fac",
     "data": [
         {
             "id": "088014f8e60a42c1c673ed2c9b4be077",
@@ -8286,9 +8286,12 @@
             "source": "spacenews",
             "text": "Rocket Lab to open Alaska launch site under $266 million Space Force deal",
             "source_link": "https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-27T11:19:33.759856Z"
+            "fetched_datetime": "2026-07-27T11:19:33.759856Z",
+            "shown_at": [
+                "2026-07-27T11:54:35.080977Z"
+            ]
         }
     ]
 }
