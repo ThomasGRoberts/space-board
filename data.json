@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-26T00:05:12.675244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e992922f7be609479ef40db4ff823b05",
+    "last_run_datetime": "2026-07-27T00:04:39.243401+00:00",
+    "trigger_count": 0,
+    "current_item_id": "be49067ef925ec51cc110d6eca63fe00",
     "data": [
+        {
+            "id": "088014f8e60a42c1c673ed2c9b4be077",
+            "source": "spacenews",
+            "text": "NASA and ESA facilities avoid major damage from wildfires in Spain",
+            "source_link": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-26T02:49:32.641570Z",
+            "shown_at": [
+                "2026-07-26T02:49:33.343978Z"
+            ]
+        },
         {
             "id": "ce7345ed4251a13c6bab877738a09d29",
             "source": "spacenews",
@@ -435,7 +447,8 @@
                 "2026-07-21T12:59:33.658037Z",
                 "2026-07-22T07:44:29.242673Z",
                 "2026-07-23T08:29:21.625533Z",
-                "2026-07-23T16:11:35.162229Z"
+                "2026-07-23T16:11:35.162229Z",
+                "2026-07-27T00:04:45.659216Z"
             ]
         },
         {
@@ -8225,32 +8238,6 @@
             "shown_at": [
                 "2026-05-13T15:39:40.516336Z",
                 "2026-05-13T21:49:16.617061Z"
-            ]
-        },
-        {
-            "id": "f6e7881e4b1eddf5072755a0d3be8f01",
-            "source": "spacenews",
-            "text": "Rocketeers are Competing at the IREC for Your Attention",
-            "source_link": "https://spacenews.com/rocketeers-are-competing-at-the-irec-for-your-attention/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T14:37:03.208436Z",
-            "shown_at": [
-                "2026-05-13T14:37:04.043547Z",
-                "2026-05-15T01:54:12.725514Z",
-                "2026-05-15T09:09:13.710413Z"
-            ]
-        },
-        {
-            "id": "088014f8e60a42c1c673ed2c9b4be077",
-            "source": "spacenews",
-            "text": "NASA and ESA facilities avoid major damage from wildfires in Spain",
-            "source_link": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-26T02:49:32.641570Z",
-            "shown_at": [
-                "2026-07-26T02:49:33.343978Z"
             ]
         }
     ]

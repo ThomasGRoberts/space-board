@@ -2,13 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 28 |
+| spacenews | 1 | 2 | 15 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
-- **May 13, 02:37 PM** - Rocketeers are Competing at the IREC for Your Attention (spacenews)
 - **May 13, 03:39 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)
 - **May 13, 09:49 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)
 - **May 13, 10:59 PM** - SLS to launch without upper stage for Artemis 3 (spacenews)
@@ -24,9 +23,7 @@
 - **May 14, 08:38 PM** - Intuitive Machines to buy ground station company (spacenews)
 - **May 14, 10:24 PM** - Cowboy files plans for up to 20,000 orbital data centers (spacenews)
 - **May 15, 12:09 AM** - Cowboy files plans for up to 20,000 orbital data centers (spacenews)
-- **May 15, 01:54 AM** - Rocketeers are Competing at the IREC for Your Attention (spacenews)
 - **May 15, 07:09 AM** - Intuitive Machines to buy ground station company (spacenews)
-- **May 15, 09:09 AM** - Rocketeers are Competing at the IREC for Your Attention (spacenews)
 - **May 15, 09:44 AM** - Chinese satellite maker MinoSpace seeks $736 million in IPO (spacenews)
 - **May 15, 12:04 PM** - Virgin Galactic reaffirms plans to begin commercial service this year (spacenews)
 - **May 15, 04:09 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
@@ -2746,3 +2743,4 @@
 - **Jul 26, 10:19 PM** - ULA deals with financial challenges caused by Vulcan grounding (spacenews)
 - **Jul 26, 10:54 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 26, 11:29 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
+- **Jul 27, 12:04 AM** - German component supplier deltaVision raises 10.2 million euros (spacenews)
