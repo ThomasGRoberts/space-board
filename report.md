@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 16 | 31 |
+| spacenews | 7 | 8 | 17 | 32 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2766,3 +2766,4 @@
 - **Jul 27, 11:54 AM** - Rocket Lab to open Alaska launch site under $266 million Space Force deal (spacenews)
 - **Jul 27, 12:29 PM** - SpaceNews Welcomes Max Aliprandi as Business Development Associate (spacenews)
 - **Jul 27, 01:04 PM** - Amazon files application for direct-to-device satellite constellation (spacenews)
+- **Jul 27, 01:39 PM** - Orbes unveils Exo-ORB and agreement with Symphony Space (spacenews)
