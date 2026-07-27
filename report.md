@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 18 | 32 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
 # Shown Order
@@ -2768,3 +2768,4 @@
 - **Jul 27, 01:04 PM** - Amazon files application for direct-to-device satellite constellation (spacenews)
 - **Jul 27, 01:39 PM** - Orbes unveils Exo-ORB and agreement with Symphony Space (spacenews)
 - **Jul 27, 02:14 PM** - Intel debuts new chip for space computing (spacenews)
+- **Jul 27, 02:49 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
