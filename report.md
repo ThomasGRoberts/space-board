@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 18 | 32 |
 | nyt | 0 | 0 | 11 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2779,3 +2779,4 @@
 - **Jul 27, 07:34 PM** - Sphinx Defense wins $287 million contract for strategic satellite communications software (spacenews)
 - **Jul 27, 08:09 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 27, 08:44 PM** - Upper C-band auction offers another lift for GEO industry (spacenews)
+- **Jul 27, 09:19 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
