@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 28 |
+| spacenews | 3 | 4 | 15 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2762,3 +2762,4 @@
 - **Jul 27, 09:29 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 27, 10:09 AM** - AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart (spacenews)
 - **Jul 27, 10:44 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
+- **Jul 27, 11:19 AM** - Blue Origin to test New Glenn upper stages at Stennis (spacenews)
