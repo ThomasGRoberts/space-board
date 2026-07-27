@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-27T00:04:39.243401+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c20bdb00cbd5b1df3fdf8750f35c82b8",
+    "trigger_count": 0,
+    "current_item_id": "3138c0aee842f305782ff7c7492f97f5",
     "data": [
         {
             "id": "088014f8e60a42c1c673ed2c9b4be077",
@@ -8254,6 +8254,18 @@
             "shown_at": [
                 "2026-05-13T15:39:40.516336Z",
                 "2026-05-13T21:49:16.617061Z"
+            ]
+        },
+        {
+            "id": "3138c0aee842f305782ff7c7492f97f5",
+            "source": "spacenews",
+            "text": "AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart",
+            "source_link": "https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T10:09:29.749303Z",
+            "shown_at": [
+                "2026-07-27T10:09:30.829439Z"
             ]
         }
     ]

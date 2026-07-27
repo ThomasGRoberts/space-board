@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 13 | 27 |
+| spacenews | 1 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2760,3 +2760,4 @@
 - **Jul 27, 08:19 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 27, 08:54 AM** - China’s Shijian-31 satellite is sweeping GEO using a unique orbit (spacenews)
 - **Jul 27, 09:29 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 27, 10:09 AM** - AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart (spacenews)
