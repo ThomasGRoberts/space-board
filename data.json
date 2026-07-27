@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-27T00:04:39.243401+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f43cf8d96bc261d600691ba76396fac",
+    "trigger_count": 0,
+    "current_item_id": "1bb8f4a65bc29ca6d45e898ba262e2e2",
     "data": [
         {
             "id": "088014f8e60a42c1c673ed2c9b4be077",
@@ -8292,6 +8292,27 @@
             "shown_at": [
                 "2026-07-27T11:54:35.080977Z"
             ]
+        },
+        {
+            "id": "1bb8f4a65bc29ca6d45e898ba262e2e2",
+            "source": "spacenews",
+            "text": "SpaceNews Welcomes Max Aliprandi as Business Development Associate",
+            "source_link": "https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T12:29:32.405636Z",
+            "shown_at": [
+                "2026-07-27T12:29:33.503283Z"
+            ]
+        },
+        {
+            "id": "3d3eed1ce780daa71e7eead55af705b4",
+            "source": "spacenews",
+            "text": "Amazon files application for direct-to-device satellite constellation",
+            "source_link": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T12:29:32.405692Z"
         }
     ]
 }
