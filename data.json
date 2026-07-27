@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-27T00:04:39.243401+00:00",
-    "trigger_count": 6,
-    "current_item_id": "269c0b4624cea9ec355f4ddcab8c6fdd",
+    "trigger_count": 0,
+    "current_item_id": "b773fc0ca3862b5460195c08abf9d224",
     "data": [
         {
             "id": "088014f8e60a42c1c673ed2c9b4be077",
@@ -8347,6 +8347,18 @@
             "fetched_datetime": "2026-07-27T13:39:24.636089Z",
             "shown_at": [
                 "2026-07-27T14:14:47.160591Z"
+            ]
+        },
+        {
+            "id": "b773fc0ca3862b5460195c08abf9d224",
+            "source": "spacenews",
+            "text": "Sphinx Defense wins $287 million contract for strategic satellite communications software",
+            "source_link": "https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T19:34:51.673195Z",
+            "shown_at": [
+                "2026-07-27T19:34:52.554174Z"
             ]
         }
     ]
