@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2753,3 +2753,4 @@
 - **Jul 27, 04:14 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 27, 04:49 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 27, 05:24 AM** - UK and Florida commit $400,000 to joint space projects (spacenews)
+- **Jul 27, 05:59 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
