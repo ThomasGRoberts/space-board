@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2757,3 +2757,4 @@
 - **Jul 27, 06:34 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 27, 07:09 AM** - NASA and ESA facilities avoid major damage from wildfires in Spain (spacenews)
 - **Jul 27, 07:44 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 27, 08:19 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
