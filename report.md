@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 18 | 32 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
 # Shown Order
@@ -2771,3 +2771,4 @@
 - **Jul 27, 02:49 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 27, 03:24 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 27, 03:59 PM** - Agile Space Industries Appoints new CTO and Board member. (spacenews)
+- **Jul 27, 04:35 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
