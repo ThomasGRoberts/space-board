@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 5 | 23 |
 | nyt | 0 | 0 | 5 | 16 |
-| breaking_defense | 0 | 0 | 4 | 16 |
+| breaking_defense | 0 | 0 | 5 | 17 |
 
 # Shown Order
 
@@ -2761,3 +2761,4 @@
 - **Jul 28, 06:14 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 28, 06:49 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 28, 07:24 PM** - SpaceX launches Northrop mission to extend the life of aging satellites (spacenews)
+- **Jul 28, 07:59 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
