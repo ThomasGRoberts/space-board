@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 5 | 23 |
 | nyt | 0 | 0 | 5 | 16 |
-| breaking_defense | 0 | 0 | 4 | 16 |
+| breaking_defense | 0 | 0 | 5 | 16 |
 
 # Shown Order
 
@@ -2758,3 +2758,4 @@
 - **Jul 28, 04:29 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 28, 05:05 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 28, 05:39 PM** - NASA and ESA facilities avoid major damage from wildfires in Spain (spacenews)
+- **Jul 28, 06:14 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
