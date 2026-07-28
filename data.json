@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-28T00:04:43.726196+00:00",
-    "trigger_count": 6,
+    "trigger_count": 0,
     "current_item_id": "3fdbddc7ab09013d53b9002d85c592e5",
     "data": [
         {
@@ -8252,9 +8252,12 @@
             "source": "spacenews",
             "text": "NASA selects successor to CAPSTONE lunar mission",
             "source_link": "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-28T12:24:34.319284Z"
+            "fetched_datetime": "2026-07-28T12:24:34.319284Z",
+            "shown_at": [
+                "2026-07-28T14:09:30.175327Z"
+            ]
         }
     ]
 }
