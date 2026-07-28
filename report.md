@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 11 | 5 | 23 |
-| nyt | 0 | 0 | 4 | 16 |
+| spacenews | 2 | 11 | 5 | 22 |
+| nyt | 0 | 0 | 5 | 17 |
 | breaking_defense | 0 | 0 | 5 | 16 |
 
 # Shown Order
@@ -2765,3 +2765,4 @@
 - **Jul 28, 08:35 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 28, 09:09 PM** - ESA opens call to repurpose Gateway communications module (spacenews)
 - **Jul 28, 09:44 PM** - FCC approves satellite spectrum license streamlining (breaking_defense)
+- **Jul 28, 10:19 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
