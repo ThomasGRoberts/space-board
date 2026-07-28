@@ -1,9 +1,118 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-27T00:04:39.243401+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-07-28T00:04:43.726196+00:00",
+    "trigger_count": 3,
     "current_item_id": "588405bb1c53e74b287785eaa0636926",
     "data": [
+        {
+            "id": "b1e2d0f6efd74167f4db4271d0ca171a",
+            "source": "spacenews",
+            "text": "Upper C-band auction offers another lift for GEO industry",
+            "source_link": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T20:44:40.526935Z",
+            "shown_at": [
+                "2026-07-27T20:44:41.508850Z"
+            ]
+        },
+        {
+            "id": "b773fc0ca3862b5460195c08abf9d224",
+            "source": "spacenews",
+            "text": "Sphinx Defense wins $287 million contract for strategic satellite communications software",
+            "source_link": "https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T19:34:51.673195Z",
+            "shown_at": [
+                "2026-07-27T19:34:52.554174Z"
+            ]
+        },
+        {
+            "id": "94240fdc83952569485df6d17bbf44b4",
+            "source": "spacenews",
+            "text": "Intel debuts new chip for space computing",
+            "source_link": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T13:39:24.636089Z",
+            "shown_at": [
+                "2026-07-27T14:14:47.160591Z"
+            ]
+        },
+        {
+            "id": "f2cdd413300ef7dc2376ae5ef0c1dfd9",
+            "source": "spacenews",
+            "text": "Orbes unveils Exo-ORB and agreement with Symphony Space",
+            "source_link": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T13:39:24.636030Z",
+            "shown_at": [
+                "2026-07-27T13:39:26.804736Z"
+            ]
+        },
+        {
+            "id": "3d3eed1ce780daa71e7eead55af705b4",
+            "source": "spacenews",
+            "text": "Amazon files application for direct-to-device satellite constellation",
+            "source_link": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T12:29:32.405692Z",
+            "shown_at": [
+                "2026-07-27T13:04:58.923360Z"
+            ]
+        },
+        {
+            "id": "1bb8f4a65bc29ca6d45e898ba262e2e2",
+            "source": "spacenews",
+            "text": "SpaceNews Welcomes Max Aliprandi as Business Development Associate",
+            "source_link": "https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T12:29:32.405636Z",
+            "shown_at": [
+                "2026-07-27T12:29:33.503283Z",
+                "2026-07-27T17:49:19.858803Z"
+            ]
+        },
+        {
+            "id": "2f43cf8d96bc261d600691ba76396fac",
+            "source": "spacenews",
+            "text": "Rocket Lab to open Alaska launch site under $266 million Space Force deal",
+            "source_link": "https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T11:19:33.759856Z",
+            "shown_at": [
+                "2026-07-27T11:54:35.080977Z"
+            ]
+        },
+        {
+            "id": "bcf53ba8b54830b670641a0c4b39afe5",
+            "source": "spacenews",
+            "text": "Blue Origin to test New Glenn upper stages at Stennis",
+            "source_link": "https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T11:19:33.759805Z",
+            "shown_at": [
+                "2026-07-27T11:19:35.182452Z"
+            ]
+        },
+        {
+            "id": "3138c0aee842f305782ff7c7492f97f5",
+            "source": "spacenews",
+            "text": "AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart",
+            "source_link": "https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-27T10:09:29.749303Z",
+            "shown_at": [
+                "2026-07-27T10:09:30.829439Z"
+            ]
+        },
         {
             "id": "088014f8e60a42c1c673ed2c9b4be077",
             "source": "spacenews",
@@ -8136,244 +8245,6 @@
                 "2026-05-20T23:34:24.155670Z",
                 "2026-05-21T04:14:13.739711Z",
                 "2026-05-21T08:24:30.495596Z"
-            ]
-        },
-        {
-            "id": "5d2d13c32761f71053db293840b9647a",
-            "source": "spacenews",
-            "text": "Iridium to take over Aireon to expand aviation safety business",
-            "source_link": "https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T17:09:27.935347Z",
-            "shown_at": [
-                "2026-05-14T17:09:28.780140Z",
-                "2026-05-16T01:34:12.595413Z",
-                "2026-05-16T12:04:52.887865Z",
-                "2026-05-17T09:14:13.250158Z",
-                "2026-05-19T11:04:58.883140Z"
-            ]
-        },
-        {
-            "id": "b6824369dcc26c5fdd8ebd3cb0aa0f7f",
-            "source": "spacenews",
-            "text": "Iridium to take over Aireon in $367 million deal to expand aviation safety business",
-            "source_link": "https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T15:59:03.150877Z",
-            "shown_at": [
-                "2026-05-14T16:34:32.594746Z",
-                "2026-05-17T21:34:31.277807Z",
-                "2026-05-21T06:34:21.639178Z"
-            ]
-        },
-        {
-            "id": "e8f58f18f4232bceed009edbe60ae108",
-            "source": "spacenews",
-            "text": "Golden Dome chief pushes back on $1.2 trillion CBO estimate",
-            "source_link": "https://spacenews.com/golden-dome-chief-pushes-back-on-1-2-trillion-cbo-estimate/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T15:59:03.150803Z",
-            "shown_at": [
-                "2026-05-14T15:59:05.154232Z",
-                "2026-05-16T16:44:07.127958Z",
-                "2026-05-17T05:39:06.743569Z"
-            ]
-        },
-        {
-            "id": "a6f964837242d57bf554a0ed63db2bed",
-            "source": "spacenews",
-            "text": "AST SpaceMobile may use ULA’s Vulcan",
-            "source_link": "https://spacenews.com/ast-spacemobile-may-use-ulas-vulcan/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T13:04:36.501709Z",
-            "shown_at": [
-                "2026-05-14T13:04:39.587500Z",
-                "2026-05-16T08:34:48.055258Z",
-                "2026-05-17T14:34:31.413264Z",
-                "2026-05-20T06:14:17.715873Z",
-                "2026-05-21T09:34:36.264194Z"
-            ]
-        },
-        {
-            "id": "421e262e6234d73d84dd1f0825255086",
-            "source": "spacenews",
-            "text": "Why Earth observation data is getting stuck in orbit",
-            "source_link": "https://spacenews.com/why-earth-observation-data-is-getting-stuck-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T11:54:20.539415Z",
-            "shown_at": [
-                "2026-05-14T12:29:00.815441Z",
-                "2026-05-17T07:24:11.151594Z",
-                "2026-05-20T11:24:25.150975Z"
-            ]
-        },
-        {
-            "id": "39044adb1c8f0380211ec737e5a10234",
-            "source": "spacenews",
-            "text": "House appropriators approve spending bill that keeps NASA budget flat",
-            "source_link": "https://spacenews.com/house-appropriators-approve-spending-bill-that-keeps-nasa-budget-flat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T11:54:20.539331Z",
-            "shown_at": [
-                "2026-05-14T11:54:22.513392Z",
-                "2026-05-15T22:04:41.009468Z"
-            ]
-        },
-        {
-            "id": "ca8b24372926364a20e62c23a6c6bdb8",
-            "source": "spacenews",
-            "text": "Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group",
-            "source_link": "https://spacenews.com/landspace-launches-improved-zhuque-2e-long-march-6a-lofts-new-qianfan-satellite-group/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T10:09:09.127113Z",
-            "shown_at": [
-                "2026-05-14T10:09:10.636292Z",
-                "2026-05-17T11:04:30.028103Z",
-                "2026-05-19T01:09:20.879457Z",
-                "2026-05-19T12:54:07.110216Z"
-            ]
-        },
-        {
-            "id": "1172980fe7ec7c8e8e9344f6e9422011",
-            "source": "spacenews",
-            "text": "SLS to launch without upper stage for Artemis 3",
-            "source_link": "https://spacenews.com/sls-to-launch-without-upper-stage-for-artemis-3/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T22:59:10.567963Z",
-            "shown_at": [
-                "2026-05-13T22:59:11.582518Z",
-                "2026-05-18T08:09:59.393950Z",
-                "2026-05-19T04:39:12.056244Z"
-            ]
-        },
-        {
-            "id": "7ecebc106cf7ad6cf693fb11f43297c9",
-            "source": "spacenews",
-            "text": "Northrop Grumman targets lunar navigation market with Webb-derived guidance system",
-            "source_link": "https://spacenews.com/northrop-grumman-targets-lunar-navigation-market-with-webb-derived-guidance-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T14:37:03.208505Z",
-            "shown_at": [
-                "2026-05-13T15:39:40.516336Z",
-                "2026-05-13T21:49:16.617061Z"
-            ]
-        },
-        {
-            "id": "3138c0aee842f305782ff7c7492f97f5",
-            "source": "spacenews",
-            "text": "AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart",
-            "source_link": "https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-27T10:09:29.749303Z",
-            "shown_at": [
-                "2026-07-27T10:09:30.829439Z"
-            ]
-        },
-        {
-            "id": "bcf53ba8b54830b670641a0c4b39afe5",
-            "source": "spacenews",
-            "text": "Blue Origin to test New Glenn upper stages at Stennis",
-            "source_link": "https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-27T11:19:33.759805Z",
-            "shown_at": [
-                "2026-07-27T11:19:35.182452Z"
-            ]
-        },
-        {
-            "id": "2f43cf8d96bc261d600691ba76396fac",
-            "source": "spacenews",
-            "text": "Rocket Lab to open Alaska launch site under $266 million Space Force deal",
-            "source_link": "https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-27T11:19:33.759856Z",
-            "shown_at": [
-                "2026-07-27T11:54:35.080977Z"
-            ]
-        },
-        {
-            "id": "1bb8f4a65bc29ca6d45e898ba262e2e2",
-            "source": "spacenews",
-            "text": "SpaceNews Welcomes Max Aliprandi as Business Development Associate",
-            "source_link": "https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-27T12:29:32.405636Z",
-            "shown_at": [
-                "2026-07-27T12:29:33.503283Z",
-                "2026-07-27T17:49:19.858803Z"
-            ]
-        },
-        {
-            "id": "3d3eed1ce780daa71e7eead55af705b4",
-            "source": "spacenews",
-            "text": "Amazon files application for direct-to-device satellite constellation",
-            "source_link": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-27T12:29:32.405692Z",
-            "shown_at": [
-                "2026-07-27T13:04:58.923360Z"
-            ]
-        },
-        {
-            "id": "f2cdd413300ef7dc2376ae5ef0c1dfd9",
-            "source": "spacenews",
-            "text": "Orbes unveils Exo-ORB and agreement with Symphony Space",
-            "source_link": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-27T13:39:24.636030Z",
-            "shown_at": [
-                "2026-07-27T13:39:26.804736Z"
-            ]
-        },
-        {
-            "id": "94240fdc83952569485df6d17bbf44b4",
-            "source": "spacenews",
-            "text": "Intel debuts new chip for space computing",
-            "source_link": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-27T13:39:24.636089Z",
-            "shown_at": [
-                "2026-07-27T14:14:47.160591Z"
-            ]
-        },
-        {
-            "id": "b773fc0ca3862b5460195c08abf9d224",
-            "source": "spacenews",
-            "text": "Sphinx Defense wins $287 million contract for strategic satellite communications software",
-            "source_link": "https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-27T19:34:51.673195Z",
-            "shown_at": [
-                "2026-07-27T19:34:52.554174Z"
-            ]
-        },
-        {
-            "id": "b1e2d0f6efd74167f4db4271d0ca171a",
-            "source": "spacenews",
-            "text": "Upper C-band auction offers another lift for GEO industry",
-            "source_link": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-27T20:44:40.526935Z",
-            "shown_at": [
-                "2026-07-27T20:44:41.508850Z"
             ]
         }
     ]
