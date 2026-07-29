@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 17 | 22 |
+| spacenews | 6 | 9 | 16 | 22 |
 | nyt | 0 | 0 | 12 | 17 |
-| breaking_defense | 0 | 0 | 12 | 16 |
+| breaking_defense | 0 | 0 | 13 | 17 |
 
 # Shown Order
 
@@ -2753,3 +2753,4 @@
 - **Jul 29, 12:25 PM** - H3 to launch next ispace lunar lander mission (spacenews)
 - **Jul 29, 12:59 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 29, 01:34 PM** - Fortastra and Hadrian join forces to streamline satellite production (spacenews)
+- **Jul 29, 02:09 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
