@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 14 | 24 |
+| spacenews | 5 | 13 | 15 | 25 |
 | nyt | 0 | 0 | 11 | 16 |
 | breaking_defense | 0 | 0 | 11 | 15 |
 
@@ -2748,3 +2748,4 @@
 - **Jul 29, 09:25 AM** - AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart (spacenews)
 - **Jul 29, 09:59 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 29, 10:34 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 29, 11:09 AM** - NASA programs feel effects of workforce reductions (spacenews)
