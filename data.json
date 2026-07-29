@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-29T00:04:56.119666+00:00",
-    "trigger_count": 6,
-    "current_item_id": "269c0b4624cea9ec355f4ddcab8c6fdd",
+    "trigger_count": 0,
+    "current_item_id": "77fe21773cb1ebb5957da55e18ec1bfb",
     "data": [
         {
             "id": "93e02ec2c9009d6ab6d160b6fcd5da67",
@@ -8292,6 +8292,18 @@
             "fetched_datetime": "2026-07-29T13:34:43.654884Z",
             "shown_at": [
                 "2026-07-29T13:34:44.499331Z"
+            ]
+        },
+        {
+            "id": "77fe21773cb1ebb5957da55e18ec1bfb",
+            "source": "spacenews",
+            "text": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
+            "source_link": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T14:44:56.625018Z",
+            "shown_at": [
+                "2026-07-29T14:44:58.165750Z"
             ]
         }
     ]
