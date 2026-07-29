@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 18 | 23 |
-| nyt | 0 | 0 | 12 | 16 |
+| nyt | 0 | 0 | 13 | 17 |
 | breaking_defense | 0 | 0 | 11 | 16 |
 
 # Shown Order
@@ -2764,3 +2764,4 @@
 - **Jul 29, 06:49 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 29, 07:24 PM** - LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE (spacenews)
 - **Jul 29, 07:59 PM** - Space Force awards All Points $250 million to expand satellite processing at Vandenberg (spacenews)
+- **Jul 29, 08:34 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
