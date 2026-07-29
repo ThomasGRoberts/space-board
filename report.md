@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 14 | 25 |
 | nyt | 0 | 0 | 10 | 15 |
-| breaking_defense | 0 | 0 | 10 | 15 |
+| breaking_defense | 0 | 0 | 11 | 16 |
 
 # Shown Order
 
@@ -2746,3 +2746,4 @@
 - **Jul 29, 08:14 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 29, 08:49 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 29, 09:25 AM** - AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart (spacenews)
+- **Jul 29, 09:59 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
