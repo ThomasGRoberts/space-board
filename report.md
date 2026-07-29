@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 10 | 25 |
 | nyt | 0 | 0 | 6 | 15 |
-| breaking_defense | 0 | 0 | 6 | 15 |
+| breaking_defense | 0 | 0 | 7 | 16 |
 
 # Shown Order
 
@@ -2734,3 +2734,4 @@
 - **Jul 29, 01:14 AM** - Air Force takes over troubled military GPS receiver program (spacenews)
 - **Jul 29, 01:49 AM** - Boeing still working with NASA to schedule next Starliner flight (spacenews)
 - **Jul 29, 02:24 AM** - Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush (spacenews)
+- **Jul 29, 02:59 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
