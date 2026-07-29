@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-29T00:04:56.119666+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ce7345ed4251a13c6bab877738a09d29",
+    "trigger_count": 0,
+    "current_item_id": "3cc0543c4a51d09470aa79f68058f531",
     "data": [
         {
             "id": "93e02ec2c9009d6ab6d160b6fcd5da67",
@@ -8352,6 +8352,27 @@
             "shown_at": [
                 "2026-07-29T21:44:23.635603Z"
             ]
+        },
+        {
+            "id": "3cc0543c4a51d09470aa79f68058f531",
+            "source": "spacenews",
+            "text": "Proposed rule would exempt commercial launch licensing from environmental regulations",
+            "source_link": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T23:29:18.333165Z",
+            "shown_at": [
+                "2026-07-29T23:29:20.800538Z"
+            ]
+        },
+        {
+            "id": "a0e7fe282091f2b3982d221f729b8917",
+            "source": "spacenews",
+            "text": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
+            "source_link": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T23:29:18.333222Z"
         }
     ]
 }

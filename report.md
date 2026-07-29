@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 18 | 24 |
+| spacenews | 10 | 12 | 19 | 25 |
 | nyt | 0 | 0 | 12 | 17 |
 | breaking_defense | 1 | 1 | 11 | 16 |
 
@@ -2769,3 +2769,4 @@
 - **Jul 29, 09:44 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Jul 29, 10:19 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 29, 10:54 PM** - SpaceX conducts 13th Starship test flight (spacenews)
+- **Jul 29, 11:29 PM** - Proposed rule would exempt commercial launch licensing from environmental regulations (spacenews)
