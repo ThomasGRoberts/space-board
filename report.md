@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 15 | 24 |
 | nyt | 0 | 0 | 11 | 16 |
-| breaking_defense | 0 | 0 | 11 | 15 |
+| breaking_defense | 0 | 0 | 12 | 16 |
 
 # Shown Order
 
@@ -2749,3 +2749,4 @@
 - **Jul 29, 09:59 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 29, 10:34 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 29, 11:09 AM** - NASA programs feel effects of workforce reductions (spacenews)
+- **Jul 29, 11:49 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
