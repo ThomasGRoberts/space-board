@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 11 | 24 |
+| spacenews | 5 | 14 | 12 | 25 |
 | nyt | 0 | 0 | 8 | 16 |
 | breaking_defense | 0 | 0 | 8 | 15 |
 
@@ -2739,3 +2739,4 @@
 - **Jul 29, 04:09 AM** - Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech (spacenews)
 - **Jul 29, 04:44 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 29, 05:19 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 29, 05:54 AM** - NASA programs feel effects of workforce reductions (spacenews)
