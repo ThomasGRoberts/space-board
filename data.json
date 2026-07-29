@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-29T00:04:56.119666+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4c9010be1a438d6c43cdfa9e1cf8db6",
+    "trigger_count": 0,
+    "current_item_id": "90326d98340c9651e751c16664eb891f",
     "data": [
         {
             "id": "93e02ec2c9009d6ab6d160b6fcd5da67",
@@ -8245,9 +8245,12 @@
             "source": "spacenews",
             "text": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
             "source_link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-29T01:49:47.158654Z"
+            "fetched_datetime": "2026-07-29T01:49:47.158654Z",
+            "shown_at": [
+                "2026-07-29T02:24:33.724590Z"
+            ]
         }
     ]
 }
