@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-29T00:04:56.119666+00:00",
-    "trigger_count": 6,
-    "current_item_id": "babc7b743bb33ecb9ccce0562a7bf762",
+    "trigger_count": 0,
+    "current_item_id": "e4c9010be1a438d6c43cdfa9e1cf8db6",
     "data": [
         {
             "id": "93e02ec2c9009d6ab6d160b6fcd5da67",
@@ -8227,6 +8227,27 @@
                 "2026-05-16T18:34:26.754016Z",
                 "2026-05-18T21:39:21.892845Z"
             ]
+        },
+        {
+            "id": "e4c9010be1a438d6c43cdfa9e1cf8db6",
+            "source": "spacenews",
+            "text": "Boeing still working with NASA to schedule next Starliner flight",
+            "source_link": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T01:49:47.158602Z",
+            "shown_at": [
+                "2026-07-29T01:49:48.319487Z"
+            ]
+        },
+        {
+            "id": "90326d98340c9651e751c16664eb891f",
+            "source": "spacenews",
+            "text": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
+            "source_link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T01:49:47.158654Z"
         }
     ]
 }
