@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 7 | 23 |
+| spacenews | 3 | 12 | 8 | 24 |
 | nyt | 0 | 0 | 6 | 16 |
 | breaking_defense | 0 | 0 | 6 | 16 |
 
@@ -2731,3 +2731,4 @@
 - **Jul 28, 11:29 PM** - Swift reboost mission encounters attitude control problems (spacenews)
 - **Jul 29, 12:05 AM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 29, 12:39 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 29, 01:14 AM** - Air Force takes over troubled military GPS receiver program (spacenews)
