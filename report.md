@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 17 | 22 |
+| spacenews | 7 | 10 | 17 | 23 |
 | nyt | 0 | 0 | 12 | 17 |
 | breaking_defense | 0 | 0 | 12 | 16 |
 
@@ -2762,3 +2762,4 @@
 - **Jul 29, 05:39 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 29, 06:14 PM** - NASA and ESA facilities avoid major damage from wildfires in Spain (spacenews)
 - **Jul 29, 06:49 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 29, 07:24 PM** - LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE (spacenews)
