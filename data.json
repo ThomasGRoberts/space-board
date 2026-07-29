@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-29T00:04:56.119666+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c20bdb00cbd5b1df3fdf8750f35c82b8",
+    "trigger_count": 0,
+    "current_item_id": "e5b036da27e23627a4f853c4df76f3e1",
     "data": [
         {
             "id": "93e02ec2c9009d6ab6d160b6fcd5da67",
@@ -8325,6 +8325,18 @@
             "fetched_datetime": "2026-07-29T19:59:26.673940Z",
             "shown_at": [
                 "2026-07-29T19:59:27.523637Z"
+            ]
+        },
+        {
+            "id": "e5b036da27e23627a4f853c4df76f3e1",
+            "source": "spacenews",
+            "text": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
+            "source_link": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T21:09:14.862985Z",
+            "shown_at": [
+                "2026-07-29T21:09:17.623984Z"
             ]
         }
     ]
