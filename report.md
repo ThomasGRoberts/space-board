@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 10 | 25 |
-| nyt | 0 | 0 | 6 | 15 |
+| nyt | 0 | 0 | 7 | 16 |
 | breaking_defense | 0 | 0 | 7 | 15 |
 
 # Shown Order
@@ -2735,3 +2735,4 @@
 - **Jul 29, 01:49 AM** - Boeing still working with NASA to schedule next Starliner flight (spacenews)
 - **Jul 29, 02:24 AM** - Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush (spacenews)
 - **Jul 29, 02:59 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
+- **Jul 29, 03:35 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
