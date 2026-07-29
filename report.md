@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 17 | 22 |
-| nyt | 0 | 0 | 12 | 16 |
+| nyt | 0 | 0 | 13 | 17 |
 | breaking_defense | 0 | 0 | 12 | 17 |
 
 # Shown Order
@@ -2758,3 +2758,4 @@
 - **Jul 29, 03:20 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 29, 03:54 PM** - Extra $11 billion to fund huge leap in Space Force launches (breaking_defense)
 - **Jul 29, 04:29 PM** - Orbes unveils Exo-ORB and agreement with Symphony Space (spacenews)
+- **Jul 29, 05:04 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
