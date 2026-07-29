@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-29T00:04:56.119666+00:00",
-    "trigger_count": 6,
-    "current_item_id": "77fe21773cb1ebb5957da55e18ec1bfb",
+    "trigger_count": 0,
+    "current_item_id": "fb5672c5d48a5dd783c8f8fb3596ba58",
     "data": [
         {
             "id": "93e02ec2c9009d6ab6d160b6fcd5da67",
@@ -8312,6 +8312,18 @@
             "shown_at": [
                 "2026-07-29T14:44:58.165750Z",
                 "2026-07-29T19:24:55.424009Z"
+            ]
+        },
+        {
+            "id": "fb5672c5d48a5dd783c8f8fb3596ba58",
+            "source": "spacenews",
+            "text": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
+            "source_link": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T19:59:26.673940Z",
+            "shown_at": [
+                "2026-07-29T19:59:27.523637Z"
             ]
         }
     ]
