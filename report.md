@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 16 | 22 |
+| spacenews | 6 | 11 | 17 | 23 |
 | nyt | 0 | 0 | 12 | 17 |
 | breaking_defense | 0 | 0 | 12 | 16 |
 
@@ -2752,3 +2752,4 @@
 - **Jul 29, 11:49 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
 - **Jul 29, 12:25 PM** - H3 to launch next ispace lunar lander mission (spacenews)
 - **Jul 29, 12:59 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 29, 01:34 PM** - Fortastra and Hadrian join forces to streamline satellite production (spacenews)
