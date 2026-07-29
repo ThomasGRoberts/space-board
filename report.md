@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 15 | 23 |
+| spacenews | 5 | 12 | 16 | 24 |
 | nyt | 0 | 0 | 11 | 16 |
 | breaking_defense | 0 | 0 | 12 | 16 |
 
@@ -2750,3 +2750,4 @@
 - **Jul 29, 10:34 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 29, 11:09 AM** - NASA programs feel effects of workforce reductions (spacenews)
 - **Jul 29, 11:49 AM** - FCC approves satellite spectrum license streamlining (breaking_defense)
+- **Jul 29, 12:25 PM** - H3 to launch next ispace lunar lander mission (spacenews)

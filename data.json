@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-29T00:04:56.119666+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e992922f7be609479ef40db4ff823b05",
+    "trigger_count": 0,
+    "current_item_id": "07eb2420453c65986962c25fd61493b7",
     "data": [
         {
             "id": "93e02ec2c9009d6ab6d160b6fcd5da67",
@@ -8266,6 +8266,18 @@
             "fetched_datetime": "2026-07-29T01:49:47.158654Z",
             "shown_at": [
                 "2026-07-29T02:24:33.724590Z"
+            ]
+        },
+        {
+            "id": "07eb2420453c65986962c25fd61493b7",
+            "source": "spacenews",
+            "text": "H3 to launch next ispace lunar lander mission",
+            "source_link": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T12:24:59.694326Z",
+            "shown_at": [
+                "2026-07-29T12:25:04.344016Z"
             ]
         }
     ]
