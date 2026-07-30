@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-30T00:05:04.473047+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7d24fd18023e3ea6e0619770ec5d04a6",
+    "trigger_count": 0,
+    "current_item_id": "1c245ce28aebeebcc8247619c326da7d",
     "data": [
         {
             "id": "a0e7fe282091f2b3982d221f729b8917",
@@ -8242,6 +8242,18 @@
                 "2026-05-18T12:14:17.281388Z",
                 "2026-05-20T18:54:27.257147Z",
                 "2026-05-24T05:29:04.805537Z"
+            ]
+        },
+        {
+            "id": "1c245ce28aebeebcc8247619c326da7d",
+            "source": "spacenews",
+            "text": "Sophia Space and Caltech claim patent for space data centers",
+            "source_link": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-30T04:14:40.639520Z",
+            "shown_at": [
+                "2026-07-30T04:14:41.351413Z"
             ]
         }
     ]
