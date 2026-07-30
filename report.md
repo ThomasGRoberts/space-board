@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 17 | 34 |
-| breaking_defense | 1 | 1 | 11 | 23 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2764,3 +2764,4 @@
 - **Jul 30, 11:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Jul 30, 12:29 PM** - Rocket Lab wins another launch contract from Japan’s iQPS (spacenews)
 - **Jul 30, 01:05 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 30, 01:39 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
