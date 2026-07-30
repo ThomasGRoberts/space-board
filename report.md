@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 18 | 30 |
-| breaking_defense | 1 | 1 | 11 | 19 |
+| breaking_defense | 1 | 1 | 11 | 20 |
 | nyt | 0 | 0 | 12 | 20 |
 
 # Shown Order
@@ -2752,3 +2752,4 @@
 - **Jul 30, 04:49 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Jul 30, 05:24 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 30, 05:59 AM** - NASA programs feel effects of workforce reductions (spacenews)
+- **Jul 30, 06:34 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
