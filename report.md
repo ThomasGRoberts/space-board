@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 16 | 34 |
 | breaking_defense | 1 | 2 | 13 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2781,3 +2781,4 @@
 - **Jul 30, 09:54 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 30, 10:35 PM** - Fortastra and Hadrian join forces to streamline satellite production (spacenews)
 - **Jul 30, 11:09 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Jul 30, 11:44 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
