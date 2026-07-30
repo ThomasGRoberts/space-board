@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 17 | 27 |
 | breaking_defense | 1 | 1 | 11 | 18 |
-| nyt | 0 | 0 | 12 | 18 |
+| nyt | 0 | 0 | 13 | 19 |
 
 # Shown Order
 
@@ -2746,3 +2746,4 @@
 - **Jul 30, 01:14 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 30, 01:54 AM** - ULA deals with financial challenges caused by Vulcan grounding (spacenews)
 - **Jul 30, 02:29 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Jul 30, 03:04 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
