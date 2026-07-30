@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-30T00:05:04.473047+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5bee772f4a58987a5412fcf240168f8b",
+    "trigger_count": 0,
+    "current_item_id": "55b24b887776e373529037d2da0eb8e2",
     "data": [
         {
             "id": "a0e7fe282091f2b3982d221f729b8917",
@@ -8312,6 +8312,18 @@
             "fetched_datetime": "2026-07-30T18:54:22.211700Z",
             "shown_at": [
                 "2026-07-30T18:54:23.360687Z"
+            ]
+        },
+        {
+            "id": "55b24b887776e373529037d2da0eb8e2",
+            "source": "breaking_defense",
+            "text": "Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy",
+            "source_link": "https://breakingdefense.com/2026/07/senate-confirms-hurst-as-pentagon-comptroller-after-1-5-year-vacancy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-30T19:34:45.363372Z",
+            "shown_at": [
+                "2026-07-30T19:34:46.923778Z"
             ]
         }
     ]

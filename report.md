@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 18 | 35 |
-| breaking_defense | 1 | 1 | 11 | 23 |
+| breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2774,3 +2774,4 @@
 - **Jul 30, 05:44 PM** - NASA selects successor to CAPSTONE lunar mission (spacenews)
 - **Jul 30, 06:19 PM** - Roman Space Telescope on track for late August launch (spacenews)
 - **Jul 30, 06:54 PM** - K2 Space raises $500 million for commercial, defense satellite expansion (spacenews)
+- **Jul 30, 07:34 PM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
