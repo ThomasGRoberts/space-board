@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 18 | 30 |
 | breaking_defense | 1 | 1 | 11 | 20 |
-| nyt | 0 | 0 | 11 | 20 |
+| nyt | 0 | 0 | 12 | 21 |
 
 # Shown Order
 
@@ -2753,3 +2753,4 @@
 - **Jul 30, 05:24 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 30, 05:59 AM** - NASA programs feel effects of workforce reductions (spacenews)
 - **Jul 30, 06:34 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Jul 30, 07:09 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
