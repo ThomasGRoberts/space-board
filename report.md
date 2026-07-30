@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 18 | 26 |
+| spacenews | 7 | 12 | 18 | 27 |
 | breaking_defense | 1 | 1 | 11 | 17 |
 | nyt | 0 | 0 | 12 | 18 |
 
@@ -2744,3 +2744,4 @@
 - **Jul 30, 12:05 AM** - L3Harris delays missile business IPO to 2027 despite surging defense demand (spacenews)
 - **Jul 30, 12:39 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Jul 30, 01:14 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 30, 01:54 AM** - ULA deals with financial challenges caused by Vulcan grounding (spacenews)
