@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 17 | 35 |
+| spacenews | 6 | 14 | 18 | 36 |
 | breaking_defense | 1 | 2 | 12 | 23 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -2779,3 +2779,4 @@
 - **Jul 30, 08:44 PM** - AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart (spacenews)
 - **Jul 30, 09:19 PM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Jul 30, 09:54 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 30, 10:35 PM** - Fortastra and Hadrian join forces to streamline satellite production (spacenews)
