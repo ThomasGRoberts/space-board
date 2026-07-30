@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 18 | 29 |
-| breaking_defense | 1 | 1 | 10 | 18 |
+| breaking_defense | 1 | 1 | 11 | 19 |
 | nyt | 0 | 0 | 12 | 19 |
 
 # Shown Order
@@ -2749,3 +2749,4 @@
 - **Jul 30, 03:04 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 30, 03:39 AM** - EU delays release of Copernicus imagery over Gulf of Oman  (spacenews)
 - **Jul 30, 04:14 AM** - Sophia Space and Caltech claim patent for space data centers (spacenews)
+- **Jul 30, 04:49 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
