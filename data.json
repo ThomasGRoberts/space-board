@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-30T00:05:04.473047+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3fdbddc7ab09013d53b9002d85c592e5",
+    "trigger_count": 0,
+    "current_item_id": "f309a11f4caefe7d1ef6463c526cd6df",
     "data": [
         {
             "id": "a0e7fe282091f2b3982d221f729b8917",
@@ -8288,6 +8288,18 @@
             "fetched_datetime": "2026-07-30T12:29:06.969848Z",
             "shown_at": [
                 "2026-07-30T12:29:11.175591Z"
+            ]
+        },
+        {
+            "id": "f309a11f4caefe7d1ef6463c526cd6df",
+            "source": "spacenews",
+            "text": "Roman Space Telescope on track for late August launch",
+            "source_link": "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-30T18:19:32.386586Z",
+            "shown_at": [
+                "2026-07-30T18:19:34.170816Z"
             ]
         }
     ]
