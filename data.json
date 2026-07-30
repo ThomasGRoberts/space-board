@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-30T00:05:04.473047+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d040a4620fc9a5e17d580193a2df0ee3",
+    "trigger_count": 0,
+    "current_item_id": "85150d44e6cd669fba054f4845bc9f1c",
     "data": [
         {
             "id": "a0e7fe282091f2b3982d221f729b8917",
@@ -8267,6 +8267,18 @@
             "fetched_datetime": "2026-07-30T04:14:40.639520Z",
             "shown_at": [
                 "2026-07-30T04:14:41.351413Z"
+            ]
+        },
+        {
+            "id": "85150d44e6cd669fba054f4845bc9f1c",
+            "source": "spacenews",
+            "text": "Rocket Lab wins another launch contract from Japan’s iQPS",
+            "source_link": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-30T12:29:06.969848Z",
+            "shown_at": [
+                "2026-07-30T12:29:11.175591Z"
             ]
         }
     ]
