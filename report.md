@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 18 | 35 |
+| spacenews | 8 | 15 | 19 | 36 |
 | breaking_defense | 1 | 1 | 11 | 23 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -2773,3 +2773,4 @@
 - **Jul 30, 05:09 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Jul 30, 05:44 PM** - NASA selects successor to CAPSTONE lunar mission (spacenews)
 - **Jul 30, 06:19 PM** - Roman Space Telescope on track for late August launch (spacenews)
+- **Jul 30, 06:54 PM** - K2 Space raises $500 million for commercial, defense satellite expansion (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-30T00:05:04.473047+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f309a11f4caefe7d1ef6463c526cd6df",
+    "trigger_count": 0,
+    "current_item_id": "5bee772f4a58987a5412fcf240168f8b",
     "data": [
         {
             "id": "a0e7fe282091f2b3982d221f729b8917",
@@ -8300,6 +8300,18 @@
             "fetched_datetime": "2026-07-30T18:19:32.386586Z",
             "shown_at": [
                 "2026-07-30T18:19:34.170816Z"
+            ]
+        },
+        {
+            "id": "5bee772f4a58987a5412fcf240168f8b",
+            "source": "spacenews",
+            "text": "K2 Space raises $500 million for commercial, defense satellite expansion",
+            "source_link": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-30T18:54:22.211700Z",
+            "shown_at": [
+                "2026-07-30T18:54:23.360687Z"
             ]
         }
     ]
