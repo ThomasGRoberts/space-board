@@ -1,9 +1,130 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-29T00:04:56.119666+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3cc0543c4a51d09470aa79f68058f531",
+    "last_run_datetime": "2026-07-30T00:05:04.473047+00:00",
+    "trigger_count": 0,
+    "current_item_id": "a0e7fe282091f2b3982d221f729b8917",
     "data": [
+        {
+            "id": "a0e7fe282091f2b3982d221f729b8917",
+            "source": "spacenews",
+            "text": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
+            "source_link": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T23:29:18.333222Z",
+            "shown_at": [
+                "2026-07-30T00:05:10.389781Z"
+            ]
+        },
+        {
+            "id": "3cc0543c4a51d09470aa79f68058f531",
+            "source": "spacenews",
+            "text": "Proposed rule would exempt commercial launch licensing from environmental regulations",
+            "source_link": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T23:29:18.333165Z",
+            "shown_at": [
+                "2026-07-29T23:29:20.800538Z"
+            ]
+        },
+        {
+            "id": "d040a4620fc9a5e17d580193a2df0ee3",
+            "source": "breaking_defense",
+            "text": "SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats",
+            "source_link": "https://breakingdefense.com/2026/07/spacex-wins-1-6b-to-launch-space-force-sensing-and-targeting-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T21:44:21.328176Z",
+            "shown_at": [
+                "2026-07-29T21:44:23.635603Z"
+            ]
+        },
+        {
+            "id": "e5b036da27e23627a4f853c4df76f3e1",
+            "source": "spacenews",
+            "text": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
+            "source_link": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T21:09:14.862985Z",
+            "shown_at": [
+                "2026-07-29T21:09:17.623984Z"
+            ]
+        },
+        {
+            "id": "fb5672c5d48a5dd783c8f8fb3596ba58",
+            "source": "spacenews",
+            "text": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
+            "source_link": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T19:59:26.673940Z",
+            "shown_at": [
+                "2026-07-29T19:59:27.523637Z"
+            ]
+        },
+        {
+            "id": "77fe21773cb1ebb5957da55e18ec1bfb",
+            "source": "spacenews",
+            "text": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
+            "source_link": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T14:44:56.625018Z",
+            "shown_at": [
+                "2026-07-29T14:44:58.165750Z",
+                "2026-07-29T19:24:55.424009Z"
+            ]
+        },
+        {
+            "id": "6fc35b11e65b3d28bae67be43dcae3f7",
+            "source": "spacenews",
+            "text": "Fortastra and Hadrian join forces to streamline satellite production",
+            "source_link": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T13:34:43.654884Z",
+            "shown_at": [
+                "2026-07-29T13:34:44.499331Z"
+            ]
+        },
+        {
+            "id": "07eb2420453c65986962c25fd61493b7",
+            "source": "spacenews",
+            "text": "H3 to launch next ispace lunar lander mission",
+            "source_link": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T12:24:59.694326Z",
+            "shown_at": [
+                "2026-07-29T12:25:04.344016Z"
+            ]
+        },
+        {
+            "id": "90326d98340c9651e751c16664eb891f",
+            "source": "spacenews",
+            "text": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
+            "source_link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T01:49:47.158654Z",
+            "shown_at": [
+                "2026-07-29T02:24:33.724590Z"
+            ]
+        },
+        {
+            "id": "e4c9010be1a438d6c43cdfa9e1cf8db6",
+            "source": "spacenews",
+            "text": "Boeing still working with NASA to schedule next Starliner flight",
+            "source_link": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-29T01:49:47.158602Z",
+            "shown_at": [
+                "2026-07-29T01:49:48.319487Z"
+            ]
+        },
         {
             "id": "93e02ec2c9009d6ab6d160b6fcd5da67",
             "source": "spacenews",
@@ -8116,263 +8237,6 @@
                 "2026-05-20T18:54:27.257147Z",
                 "2026-05-24T05:29:04.805537Z"
             ]
-        },
-        {
-            "id": "678256d0fa63b1377736250685462b37",
-            "source": "spacenews",
-            "text": "The next war will be won — or lost — in orbit",
-            "source_link": "https://spacenews.com/the-next-war-will-be-won-or-lost-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T11:04:45.765008Z",
-            "shown_at": [
-                "2026-05-18T11:04:47.306465Z",
-                "2026-05-20T17:44:20.718260Z",
-                "2026-05-20T20:39:19.427493Z",
-                "2026-05-21T11:24:14.115250Z"
-            ]
-        },
-        {
-            "id": "ac8b3772e716775006e34715a8b09ba5",
-            "source": "spacenews",
-            "text": "Zenk Space raises $26 million, targets June debut launch ",
-            "source_link": "https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T02:49:13.919603Z",
-            "shown_at": [
-                "2026-05-18T02:49:14.669793Z",
-                "2026-05-18T16:59:13.718204Z"
-            ]
-        },
-        {
-            "id": "20f03b2653034c7adec4b4b8d2d69302",
-            "source": "spacenews",
-            "text": "NASA releases final RFP for Mars communications orbiter",
-            "source_link": "https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-16T22:38:59.924122Z",
-            "shown_at": [
-                "2026-05-16T22:39:01.434644Z",
-                "2026-05-23T05:49:21.949070Z",
-                "2026-05-23T07:34:28.793960Z"
-            ]
-        },
-        {
-            "id": "eb614f6875bc60c79697221c4a45ed3f",
-            "source": "spacenews",
-            "text": "York Space defends growth strategy as SDA programs are reshaped",
-            "source_link": "https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-16T22:04:29.238955Z",
-            "shown_at": [
-                "2026-05-16T22:04:30.395992Z",
-                "2026-05-22T19:04:45.510245Z",
-                "2026-05-22T20:49:09.732686Z"
-            ]
-        },
-        {
-            "id": "801d989694a4175c5507992985ab26b6",
-            "source": "spacenews",
-            "text": "Space Force awards Northrop Grumman $398 million satellite contract",
-            "source_link": "https://spacenews.com/space-force-awards-northrop-grumman-398-million-satellite-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-16T14:58:45.478797Z",
-            "shown_at": [
-                "2026-05-16T14:58:46.470054Z",
-                "2026-05-19T07:34:42.409937Z",
-                "2026-05-21T03:04:50.133133Z"
-            ]
-        },
-        {
-            "id": "a97df88bd06fc83448e33d45472f15fa",
-            "source": "spacenews",
-            "text": "SpaceX launches CRS-34 cargo mission to ISS",
-            "source_link": "https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-15T23:48:59.665511Z",
-            "shown_at": [
-                "2026-05-15T23:49:00.605565Z"
-            ]
-        },
-        {
-            "id": "9eab9a8126e074a4715e45dfe66008bf",
-            "source": "spacenews",
-            "text": "Starlink Mobile challengers back proposed telco-led D2D joint venture",
-            "source_link": "https://spacenews.com/starlink-mobile-challengers-back-proposed-telco-led-d2d-joint-venture/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-15T23:14:10.813898Z",
-            "shown_at": [
-                "2026-05-15T23:14:13.171356Z",
-                "2026-05-21T01:19:03.394862Z"
-            ]
-        },
-        {
-            "id": "ccf26e57abbeca86e8401cba9e152197",
-            "source": "spacenews",
-            "text": "Joint ESA-China SMILE mission set for launch to study Earth’s magnetic shield",
-            "source_link": "https://spacenews.com/joint-esa-china-smile-mission-set-for-launch-to-study-earths-magnetic-shield/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-15T18:34:25.369027Z",
-            "shown_at": [
-                "2026-05-15T18:34:26.454042Z",
-                "2026-05-17T16:19:03.086731Z"
-            ]
-        },
-        {
-            "id": "6931d8c03309e6bc495e94069032e44d",
-            "source": "spacenews",
-            "text": "Virgin Galactic reaffirms plans to begin commercial service this year",
-            "source_link": "https://spacenews.com/virgin-galactic-reaffirms-plans-to-begin-commercial-service-this-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-15T12:04:42.290029Z",
-            "shown_at": [
-                "2026-05-15T12:04:43.176816Z",
-                "2026-05-16T20:19:28.961233Z",
-                "2026-05-20T00:14:34.778509Z",
-                "2026-05-20T02:44:27.963505Z",
-                "2026-05-20T12:34:28.304021Z"
-            ]
-        },
-        {
-            "id": "a633e8b0a0894519649238ab5abdd87d",
-            "source": "spacenews",
-            "text": "Chinese satellite maker MinoSpace seeks $736 million in IPO",
-            "source_link": "https://spacenews.com/chinese-satellite-maker-minospace-seeks-736-million-in-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-15T09:44:16.864553Z",
-            "shown_at": [
-                "2026-05-15T09:44:17.716305Z",
-                "2026-05-15T17:24:03.927167Z",
-                "2026-05-16T18:34:26.754016Z",
-                "2026-05-18T21:39:21.892845Z"
-            ]
-        },
-        {
-            "id": "e4c9010be1a438d6c43cdfa9e1cf8db6",
-            "source": "spacenews",
-            "text": "Boeing still working with NASA to schedule next Starliner flight",
-            "source_link": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-29T01:49:47.158602Z",
-            "shown_at": [
-                "2026-07-29T01:49:48.319487Z"
-            ]
-        },
-        {
-            "id": "90326d98340c9651e751c16664eb891f",
-            "source": "spacenews",
-            "text": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
-            "source_link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-29T01:49:47.158654Z",
-            "shown_at": [
-                "2026-07-29T02:24:33.724590Z"
-            ]
-        },
-        {
-            "id": "07eb2420453c65986962c25fd61493b7",
-            "source": "spacenews",
-            "text": "H3 to launch next ispace lunar lander mission",
-            "source_link": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-29T12:24:59.694326Z",
-            "shown_at": [
-                "2026-07-29T12:25:04.344016Z"
-            ]
-        },
-        {
-            "id": "6fc35b11e65b3d28bae67be43dcae3f7",
-            "source": "spacenews",
-            "text": "Fortastra and Hadrian join forces to streamline satellite production",
-            "source_link": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-29T13:34:43.654884Z",
-            "shown_at": [
-                "2026-07-29T13:34:44.499331Z"
-            ]
-        },
-        {
-            "id": "77fe21773cb1ebb5957da55e18ec1bfb",
-            "source": "spacenews",
-            "text": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
-            "source_link": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-29T14:44:56.625018Z",
-            "shown_at": [
-                "2026-07-29T14:44:58.165750Z",
-                "2026-07-29T19:24:55.424009Z"
-            ]
-        },
-        {
-            "id": "fb5672c5d48a5dd783c8f8fb3596ba58",
-            "source": "spacenews",
-            "text": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
-            "source_link": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-29T19:59:26.673940Z",
-            "shown_at": [
-                "2026-07-29T19:59:27.523637Z"
-            ]
-        },
-        {
-            "id": "e5b036da27e23627a4f853c4df76f3e1",
-            "source": "spacenews",
-            "text": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
-            "source_link": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-29T21:09:14.862985Z",
-            "shown_at": [
-                "2026-07-29T21:09:17.623984Z"
-            ]
-        },
-        {
-            "id": "d040a4620fc9a5e17d580193a2df0ee3",
-            "source": "breaking_defense",
-            "text": "SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats",
-            "source_link": "https://breakingdefense.com/2026/07/spacex-wins-1-6b-to-launch-space-force-sensing-and-targeting-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-29T21:44:21.328176Z",
-            "shown_at": [
-                "2026-07-29T21:44:23.635603Z"
-            ]
-        },
-        {
-            "id": "3cc0543c4a51d09470aa79f68058f531",
-            "source": "spacenews",
-            "text": "Proposed rule would exempt commercial launch licensing from environmental regulations",
-            "source_link": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-29T23:29:18.333165Z",
-            "shown_at": [
-                "2026-07-29T23:29:20.800538Z"
-            ]
-        },
-        {
-            "id": "a0e7fe282091f2b3982d221f729b8917",
-            "source": "spacenews",
-            "text": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
-            "source_link": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-07-29T23:29:18.333222Z"
         }
     ]
 }
