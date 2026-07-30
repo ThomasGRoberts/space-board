@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 17 | 35 |
 | breaking_defense | 2 | 2 | 12 | 23 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2775,3 +2775,4 @@
 - **Jul 30, 06:19 PM** - Roman Space Telescope on track for late August launch (spacenews)
 - **Jul 30, 06:54 PM** - K2 Space raises $500 million for commercial, defense satellite expansion (spacenews)
 - **Jul 30, 07:34 PM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
+- **Jul 30, 08:09 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
