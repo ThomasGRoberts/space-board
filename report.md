@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 18 | 34 |
-| breaking_defense | 1 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| spacenews | 6 | 13 | 17 | 34 |
+| breaking_defense | 1 | 1 | 11 | 23 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2766,3 +2766,4 @@
 - **Jul 30, 01:05 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 30, 01:39 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Jul 30, 02:14 PM** - Poland commits $745 million to EU’s IRIS² constellation project (spacenews)
+- **Jul 30, 02:49 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
