@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 18 | 33 |
-| breaking_defense | 1 | 1 | 11 | 22 |
+| breaking_defense | 1 | 1 | 11 | 23 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2761,3 +2761,4 @@
 - **Jul 30, 10:09 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Jul 30, 10:44 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 30, 11:19 AM** - Blue Origin to test New Glenn upper stages at Stennis (spacenews)
+- **Jul 30, 11:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
