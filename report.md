@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 17 | 35 |
-| breaking_defense | 2 | 2 | 12 | 23 |
+| breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2777,3 +2777,4 @@
 - **Jul 30, 07:34 PM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Jul 30, 08:09 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 30, 08:44 PM** - AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart (spacenews)
+- **Jul 30, 09:19 PM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
