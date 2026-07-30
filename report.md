@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 19 | 26 |
-| breaking_defense | 1 | 1 | 10 | 16 |
-| nyt | 0 | 0 | 12 | 17 |
+| breaking_defense | 1 | 1 | 11 | 17 |
+| nyt | 0 | 0 | 11 | 17 |
 
 # Shown Order
 
@@ -2742,3 +2742,4 @@
 - **Jul 29, 10:54 PM** - SpaceX conducts 13th Starship test flight (spacenews)
 - **Jul 29, 11:29 PM** - Proposed rule would exempt commercial launch licensing from environmental regulations (spacenews)
 - **Jul 30, 12:05 AM** - L3Harris delays missile business IPO to 2027 despite surging defense demand (spacenews)
+- **Jul 30, 12:39 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
