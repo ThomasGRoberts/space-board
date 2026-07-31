@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 24 |
 | spacenews | 5 | 14 | 16 | 34 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2768,3 +2768,4 @@
 - **Jul 30, 11:44 PM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 31, 12:19 AM** - Rules of the road needed for orbital data center constellations (spacenews)
 - **Jul 31, 12:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Jul 31, 01:29 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
