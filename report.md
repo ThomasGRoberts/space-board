@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 24 |
-| spacenews | 4 | 12 | 15 | 33 |
-| nyt | 0 | 0 | 13 | 24 |
+| spacenews | 4 | 12 | 16 | 34 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2781,3 +2781,4 @@
 - **Jul 31, 07:19 AM** - K2 Space raises $500 million for commercial, defense satellite expansion (spacenews)
 - **Jul 31, 07:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Jul 31, 08:29 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 31, 09:05 AM** - LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT (spacenews)
