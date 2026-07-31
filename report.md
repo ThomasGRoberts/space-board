@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 12 | 24 |
+| breaking_defense | 1 | 2 | 13 | 25 |
 | spacenews | 5 | 12 | 16 | 33 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2770,3 +2770,4 @@
 - **Jul 31, 12:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Jul 31, 01:29 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 31, 02:05 AM** - SpaceNews Welcomes Max Aliprandi as Business Development Associate (spacenews)
+- **Jul 31, 02:39 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
