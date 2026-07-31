@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 13 | 24 |
 | spacenews | 7 | 13 | 15 | 32 |
-| nyt | 3 | 3 | 12 | 25 |
+| nyt | 3 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -2794,3 +2794,4 @@
 - **Jul 31, 02:59 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Jul 31, 03:34 PM** - Inside the effort to show Congress what war in space looks like (spacenews)
 - **Jul 31, 04:09 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
+- **Jul 31, 04:44 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)

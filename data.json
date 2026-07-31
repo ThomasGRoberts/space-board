@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-31T00:04:53.479797+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fc7a41525406b0375fb9728a0c12d105",
+    "trigger_count": 0,
+    "current_item_id": "3a8066caca34d8879890f893fa5cfd9f",
     "data": [
         {
             "id": "55b24b887776e373529037d2da0eb8e2",
@@ -8359,9 +8359,12 @@
             "source": "nyt",
             "text": "A.I. Data Centers in Space? A System to Cool Chips Could Help.",
             "source_link": "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-31T14:59:15.328504Z"
+            "fetched_datetime": "2026-07-31T14:59:15.328504Z",
+            "shown_at": [
+                "2026-07-31T16:44:51.530117Z"
+            ]
         },
         {
             "id": "d135d74073d6bf952099fde4e03e7887",
