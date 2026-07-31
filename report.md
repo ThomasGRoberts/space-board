@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 12 | 24 |
+| breaking_defense | 2 | 4 | 13 | 25 |
 | spacenews | 6 | 13 | 15 | 32 |
 | nyt | 3 | 3 | 13 | 25 |
 
@@ -2800,3 +2800,4 @@
 - **Jul 31, 06:38 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Jul 31, 07:14 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Jul 31, 07:49 PM** - Sophia Space and Caltech claim patent for space data centers (spacenews)
+- **Jul 31, 08:24 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
