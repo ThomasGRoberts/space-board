@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 12 | 23 |
+| breaking_defense | 3 | 4 | 13 | 24 |
 | spacenews | 7 | 13 | 15 | 33 |
 | nyt | 3 | 3 | 13 | 25 |
 
@@ -2793,3 +2793,4 @@
 - **Jul 31, 02:24 PM** - The new space wars: lessons from Ukraine and the Middle East (spacenews)
 - **Jul 31, 02:59 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Jul 31, 03:34 PM** - Inside the effort to show Congress what war in space looks like (spacenews)
+- **Jul 31, 04:09 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-31T00:04:53.479797+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d135d74073d6bf952099fde4e03e7887",
+    "trigger_count": 0,
+    "current_item_id": "fc7a41525406b0375fb9728a0c12d105",
     "data": [
         {
             "id": "55b24b887776e373529037d2da0eb8e2",
@@ -8383,6 +8383,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-07-31T15:34:56.164468Z"
+        },
+        {
+            "id": "fc7a41525406b0375fb9728a0c12d105",
+            "source": "breaking_defense",
+            "text": "Senate takes next steps toward confirming key Pentagon officials",
+            "source_link": "https://breakingdefense.com/2026/07/senate-confirms-hurst-as-pentagon-comptroller-after-1-5-year-vacancy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T16:09:25.265029Z",
+            "shown_at": [
+                "2026-07-31T16:09:26.172158Z"
+            ]
         }
     ]
 }
