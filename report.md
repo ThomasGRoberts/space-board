@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 12 | 25 |
 | spacenews | 7 | 13 | 15 | 32 |
-| nyt | 3 | 3 | 13 | 24 |
+| nyt | 3 | 3 | 14 | 25 |
 
 # Shown Order
 
@@ -2805,3 +2805,4 @@
 - **Jul 31, 09:35 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Jul 31, 10:09 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Jul 31, 10:44 PM** - Sophia Space and Caltech claim patent for space data centers (spacenews)
+- **Jul 31, 11:24 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
