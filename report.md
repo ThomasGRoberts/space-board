@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 12 | 24 |
+| breaking_defense | 2 | 3 | 13 | 25 |
 | spacenews | 5 | 12 | 15 | 32 |
 | nyt | 1 | 1 | 13 | 25 |
 
@@ -2789,3 +2789,4 @@
 - **Jul 31, 11:59 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 31, 12:34 PM** - NASA still assessing Starliner-1 flight opportunities (spacenews)
 - **Jul 31, 01:14 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Jul 31, 01:49 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
