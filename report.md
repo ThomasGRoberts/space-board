@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 24 |
-| spacenews | 4 | 12 | 15 | 33 |
+| spacenews | 4 | 12 | 16 | 34 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2784,3 +2784,4 @@
 - **Jul 31, 09:05 AM** - LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT (spacenews)
 - **Jul 31, 09:39 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Jul 31, 10:14 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 31, 10:49 AM** - Intel debuts new chip for space computing (spacenews)
