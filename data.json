@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-31T00:04:53.479797+00:00",
-    "trigger_count": 6,
-    "current_item_id": "adb5c7cb877dfadd20b2d9ccd7a96a27",
+    "trigger_count": 0,
+    "current_item_id": "f5db5d84e8414ea806f0fdd0bd42aec0",
     "data": [
         {
             "id": "55b24b887776e373529037d2da0eb8e2",
@@ -8400,6 +8400,18 @@
             "fetched_datetime": "2026-07-31T16:09:25.265029Z",
             "shown_at": [
                 "2026-07-31T16:09:26.172158Z"
+            ]
+        },
+        {
+            "id": "f5db5d84e8414ea806f0fdd0bd42aec0",
+            "source": "spacenews",
+            "text": "Spain commits up to $2.3 billion for national military communications for IRIS²",
+            "source_link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T17:59:19.872292Z",
+            "shown_at": [
+                "2026-07-31T17:59:20.685876Z"
             ]
         }
     ]
