@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-31T00:04:53.479797+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5813c7c79127ff8fd0a3b07e08d4caaa",
+    "trigger_count": 0,
+    "current_item_id": "a50fae1b57e8e6481f7e2f656844408b",
     "data": [
         {
             "id": "55b24b887776e373529037d2da0eb8e2",
@@ -8314,6 +8314,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-07-31T12:34:44.386632Z"
+        },
+        {
+            "id": "a50fae1b57e8e6481f7e2f656844408b",
+            "source": "nyt",
+            "text": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+            "source_link": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T13:14:43.745913Z",
+            "shown_at": [
+                "2026-07-31T13:14:45.083746Z"
+            ]
         }
     ]
 }

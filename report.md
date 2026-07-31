@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 24 |
 | spacenews | 5 | 13 | 15 | 33 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2788,3 +2788,4 @@
 - **Jul 31, 11:24 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Jul 31, 11:59 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 31, 12:34 PM** - NASA still assessing Starliner-1 flight opportunities (spacenews)
+- **Jul 31, 01:14 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
