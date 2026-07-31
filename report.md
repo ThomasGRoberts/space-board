@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 13 | 24 |
 | spacenews | 6 | 14 | 14 | 33 |
-| nyt | 3 | 3 | 13 | 24 |
+| nyt | 3 | 3 | 14 | 25 |
 
 # Shown Order
 
@@ -2798,3 +2798,4 @@
 - **Jul 31, 05:19 PM** - Space Force picks 15 companies for $981 million training range contract (spacenews)
 - **Jul 31, 05:59 PM** - Spain commits up to $2.3 billion for national military communications for IRIS² (spacenews)
 - **Jul 31, 06:38 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
+- **Jul 31, 07:14 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
