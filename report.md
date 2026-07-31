@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 24 |
 | spacenews | 4 | 12 | 15 | 33 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2786,3 +2786,4 @@
 - **Jul 31, 10:14 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 31, 10:49 AM** - Intel debuts new chip for space computing (spacenews)
 - **Jul 31, 11:24 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
+- **Jul 31, 11:59 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
