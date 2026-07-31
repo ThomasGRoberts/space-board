@@ -2,17 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 16 | 34 |
 | breaking_defense | 1 | 2 | 13 | 24 |
+| spacenews | 4 | 13 | 16 | 34 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
-- **May 18, 12:14 PM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
-- **May 18, 12:54 PM** - House bill restores funding for TraCSS (spacenews)
-- **May 18, 01:29 PM** - New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure (spacenews)
-- **May 18, 03:14 PM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
-- **May 18, 06:09 PM** - Four NASA payloads to fly on Astrolab’s first lunar rover (spacenews)
 - **May 18, 07:54 PM** - European imaging companies step in to fill warzone gap (spacenews)
 - **May 19, 05:49 AM** - ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere (spacenews)
 - **May 19, 09:18 AM** - Anderson confirmed as NASA deputy administrator (spacenews)
@@ -20,12 +15,10 @@
 - **May 19, 02:04 PM** - Lynk and Anterix get FCC nod to test satellite D2D for private utility networks (spacenews)
 - **May 19, 03:14 PM** - Startup challenging satellite industry’s multi-orbit playbook (spacenews)
 - **May 19, 03:49 PM** - Portal Space taps Quindar for ground mission support of its maneuvering spacecraft (spacenews)
-- **May 19, 07:19 PM** - New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure (spacenews)
 - **May 19, 09:09 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 19, 09:44 PM** - SDA director Sandhoo takes on broader Space Force missile warning portfolio (spacenews)
 - **May 20, 02:09 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 20, 03:54 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
-- **May 20, 04:29 AM** - Four NASA payloads to fly on Astrolab’s first lunar rover (spacenews)
 - **May 20, 09:04 AM** - SDA director Sandhoo takes on broader Space Force missile warning portfolio (spacenews)
 - **May 20, 10:14 AM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
 - **May 20, 11:59 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
@@ -37,7 +30,6 @@
 - **May 20, 04:21 PM** - Report finds U.S. space supply chains rely heavily on Chinese manufacturing (spacenews)
 - **May 20, 05:09 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
 - **May 20, 06:19 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
-- **May 20, 06:54 PM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
 - **May 20, 07:29 PM** - U.S. ‘more prepared’ for next WRC (spacenews)
 - **May 20, 08:04 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 20, 09:14 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
@@ -104,7 +96,6 @@
 - **May 22, 08:14 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 22, 09:24 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 22, 09:59 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
-- **May 22, 10:34 PM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
 - **May 22, 11:14 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 22, 11:49 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 23, 12:24 AM** - Rocket Lab wins first GEO satellite production contract from U.S. Space Force (spacenews)
@@ -120,7 +111,6 @@
 - **May 23, 06:59 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 23, 08:09 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 23, 08:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
-- **May 23, 09:19 AM** - House bill restores funding for TraCSS (spacenews)
 - **May 23, 09:58 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 23, 10:39 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 23, 11:14 AM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
@@ -147,13 +137,11 @@
 - **May 24, 12:09 AM** - U.S. ‘more prepared’ for next WRC (spacenews)
 - **May 24, 12:44 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 24, 01:19 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
-- **May 24, 01:54 AM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
 - **May 24, 02:29 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 24, 03:04 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 24, 03:44 AM** - Vast announces line of high-power satellite buses (spacenews)
 - **May 24, 04:19 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 24, 04:53 AM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
-- **May 24, 05:29 AM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
 - **May 24, 06:04 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 24, 06:39 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 24, 07:14 AM** - SpaceX launches first Starship V3 (spacenews)
@@ -161,7 +149,6 @@
 - **May 24, 08:24 AM** - NASA to add missions to SpaceX commercial crew contract (spacenews)
 - **May 24, 08:59 AM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
 - **May 24, 09:34 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
-- **May 24, 10:09 AM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
 - **May 24, 10:44 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 24, 11:19 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 24, 11:54 AM** - Rocket Lab launches ninth Synspective satellite (spacenews)
@@ -187,7 +174,6 @@
 - **May 24, 11:49 PM** - Startup challenging satellite industry’s multi-orbit playbook (spacenews)
 - **May 25, 12:24 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 25, 12:59 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
-- **May 25, 01:34 AM** - New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure (spacenews)
 - **May 25, 02:09 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 25, 02:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 25, 03:19 AM** - Rocket Lab launches ninth Synspective satellite (spacenews)
@@ -199,10 +185,8 @@
 - **May 25, 06:49 AM** - U.S. ‘more prepared’ for next WRC (spacenews)
 - **May 25, 07:29 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 25, 08:04 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
-- **May 25, 08:39 AM** - House bill restores funding for TraCSS (spacenews)
 - **May 25, 09:24 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 25, 09:59 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
-- **May 25, 10:34 AM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
 - **May 25, 11:09 AM** - Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not. (spacenews)
 - **May 25, 11:49 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 25, 12:29 PM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)

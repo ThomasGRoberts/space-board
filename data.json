@@ -1,9 +1,70 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-30T00:05:04.473047+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-07-31T00:04:53.479797+00:00",
+    "trigger_count": 4,
     "current_item_id": "c20bdb00cbd5b1df3fdf8750f35c82b8",
     "data": [
+        {
+            "id": "55b24b887776e373529037d2da0eb8e2",
+            "source": "breaking_defense",
+            "text": "Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy",
+            "source_link": "https://breakingdefense.com/2026/07/senate-confirms-hurst-as-pentagon-comptroller-after-1-5-year-vacancy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-30T19:34:45.363372Z",
+            "shown_at": [
+                "2026-07-30T19:34:46.923778Z",
+                "2026-07-30T21:19:29.209426Z"
+            ]
+        },
+        {
+            "id": "5bee772f4a58987a5412fcf240168f8b",
+            "source": "spacenews",
+            "text": "K2 Space raises $500 million for commercial, defense satellite expansion",
+            "source_link": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-30T18:54:22.211700Z",
+            "shown_at": [
+                "2026-07-30T18:54:23.360687Z"
+            ]
+        },
+        {
+            "id": "f309a11f4caefe7d1ef6463c526cd6df",
+            "source": "spacenews",
+            "text": "Roman Space Telescope on track for late August launch",
+            "source_link": "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-30T18:19:32.386586Z",
+            "shown_at": [
+                "2026-07-30T18:19:34.170816Z"
+            ]
+        },
+        {
+            "id": "85150d44e6cd669fba054f4845bc9f1c",
+            "source": "spacenews",
+            "text": "Rocket Lab wins another launch contract from Japan’s iQPS",
+            "source_link": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-30T12:29:06.969848Z",
+            "shown_at": [
+                "2026-07-30T12:29:11.175591Z"
+            ]
+        },
+        {
+            "id": "1c245ce28aebeebcc8247619c326da7d",
+            "source": "spacenews",
+            "text": "Sophia Space and Caltech claim patent for space data centers",
+            "source_link": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-30T04:14:40.639520Z",
+            "shown_at": [
+                "2026-07-30T04:14:41.351413Z"
+            ]
+        },
         {
             "id": "a0e7fe282091f2b3982d221f729b8917",
             "source": "spacenews",
@@ -8199,138 +8260,6 @@
             "fetched_datetime": "2026-05-18T19:54:27.730916Z",
             "shown_at": [
                 "2026-05-18T19:54:28.736336Z"
-            ]
-        },
-        {
-            "id": "2583c1a9e015659d994270e9be443ddf",
-            "source": "spacenews",
-            "text": "Four NASA payloads to fly on Astrolab’s first lunar rover",
-            "source_link": "https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T18:09:26.747596Z",
-            "shown_at": [
-                "2026-05-18T18:09:28.122072Z",
-                "2026-05-20T04:29:13.653933Z"
-            ]
-        },
-        {
-            "id": "44b346c1eab7e8728dc3e778d0cc8a16",
-            "source": "spacenews",
-            "text": "Inside Golden Dome’s push to court commercial tech firms and investors",
-            "source_link": "https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T15:14:22.507364Z",
-            "shown_at": [
-                "2026-05-18T15:14:24.188687Z",
-                "2026-05-22T22:34:18.908540Z",
-                "2026-05-24T01:54:20.292845Z",
-                "2026-05-24T10:09:21.890238Z",
-                "2026-05-25T10:34:31.647131Z"
-            ]
-        },
-        {
-            "id": "37f06e9ca16537cd4e87c2cd123524e3",
-            "source": "spacenews",
-            "text": "New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure",
-            "source_link": "https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T12:14:15.824844Z",
-            "shown_at": [
-                "2026-05-18T13:29:22.350467Z",
-                "2026-05-19T19:19:24.648651Z",
-                "2026-05-25T01:34:21.336757Z"
-            ]
-        },
-        {
-            "id": "ee8e065f42c5cf584113c2110c62aa40",
-            "source": "spacenews",
-            "text": "House bill restores funding for TraCSS",
-            "source_link": "https://spacenews.com/house-bill-restores-funding-for-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T12:14:15.824775Z",
-            "shown_at": [
-                "2026-05-18T12:54:05.256162Z",
-                "2026-05-23T09:19:23.690740Z",
-                "2026-05-25T08:39:15.140116Z"
-            ]
-        },
-        {
-            "id": "096c81041916c7502aaeec7566e105d3",
-            "source": "spacenews",
-            "text": "Tomorrow.io adds $35 million to DeepSky funding round",
-            "source_link": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T12:14:15.824714Z",
-            "shown_at": [
-                "2026-05-18T12:14:17.281388Z",
-                "2026-05-20T18:54:27.257147Z",
-                "2026-05-24T05:29:04.805537Z"
-            ]
-        },
-        {
-            "id": "1c245ce28aebeebcc8247619c326da7d",
-            "source": "spacenews",
-            "text": "Sophia Space and Caltech claim patent for space data centers",
-            "source_link": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-30T04:14:40.639520Z",
-            "shown_at": [
-                "2026-07-30T04:14:41.351413Z"
-            ]
-        },
-        {
-            "id": "85150d44e6cd669fba054f4845bc9f1c",
-            "source": "spacenews",
-            "text": "Rocket Lab wins another launch contract from Japan’s iQPS",
-            "source_link": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-30T12:29:06.969848Z",
-            "shown_at": [
-                "2026-07-30T12:29:11.175591Z"
-            ]
-        },
-        {
-            "id": "f309a11f4caefe7d1ef6463c526cd6df",
-            "source": "spacenews",
-            "text": "Roman Space Telescope on track for late August launch",
-            "source_link": "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-30T18:19:32.386586Z",
-            "shown_at": [
-                "2026-07-30T18:19:34.170816Z"
-            ]
-        },
-        {
-            "id": "5bee772f4a58987a5412fcf240168f8b",
-            "source": "spacenews",
-            "text": "K2 Space raises $500 million for commercial, defense satellite expansion",
-            "source_link": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-30T18:54:22.211700Z",
-            "shown_at": [
-                "2026-07-30T18:54:23.360687Z"
-            ]
-        },
-        {
-            "id": "55b24b887776e373529037d2da0eb8e2",
-            "source": "breaking_defense",
-            "text": "Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy",
-            "source_link": "https://breakingdefense.com/2026/07/senate-confirms-hurst-as-pentagon-comptroller-after-1-5-year-vacancy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-30T19:34:45.363372Z",
-            "shown_at": [
-                "2026-07-30T19:34:46.923778Z",
-                "2026-07-30T21:19:29.209426Z"
             ]
         }
     ]
