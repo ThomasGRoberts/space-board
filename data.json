@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-31T00:04:53.479797+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5e95b3158798a6ced6ed5e99f2293ef8",
+    "trigger_count": 0,
+    "current_item_id": "3d481fde71f80f0fb8c2155dc7d5974e",
     "data": [
         {
             "id": "55b24b887776e373529037d2da0eb8e2",
@@ -8311,9 +8311,12 @@
             "source": "spacenews",
             "text": "The new space wars: lessons from Ukraine and the Middle East",
             "source_link": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-31T12:34:44.386632Z"
+            "fetched_datetime": "2026-07-31T12:34:44.386632Z",
+            "shown_at": [
+                "2026-07-31T14:24:49.075431Z"
+            ]
         },
         {
             "id": "a50fae1b57e8e6481f7e2f656844408b",

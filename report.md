@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 24 |
-| spacenews | 5 | 12 | 14 | 32 |
+| spacenews | 5 | 12 | 15 | 33 |
 | nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2790,3 +2790,4 @@
 - **Jul 31, 12:34 PM** - NASA still assessing Starliner-1 flight opportunities (spacenews)
 - **Jul 31, 01:14 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Jul 31, 01:49 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
+- **Jul 31, 02:24 PM** - The new space wars: lessons from Ukraine and the Middle East (spacenews)
