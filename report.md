@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 24 |
 | spacenews | 5 | 11 | 15 | 32 |
-| nyt | 1 | 1 | 12 | 25 |
+| nyt | 3 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -2791,3 +2791,4 @@
 - **Jul 31, 01:14 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Jul 31, 01:49 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Jul 31, 02:24 PM** - The new space wars: lessons from Ukraine and the Middle East (spacenews)
+- **Jul 31, 02:59 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)

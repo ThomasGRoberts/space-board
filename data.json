@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-31T00:04:53.479797+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3d481fde71f80f0fb8c2155dc7d5974e",
+    "trigger_count": 0,
+    "current_item_id": "8d3392db14b81e8bc2c4e26c5d1801ef",
     "data": [
         {
             "id": "55b24b887776e373529037d2da0eb8e2",
@@ -8341,6 +8341,27 @@
             "shown_at": [
                 "2026-07-31T13:49:25.180079Z"
             ]
+        },
+        {
+            "id": "8d3392db14b81e8bc2c4e26c5d1801ef",
+            "source": "nyt",
+            "text": "Mission to Save Falling NASA Space Telescope Suffers Setback",
+            "source_link": "https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T14:59:15.328438Z",
+            "shown_at": [
+                "2026-07-31T14:59:16.325106Z"
+            ]
+        },
+        {
+            "id": "3a8066caca34d8879890f893fa5cfd9f",
+            "source": "nyt",
+            "text": "A.I. Data Centers in Space? A System to Cool Chips Could Help.",
+            "source_link": "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T14:59:15.328504Z"
         }
     ]
 }
