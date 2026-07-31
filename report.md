@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 24 |
-| spacenews | 3 | 11 | 14 | 32 |
+| spacenews | 5 | 13 | 15 | 33 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2787,3 +2787,4 @@
 - **Jul 31, 10:49 AM** - Intel debuts new chip for space computing (spacenews)
 - **Jul 31, 11:24 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Jul 31, 11:59 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 31, 12:34 PM** - NASA still assessing Starliner-1 flight opportunities (spacenews)
