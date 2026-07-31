@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 12 | 24 |
-| spacenews | 5 | 11 | 15 | 32 |
+| spacenews | 7 | 13 | 16 | 33 |
 | nyt | 3 | 3 | 13 | 25 |
 
 # Shown Order
@@ -2792,3 +2792,4 @@
 - **Jul 31, 01:49 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Jul 31, 02:24 PM** - The new space wars: lessons from Ukraine and the Middle East (spacenews)
 - **Jul 31, 02:59 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
+- **Jul 31, 03:34 PM** - Inside the effort to show Congress what war in space looks like (spacenews)
