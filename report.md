@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 24 |
 | spacenews | 4 | 12 | 15 | 33 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2777,3 +2777,4 @@
 - **Jul 31, 04:59 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
 - **Jul 31, 05:34 AM** - Air Force takes over troubled military GPS receiver program (spacenews)
 - **Jul 31, 06:09 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Jul 31, 06:44 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
