@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 12 | 24 |
+| breaking_defense | 3 | 4 | 13 | 25 |
 | spacenews | 7 | 13 | 15 | 32 |
 | nyt | 3 | 3 | 13 | 25 |
 
@@ -2803,3 +2803,4 @@
 - **Jul 31, 08:24 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Jul 31, 08:59 PM** - Sending repurposed Mars rover to the moon could cost more than $1 billion (spacenews)
 - **Jul 31, 09:35 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Jul 31, 10:09 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)

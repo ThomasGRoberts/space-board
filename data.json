@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-31T00:04:53.479797+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a50fae1b57e8e6481f7e2f656844408b",
+    "trigger_count": 0,
+    "current_item_id": "f3ebe5b6bec9a5a05ee5449d0ad4696b",
     "data": [
         {
             "id": "55b24b887776e373529037d2da0eb8e2",
@@ -8429,6 +8429,18 @@
             "fetched_datetime": "2026-07-31T20:59:37.193383Z",
             "shown_at": [
                 "2026-07-31T20:59:38.340980Z"
+            ]
+        },
+        {
+            "id": "f3ebe5b6bec9a5a05ee5449d0ad4696b",
+            "source": "breaking_defense",
+            "text": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
+            "source_link": "https://breakingdefense.com/2026/07/facing-a-lack-of-kit-space-force-creates-981m-pool-to-buy-training-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T22:09:32.746131Z",
+            "shown_at": [
+                "2026-07-31T22:09:33.602060Z"
             ]
         }
     ]
