@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 24 |
-| spacenews | 4 | 12 | 15 | 33 |
+| spacenews | 4 | 12 | 16 | 34 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2775,3 +2775,4 @@
 - **Jul 31, 03:49 AM** - Space Force awards All Points $250 million to expand satellite processing at Vandenberg (spacenews)
 - **Jul 31, 04:24 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Jul 31, 04:59 AM** - He’s the Last Great Land Artist You’ve Never Heard Of (nyt)
+- **Jul 31, 05:34 AM** - Air Force takes over troubled military GPS receiver program (spacenews)
