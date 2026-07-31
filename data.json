@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-31T00:04:53.479797+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3a8066caca34d8879890f893fa5cfd9f",
+    "trigger_count": 0,
+    "current_item_id": "adb5c7cb877dfadd20b2d9ccd7a96a27",
     "data": [
         {
             "id": "55b24b887776e373529037d2da0eb8e2",
@@ -8383,9 +8383,12 @@
             "source": "spacenews",
             "text": "Space Force picks 15 companies for $981 million training range contract",
             "source_link": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-31T15:34:56.164468Z"
+            "fetched_datetime": "2026-07-31T15:34:56.164468Z",
+            "shown_at": [
+                "2026-07-31T17:19:30.407155Z"
+            ]
         },
         {
             "id": "fc7a41525406b0375fb9728a0c12d105",

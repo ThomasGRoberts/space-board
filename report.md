@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 12 | 24 |
-| spacenews | 7 | 13 | 15 | 32 |
+| spacenews | 7 | 13 | 16 | 33 |
 | nyt | 3 | 3 | 13 | 25 |
 
 # Shown Order
@@ -2795,3 +2795,4 @@
 - **Jul 31, 03:34 PM** - Inside the effort to show Congress what war in space looks like (spacenews)
 - **Jul 31, 04:09 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Jul 31, 04:44 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
+- **Jul 31, 05:19 PM** - Space Force picks 15 companies for $981 million training range contract (spacenews)
