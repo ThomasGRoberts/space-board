@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 25 |
-| spacenews | 6 | 13 | 14 | 32 |
+| spacenews | 7 | 14 | 15 | 33 |
 | nyt | 3 | 3 | 13 | 24 |
 
 # Shown Order
@@ -2801,3 +2801,4 @@
 - **Jul 31, 07:14 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Jul 31, 07:49 PM** - Sophia Space and Caltech claim patent for space data centers (spacenews)
 - **Jul 31, 08:24 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
+- **Jul 31, 08:59 PM** - Sending repurposed Mars rover to the moon could cost more than $1 billion (spacenews)
