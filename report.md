@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 4 | 12 | 25 |
+| breaking_defense | 3 | 4 | 13 | 26 |
 | spacenews | 7 | 11 | 15 | 31 |
 | nyt | 3 | 3 | 13 | 25 |
 
@@ -2806,3 +2806,4 @@
 - **Jul 31, 10:09 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Jul 31, 10:44 PM** - Sophia Space and Caltech claim patent for space data centers (spacenews)
 - **Jul 31, 11:24 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Jul 31, 11:59 PM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
