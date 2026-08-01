@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 13 | 25 |
 | spacenews | 3 | 10 | 15 | 31 |
-| nyt | 0 | 3 | 12 | 25 |
+| nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -2774,3 +2774,4 @@
 - **Aug 01, 02:14 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 01, 02:49 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 01, 03:24 PM** - SpaceNews Welcomes Max Aliprandi as Business Development Associate (spacenews)
+- **Aug 01, 03:59 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
