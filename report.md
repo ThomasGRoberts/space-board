@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 4 | 13 | 26 |
-| spacenews | 4 | 9 | 15 | 30 |
+| breaking_defense | 3 | 4 | 13 | 25 |
+| spacenews | 5 | 10 | 16 | 31 |
 | nyt | 2 | 3 | 12 | 25 |
 
 # Shown Order
@@ -2770,3 +2770,4 @@
 - **Aug 01, 11:54 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 01, 12:29 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 01, 01:05 PM** - Orbes unveils Exo-ORB and agreement with Symphony Space (spacenews)
+- **Aug 01, 01:39 PM** - China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat (spacenews)

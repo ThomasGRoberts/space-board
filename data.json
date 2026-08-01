@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-01T00:05:10.771186+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f2cdd413300ef7dc2376ae5ef0c1dfd9",
+    "trigger_count": 0,
+    "current_item_id": "822e3c8296fcccbab617f67c200f33d5",
     "data": [
         {
             "id": "f3ebe5b6bec9a5a05ee5449d0ad4696b",
@@ -8264,6 +8264,18 @@
             "fetched_datetime": "2026-05-20T15:09:21.672455Z",
             "shown_at": [
                 "2026-05-20T15:44:26.167284Z"
+            ]
+        },
+        {
+            "id": "822e3c8296fcccbab617f67c200f33d5",
+            "source": "spacenews",
+            "text": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
+            "source_link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-01T13:39:35.301672Z",
+            "shown_at": [
+                "2026-08-01T13:39:36.133897Z"
             ]
         }
     ]
