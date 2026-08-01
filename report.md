@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 13 | 26 |
-| spacenews | 3 | 10 | 15 | 30 |
+| breaking_defense | 1 | 4 | 13 | 25 |
+| spacenews | 3 | 10 | 16 | 31 |
 | nyt | 0 | 3 | 12 | 25 |
 
 # Shown Order
@@ -2776,3 +2776,4 @@
 - **Aug 01, 03:24 PM** - SpaceNews Welcomes Max Aliprandi as Business Development Associate (spacenews)
 - **Aug 01, 03:59 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 01, 04:39 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
+- **Aug 01, 05:14 PM** - Sophia Space and Caltech claim patent for space data centers (spacenews)
