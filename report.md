@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 12 | 26 |
 | spacenews | 6 | 10 | 15 | 30 |
-| nyt | 3 | 3 | 13 | 25 |
+| nyt | 3 | 3 | 14 | 26 |
 
 # Shown Order
 
@@ -2761,3 +2761,4 @@
 - **Aug 01, 06:34 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 01, 07:09 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 01, 07:44 AM** - Fortastra and Hadrian join forces to streamline satellite production (spacenews)
+- **Aug 01, 08:19 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
