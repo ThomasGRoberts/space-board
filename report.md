@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 4 | 12 | 25 |
+| breaking_defense | 3 | 4 | 13 | 26 |
 | spacenews | 6 | 11 | 15 | 31 |
 | nyt | 3 | 3 | 13 | 25 |
 
@@ -2750,3 +2750,4 @@
 - **Jul 31, 11:59 PM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Aug 01, 12:34 AM** - Sophia Space and Caltech claim patent for space data centers (spacenews)
 - **Aug 01, 01:09 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 01, 01:44 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
