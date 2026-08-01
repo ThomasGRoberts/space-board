@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 4 | 12 | 25 |
+| breaking_defense | 3 | 4 | 13 | 26 |
 | spacenews | 6 | 10 | 15 | 30 |
 | nyt | 3 | 3 | 13 | 26 |
 
@@ -2762,3 +2762,4 @@
 - **Aug 01, 07:09 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 01, 07:44 AM** - Fortastra and Hadrian join forces to streamline satellite production (spacenews)
 - **Aug 01, 08:19 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
+- **Aug 01, 08:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
