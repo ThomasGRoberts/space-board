@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 12 | 25 |
+| breaking_defense | 1 | 4 | 13 | 26 |
 | spacenews | 3 | 10 | 15 | 30 |
-| nyt | 0 | 3 | 13 | 26 |
+| nyt | 0 | 3 | 13 | 25 |
 
 # Shown Order
 
@@ -2775,3 +2775,4 @@
 - **Aug 01, 02:49 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 01, 03:24 PM** - SpaceNews Welcomes Max Aliprandi as Business Development Associate (spacenews)
 - **Aug 01, 03:59 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 01, 04:39 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
