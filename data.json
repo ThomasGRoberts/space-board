@@ -1,9 +1,170 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-07-31T00:04:53.479797+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-08-01T00:05:10.771186+00:00",
+    "trigger_count": 1,
     "current_item_id": "55b24b887776e373529037d2da0eb8e2",
     "data": [
+        {
+            "id": "f3ebe5b6bec9a5a05ee5449d0ad4696b",
+            "source": "breaking_defense",
+            "text": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
+            "source_link": "https://breakingdefense.com/2026/07/facing-a-lack-of-kit-space-force-creates-981m-pool-to-buy-training-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T22:09:32.746131Z",
+            "shown_at": [
+                "2026-07-31T22:09:33.602060Z"
+            ]
+        },
+        {
+            "id": "893ffc1eca4fa63ec30e9fe3f0d6f4f0",
+            "source": "spacenews",
+            "text": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
+            "source_link": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T20:59:37.193383Z",
+            "shown_at": [
+                "2026-07-31T20:59:38.340980Z"
+            ]
+        },
+        {
+            "id": "f5db5d84e8414ea806f0fdd0bd42aec0",
+            "source": "spacenews",
+            "text": "Spain commits up to $2.3 billion for national military communications for IRIS²",
+            "source_link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T17:59:19.872292Z",
+            "shown_at": [
+                "2026-07-31T17:59:20.685876Z"
+            ]
+        },
+        {
+            "id": "fc7a41525406b0375fb9728a0c12d105",
+            "source": "breaking_defense",
+            "text": "Senate takes next steps toward confirming key Pentagon officials",
+            "source_link": "https://breakingdefense.com/2026/07/senate-confirms-hurst-as-pentagon-comptroller-after-1-5-year-vacancy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T16:09:25.265029Z",
+            "shown_at": [
+                "2026-07-31T16:09:26.172158Z",
+                "2026-07-31T18:38:59.249581Z",
+                "2026-07-31T20:24:33.636405Z"
+            ]
+        },
+        {
+            "id": "adb5c7cb877dfadd20b2d9ccd7a96a27",
+            "source": "spacenews",
+            "text": "Space Force picks 15 companies for $981 million training range contract",
+            "source_link": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T15:34:56.164468Z",
+            "shown_at": [
+                "2026-07-31T17:19:30.407155Z"
+            ]
+        },
+        {
+            "id": "d135d74073d6bf952099fde4e03e7887",
+            "source": "spacenews",
+            "text": "Inside the effort to show Congress what war in space looks like",
+            "source_link": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T15:34:56.164396Z",
+            "shown_at": [
+                "2026-07-31T15:34:57.287574Z"
+            ]
+        },
+        {
+            "id": "3a8066caca34d8879890f893fa5cfd9f",
+            "source": "nyt",
+            "text": "A.I. Data Centers in Space? A System to Cool Chips Could Help.",
+            "source_link": "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T14:59:15.328504Z",
+            "shown_at": [
+                "2026-07-31T16:44:51.530117Z",
+                "2026-07-31T19:14:26.583087Z"
+            ]
+        },
+        {
+            "id": "8d3392db14b81e8bc2c4e26c5d1801ef",
+            "source": "nyt",
+            "text": "Mission to Save Falling NASA Space Telescope Suffers Setback",
+            "source_link": "https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T14:59:15.328438Z",
+            "shown_at": [
+                "2026-07-31T14:59:16.325106Z"
+            ]
+        },
+        {
+            "id": "5e95b3158798a6ced6ed5e99f2293ef8",
+            "source": "breaking_defense",
+            "text": "Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027",
+            "source_link": "https://breakingdefense.com/2026/07/light-at-the-end-of-m-codes-tunnel-receivers-for-ships-planes-to-finish-tests-by-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T13:49:24.202872Z",
+            "shown_at": [
+                "2026-07-31T13:49:25.180079Z"
+            ]
+        },
+        {
+            "id": "a50fae1b57e8e6481f7e2f656844408b",
+            "source": "nyt",
+            "text": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+            "source_link": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T13:14:43.745913Z",
+            "shown_at": [
+                "2026-07-31T13:14:45.083746Z",
+                "2026-07-31T21:35:16.067397Z",
+                "2026-07-31T23:24:44.809885Z"
+            ]
+        },
+        {
+            "id": "3d481fde71f80f0fb8c2155dc7d5974e",
+            "source": "spacenews",
+            "text": "The new space wars: lessons from Ukraine and the Middle East",
+            "source_link": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T12:34:44.386632Z",
+            "shown_at": [
+                "2026-07-31T14:24:49.075431Z"
+            ]
+        },
+        {
+            "id": "5813c7c79127ff8fd0a3b07e08d4caaa",
+            "source": "spacenews",
+            "text": "NASA still assessing Starliner-1 flight opportunities",
+            "source_link": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T12:34:44.386562Z",
+            "shown_at": [
+                "2026-07-31T12:34:46.995902Z"
+            ]
+        },
+        {
+            "id": "25acd2b241b11da9e51c6ff94355f048",
+            "source": "spacenews",
+            "text": "Rules of the road needed for orbital data center constellations",
+            "source_link": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-31T00:19:46.610192Z",
+            "shown_at": [
+                "2026-07-31T00:19:47.454340Z"
+            ]
+        },
         {
             "id": "55b24b887776e373529037d2da0eb8e2",
             "source": "breaking_defense",
@@ -8081,369 +8242,6 @@
             "fetched_datetime": "2026-05-20T15:09:21.672455Z",
             "shown_at": [
                 "2026-05-20T15:44:26.167284Z"
-            ]
-        },
-        {
-            "id": "8b1b0647cf8f8921caa9896582d2fd64",
-            "source": "spacenews",
-            "text": "Orbital Data Centers: Power and Thermal Management for Scalable Architectures",
-            "source_link": "https://spacenews.com/scalable-power-and-thermal-architectures-key-to-enabling-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T15:09:21.672397Z",
-            "shown_at": [
-                "2026-05-20T15:09:22.625229Z",
-                "2026-05-22T11:29:03.208213Z"
-            ]
-        },
-        {
-            "id": "f59a31db101e57f4fee249b218fe3e7c",
-            "source": "breaking_defense",
-            "text": "DARPA’s robotic servicing spacecraft to finally fly this summer",
-            "source_link": "https://breakingdefense.com/2026/05/darpas-robotic-servicing-spacecraft-to-finally-fly-this-summer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T14:24:18.636797Z",
-            "shown_at": [
-                "2026-05-20T14:24:19.679476Z",
-                "2026-05-20T17:09:39.709381Z",
-                "2026-05-21T20:05:23.855374Z",
-                "2026-05-22T05:29:18.790784Z",
-                "2026-05-22T14:24:27.351688Z",
-                "2026-05-23T21:44:09.716571Z",
-                "2026-05-24T04:53:55.965141Z",
-                "2026-05-24T08:59:02.105786Z",
-                "2026-05-26T04:24:09.010676Z"
-            ]
-        },
-        {
-            "id": "9c39c0219dde8655a5ce14b09cadba46",
-            "source": "spacenews",
-            "text": "The cardinality wall: The hidden data bottleneck for LEO constellations",
-            "source_link": "https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T13:49:16.354581Z",
-            "shown_at": [
-                "2026-05-20T13:49:17.134620Z"
-            ]
-        },
-        {
-            "id": "90905fa58811b23e51370d9e268759ca",
-            "source": "spacenews",
-            "text": "Isaacman expects Chinese crewed mission around the moon in 2027",
-            "source_link": "https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T10:14:22.588516Z",
-            "shown_at": [
-                "2026-05-20T10:14:25.459088Z",
-                "2026-05-22T06:05:16.279347Z",
-                "2026-05-23T11:14:37.309762Z",
-                "2026-05-23T14:54:08.753152Z",
-                "2026-05-25T18:24:08.951667Z",
-                "2026-05-27T06:44:21.827073Z"
-            ]
-        },
-        {
-            "id": "738bcccf508eadfbb15dd25b9f12ca94",
-            "source": "spacenews",
-            "text": "SDA director Sandhoo takes on broader Space Force missile warning portfolio",
-            "source_link": "https://spacenews.com/sda-director-sandhoo-takes-on-broader-space-force-missile-warning-portfolio/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-19T21:44:37.206261Z",
-            "shown_at": [
-                "2026-05-19T21:44:38.618272Z",
-                "2026-05-20T09:04:55.311650Z"
-            ]
-        },
-        {
-            "id": "eb7db6d859494aa64ac5caf18866b1e9",
-            "source": "breaking_defense",
-            "text": "Space Force names Sandhoo as head of new missile warning/tracking PAE",
-            "source_link": "https://breakingdefense.com/2026/05/space-force-names-sandhoo-as-head-of-new-missile-warning-tracking-pae/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-19T21:09:08.075966Z",
-            "shown_at": [
-                "2026-05-19T21:09:17.663330Z",
-                "2026-05-20T02:09:07.913924Z",
-                "2026-05-20T03:54:14.866235Z",
-                "2026-05-20T11:59:17.562699Z",
-                "2026-05-20T13:14:22.791002Z",
-                "2026-05-20T18:19:22.848325Z",
-                "2026-05-20T20:04:43.422869Z",
-                "2026-05-20T21:49:06.615615Z",
-                "2026-05-22T10:54:28.796775Z",
-                "2026-05-22T17:54:21.386654Z",
-                "2026-05-22T19:39:05.028555Z",
-                "2026-05-22T23:14:25.623100Z",
-                "2026-05-23T02:54:26.975141Z",
-                "2026-05-23T05:14:14.744784Z",
-                "2026-05-23T18:04:43.109403Z",
-                "2026-05-24T14:14:22.657998Z",
-                "2026-05-25T09:59:13.999649Z",
-                "2026-05-25T16:04:38.638315Z",
-                "2026-05-26T00:53:56.559954Z"
-            ]
-        },
-        {
-            "id": "70d16a9e418a6a33a9836ffb923e0d73",
-            "source": "spacenews",
-            "text": "Portal Space taps Quindar for ground mission support of its maneuvering spacecraft",
-            "source_link": "https://spacenews.com/portal-space-taps-quindar-for-ground-mission-support-of-its-maneuvering-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-19T15:14:14.330142Z",
-            "shown_at": [
-                "2026-05-19T15:49:20.936215Z",
-                "2026-05-22T01:59:22.127011Z",
-                "2026-05-23T18:44:12.753771Z",
-                "2026-05-23T20:33:59.125464Z"
-            ]
-        },
-        {
-            "id": "f06efb3b194cee32f3b7ebbb0d65bc66",
-            "source": "spacenews",
-            "text": "Startup challenging satellite industry’s multi-orbit playbook",
-            "source_link": "https://spacenews.com/startup-challenging-satellite-industrys-multi-orbit-playbook/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-19T15:14:14.330088Z",
-            "shown_at": [
-                "2026-05-19T15:14:16.491382Z",
-                "2026-05-21T04:49:19.247335Z",
-                "2026-05-24T13:39:08.841632Z",
-                "2026-05-24T23:49:14.105511Z"
-            ]
-        },
-        {
-            "id": "ecc5b38412c0074be4775429bcf8e0b7",
-            "source": "spacenews",
-            "text": "Lynk and Anterix get FCC nod to test satellite D2D for private utility networks",
-            "source_link": "https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-19T13:29:15.826993Z",
-            "shown_at": [
-                "2026-05-19T14:04:29.343922Z",
-                "2026-05-26T03:14:18.136069Z"
-            ]
-        },
-        {
-            "id": "b0674d90c0cf4033074bfd2f01d84055",
-            "source": "spacenews",
-            "text": "Vast announces line of high-power satellite buses",
-            "source_link": "https://spacenews.com/vast-announces-line-of-high-power-satellite-buses/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-19T13:29:15.826934Z",
-            "shown_at": [
-                "2026-05-19T13:29:19.354393Z",
-                "2026-05-24T03:44:08.949865Z",
-                "2026-05-25T14:54:23.075711Z"
-            ]
-        },
-        {
-            "id": "5dbc1f56f6f22b25b88e1c520f186ed7",
-            "source": "spacenews",
-            "text": "Anderson confirmed as NASA deputy administrator",
-            "source_link": "https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-19T09:18:55.700526Z",
-            "shown_at": [
-                "2026-05-19T09:18:56.448266Z",
-                "2026-05-21T21:19:10.253784Z",
-                "2026-05-24T20:54:11.096663Z"
-            ]
-        },
-        {
-            "id": "693756a47bedb397a26b3f9fa4b80c7a",
-            "source": "spacenews",
-            "text": "ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere",
-            "source_link": "https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-19T05:49:19.114767Z",
-            "shown_at": [
-                "2026-05-19T05:49:19.864527Z",
-                "2026-05-22T15:34:27.493882Z",
-                "2026-05-23T13:04:20.014374Z"
-            ]
-        },
-        {
-            "id": "7d55c9a24dc78b3c24f369a6ad398712",
-            "source": "spacenews",
-            "text": "European imaging companies step in to fill warzone gap",
-            "source_link": "https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T19:54:27.730916Z",
-            "shown_at": [
-                "2026-05-18T19:54:28.736336Z"
-            ]
-        },
-        {
-            "id": "25acd2b241b11da9e51c6ff94355f048",
-            "source": "spacenews",
-            "text": "Rules of the road needed for orbital data center constellations",
-            "source_link": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T00:19:46.610192Z",
-            "shown_at": [
-                "2026-07-31T00:19:47.454340Z"
-            ]
-        },
-        {
-            "id": "5813c7c79127ff8fd0a3b07e08d4caaa",
-            "source": "spacenews",
-            "text": "NASA still assessing Starliner-1 flight opportunities",
-            "source_link": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T12:34:44.386562Z",
-            "shown_at": [
-                "2026-07-31T12:34:46.995902Z"
-            ]
-        },
-        {
-            "id": "3d481fde71f80f0fb8c2155dc7d5974e",
-            "source": "spacenews",
-            "text": "The new space wars: lessons from Ukraine and the Middle East",
-            "source_link": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T12:34:44.386632Z",
-            "shown_at": [
-                "2026-07-31T14:24:49.075431Z"
-            ]
-        },
-        {
-            "id": "a50fae1b57e8e6481f7e2f656844408b",
-            "source": "nyt",
-            "text": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
-            "source_link": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T13:14:43.745913Z",
-            "shown_at": [
-                "2026-07-31T13:14:45.083746Z",
-                "2026-07-31T21:35:16.067397Z",
-                "2026-07-31T23:24:44.809885Z"
-            ]
-        },
-        {
-            "id": "5e95b3158798a6ced6ed5e99f2293ef8",
-            "source": "breaking_defense",
-            "text": "Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027",
-            "source_link": "https://breakingdefense.com/2026/07/light-at-the-end-of-m-codes-tunnel-receivers-for-ships-planes-to-finish-tests-by-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T13:49:24.202872Z",
-            "shown_at": [
-                "2026-07-31T13:49:25.180079Z"
-            ]
-        },
-        {
-            "id": "8d3392db14b81e8bc2c4e26c5d1801ef",
-            "source": "nyt",
-            "text": "Mission to Save Falling NASA Space Telescope Suffers Setback",
-            "source_link": "https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T14:59:15.328438Z",
-            "shown_at": [
-                "2026-07-31T14:59:16.325106Z"
-            ]
-        },
-        {
-            "id": "3a8066caca34d8879890f893fa5cfd9f",
-            "source": "nyt",
-            "text": "A.I. Data Centers in Space? A System to Cool Chips Could Help.",
-            "source_link": "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T14:59:15.328504Z",
-            "shown_at": [
-                "2026-07-31T16:44:51.530117Z",
-                "2026-07-31T19:14:26.583087Z"
-            ]
-        },
-        {
-            "id": "d135d74073d6bf952099fde4e03e7887",
-            "source": "spacenews",
-            "text": "Inside the effort to show Congress what war in space looks like",
-            "source_link": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T15:34:56.164396Z",
-            "shown_at": [
-                "2026-07-31T15:34:57.287574Z"
-            ]
-        },
-        {
-            "id": "adb5c7cb877dfadd20b2d9ccd7a96a27",
-            "source": "spacenews",
-            "text": "Space Force picks 15 companies for $981 million training range contract",
-            "source_link": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T15:34:56.164468Z",
-            "shown_at": [
-                "2026-07-31T17:19:30.407155Z"
-            ]
-        },
-        {
-            "id": "fc7a41525406b0375fb9728a0c12d105",
-            "source": "breaking_defense",
-            "text": "Senate takes next steps toward confirming key Pentagon officials",
-            "source_link": "https://breakingdefense.com/2026/07/senate-confirms-hurst-as-pentagon-comptroller-after-1-5-year-vacancy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T16:09:25.265029Z",
-            "shown_at": [
-                "2026-07-31T16:09:26.172158Z",
-                "2026-07-31T18:38:59.249581Z",
-                "2026-07-31T20:24:33.636405Z"
-            ]
-        },
-        {
-            "id": "f5db5d84e8414ea806f0fdd0bd42aec0",
-            "source": "spacenews",
-            "text": "Spain commits up to $2.3 billion for national military communications for IRIS²",
-            "source_link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T17:59:19.872292Z",
-            "shown_at": [
-                "2026-07-31T17:59:20.685876Z"
-            ]
-        },
-        {
-            "id": "893ffc1eca4fa63ec30e9fe3f0d6f4f0",
-            "source": "spacenews",
-            "text": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
-            "source_link": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T20:59:37.193383Z",
-            "shown_at": [
-                "2026-07-31T20:59:38.340980Z"
-            ]
-        },
-        {
-            "id": "f3ebe5b6bec9a5a05ee5449d0ad4696b",
-            "source": "breaking_defense",
-            "text": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
-            "source_link": "https://breakingdefense.com/2026/07/facing-a-lack-of-kit-space-force-creates-981m-pool-to-buy-training-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-07-31T22:09:32.746131Z",
-            "shown_at": [
-                "2026-07-31T22:09:33.602060Z"
             ]
         }
     ]
