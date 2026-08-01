@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 13 | 25 |
 | spacenews | 3 | 10 | 15 | 30 |
-| nyt | 0 | 3 | 12 | 26 |
+| nyt | 0 | 3 | 13 | 27 |
 
 # Shown Order
 
@@ -2787,3 +2787,4 @@
 - **Aug 01, 09:59 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 01, 10:34 PM** - Upper C-band auction offers another lift for GEO industry (spacenews)
 - **Aug 01, 11:09 PM** - Space Force awards K2 Space $22.9 million for laser communications demonstration (spacenews)
+- **Aug 01, 11:44 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
