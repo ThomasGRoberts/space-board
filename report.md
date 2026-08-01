@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 13 | 25 |
-| spacenews | 3 | 10 | 15 | 31 |
-| nyt | 0 | 3 | 12 | 25 |
+| spacenews | 3 | 10 | 15 | 30 |
+| nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -2777,3 +2777,4 @@
 - **Aug 01, 03:59 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 01, 04:39 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Aug 01, 05:14 PM** - Sophia Space and Caltech claim patent for space data centers (spacenews)
+- **Aug 01, 05:49 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
