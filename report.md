@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 12 | 25 |
 | spacenews | 6 | 11 | 15 | 31 |
-| nyt | 3 | 3 | 13 | 25 |
+| nyt | 3 | 3 | 14 | 26 |
 
 # Shown Order
 
@@ -2749,3 +2749,4 @@
 - **Jul 31, 11:24 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Jul 31, 11:59 PM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Aug 01, 12:34 AM** - Sophia Space and Caltech claim patent for space data centers (spacenews)
+- **Aug 01, 01:09 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
