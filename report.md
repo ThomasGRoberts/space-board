@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 13 | 26 |
-| spacenews | 6 | 11 | 14 | 30 |
+| spacenews | 6 | 11 | 15 | 31 |
 | nyt | 3 | 3 | 13 | 25 |
 
 # Shown Order
@@ -2754,3 +2754,4 @@
 - **Aug 01, 02:19 AM** - Amazon files application for direct-to-device satellite constellation (spacenews)
 - **Aug 01, 02:54 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 01, 03:34 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Aug 01, 04:09 AM** - NASA and ESA facilities avoid major damage from wildfires in Spain (spacenews)
