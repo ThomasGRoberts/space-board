@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 13 | 25 |
 | spacenews | 2 | 9 | 14 | 29 |
-| nyt | 0 | 3 | 13 | 26 |
+| nyt | 0 | 3 | 14 | 27 |
 
 # Shown Order
 
@@ -2783,3 +2783,4 @@
 - **Aug 01, 07:35 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 01, 08:09 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 01, 08:49 PM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
+- **Aug 01, 09:24 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
