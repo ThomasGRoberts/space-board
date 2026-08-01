@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 13 | 26 |
-| spacenews | 2 | 8 | 14 | 28 |
+| spacenews | 2 | 8 | 15 | 29 |
 | nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
@@ -2779,3 +2779,4 @@
 - **Aug 01, 05:14 PM** - Sophia Space and Caltech claim patent for space data centers (spacenews)
 - **Aug 01, 05:49 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 01, 06:24 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
+- **Aug 01, 06:59 PM** - Proposed rule would exempt commercial launch licensing from environmental regulations (spacenews)
