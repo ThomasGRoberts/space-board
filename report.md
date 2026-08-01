@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 13 | 26 |
-| spacenews | 2 | 9 | 14 | 29 |
+| spacenews | 2 | 9 | 15 | 30 |
 | nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
@@ -2785,3 +2785,4 @@
 - **Aug 01, 08:49 PM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
 - **Aug 01, 09:24 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 01, 09:59 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
+- **Aug 01, 10:34 PM** - Upper C-band auction offers another lift for GEO industry (spacenews)
