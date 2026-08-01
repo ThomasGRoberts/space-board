@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 13 | 26 |
-| spacenews | 2 | 8 | 14 | 29 |
+| spacenews | 3 | 9 | 15 | 29 |
 | nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
@@ -2782,3 +2782,4 @@
 - **Aug 01, 06:59 PM** - Proposed rule would exempt commercial launch licensing from environmental regulations (spacenews)
 - **Aug 01, 07:35 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 01, 08:09 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Aug 01, 08:49 PM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
