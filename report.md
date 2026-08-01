@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 4 | 12 | 25 |
+| breaking_defense | 3 | 4 | 13 | 26 |
 | spacenews | 6 | 10 | 15 | 30 |
 | nyt | 3 | 3 | 13 | 26 |
 
@@ -2765,3 +2765,4 @@
 - **Aug 01, 08:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 01, 09:29 AM** - LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE (spacenews)
 - **Aug 01, 10:05 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
+- **Aug 01, 10:39 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
