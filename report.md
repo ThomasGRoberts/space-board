@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 13 | 26 |
-| spacenews | 4 | 9 | 14 | 29 |
+| spacenews | 4 | 9 | 15 | 30 |
 | nyt | 3 | 3 | 13 | 26 |
 
 # Shown Order
@@ -2769,3 +2769,4 @@
 - **Aug 01, 11:14 AM** - Sending repurposed Mars rover to the moon could cost more than $1 billion (spacenews)
 - **Aug 01, 11:54 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 01, 12:29 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Aug 01, 01:05 PM** - Orbes unveils Exo-ORB and agreement with Symphony Space (spacenews)
