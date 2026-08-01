@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 12 | 25 |
 | spacenews | 5 | 10 | 16 | 31 |
-| nyt | 2 | 3 | 12 | 25 |
+| nyt | 2 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -2771,3 +2771,4 @@
 - **Aug 01, 12:29 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 01, 01:05 PM** - Orbes unveils Exo-ORB and agreement with Symphony Space (spacenews)
 - **Aug 01, 01:39 PM** - China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat (spacenews)
+- **Aug 01, 02:14 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
