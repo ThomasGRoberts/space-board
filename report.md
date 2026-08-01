@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 13 | 26 |
-| spacenews | 6 | 10 | 14 | 30 |
+| spacenews | 6 | 10 | 15 | 30 |
 | nyt | 3 | 3 | 13 | 25 |
 
 # Shown Order
@@ -2757,3 +2757,4 @@
 - **Aug 01, 04:09 AM** - NASA and ESA facilities avoid major damage from wildfires in Spain (spacenews)
 - **Aug 01, 04:44 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 01, 05:24 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Aug 01, 05:59 AM** - SpaceX wins $1.6 billion in launch orders for military satellite networks (spacenews)
