@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 15 | 30 |
 | breaking_defense | 0 | 3 | 13 | 25 |
-| nyt | 0 | 3 | 12 | 26 |
+| nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -2795,3 +2795,4 @@
 - **Aug 02, 06:49 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 02, 07:24 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 02, 07:59 AM** - Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush (spacenews)
+- **Aug 02, 08:35 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
