@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 15 | 30 |
 | breaking_defense | 0 | 3 | 13 | 25 |
-| nyt | 0 | 3 | 12 | 26 |
+| nyt | 0 | 3 | 13 | 27 |
 
 # Shown Order
 
@@ -2783,3 +2783,4 @@
 - **Aug 01, 11:44 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 02, 12:19 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 02, 12:54 AM** - Swift reboost mission encounters attitude control problems (spacenews)
+- **Aug 02, 01:29 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
