@@ -2,15 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 3 | 13 | 25 |
 | spacenews | 3 | 10 | 15 | 30 |
+| breaking_defense | 0 | 3 | 12 | 25 |
 | nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
 
-- **May 20, 03:44 PM** - Starfighters turns Texas facility toward microgravity flight testing (spacenews)
-- **May 20, 04:21 PM** - Report finds U.S. space supply chains rely heavily on Chinese manufacturing (spacenews)
-- **May 20, 07:29 PM** - U.S. ‘more prepared’ for next WRC (spacenews)
 - **May 20, 09:14 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 20, 10:24 PM** - SpaceX files for IPO (spacenews)
 - **May 20, 10:59 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
@@ -41,7 +38,6 @@
 - **May 22, 02:34 AM** - Ground equipment problem scrubs Starship launch attempt (spacenews)
 - **May 22, 03:08 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 22, 03:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
-- **May 22, 04:19 AM** - Report finds U.S. space supply chains rely heavily on Chinese manufacturing (spacenews)
 - **May 22, 04:54 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 22, 06:44 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 22, 07:24 AM** - How drones can navigate without GPS  (breaking_defense)
@@ -90,7 +86,6 @@
 - **May 23, 10:19 PM** - SpaceX launches first Starship V3 (spacenews)
 - **May 23, 10:54 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 23, 11:29 PM** - How drones can navigate without GPS  (breaking_defense)
-- **May 24, 12:09 AM** - U.S. ‘more prepared’ for next WRC (spacenews)
 - **May 24, 12:44 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 24, 01:19 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 24, 02:29 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
@@ -131,7 +126,6 @@
 - **May 25, 05:04 AM** - Starship underpins SpaceX’s growth ambitions (spacenews)
 - **May 25, 05:39 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 25, 06:14 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
-- **May 25, 06:49 AM** - U.S. ‘more prepared’ for next WRC (spacenews)
 - **May 25, 07:29 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 25, 08:04 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 25, 09:24 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
@@ -159,7 +153,6 @@
 - **May 26, 02:04 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 26, 02:39 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 26, 03:49 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
-- **May 26, 04:59 AM** - U.S. ‘more prepared’ for next WRC (spacenews)
 - **May 26, 05:34 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 26, 06:09 AM** - Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions (spacenews)
 - **May 26, 06:44 AM** - How drones can navigate without GPS  (breaking_defense)

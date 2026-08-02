@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-01T00:05:10.771186+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-08-02T00:05:11.106266+00:00",
+    "trigger_count": 4,
     "current_item_id": "a50fae1b57e8e6481f7e2f656844408b",
     "data": [
+        {
+            "id": "c10e457dcd80b6cf65f115e6865ea78d",
+            "source": "spacenews",
+            "text": "Space Force awards K2 Space $22.9 million for laser communications demonstration",
+            "source_link": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-01T23:08:58.835856Z",
+            "shown_at": [
+                "2026-08-01T23:09:00.369902Z"
+            ]
+        },
+        {
+            "id": "08c512a878c4485d720d6e989676137f",
+            "source": "spacenews",
+            "text": "Space Force awards K2 Space $22.9 million for orbital laser communications demonstration",
+            "source_link": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-01T20:49:39.803604Z",
+            "shown_at": [
+                "2026-08-01T20:49:40.572144Z"
+            ]
+        },
+        {
+            "id": "822e3c8296fcccbab617f67c200f33d5",
+            "source": "spacenews",
+            "text": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
+            "source_link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-01T13:39:35.301672Z",
+            "shown_at": [
+                "2026-08-01T13:39:36.133897Z"
+            ]
+        },
         {
             "id": "f3ebe5b6bec9a5a05ee5449d0ad4696b",
             "source": "breaking_defense",
@@ -8239,82 +8275,6 @@
                 "2026-05-25T11:49:25.157054Z",
                 "2026-05-26T00:19:15.500461Z",
                 "2026-05-27T02:34:33.740863Z"
-            ]
-        },
-        {
-            "id": "6a090fce27e7d4a5dcb558c4a817c8a9",
-            "source": "spacenews",
-            "text": "U.S. ‘more prepared’ for next WRC",
-            "source_link": "https://spacenews.com/u-s-more-prepared-for-next-wrc/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T19:29:31.820014Z",
-            "shown_at": [
-                "2026-05-20T19:29:32.857730Z",
-                "2026-05-24T00:09:08.572196Z",
-                "2026-05-25T06:49:08.563096Z",
-                "2026-05-26T04:59:31.961336Z"
-            ]
-        },
-        {
-            "id": "a79ae97fd47c7f7a7514c87d50ef453b",
-            "source": "spacenews",
-            "text": "Report finds U.S. space supply chains rely heavily on Chinese manufacturing",
-            "source_link": "https://spacenews.com/report-finds-u-s-space-supply-chains-rely-heavily-on-chinese-manufacturing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T15:09:21.672491Z",
-            "shown_at": [
-                "2026-05-20T16:21:04.515828Z",
-                "2026-05-22T04:19:27.581718Z"
-            ]
-        },
-        {
-            "id": "c1ed769d2d1048b66132d1f7a04add2d",
-            "source": "spacenews",
-            "text": "Starfighters turns Texas facility toward microgravity flight testing",
-            "source_link": "https://spacenews.com/starfighters-turns-texas-facility-toward-microgravity-flight-testing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T15:09:21.672455Z",
-            "shown_at": [
-                "2026-05-20T15:44:26.167284Z"
-            ]
-        },
-        {
-            "id": "822e3c8296fcccbab617f67c200f33d5",
-            "source": "spacenews",
-            "text": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
-            "source_link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-01T13:39:35.301672Z",
-            "shown_at": [
-                "2026-08-01T13:39:36.133897Z"
-            ]
-        },
-        {
-            "id": "08c512a878c4485d720d6e989676137f",
-            "source": "spacenews",
-            "text": "Space Force awards K2 Space $22.9 million for orbital laser communications demonstration",
-            "source_link": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-01T20:49:39.803604Z",
-            "shown_at": [
-                "2026-08-01T20:49:40.572144Z"
-            ]
-        },
-        {
-            "id": "c10e457dcd80b6cf65f115e6865ea78d",
-            "source": "spacenews",
-            "text": "Space Force awards K2 Space $22.9 million for laser communications demonstration",
-            "source_link": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-01T23:08:58.835856Z",
-            "shown_at": [
-                "2026-08-01T23:09:00.369902Z"
             ]
         }
     ]
