@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 15 | 30 |
 | breaking_defense | 0 | 2 | 13 | 25 |
-| nyt | 0 | 2 | 12 | 25 |
+| nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -2805,3 +2805,4 @@
 - **Aug 02, 12:49 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 02, 01:24 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 02, 01:59 PM** - Space Force awards All Points $250 million to expand satellite processing at Vandenberg (spacenews)
+- **Aug 02, 02:34 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
