@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 15 | 30 |
+| spacenews | 4 | 10 | 16 | 31 |
 | breaking_defense | 0 | 3 | 13 | 25 |
 | nyt | 0 | 3 | 12 | 25 |
 
@@ -2801,3 +2801,4 @@
 - **Aug 02, 10:29 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 02, 11:05 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 02, 11:38 AM** - Space Force awards All Points $250 million to expand satellite processing at Vandenberg (spacenews)
+- **Aug 02, 12:14 PM** - U.S. Air Force expands Blue Origin rocket cargo contract  (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-02T00:05:11.106266+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fb5672c5d48a5dd783c8f8fb3596ba58",
+    "trigger_count": 0,
+    "current_item_id": "fe8818bba70a8f15cd3cbf4bc6a11b14",
     "data": [
         {
             "id": "c10e457dcd80b6cf65f115e6865ea78d",
@@ -8295,6 +8295,18 @@
                 "2026-05-25T11:49:25.157054Z",
                 "2026-05-26T00:19:15.500461Z",
                 "2026-05-27T02:34:33.740863Z"
+            ]
+        },
+        {
+            "id": "fe8818bba70a8f15cd3cbf4bc6a11b14",
+            "source": "spacenews",
+            "text": "U.S. Air Force expands Blue Origin rocket cargo contract ",
+            "source_link": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-02T12:14:32.398490Z",
+            "shown_at": [
+                "2026-08-02T12:14:33.215466Z"
             ]
         }
     ]
