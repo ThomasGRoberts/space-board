@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 29 |
+| spacenews | 2 | 4 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2819,3 +2819,4 @@
 - **Aug 02, 08:59 PM** - ESA opens call to repurpose Gateway communications module (spacenews)
 - **Aug 02, 09:34 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 02, 10:08 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Aug 02, 10:44 PM** - Space Force awards All Points $250 million to expand satellite processing at Vandenberg (spacenews)
