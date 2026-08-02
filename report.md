@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 15 | 29 |
-| breaking_defense | 0 | 3 | 12 | 25 |
+| breaking_defense | 0 | 3 | 13 | 26 |
 | nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
@@ -2793,3 +2793,4 @@
 - **Aug 02, 05:39 AM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Aug 02, 06:14 AM** - NASA selects successor to CAPSTONE lunar mission (spacenews)
 - **Aug 02, 06:49 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 02, 07:24 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
