@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 15 | 30 |
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2806,3 +2806,4 @@
 - **Aug 02, 01:24 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 02, 01:59 PM** - Space Force awards All Points $250 million to expand satellite processing at Vandenberg (spacenews)
 - **Aug 02, 02:34 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 02, 03:09 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
