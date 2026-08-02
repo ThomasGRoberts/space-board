@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 16 | 30 |
 | breaking_defense | 0 | 3 | 12 | 25 |
-| nyt | 0 | 3 | 12 | 25 |
+| nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -2802,3 +2802,4 @@
 - **Aug 02, 11:05 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 02, 11:38 AM** - Space Force awards All Points $250 million to expand satellite processing at Vandenberg (spacenews)
 - **Aug 02, 12:14 PM** - U.S. Air Force expands Blue Origin rocket cargo contract  (spacenews)
+- **Aug 02, 12:49 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
