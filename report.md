@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 15 | 30 |
 | breaking_defense | 0 | 1 | 13 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2808,3 +2808,4 @@
 - **Aug 02, 02:34 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 02, 03:09 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Aug 02, 03:44 PM** - Sphinx Defense wins $287 million contract for strategic satellite communications software (spacenews)
+- **Aug 02, 04:19 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
