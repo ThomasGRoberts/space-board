@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 15 | 30 |
 | breaking_defense | 0 | 3 | 13 | 25 |
-| nyt | 0 | 3 | 12 | 26 |
+| nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -2789,3 +2789,4 @@
 - **Aug 02, 03:19 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 02, 03:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 02, 04:29 AM** - L3Harris delays missile business IPO to 2027 despite surging defense demand (spacenews)
+- **Aug 02, 05:04 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
