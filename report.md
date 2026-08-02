@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 14 | 29 |
+| spacenews | 2 | 5 | 15 | 30 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2816,3 +2816,4 @@
 - **Aug 02, 07:14 PM** - Intel debuts new chip for space computing (spacenews)
 - **Aug 02, 07:49 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 02, 08:24 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Aug 02, 08:59 PM** - ESA opens call to repurpose Gateway communications module (spacenews)
