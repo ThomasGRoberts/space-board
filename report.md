@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 15 | 30 |
-| breaking_defense | 0 | 3 | 12 | 25 |
+| spacenews | 3 | 9 | 15 | 29 |
+| breaking_defense | 0 | 3 | 13 | 26 |
 | nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
@@ -2787,3 +2787,4 @@
 - **Aug 02, 02:05 AM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Aug 02, 02:39 AM** - Fortastra and Hadrian join forces to streamline satellite production (spacenews)
 - **Aug 02, 03:19 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 02, 03:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
