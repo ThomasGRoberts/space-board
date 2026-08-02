@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 15 | 30 |
-| breaking_defense | 0 | 3 | 12 | 25 |
+| breaking_defense | 0 | 3 | 13 | 26 |
 | nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
@@ -2781,3 +2781,4 @@
 - **Aug 01, 10:34 PM** - Upper C-band auction offers another lift for GEO industry (spacenews)
 - **Aug 01, 11:09 PM** - Space Force awards K2 Space $22.9 million for laser communications demonstration (spacenews)
 - **Aug 01, 11:44 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 02, 12:19 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
