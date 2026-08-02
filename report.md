@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 14 | 29 |
-| breaking_defense | 0 | 3 | 13 | 26 |
+| spacenews | 3 | 9 | 15 | 30 |
+| breaking_defense | 0 | 3 | 13 | 25 |
 | nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
@@ -2791,3 +2791,4 @@
 - **Aug 02, 04:29 AM** - L3Harris delays missile business IPO to 2027 despite surging defense demand (spacenews)
 - **Aug 02, 05:04 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 02, 05:39 AM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
+- **Aug 02, 06:14 AM** - NASA selects successor to CAPSTONE lunar mission (spacenews)
