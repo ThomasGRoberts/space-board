@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 15 | 29 |
 | breaking_defense | 0 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2817,3 +2817,4 @@
 - **Aug 02, 07:49 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 02, 08:24 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 02, 08:59 PM** - ESA opens call to repurpose Gateway communications module (spacenews)
+- **Aug 02, 09:34 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
