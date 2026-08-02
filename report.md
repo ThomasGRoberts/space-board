@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 14 | 29 |
+| spacenews | 3 | 9 | 15 | 30 |
 | breaking_defense | 0 | 3 | 13 | 26 |
 | nyt | 0 | 3 | 13 | 26 |
 
@@ -2782,3 +2782,4 @@
 - **Aug 01, 11:09 PM** - Space Force awards K2 Space $22.9 million for laser communications demonstration (spacenews)
 - **Aug 01, 11:44 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 02, 12:19 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
+- **Aug 02, 12:54 AM** - Swift reboost mission encounters attitude control problems (spacenews)
