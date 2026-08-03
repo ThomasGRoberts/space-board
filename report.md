@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 14 | 29 |
+| spacenews | 3 | 6 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2833,3 +2833,4 @@
 - **Aug 03, 04:29 PM** - Hughes files for bankruptcy after GEO business loses ground to Starlink (spacenews)
 - **Aug 03, 05:05 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 03, 05:39 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
+- **Aug 03, 06:14 PM** - Rules of the road needed for orbital data center constellations (spacenews)
