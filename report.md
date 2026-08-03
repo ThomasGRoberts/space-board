@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2811,3 +2811,4 @@
 - **Aug 03, 02:54 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 03, 03:29 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 03, 04:05 AM** - Upper C-band auction offers another lift for GEO industry (spacenews)
+- **Aug 03, 04:39 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
