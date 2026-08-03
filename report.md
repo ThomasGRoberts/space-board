@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 14 | 30 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2824,3 +2824,4 @@
 - **Aug 03, 11:09 AM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Aug 03, 11:44 AM** - Inside the effort to show Congress what war in space looks like (spacenews)
 - **Aug 03, 12:19 PM** - Airbus and Thales win order for SpainSat replacement (spacenews)
+- **Aug 03, 12:55 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
