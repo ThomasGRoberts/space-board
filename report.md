@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 14 | 29 |
+| spacenews | 4 | 7 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2836,3 +2836,4 @@
 - **Aug 03, 06:14 PM** - Rules of the road needed for orbital data center constellations (spacenews)
 - **Aug 03, 06:49 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 03, 07:24 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
+- **Aug 03, 07:59 PM** - Xona secures spectrum approval for satellite navigation network (spacenews)

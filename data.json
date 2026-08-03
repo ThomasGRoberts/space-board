@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-03T00:04:54.299783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fc7a41525406b0375fb9728a0c12d105",
+    "trigger_count": 0,
+    "current_item_id": "ad6c8d3885174e1903f1a378c5600d67",
     "data": [
         {
             "id": "fe8818bba70a8f15cd3cbf4bc6a11b14",
@@ -8363,6 +8363,18 @@
             "fetched_datetime": "2026-08-03T16:29:33.107645Z",
             "shown_at": [
                 "2026-08-03T16:29:34.028991Z"
+            ]
+        },
+        {
+            "id": "ad6c8d3885174e1903f1a378c5600d67",
+            "source": "spacenews",
+            "text": "Xona secures spectrum approval for satellite navigation network",
+            "source_link": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-03T19:59:09.984264Z",
+            "shown_at": [
+                "2026-08-03T19:59:10.659084Z"
             ]
         }
     ]
