@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 15 | 30 |
 | breaking_defense | 0 | 0 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2834,3 +2834,4 @@
 - **Aug 03, 05:05 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 03, 05:39 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Aug 03, 06:14 PM** - Rules of the road needed for orbital data center constellations (spacenews)
+- **Aug 03, 06:49 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
