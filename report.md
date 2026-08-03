@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 14 | 29 |
 | breaking_defense | 1 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2841,3 +2841,4 @@
 - **Aug 03, 09:09 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 03, 09:44 PM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
 - **Aug 03, 10:19 PM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
+- **Aug 03, 10:59 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
