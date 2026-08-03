@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-03T00:04:54.299783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d135d74073d6bf952099fde4e03e7887",
+    "trigger_count": 0,
+    "current_item_id": "4a9b07def889c0db74b2675ddf9fc322",
     "data": [
         {
             "id": "fe8818bba70a8f15cd3cbf4bc6a11b14",
@@ -8317,6 +8317,18 @@
             "fetched_datetime": "2026-05-20T22:24:08.866234Z",
             "shown_at": [
                 "2026-05-20T22:24:09.862200Z"
+            ]
+        },
+        {
+            "id": "4a9b07def889c0db74b2675ddf9fc322",
+            "source": "spacenews",
+            "text": "Airbus and Thales win order for SpainSat replacement",
+            "source_link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-03T12:19:45.099383Z",
+            "shown_at": [
+                "2026-08-03T12:19:47.233252Z"
             ]
         }
     ]
