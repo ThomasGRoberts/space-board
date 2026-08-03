@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-03T00:04:54.299783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1dfa29b817f8b21321f4467922653f48",
+    "trigger_count": 0,
+    "current_item_id": "7f75bb3ed230699f9021cb14ec02c218",
     "data": [
         {
             "id": "fe8818bba70a8f15cd3cbf4bc6a11b14",
@@ -8346,6 +8346,18 @@
             "fetched_datetime": "2026-08-03T15:54:22.606635Z",
             "shown_at": [
                 "2026-08-03T15:54:23.597649Z"
+            ]
+        },
+        {
+            "id": "7f75bb3ed230699f9021cb14ec02c218",
+            "source": "spacenews",
+            "text": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
+            "source_link": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-03T16:29:33.107645Z",
+            "shown_at": [
+                "2026-08-03T16:29:34.028991Z"
             ]
         }
     ]

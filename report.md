@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 14 | 29 |
+| spacenews | 3 | 6 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2830,3 +2830,4 @@
 - **Aug 03, 02:44 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 03, 03:19 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Aug 03, 03:54 PM** - Xona secures spectrum approval for 250-satellite navigation network (spacenews)
+- **Aug 03, 04:29 PM** - Hughes files for bankruptcy after GEO business loses ground to Starlink (spacenews)
