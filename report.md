@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 14 | 28 |
+| spacenews | 4 | 5 | 15 | 29 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2842,3 +2842,4 @@
 - **Aug 03, 09:44 PM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
 - **Aug 03, 10:19 PM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
 - **Aug 03, 10:59 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
+- **Aug 03, 11:35 PM** - Space Force awards K2 Space $22.9 million for laser communications demonstration (spacenews)
