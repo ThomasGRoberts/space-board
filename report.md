@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 29 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2818,3 +2818,4 @@
 - **Aug 03, 06:59 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 03, 07:34 AM** - Spain commits up to $2.3 billion for national military communications for IRIS² (spacenews)
 - **Aug 03, 08:25 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
+- **Aug 03, 09:24 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
