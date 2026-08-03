@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2814,3 +2814,4 @@
 - **Aug 03, 04:39 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 03, 05:14 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Aug 03, 05:49 AM** - Upper C-band auction offers another lift for GEO industry (spacenews)
+- **Aug 03, 06:24 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
