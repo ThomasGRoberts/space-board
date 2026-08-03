@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 14 | 29 |
 | breaking_defense | 1 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2838,3 +2838,4 @@
 - **Aug 03, 07:24 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Aug 03, 07:59 PM** - Xona secures spectrum approval for satellite navigation network (spacenews)
 - **Aug 03, 08:35 PM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
+- **Aug 03, 09:09 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
