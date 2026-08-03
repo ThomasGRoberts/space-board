@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 14 | 29 |
+| spacenews | 1 | 4 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2813,3 +2813,4 @@
 - **Aug 03, 04:05 AM** - Upper C-band auction offers another lift for GEO industry (spacenews)
 - **Aug 03, 04:39 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 03, 05:14 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
+- **Aug 03, 05:49 AM** - Upper C-band auction offers another lift for GEO industry (spacenews)
