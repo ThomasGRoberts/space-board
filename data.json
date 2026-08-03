@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-03T00:04:54.299783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ad6c8d3885174e1903f1a378c5600d67",
+    "trigger_count": 0,
+    "current_item_id": "3e988529a90582525454decb9b80b68c",
     "data": [
         {
             "id": "fe8818bba70a8f15cd3cbf4bc6a11b14",
@@ -8375,6 +8375,18 @@
             "fetched_datetime": "2026-08-03T19:59:09.984264Z",
             "shown_at": [
                 "2026-08-03T19:59:10.659084Z"
+            ]
+        },
+        {
+            "id": "3e988529a90582525454decb9b80b68c",
+            "source": "breaking_defense",
+            "text": "K2 tapped to host Space Force satellite laser links tests",
+            "source_link": "https://breakingdefense.com/2026/08/k2-tapped-to-host-space-force-satellite-laser-links-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-03T20:35:02.623437Z",
+            "shown_at": [
+                "2026-08-03T20:35:03.411105Z"
             ]
         }
     ]

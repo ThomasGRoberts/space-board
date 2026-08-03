@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 15 | 30 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2837,3 +2837,4 @@
 - **Aug 03, 06:49 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 03, 07:24 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Aug 03, 07:59 PM** - Xona secures spectrum approval for satellite navigation network (spacenews)
+- **Aug 03, 08:35 PM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
