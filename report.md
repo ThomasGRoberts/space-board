@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 13 | 28 |
+| spacenews | 1 | 4 | 14 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2826,3 +2826,4 @@
 - **Aug 03, 12:19 PM** - Airbus and Thales win order for SpainSat replacement (spacenews)
 - **Aug 03, 12:55 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 03, 01:34 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
+- **Aug 03, 02:09 PM** - Sphinx Defense wins $287 million contract for strategic satellite communications software (spacenews)
