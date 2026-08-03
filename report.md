@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2805,3 +2805,4 @@
 - **Aug 02, 11:19 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 02, 11:59 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 03, 12:34 AM** - Roman Space Telescope on track for late August launch (spacenews)
+- **Aug 03, 01:09 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
