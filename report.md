@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 14 | 29 |
+| spacenews | 1 | 4 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2816,3 +2816,4 @@
 - **Aug 03, 05:49 AM** - Upper C-band auction offers another lift for GEO industry (spacenews)
 - **Aug 03, 06:24 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 03, 06:59 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
+- **Aug 03, 07:34 AM** - Spain commits up to $2.3 billion for national military communications for IRIS² (spacenews)
