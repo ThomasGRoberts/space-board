@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 14 | 29 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2832,3 +2832,4 @@
 - **Aug 03, 03:54 PM** - Xona secures spectrum approval for 250-satellite navigation network (spacenews)
 - **Aug 03, 04:29 PM** - Hughes files for bankruptcy after GEO business loses ground to Starlink (spacenews)
 - **Aug 03, 05:05 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 03, 05:39 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
