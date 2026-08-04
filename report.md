@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
-| spacenews | 6 | 7 | 14 | 29 |
+| spacenews | 6 | 7 | 15 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2802,3 +2802,4 @@
 - **Aug 04, 04:14 AM** - Kreios Space to fly VLEO demonstration in NanoAvionics bus (spacenews)
 - **Aug 04, 04:49 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 04, 05:24 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
+- **Aug 04, 05:59 AM** - Spain commits up to $2.3 billion for national military communications for IRIS² (spacenews)
