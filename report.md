@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 6 | 7 | 15 | 29 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2800,3 +2800,4 @@
 - **Aug 04, 03:05 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 04, 03:39 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
 - **Aug 04, 04:14 AM** - Kreios Space to fly VLEO demonstration in NanoAvionics bus (spacenews)
+- **Aug 04, 04:49 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
