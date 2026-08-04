@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-04T00:04:46.122203+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5813c7c79127ff8fd0a3b07e08d4caaa",
+    "trigger_count": 0,
+    "current_item_id": "46bf7794f67a528bb9a5d3640ba84531",
     "data": [
         {
             "id": "3e988529a90582525454decb9b80b68c",
@@ -8416,6 +8416,18 @@
             "fetched_datetime": "2026-08-04T16:34:57.997893Z",
             "shown_at": [
                 "2026-08-04T16:34:58.805368Z"
+            ]
+        },
+        {
+            "id": "46bf7794f67a528bb9a5d3640ba84531",
+            "source": "breaking_defense",
+            "text": "Telesat wins $1.6B for Canadian Arctic MILSATCOM",
+            "source_link": "https://breakingdefense.com/2026/08/telesat-wins-1-6b-for-canadian-arctic-milsatcom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T18:19:48.795818Z",
+            "shown_at": [
+                "2026-08-04T18:19:50.121160Z"
             ]
         }
     ]
