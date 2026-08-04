@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
-| spacenews | 7 | 7 | 15 | 28 |
+| spacenews | 8 | 9 | 15 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2813,3 +2813,4 @@
 - **Aug 04, 10:39 AM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Aug 04, 11:14 AM** - Space Force picks 15 companies for $981 million training range contract (spacenews)
 - **Aug 04, 11:49 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
+- **Aug 04, 12:24 PM** - Future of Crew Dragon weighs on commercial spaceflight industry (spacenews)
