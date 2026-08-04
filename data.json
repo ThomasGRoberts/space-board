@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-04T00:04:46.122203+00:00",
-    "trigger_count": 6,
-    "current_item_id": "856356fc9da98e2bffa7ae33107e8b9e",
+    "trigger_count": 0,
+    "current_item_id": "2ef2c19abbe72c8a00034620810645e3",
     "data": [
         {
             "id": "3e988529a90582525454decb9b80b68c",
@@ -8443,6 +8443,18 @@
             "fetched_datetime": "2026-08-04T20:39:33.966430Z",
             "shown_at": [
                 "2026-08-04T20:39:34.832776Z"
+            ]
+        },
+        {
+            "id": "2ef2c19abbe72c8a00034620810645e3",
+            "source": "nyt",
+            "text": "SpaceX’s Spending on A.I. Soars, In First Results After I.P.O.",
+            "source_link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T21:14:39.931431Z",
+            "shown_at": [
+                "2026-08-04T21:14:40.661072Z"
             ]
         }
     ]
