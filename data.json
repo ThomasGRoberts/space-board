@@ -1,9 +1,70 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-03T00:04:54.299783+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-08-04T00:04:46.122203+00:00",
+    "trigger_count": 6,
     "current_item_id": "c10e457dcd80b6cf65f115e6865ea78d",
     "data": [
+        {
+            "id": "3e988529a90582525454decb9b80b68c",
+            "source": "breaking_defense",
+            "text": "K2 tapped to host Space Force satellite laser links tests",
+            "source_link": "https://breakingdefense.com/2026/08/k2-tapped-to-host-space-force-satellite-laser-links-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-03T20:35:02.623437Z",
+            "shown_at": [
+                "2026-08-03T20:35:03.411105Z",
+                "2026-08-03T22:19:38.478865Z"
+            ]
+        },
+        {
+            "id": "ad6c8d3885174e1903f1a378c5600d67",
+            "source": "spacenews",
+            "text": "Xona secures spectrum approval for satellite navigation network",
+            "source_link": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-03T19:59:09.984264Z",
+            "shown_at": [
+                "2026-08-03T19:59:10.659084Z"
+            ]
+        },
+        {
+            "id": "7f75bb3ed230699f9021cb14ec02c218",
+            "source": "spacenews",
+            "text": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
+            "source_link": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-03T16:29:33.107645Z",
+            "shown_at": [
+                "2026-08-03T16:29:34.028991Z"
+            ]
+        },
+        {
+            "id": "1dfa29b817f8b21321f4467922653f48",
+            "source": "spacenews",
+            "text": "Xona secures spectrum approval for 250-satellite navigation network",
+            "source_link": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-03T15:54:22.606635Z",
+            "shown_at": [
+                "2026-08-03T15:54:23.597649Z"
+            ]
+        },
+        {
+            "id": "4a9b07def889c0db74b2675ddf9fc322",
+            "source": "spacenews",
+            "text": "Airbus and Thales win order for SpainSat replacement",
+            "source_link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-03T12:19:45.099383Z",
+            "shown_at": [
+                "2026-08-03T12:19:47.233252Z"
+            ]
+        },
         {
             "id": "fe8818bba70a8f15cd3cbf4bc6a11b14",
             "source": "spacenews",
@@ -8225,173 +8286,6 @@
                 "2026-05-25T00:24:15.501113Z",
                 "2026-05-26T02:04:50.181137Z",
                 "2026-05-27T10:34:37.887796Z"
-            ]
-        },
-        {
-            "id": "c26b5c86317f85d55fc93c9f5fef43e0",
-            "source": "spacenews",
-            "text": "LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation",
-            "source_link": "https://spacenews.com/latconnect-60-announces-accelerated-growth-investment-round-to-build-aukus-aligned-highest-resolution-swir-satellite-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T07:49:22.864442Z",
-            "shown_at": [
-                "2026-05-21T07:49:24.383963Z",
-                "2026-05-25T23:44:08.320834Z",
-                "2026-05-26T01:29:09.130873Z"
-            ]
-        },
-        {
-            "id": "eebc2484cf3c1a12fcc2e4432a94ae53",
-            "source": "breaking_defense",
-            "text": "DARPA’s robotic servicing mission to finally fly this summer",
-            "source_link": "https://breakingdefense.com/2026/05/darpas-robotic-servicing-spacecraft-to-finally-fly-this-summer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T00:09:30.962436Z",
-            "shown_at": [
-                "2026-05-21T00:44:12.799285Z",
-                "2026-05-21T02:29:05.591106Z",
-                "2026-05-21T10:09:18.924578Z",
-                "2026-05-21T23:04:32.383579Z",
-                "2026-05-22T09:09:08.201872Z",
-                "2026-05-23T01:09:09.458651Z",
-                "2026-05-23T10:39:10.856077Z",
-                "2026-05-23T16:04:40.753783Z",
-                "2026-05-25T00:59:19.867356Z",
-                "2026-05-25T04:29:04.508850Z",
-                "2026-05-25T06:14:25.537427Z",
-                "2026-05-25T17:49:27.647392Z",
-                "2026-05-25T21:24:18.039053Z",
-                "2026-05-27T01:59:07.914846Z"
-            ]
-        },
-        {
-            "id": "a47d67a591dd96bf8d2bbcca3e950d72",
-            "source": "breaking_defense",
-            "text": "DAF study finds new space launch site ‘probably’ required",
-            "source_link": "https://breakingdefense.com/2026/05/daf-study-finds-new-space-launch-site-probably-required/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T00:09:30.962371Z",
-            "shown_at": [
-                "2026-05-21T00:09:32.099051Z",
-                "2026-05-21T05:59:17.385068Z",
-                "2026-05-21T11:59:09.259051Z",
-                "2026-05-22T21:24:15.359731Z",
-                "2026-05-23T12:24:09.242509Z",
-                "2026-05-24T03:04:43.536617Z",
-                "2026-05-24T06:39:17.833054Z",
-                "2026-05-24T10:44:22.792874Z",
-                "2026-05-24T12:29:06.989350Z",
-                "2026-05-24T23:14:12.066276Z",
-                "2026-05-25T23:09:04.963677Z",
-                "2026-05-26T15:59:07.718363Z"
-            ]
-        },
-        {
-            "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
-            "source": "nyt",
-            "text": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
-            "source_link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T22:59:10.829222Z",
-            "shown_at": [
-                "2026-05-20T22:59:11.709986Z",
-                "2026-05-21T01:54:22.062811Z",
-                "2026-05-21T05:24:13.078388Z",
-                "2026-05-21T07:09:19.806404Z",
-                "2026-05-21T12:34:34.122813Z",
-                "2026-05-21T20:44:22.026890Z",
-                "2026-05-21T23:39:15.281145Z",
-                "2026-05-22T10:19:23.180091Z",
-                "2026-05-22T12:04:38.702208Z",
-                "2026-05-22T18:29:34.074667Z",
-                "2026-05-23T06:24:20.155208Z",
-                "2026-05-23T09:58:56.532146Z",
-                "2026-05-23T13:44:23.180511Z",
-                "2026-05-23T17:24:25.162321Z",
-                "2026-05-24T06:04:22.450056Z",
-                "2026-05-24T18:24:24.471977Z",
-                "2026-05-25T15:29:17.768855Z",
-                "2026-05-26T07:19:17.172995Z",
-                "2026-05-26T09:39:13.304787Z",
-                "2026-05-27T04:19:18.103533Z",
-                "2026-05-27T06:04:42.141140Z"
-            ]
-        },
-        {
-            "id": "36d26af5f941f13703d8044ed82369b6",
-            "source": "spacenews",
-            "text": "SpaceX files for IPO",
-            "source_link": "https://spacenews.com/spacex-files-for-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T22:24:08.866234Z",
-            "shown_at": [
-                "2026-05-20T22:24:09.862200Z"
-            ]
-        },
-        {
-            "id": "4a9b07def889c0db74b2675ddf9fc322",
-            "source": "spacenews",
-            "text": "Airbus and Thales win order for SpainSat replacement",
-            "source_link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-03T12:19:45.099383Z",
-            "shown_at": [
-                "2026-08-03T12:19:47.233252Z"
-            ]
-        },
-        {
-            "id": "1dfa29b817f8b21321f4467922653f48",
-            "source": "spacenews",
-            "text": "Xona secures spectrum approval for 250-satellite navigation network",
-            "source_link": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-03T15:54:22.606635Z",
-            "shown_at": [
-                "2026-08-03T15:54:23.597649Z"
-            ]
-        },
-        {
-            "id": "7f75bb3ed230699f9021cb14ec02c218",
-            "source": "spacenews",
-            "text": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
-            "source_link": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-03T16:29:33.107645Z",
-            "shown_at": [
-                "2026-08-03T16:29:34.028991Z"
-            ]
-        },
-        {
-            "id": "ad6c8d3885174e1903f1a378c5600d67",
-            "source": "spacenews",
-            "text": "Xona secures spectrum approval for satellite navigation network",
-            "source_link": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-03T19:59:09.984264Z",
-            "shown_at": [
-                "2026-08-03T19:59:10.659084Z"
-            ]
-        },
-        {
-            "id": "3e988529a90582525454decb9b80b68c",
-            "source": "breaking_defense",
-            "text": "K2 tapped to host Space Force satellite laser links tests",
-            "source_link": "https://breakingdefense.com/2026/08/k2-tapped-to-host-space-force-satellite-laser-links-tests/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-03T20:35:02.623437Z",
-            "shown_at": [
-                "2026-08-03T20:35:03.411105Z",
-                "2026-08-03T22:19:38.478865Z"
             ]
         }
     ]
