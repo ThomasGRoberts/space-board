@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 12 | 26 |
+| breaking_defense | 1 | 1 | 13 | 27 |
 | spacenews | 4 | 5 | 15 | 29 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2795,3 +2795,4 @@
 - **Aug 04, 12:09 AM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Aug 04, 12:44 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 04, 01:19 AM** - Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush (spacenews)
+- **Aug 04, 01:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
