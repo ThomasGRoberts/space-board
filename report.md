@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
-| spacenews | 7 | 8 | 16 | 29 |
-| nyt | 0 | 0 | 12 | 25 |
+| spacenews | 7 | 8 | 15 | 29 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2809,3 +2809,4 @@
 - **Aug 04, 08:19 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 04, 08:54 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Aug 04, 09:29 AM** - Rocketdyne reemerges as standalone space company (spacenews)
+- **Aug 04, 10:04 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
