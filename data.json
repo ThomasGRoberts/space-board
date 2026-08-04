@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-04T00:04:46.122203+00:00",
-    "trigger_count": 6,
-    "current_item_id": "57c81a47fe6ab7a9903049ca00778809",
+    "trigger_count": 0,
+    "current_item_id": "44262b4ff0cb2257790deda1e6433ef9",
     "data": [
         {
             "id": "3e988529a90582525454decb9b80b68c",
@@ -8390,6 +8390,18 @@
             "fetched_datetime": "2026-08-04T15:24:39.619594Z",
             "shown_at": [
                 "2026-08-04T15:24:40.486779Z"
+            ]
+        },
+        {
+            "id": "44262b4ff0cb2257790deda1e6433ef9",
+            "source": "spacenews",
+            "text": "Rubicon ASCENT thruster moves from hot-fire testing to production",
+            "source_link": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T15:59:30.556169Z",
+            "shown_at": [
+                "2026-08-04T15:59:31.475621Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 12 | 25 |
-| spacenews | 8 | 10 | 16 | 30 |
+| spacenews | 9 | 11 | 17 | 31 |
 | nyt | 1 | 1 | 12 | 25 |
 
 # Shown Order
@@ -2819,3 +2819,4 @@
 - **Aug 04, 02:14 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 04, 02:49 PM** - Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush (spacenews)
 - **Aug 04, 03:24 PM** - Military demand shapes market for satellite propulsion (spacenews)
+- **Aug 04, 03:59 PM** - Rubicon ASCENT thruster moves from hot-fire testing to production (spacenews)
