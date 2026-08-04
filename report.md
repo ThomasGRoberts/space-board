@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 6 | 7 | 15 | 29 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2806,3 +2806,4 @@
 - **Aug 04, 06:34 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 04, 07:09 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Aug 04, 07:44 AM** - LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE (spacenews)
+- **Aug 04, 08:19 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
