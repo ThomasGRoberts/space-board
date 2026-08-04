@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
-| spacenews | 5 | 6 | 14 | 29 |
+| spacenews | 6 | 7 | 15 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2799,3 +2799,4 @@
 - **Aug 04, 02:29 AM** - NASA, SpaceX studying how to prevent future upper stage lunar collisions (spacenews)
 - **Aug 04, 03:05 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 04, 03:39 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
+- **Aug 04, 04:14 AM** - Kreios Space to fly VLEO demonstration in NanoAvionics bus (spacenews)
