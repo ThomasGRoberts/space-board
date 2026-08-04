@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-04T00:04:46.122203+00:00",
-    "trigger_count": 6,
-    "current_item_id": "55b24b887776e373529037d2da0eb8e2",
+    "trigger_count": 0,
+    "current_item_id": "c59d2857cab80347ea22878213d64597",
     "data": [
         {
             "id": "3e988529a90582525454decb9b80b68c",
@@ -8324,6 +8324,18 @@
             "fetched_datetime": "2026-08-04T04:14:11.867015Z",
             "shown_at": [
                 "2026-08-04T04:14:12.573787Z"
+            ]
+        },
+        {
+            "id": "c59d2857cab80347ea22878213d64597",
+            "source": "spacenews",
+            "text": "Rocketdyne reemerges as standalone space company",
+            "source_link": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T09:29:42.666651Z",
+            "shown_at": [
+                "2026-08-04T09:29:43.277591Z"
             ]
         }
     ]
