@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 13 | 25 |
-| spacenews | 7 | 11 | 16 | 31 |
+| breaking_defense | 2 | 3 | 12 | 25 |
+| spacenews | 8 | 12 | 17 | 32 |
 | nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2827,3 +2827,4 @@
 - **Aug 04, 06:54 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 04, 07:29 PM** - Swift reboost mission encounters attitude control problems (spacenews)
 - **Aug 04, 08:05 PM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
+- **Aug 04, 08:39 PM** - NOAA purchases Spire hyperspectral microwave sounder data (spacenews)

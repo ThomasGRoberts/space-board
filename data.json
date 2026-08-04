@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-04T00:04:46.122203+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3e988529a90582525454decb9b80b68c",
+    "trigger_count": 0,
+    "current_item_id": "856356fc9da98e2bffa7ae33107e8b9e",
     "data": [
         {
             "id": "3e988529a90582525454decb9b80b68c",
@@ -8431,6 +8431,18 @@
             "fetched_datetime": "2026-08-04T18:19:48.795818Z",
             "shown_at": [
                 "2026-08-04T18:19:50.121160Z"
+            ]
+        },
+        {
+            "id": "856356fc9da98e2bffa7ae33107e8b9e",
+            "source": "spacenews",
+            "text": "NOAA purchases Spire hyperspectral microwave sounder data",
+            "source_link": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T20:39:33.966430Z",
+            "shown_at": [
+                "2026-08-04T20:39:34.832776Z"
             ]
         }
     ]
