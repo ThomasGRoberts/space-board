@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 12 | 25 |
+| breaking_defense | 2 | 2 | 13 | 26 |
 | spacenews | 8 | 11 | 16 | 31 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2820,3 +2820,4 @@
 - **Aug 04, 02:49 PM** - Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush (spacenews)
 - **Aug 04, 03:24 PM** - Military demand shapes market for satellite propulsion (spacenews)
 - **Aug 04, 03:59 PM** - Rubicon ASCENT thruster moves from hot-fire testing to production (spacenews)
+- **Aug 04, 04:34 PM** - The confidence deficit in space (breaking_defense)

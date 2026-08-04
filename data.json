@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-04T00:04:46.122203+00:00",
-    "trigger_count": 6,
-    "current_item_id": "44262b4ff0cb2257790deda1e6433ef9",
+    "trigger_count": 0,
+    "current_item_id": "c23807d5fc15daac57ecab9711534240",
     "data": [
         {
             "id": "3e988529a90582525454decb9b80b68c",
@@ -8402,6 +8402,18 @@
             "fetched_datetime": "2026-08-04T15:59:30.556169Z",
             "shown_at": [
                 "2026-08-04T15:59:31.475621Z"
+            ]
+        },
+        {
+            "id": "c23807d5fc15daac57ecab9711534240",
+            "source": "breaking_defense",
+            "text": "The confidence deficit in space",
+            "source_link": "https://breakingdefense.com/2026/08/the-confidence-deficit-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T16:34:57.997893Z",
+            "shown_at": [
+                "2026-08-04T16:34:58.805368Z"
             ]
         }
     ]
