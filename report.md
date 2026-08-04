@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 13 | 25 |
 | spacenews | 8 | 11 | 16 | 31 |
-| nyt | 1 | 1 | 11 | 24 |
+| nyt | 1 | 1 | 12 | 25 |
 
 # Shown Order
 
@@ -2824,3 +2824,4 @@
 - **Aug 04, 05:09 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 04, 05:44 PM** - NASA still assessing Starliner-1 flight opportunities (spacenews)
 - **Aug 04, 06:19 PM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
+- **Aug 04, 06:54 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
