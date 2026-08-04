@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 25 |
 | spacenews | 8 | 11 | 16 | 31 |
-| nyt | 1 | 1 | 11 | 24 |
+| nyt | 1 | 1 | 12 | 25 |
 
 # Shown Order
 
@@ -2821,3 +2821,4 @@
 - **Aug 04, 03:24 PM** - Military demand shapes market for satellite propulsion (spacenews)
 - **Aug 04, 03:59 PM** - Rubicon ASCENT thruster moves from hot-fire testing to production (spacenews)
 - **Aug 04, 04:34 PM** - The confidence deficit in space (breaking_defense)
+- **Aug 04, 05:09 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
