@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 5 | 6 | 15 | 29 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2797,3 +2797,4 @@
 - **Aug 04, 01:19 AM** - Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush (spacenews)
 - **Aug 04, 01:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 04, 02:29 AM** - NASA, SpaceX studying how to prevent future upper stage lunar collisions (spacenews)
+- **Aug 04, 03:05 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
