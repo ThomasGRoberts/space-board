@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
-| spacenews | 4 | 5 | 14 | 28 |
+| spacenews | 4 | 5 | 15 | 29 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2794,3 +2794,4 @@
 - **Aug 03, 11:35 PM** - Space Force awards K2 Space $22.9 million for laser communications demonstration (spacenews)
 - **Aug 04, 12:09 AM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Aug 04, 12:44 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
+- **Aug 04, 01:19 AM** - Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush (spacenews)
