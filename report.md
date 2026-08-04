@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 13 | 26 |
+| breaking_defense | 1 | 1 | 14 | 27 |
 | spacenews | 7 | 8 | 15 | 29 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2810,3 +2810,4 @@
 - **Aug 04, 08:54 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Aug 04, 09:29 AM** - Rocketdyne reemerges as standalone space company (spacenews)
 - **Aug 04, 10:04 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 04, 10:39 AM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
