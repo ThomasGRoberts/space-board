@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 7 | 8 | 15 | 29 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2812,3 +2812,4 @@
 - **Aug 04, 10:04 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 04, 10:39 AM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Aug 04, 11:14 AM** - Space Force picks 15 companies for $981 million training range contract (spacenews)
+- **Aug 04, 11:49 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
