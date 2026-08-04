@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 12 | 25 |
+| breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 8 | 9 | 16 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2815,3 +2815,4 @@
 - **Aug 04, 11:49 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 04, 12:24 PM** - Future of Crew Dragon weighs on commercial spaceflight industry (spacenews)
 - **Aug 04, 01:04 PM** - SpaceX’s new Starfall program offers validation and competition for reentry startups (spacenews)
+- **Aug 04, 01:39 PM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
