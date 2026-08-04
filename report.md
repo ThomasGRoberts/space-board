@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 13 | 25 |
-| spacenews | 8 | 11 | 16 | 30 |
+| breaking_defense | 2 | 2 | 12 | 25 |
+| spacenews | 8 | 11 | 17 | 31 |
 | nyt | 1 | 1 | 12 | 25 |
 
 # Shown Order
@@ -2822,3 +2822,4 @@
 - **Aug 04, 03:59 PM** - Rubicon ASCENT thruster moves from hot-fire testing to production (spacenews)
 - **Aug 04, 04:34 PM** - The confidence deficit in space (breaking_defense)
 - **Aug 04, 05:09 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
+- **Aug 04, 05:44 PM** - NASA still assessing Starliner-1 flight opportunities (spacenews)
