@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-04T00:04:46.122203+00:00",
-    "trigger_count": 6,
-    "current_item_id": "90326d98340c9651e751c16664eb891f",
+    "trigger_count": 0,
+    "current_item_id": "57c81a47fe6ab7a9903049ca00778809",
     "data": [
         {
             "id": "3e988529a90582525454decb9b80b68c",
@@ -8378,6 +8378,18 @@
             "fetched_datetime": "2026-08-04T14:14:44.663826Z",
             "shown_at": [
                 "2026-08-04T14:14:45.452907Z"
+            ]
+        },
+        {
+            "id": "57c81a47fe6ab7a9903049ca00778809",
+            "source": "spacenews",
+            "text": "Military demand shapes market for satellite propulsion",
+            "source_link": "https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T15:24:39.619594Z",
+            "shown_at": [
+                "2026-08-04T15:24:40.486779Z"
             ]
         }
     ]
