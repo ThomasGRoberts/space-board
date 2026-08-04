@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 14 | 26 |
-| spacenews | 7 | 8 | 15 | 29 |
+| breaking_defense | 1 | 1 | 13 | 26 |
+| spacenews | 7 | 8 | 16 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2811,3 +2811,4 @@
 - **Aug 04, 09:29 AM** - Rocketdyne reemerges as standalone space company (spacenews)
 - **Aug 04, 10:04 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 04, 10:39 AM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
+- **Aug 04, 11:14 AM** - Space Force picks 15 companies for $981 million training range contract (spacenews)
