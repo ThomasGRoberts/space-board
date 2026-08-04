@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
-| spacenews | 4 | 5 | 14 | 29 |
+| spacenews | 5 | 6 | 15 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2796,3 +2796,4 @@
 - **Aug 04, 12:44 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 04, 01:19 AM** - Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush (spacenews)
 - **Aug 04, 01:54 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Aug 04, 02:29 AM** - NASA, SpaceX studying how to prevent future upper stage lunar collisions (spacenews)

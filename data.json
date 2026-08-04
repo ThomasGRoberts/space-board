@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-04T00:04:46.122203+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d040a4620fc9a5e17d580193a2df0ee3",
+    "trigger_count": 0,
+    "current_item_id": "dd5bf06f00f21486a6e958d92400bcef",
     "data": [
         {
             "id": "3e988529a90582525454decb9b80b68c",
@@ -8290,6 +8290,18 @@
                 "2026-05-25T00:24:15.501113Z",
                 "2026-05-26T02:04:50.181137Z",
                 "2026-05-27T10:34:37.887796Z"
+            ]
+        },
+        {
+            "id": "dd5bf06f00f21486a6e958d92400bcef",
+            "source": "spacenews",
+            "text": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
+            "source_link": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T02:29:30.885628Z",
+            "shown_at": [
+                "2026-08-04T02:29:31.641222Z"
             ]
         }
     ]
