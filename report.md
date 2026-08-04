@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 4 | 5 | 14 | 29 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2793,3 +2793,4 @@
 - **Aug 03, 10:59 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 03, 11:35 PM** - Space Force awards K2 Space $22.9 million for laser communications demonstration (spacenews)
 - **Aug 04, 12:09 AM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
+- **Aug 04, 12:44 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
