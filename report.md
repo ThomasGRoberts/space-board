@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 6 | 7 | 15 | 29 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2803,3 +2803,4 @@
 - **Aug 04, 04:49 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 04, 05:24 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 04, 05:59 AM** - Spain commits up to $2.3 billion for national military communications for IRIS² (spacenews)
+- **Aug 04, 06:34 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
