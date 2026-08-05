@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 17 | 33 |
-| nyt | 4 | 4 | 12 | 24 |
+| nyt | 4 | 4 | 13 | 25 |
 | breaking_defense | 2 | 3 | 11 | 24 |
 
 # Shown Order
@@ -2761,3 +2761,4 @@
 - **Aug 05, 11:54 AM** - Think tank warns Europe’s orbital compute gap is widening (spacenews)
 - **Aug 05, 12:29 PM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
 - **Aug 05, 01:05 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
+- **Aug 05, 01:44 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
