@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 15 | 17 | 31 |
+| spacenews | 11 | 15 | 18 | 32 |
 | nyt | 4 | 4 | 13 | 25 |
 | breaking_defense | 2 | 3 | 11 | 24 |
 
@@ -2742,3 +2742,4 @@
 - **Aug 05, 12:44 AM** - Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies (spacenews)
 - **Aug 05, 01:19 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 05, 01:54 AM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
+- **Aug 05, 02:29 AM** - Proposed rule would exempt commercial launch licensing from environmental regulations (spacenews)
