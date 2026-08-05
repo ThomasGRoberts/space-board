@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 16 | 32 |
 | nyt | 2 | 4 | 13 | 25 |
-| breaking_defense | 1 | 3 | 11 | 24 |
+| breaking_defense | 2 | 4 | 12 | 24 |
 
 # Shown Order
 
@@ -2775,3 +2775,4 @@
 - **Aug 05, 08:29 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
 - **Aug 05, 09:05 PM** - NASA, SpaceX studying how to prevent future upper stage lunar collisions (spacenews)
 - **Aug 05, 09:44 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 05, 10:19 PM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
