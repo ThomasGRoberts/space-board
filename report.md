@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 16 | 33 |
-| nyt | 3 | 4 | 12 | 24 |
+| nyt | 3 | 4 | 13 | 25 |
 | breaking_defense | 0 | 3 | 12 | 24 |
 
 # Shown Order
@@ -2771,3 +2771,4 @@
 - **Aug 05, 06:09 PM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 05, 06:44 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Aug 05, 07:19 PM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
+- **Aug 05, 07:54 PM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
