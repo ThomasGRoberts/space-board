@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 16 | 32 |
+| spacenews | 10 | 18 | 17 | 33 |
 | nyt | 3 | 4 | 12 | 24 |
 | breaking_defense | 1 | 3 | 12 | 25 |
 
@@ -2767,3 +2767,4 @@
 - **Aug 05, 03:39 PM** - Finding room in Starlink’s shadow (spacenews)
 - **Aug 05, 04:19 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 05, 04:54 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
+- **Aug 05, 05:29 PM** - Capella, Iceye and Umbra win NRO radar-data contracts (spacenews)

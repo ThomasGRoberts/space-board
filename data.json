@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fc7a41525406b0375fb9728a0c12d105",
+    "trigger_count": 0,
+    "current_item_id": "6d6c9c0162b4275e112f6c1979092de4",
     "data": [
         {
             "id": "3308cf6df47b69bfe052ac1e0228a3b0",
@@ -8327,6 +8327,18 @@
             "fetched_datetime": "2026-08-05T15:39:22.159536Z",
             "shown_at": [
                 "2026-08-05T15:39:23.079326Z"
+            ]
+        },
+        {
+            "id": "6d6c9c0162b4275e112f6c1979092de4",
+            "source": "spacenews",
+            "text": "Capella, Iceye and Umbra win NRO radar-data contracts",
+            "source_link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T17:29:26.453253Z",
+            "shown_at": [
+                "2026-08-05T17:29:27.265128Z"
             ]
         }
     ]
