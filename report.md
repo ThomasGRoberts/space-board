@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 18 | 33 |
 | nyt | 4 | 4 | 12 | 24 |
-| breaking_defense | 2 | 3 | 11 | 24 |
+| breaking_defense | 2 | 3 | 11 | 25 |
 
 # Shown Order
 
@@ -2753,3 +2753,4 @@
 - **Aug 05, 07:14 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 05, 07:49 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 05, 08:24 AM** - Think tank warns Europe’s orbital compute gap is widening (spacenews)
+- **Aug 05, 08:59 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
