@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
-    "trigger_count": 6,
-    "current_item_id": "67c9b3ade8c50336f007e9cbb59c5bf5",
+    "trigger_count": 0,
+    "current_item_id": "3308cf6df47b69bfe052ac1e0228a3b0",
     "data": [
         {
             "id": "3308cf6df47b69bfe052ac1e0228a3b0",
             "source": "spacenews",
             "text": "Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies",
             "source_link": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-08-04T23:34:59.056205Z"
+            "fetched_datetime": "2026-08-04T23:34:59.056205Z",
+            "shown_at": [
+                "2026-08-05T00:44:36.903550Z"
+            ]
         },
         {
             "id": "16f60a433dab4b30e6d16bb951491404",
