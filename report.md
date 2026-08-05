@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 18 | 33 |
-| nyt | 4 | 4 | 12 | 24 |
+| spacenews | 11 | 18 | 17 | 33 |
+| nyt | 4 | 4 | 13 | 25 |
 | breaking_defense | 2 | 3 | 11 | 24 |
 
 # Shown Order
@@ -2754,3 +2754,4 @@
 - **Aug 05, 07:49 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 05, 08:24 AM** - Think tank warns Europe’s orbital compute gap is widening (spacenews)
 - **Aug 05, 08:59 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
+- **Aug 05, 09:34 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
