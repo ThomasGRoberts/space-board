@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4414e19baf00b9a0d7b4ce1ed43df6fe",
+    "trigger_count": 0,
+    "current_item_id": "f13786de0e38083da817adc979ff034c",
     "data": [
         {
             "id": "3308cf6df47b69bfe052ac1e0228a3b0",
@@ -8369,6 +8369,18 @@
             "fetched_datetime": "2026-08-05T22:19:35.182914Z",
             "shown_at": [
                 "2026-08-05T22:19:39.968438Z"
+            ]
+        },
+        {
+            "id": "f13786de0e38083da817adc979ff034c",
+            "source": "spacenews",
+            "text": "New Glenn explosion linked to rocket engine valve",
+            "source_link": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T22:54:24.992846Z",
+            "shown_at": [
+                "2026-08-05T22:54:28.423746Z"
             ]
         }
     ]
