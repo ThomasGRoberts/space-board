@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 16 | 33 |
+| spacenews | 10 | 19 | 17 | 34 |
 | nyt | 3 | 4 | 12 | 24 |
 | breaking_defense | 2 | 3 | 12 | 24 |
 
@@ -2764,3 +2764,4 @@
 - **Aug 05, 01:44 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 05, 02:24 PM** - SpaceX to begin Starship orbital flights (spacenews)
 - **Aug 05, 02:59 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Aug 05, 03:39 PM** - Finding room in Starlink’s shadow (spacenews)

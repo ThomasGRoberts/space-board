@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d040a4620fc9a5e17d580193a2df0ee3",
+    "trigger_count": 0,
+    "current_item_id": "d8d8e21e07548fc1b07834234be1c6fc",
     "data": [
         {
             "id": "3308cf6df47b69bfe052ac1e0228a3b0",
@@ -8313,6 +8313,18 @@
             "fetched_datetime": "2026-08-05T12:29:27.889824Z",
             "shown_at": [
                 "2026-08-05T12:29:28.873582Z"
+            ]
+        },
+        {
+            "id": "d8d8e21e07548fc1b07834234be1c6fc",
+            "source": "spacenews",
+            "text": "Finding room in Starlink’s shadow",
+            "source_link": "https://spacenews.com/finding-room-in-starlinks-shadow/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T15:39:22.159536Z",
+            "shown_at": [
+                "2026-08-05T15:39:23.079326Z"
             ]
         }
     ]
