@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 16 | 33 |
-| nyt | 3 | 4 | 12 | 24 |
+| nyt | 3 | 4 | 13 | 25 |
 | breaking_defense | 2 | 3 | 12 | 24 |
 
 # Shown Order
@@ -2765,3 +2765,4 @@
 - **Aug 05, 02:24 PM** - SpaceX to begin Starship orbital flights (spacenews)
 - **Aug 05, 02:59 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 05, 03:39 PM** - Finding room in Starlink’s shadow (spacenews)
+- **Aug 05, 04:19 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
