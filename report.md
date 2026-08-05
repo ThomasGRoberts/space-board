@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 17 | 32 |
+| spacenews | 11 | 18 | 18 | 33 |
 | nyt | 4 | 4 | 12 | 25 |
 | breaking_defense | 2 | 3 | 11 | 24 |
 
@@ -2758,3 +2758,4 @@
 - **Aug 05, 10:09 AM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
 - **Aug 05, 10:44 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 05, 11:19 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
+- **Aug 05, 11:54 AM** - Think tank warns Europe’s orbital compute gap is widening (spacenews)
