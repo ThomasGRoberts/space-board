@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 17 | 32 |
+| spacenews | 10 | 18 | 18 | 33 |
 | nyt | 3 | 4 | 12 | 25 |
 | breaking_defense | 2 | 3 | 11 | 24 |
 
@@ -2762,3 +2762,4 @@
 - **Aug 05, 12:29 PM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
 - **Aug 05, 01:05 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Aug 05, 01:44 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
+- **Aug 05, 02:24 PM** - SpaceX to begin Starship orbital flights (spacenews)
