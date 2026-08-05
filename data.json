@@ -1,9 +1,200 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-04T00:04:46.122203+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
+    "trigger_count": 6,
     "current_item_id": "16f60a433dab4b30e6d16bb951491404",
     "data": [
+        {
+            "id": "3308cf6df47b69bfe052ac1e0228a3b0",
+            "source": "spacenews",
+            "text": "Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies",
+            "source_link": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T23:34:59.056205Z"
+        },
+        {
+            "id": "16f60a433dab4b30e6d16bb951491404",
+            "source": "spacenews",
+            "text": "SpaceX to begin Starship orbital flights",
+            "source_link": "https://spacenews.com/spacex-to-begin-starship-orbital-flights/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T23:34:59.056152Z",
+            "shown_at": [
+                "2026-08-04T23:34:59.848703Z"
+            ]
+        },
+        {
+            "id": "02ff43220508d1da4c8a05ce69ef51ff",
+            "source": "nyt",
+            "text": "SpaceX’s Spending on A.I. Soars, in First Results After I.P.O.",
+            "source_link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T22:59:32.214388Z",
+            "shown_at": [
+                "2026-08-04T22:59:35.932517Z"
+            ]
+        },
+        {
+            "id": "9ea105e839d353852d4350205cec2b12",
+            "source": "spacenews",
+            "text": "Telesat lands $1.63 billion Canadian defense contract",
+            "source_link": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T22:24:38.877567Z",
+            "shown_at": [
+                "2026-08-04T22:24:39.784275Z"
+            ]
+        },
+        {
+            "id": "2ef2c19abbe72c8a00034620810645e3",
+            "source": "nyt",
+            "text": "SpaceX’s Spending on A.I. Soars, In First Results After I.P.O.",
+            "source_link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T21:14:39.931431Z",
+            "shown_at": [
+                "2026-08-04T21:14:40.661072Z"
+            ]
+        },
+        {
+            "id": "856356fc9da98e2bffa7ae33107e8b9e",
+            "source": "spacenews",
+            "text": "NOAA purchases Spire hyperspectral microwave sounder data",
+            "source_link": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T20:39:33.966430Z",
+            "shown_at": [
+                "2026-08-04T20:39:34.832776Z"
+            ]
+        },
+        {
+            "id": "46bf7794f67a528bb9a5d3640ba84531",
+            "source": "breaking_defense",
+            "text": "Telesat wins $1.6B for Canadian Arctic MILSATCOM",
+            "source_link": "https://breakingdefense.com/2026/08/telesat-wins-1-6b-for-canadian-arctic-milsatcom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T18:19:48.795818Z",
+            "shown_at": [
+                "2026-08-04T18:19:50.121160Z"
+            ]
+        },
+        {
+            "id": "c23807d5fc15daac57ecab9711534240",
+            "source": "breaking_defense",
+            "text": "The confidence deficit in space",
+            "source_link": "https://breakingdefense.com/2026/08/the-confidence-deficit-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T16:34:57.997893Z",
+            "shown_at": [
+                "2026-08-04T16:34:58.805368Z",
+                "2026-08-04T21:49:38.073007Z"
+            ]
+        },
+        {
+            "id": "44262b4ff0cb2257790deda1e6433ef9",
+            "source": "spacenews",
+            "text": "Rubicon ASCENT thruster moves from hot-fire testing to production",
+            "source_link": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T15:59:30.556169Z",
+            "shown_at": [
+                "2026-08-04T15:59:31.475621Z"
+            ]
+        },
+        {
+            "id": "57c81a47fe6ab7a9903049ca00778809",
+            "source": "spacenews",
+            "text": "Military demand shapes market for satellite propulsion",
+            "source_link": "https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T15:24:39.619594Z",
+            "shown_at": [
+                "2026-08-04T15:24:40.486779Z"
+            ]
+        },
+        {
+            "id": "4978b161c731335f2eed8567798503ce",
+            "source": "nyt",
+            "text": "A SpaceX Rocket Will Soon Crash Into the Moon",
+            "source_link": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T14:14:44.663826Z",
+            "shown_at": [
+                "2026-08-04T14:14:45.452907Z",
+                "2026-08-04T18:54:55.334916Z"
+            ]
+        },
+        {
+            "id": "d90eb34009d77e69a52b9a8a018e7cbf",
+            "source": "spacenews",
+            "text": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
+            "source_link": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T12:24:37.667272Z",
+            "shown_at": [
+                "2026-08-04T13:04:52.044378Z"
+            ]
+        },
+        {
+            "id": "507e53df170bfa85c0eb3095a237f10b",
+            "source": "spacenews",
+            "text": "Future of Crew Dragon weighs on commercial spaceflight industry",
+            "source_link": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T12:24:37.667214Z",
+            "shown_at": [
+                "2026-08-04T12:24:39.677358Z"
+            ]
+        },
+        {
+            "id": "c59d2857cab80347ea22878213d64597",
+            "source": "spacenews",
+            "text": "Rocketdyne reemerges as standalone space company",
+            "source_link": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T09:29:42.666651Z",
+            "shown_at": [
+                "2026-08-04T09:29:43.277591Z"
+            ]
+        },
+        {
+            "id": "2379745e0726c247f58fee5d6015c6c1",
+            "source": "spacenews",
+            "text": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+            "source_link": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T04:14:11.867015Z",
+            "shown_at": [
+                "2026-08-04T04:14:12.573787Z"
+            ]
+        },
+        {
+            "id": "dd5bf06f00f21486a6e958d92400bcef",
+            "source": "spacenews",
+            "text": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
+            "source_link": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-04T02:29:30.885628Z",
+            "shown_at": [
+                "2026-08-04T02:29:31.641222Z"
+            ]
+        },
         {
             "id": "3e988529a90582525454decb9b80b68c",
             "source": "breaking_defense",
@@ -8040,468 +8231,6 @@
                 "2026-05-24T08:24:24.430829Z",
                 "2026-05-27T04:54:21.974540Z"
             ]
-        },
-        {
-            "id": "fadd4dc4f44341bb1b4cbca35e6140e1",
-            "source": "spacenews",
-            "text": "SpaceX launches first Starship V3",
-            "source_link": "https://spacenews.com/spacex-launches-first-starship-v3/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-23T03:29:16.430182Z",
-            "shown_at": [
-                "2026-05-23T04:04:48.056770Z",
-                "2026-05-23T22:19:17.148589Z",
-                "2026-05-24T07:14:14.328247Z",
-                "2026-05-29T20:54:22.716460Z"
-            ]
-        },
-        {
-            "id": "8464a8efb0dbc745d028b2d0e8a092ba",
-            "source": "spacenews",
-            "text": "Blue Origin completes investigation into New Glenn launch failure",
-            "source_link": "https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-23T03:29:16.430127Z",
-            "shown_at": [
-                "2026-05-23T03:29:17.258937Z",
-                "2026-05-24T18:59:10.356857Z",
-                "2026-05-25T21:59:12.647283Z"
-            ]
-        },
-        {
-            "id": "8450e37284daed601d60dc474c9e2600",
-            "source": "spacenews",
-            "text": "NASA unveils sweeping reorganization",
-            "source_link": "https://spacenews.com/nasa-unveils-sweeping-reorganization/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-22T17:19:18.702492Z",
-            "shown_at": [
-                "2026-05-22T17:19:19.466295Z",
-                "2026-05-24T15:24:12.555469Z",
-                "2026-05-27T09:54:19.997879Z",
-                "2026-05-28T12:14:15.436129Z"
-            ]
-        },
-        {
-            "id": "6720b985eddb11e422fd43a28dd6a5fb",
-            "source": "spacenews",
-            "text": "SpaceX IPO filing casts Starlink Mobile as future wireless challenger",
-            "source_link": "https://spacenews.com/spacex-prospectus-casts-starlink-mobile-as-future-wireless-challenger/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-22T13:14:20.394565Z",
-            "shown_at": [
-                "2026-05-22T13:49:42.116581Z",
-                "2026-05-28T08:38:57.136083Z"
-            ]
-        },
-        {
-            "id": "9a53ca59e5fe1af0b6634822e2a68473",
-            "source": "spacenews",
-            "text": "Leveraging AUKUS and southern geography: building Australia’s dual-use space infrastructure for strategic resilience ",
-            "source_link": "https://spacenews.com/leveraging-aukus-and-southern-geography-building-australias-dual-use-space-infrastructure-for-strategic-resilience/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-22T13:14:20.394506Z",
-            "shown_at": [
-                "2026-05-22T13:14:21.276546Z"
-            ]
-        },
-        {
-            "id": "90a198622968dba00b87e59faf7d10d2",
-            "source": "spacenews",
-            "text": "Rocket Lab launches ninth Synspective satellite",
-            "source_link": "https://spacenews.com/rocket-lab-launches-ninth-synspective-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-22T12:39:14.916880Z",
-            "shown_at": [
-                "2026-05-22T12:39:17.523084Z",
-                "2026-05-24T11:54:09.412969Z",
-                "2026-05-25T03:19:10.706122Z"
-            ]
-        },
-        {
-            "id": "be615081c1e47698aa17c85ff64d8c22",
-            "source": "spacenews",
-            "text": "Rocket Lab wins first GEO satellite production contract from U.S. Space Force",
-            "source_link": "https://spacenews.com/rocket-lab-wins-first-geo-satellite-production-contract-from-u-s-space-force/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-22T09:44:10.333972Z",
-            "shown_at": [
-                "2026-05-22T09:44:11.044195Z",
-                "2026-05-23T00:24:16.810091Z"
-            ]
-        },
-        {
-            "id": "c69a1c3cecbefac8c91374e98466eed9",
-            "source": "spacenews",
-            "text": "Ground equipment problem scrubs Starship launch attempt",
-            "source_link": "https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-22T02:34:22.482817Z",
-            "shown_at": [
-                "2026-05-22T02:34:23.957360Z",
-                "2026-05-25T20:09:10.362869Z"
-            ]
-        },
-        {
-            "id": "2ec8c76103baf4946ff9c8244267dcb5",
-            "source": "nyt",
-            "text": "SpaceX Scrubs Launch Attempt of Updated Starship Rocket",
-            "source_link": "https://www.nytimes.com/2026/05/21/science/space/spacex-starship-launch-nasa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-22T00:49:12.713231Z",
-            "shown_at": [
-                "2026-05-22T00:49:13.613585Z",
-                "2026-05-22T04:54:35.364824Z",
-                "2026-05-22T06:44:19.457567Z",
-                "2026-05-22T16:44:21.286847Z",
-                "2026-05-22T23:49:05.406025Z",
-                "2026-05-23T01:44:15.975759Z",
-                "2026-05-23T04:39:08.141596Z",
-                "2026-05-24T11:19:20.019006Z",
-                "2026-05-24T13:04:23.845140Z",
-                "2026-05-24T20:09:17.875025Z",
-                "2026-05-25T02:09:07.470388Z",
-                "2026-05-25T13:39:15.379133Z",
-                "2026-05-25T17:14:22.099125Z",
-                "2026-05-25T20:44:16.717397Z",
-                "2026-05-26T03:49:12.126198Z",
-                "2026-05-28T01:29:08.445597Z",
-                "2026-05-28T03:14:15.920756Z"
-            ]
-        },
-        {
-            "id": "6c811402e9bd30ba1bd0fa7f94981dbd",
-            "source": "breaking_defense",
-            "text": "How drones can navigate without GPS ",
-            "source_link": "https://breakingdefense.com/2026/05/how-drones-can-navigate-without-gps/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-22T00:14:42.797127Z",
-            "shown_at": [
-                "2026-05-22T01:24:12.455701Z",
-                "2026-05-22T07:24:20.820105Z",
-                "2026-05-22T16:09:19.601235Z",
-                "2026-05-23T06:59:07.910667Z",
-                "2026-05-23T14:19:17.732350Z",
-                "2026-05-23T19:54:10.430336Z",
-                "2026-05-23T23:29:30.527001Z",
-                "2026-05-24T15:58:59.101232Z",
-                "2026-05-24T21:29:06.594183Z",
-                "2026-05-25T14:14:05.948428Z",
-                "2026-05-25T19:34:32.137115Z",
-                "2026-05-26T02:39:16.676438Z",
-                "2026-05-26T06:44:21.995837Z",
-                "2026-05-26T09:04:54.756770Z",
-                "2026-05-26T19:29:10.148181Z",
-                "2026-05-27T03:44:19.739501Z",
-                "2026-05-28T09:54:25.726779Z",
-                "2026-05-28T20:04:09.927718Z"
-            ]
-        },
-        {
-            "id": "9d94a4b12dc833d31199af8eb8d3cbd1",
-            "source": "breaking_defense",
-            "text": "Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute",
-            "source_link": "https://breakingdefense.com/2026/05/boots-on-the-moon-needed-to-beat-belligerent-china-mitchell-institute/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-22T00:14:42.797063Z",
-            "shown_at": [
-                "2026-05-22T00:14:44.977555Z",
-                "2026-05-22T03:44:14.799360Z",
-                "2026-05-23T08:44:18.588770Z",
-                "2026-05-24T01:19:11.652505Z",
-                "2026-05-24T17:49:12.161997Z",
-                "2026-05-24T19:34:23.794526Z",
-                "2026-05-25T02:44:21.930968Z",
-                "2026-05-25T08:04:35.392794Z",
-                "2026-05-25T12:29:31.061836Z",
-                "2026-05-27T05:29:09.478778Z",
-                "2026-05-28T11:39:06.423887Z"
-            ]
-        },
-        {
-            "id": "0c0d9a69ea975dba2f38c4145650e5f0",
-            "source": "spacenews",
-            "text": "Sixth Varda mission successfully returns",
-            "source_link": "https://spacenews.com/sixth-varda-mission-successfully-returns/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T22:29:08.780025Z",
-            "shown_at": [
-                "2026-05-21T22:29:10.112024Z",
-                "2026-05-23T16:39:07.570965Z",
-                "2026-05-26T10:14:22.482648Z",
-                "2026-05-26T20:38:50.855773Z"
-            ]
-        },
-        {
-            "id": "f8f1a19dcf28c08df67ff96830e8df8b",
-            "source": "spacenews",
-            "text": "Space Force on path to double active-duty force by 2030",
-            "source_link": "https://spacenews.com/space-force-on-path-to-double-active-duty-force-by-2030/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T21:54:14.417523Z",
-            "shown_at": [
-                "2026-05-21T21:54:17.144090Z",
-                "2026-05-23T02:19:26.283978Z",
-                "2026-05-25T13:04:36.382350Z",
-                "2026-05-27T03:09:25.727492Z"
-            ]
-        },
-        {
-            "id": "ee73df88159d53af40f354a412959326",
-            "source": "spacenews",
-            "text": "The internet was ‘too expensive’ too",
-            "source_link": "https://spacenews.com/the-internet-was-too-expensive-too/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T18:19:17.506101Z",
-            "shown_at": [
-                "2026-05-21T19:05:45.512256Z",
-                "2026-05-26T07:54:22.333567Z"
-            ]
-        },
-        {
-            "id": "23eb9a125461e2caa79291ee84261374",
-            "source": "spacenews",
-            "text": "Starship underpins SpaceX’s growth ambitions",
-            "source_link": "https://spacenews.com/starship-underpins-spacexs-growth-ambitions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T18:19:17.506044Z",
-            "shown_at": [
-                "2026-05-21T18:19:19.920042Z",
-                "2026-05-22T07:59:36.896989Z",
-                "2026-05-24T17:14:09.634467Z",
-                "2026-05-25T05:04:39.869242Z"
-            ]
-        },
-        {
-            "id": "660516680542cb2951a308d6423cff7d",
-            "source": "nyt",
-            "text": "SpaceX to Attempt Its 12th Test Flight of Starship",
-            "source_link": "https://www.nytimes.com/2026/05/21/science/space/spacex-starship-launch-nasa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T10:49:18.086747Z",
-            "shown_at": [
-                "2026-05-21T10:49:21.228094Z",
-                "2026-05-22T03:08:49.978015Z",
-                "2026-05-22T14:59:21.195608Z",
-                "2026-05-22T20:14:22.029362Z",
-                "2026-05-22T21:59:14.001082Z",
-                "2026-05-23T08:09:08.457912Z",
-                "2026-05-23T21:09:14.511243Z",
-                "2026-05-23T22:54:06.309060Z",
-                "2026-05-24T00:44:23.325973Z",
-                "2026-05-24T09:34:21.414708Z",
-                "2026-05-24T22:39:11.142072Z",
-                "2026-05-25T00:24:15.501113Z",
-                "2026-05-26T02:04:50.181137Z",
-                "2026-05-27T10:34:37.887796Z"
-            ]
-        },
-        {
-            "id": "dd5bf06f00f21486a6e958d92400bcef",
-            "source": "spacenews",
-            "text": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
-            "source_link": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T02:29:30.885628Z",
-            "shown_at": [
-                "2026-08-04T02:29:31.641222Z"
-            ]
-        },
-        {
-            "id": "2379745e0726c247f58fee5d6015c6c1",
-            "source": "spacenews",
-            "text": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
-            "source_link": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T04:14:11.867015Z",
-            "shown_at": [
-                "2026-08-04T04:14:12.573787Z"
-            ]
-        },
-        {
-            "id": "c59d2857cab80347ea22878213d64597",
-            "source": "spacenews",
-            "text": "Rocketdyne reemerges as standalone space company",
-            "source_link": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T09:29:42.666651Z",
-            "shown_at": [
-                "2026-08-04T09:29:43.277591Z"
-            ]
-        },
-        {
-            "id": "507e53df170bfa85c0eb3095a237f10b",
-            "source": "spacenews",
-            "text": "Future of Crew Dragon weighs on commercial spaceflight industry",
-            "source_link": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T12:24:37.667214Z",
-            "shown_at": [
-                "2026-08-04T12:24:39.677358Z"
-            ]
-        },
-        {
-            "id": "d90eb34009d77e69a52b9a8a018e7cbf",
-            "source": "spacenews",
-            "text": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
-            "source_link": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T12:24:37.667272Z",
-            "shown_at": [
-                "2026-08-04T13:04:52.044378Z"
-            ]
-        },
-        {
-            "id": "4978b161c731335f2eed8567798503ce",
-            "source": "nyt",
-            "text": "A SpaceX Rocket Will Soon Crash Into the Moon",
-            "source_link": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T14:14:44.663826Z",
-            "shown_at": [
-                "2026-08-04T14:14:45.452907Z",
-                "2026-08-04T18:54:55.334916Z"
-            ]
-        },
-        {
-            "id": "57c81a47fe6ab7a9903049ca00778809",
-            "source": "spacenews",
-            "text": "Military demand shapes market for satellite propulsion",
-            "source_link": "https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T15:24:39.619594Z",
-            "shown_at": [
-                "2026-08-04T15:24:40.486779Z"
-            ]
-        },
-        {
-            "id": "44262b4ff0cb2257790deda1e6433ef9",
-            "source": "spacenews",
-            "text": "Rubicon ASCENT thruster moves from hot-fire testing to production",
-            "source_link": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T15:59:30.556169Z",
-            "shown_at": [
-                "2026-08-04T15:59:31.475621Z"
-            ]
-        },
-        {
-            "id": "c23807d5fc15daac57ecab9711534240",
-            "source": "breaking_defense",
-            "text": "The confidence deficit in space",
-            "source_link": "https://breakingdefense.com/2026/08/the-confidence-deficit-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T16:34:57.997893Z",
-            "shown_at": [
-                "2026-08-04T16:34:58.805368Z",
-                "2026-08-04T21:49:38.073007Z"
-            ]
-        },
-        {
-            "id": "46bf7794f67a528bb9a5d3640ba84531",
-            "source": "breaking_defense",
-            "text": "Telesat wins $1.6B for Canadian Arctic MILSATCOM",
-            "source_link": "https://breakingdefense.com/2026/08/telesat-wins-1-6b-for-canadian-arctic-milsatcom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T18:19:48.795818Z",
-            "shown_at": [
-                "2026-08-04T18:19:50.121160Z"
-            ]
-        },
-        {
-            "id": "856356fc9da98e2bffa7ae33107e8b9e",
-            "source": "spacenews",
-            "text": "NOAA purchases Spire hyperspectral microwave sounder data",
-            "source_link": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T20:39:33.966430Z",
-            "shown_at": [
-                "2026-08-04T20:39:34.832776Z"
-            ]
-        },
-        {
-            "id": "2ef2c19abbe72c8a00034620810645e3",
-            "source": "nyt",
-            "text": "SpaceX’s Spending on A.I. Soars, In First Results After I.P.O.",
-            "source_link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T21:14:39.931431Z",
-            "shown_at": [
-                "2026-08-04T21:14:40.661072Z"
-            ]
-        },
-        {
-            "id": "9ea105e839d353852d4350205cec2b12",
-            "source": "spacenews",
-            "text": "Telesat lands $1.63 billion Canadian defense contract",
-            "source_link": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T22:24:38.877567Z",
-            "shown_at": [
-                "2026-08-04T22:24:39.784275Z"
-            ]
-        },
-        {
-            "id": "02ff43220508d1da4c8a05ce69ef51ff",
-            "source": "nyt",
-            "text": "SpaceX’s Spending on A.I. Soars, in First Results After I.P.O.",
-            "source_link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T22:59:32.214388Z",
-            "shown_at": [
-                "2026-08-04T22:59:35.932517Z"
-            ]
-        },
-        {
-            "id": "16f60a433dab4b30e6d16bb951491404",
-            "source": "spacenews",
-            "text": "SpaceX to begin Starship orbital flights",
-            "source_link": "https://spacenews.com/spacex-to-begin-starship-orbital-flights/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T23:34:59.056152Z",
-            "shown_at": [
-                "2026-08-04T23:34:59.848703Z"
-            ]
-        },
-        {
-            "id": "3308cf6df47b69bfe052ac1e0228a3b0",
-            "source": "spacenews",
-            "text": "Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies",
-            "source_link": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-08-04T23:34:59.056205Z"
         }
     ]
 }
