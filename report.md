@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 17 | 32 |
+| spacenews | 10 | 16 | 18 | 33 |
 | nyt | 4 | 4 | 13 | 24 |
 | breaking_defense | 2 | 3 | 11 | 24 |
 
@@ -2746,3 +2746,4 @@
 - **Aug 05, 03:05 AM** - Voyager seeks relaxed requirements in NASA commercial space station RFP (spacenews)
 - **Aug 05, 03:39 AM** - The confidence deficit in space (breaking_defense)
 - **Aug 05, 04:14 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 05, 04:49 AM** - Spain commits up to $2.3 billion for national military communications for IRIS² (spacenews)
