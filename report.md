@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 18 | 33 |
 | nyt | 4 | 4 | 12 | 24 |
-| breaking_defense | 2 | 3 | 11 | 23 |
+| breaking_defense | 2 | 3 | 11 | 24 |
 
 # Shown Order
 
@@ -2747,3 +2747,4 @@
 - **Aug 05, 03:39 AM** - The confidence deficit in space (breaking_defense)
 - **Aug 05, 04:14 AM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 05, 04:49 AM** - Spain commits up to $2.3 billion for national military communications for IRIS² (spacenews)
+- **Aug 05, 05:24 AM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
