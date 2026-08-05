@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 15 | 32 |
+| spacenews | 9 | 17 | 16 | 33 |
 | nyt | 3 | 4 | 13 | 25 |
 | breaking_defense | 1 | 3 | 12 | 24 |
 
@@ -2773,3 +2773,4 @@
 - **Aug 05, 07:19 PM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
 - **Aug 05, 07:54 PM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 05, 08:29 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
+- **Aug 05, 09:05 PM** - NASA, SpaceX studying how to prevent future upper stage lunar collisions (spacenews)
