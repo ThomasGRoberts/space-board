@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 16 | 32 |
 | nyt | 3 | 4 | 13 | 25 |
-| breaking_defense | 0 | 3 | 11 | 24 |
+| breaking_defense | 1 | 4 | 12 | 25 |
 
 # Shown Order
 
@@ -2772,3 +2772,4 @@
 - **Aug 05, 06:44 PM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Aug 05, 07:19 PM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
 - **Aug 05, 07:54 PM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
+- **Aug 05, 08:29 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)

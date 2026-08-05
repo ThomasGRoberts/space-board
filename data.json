@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02ff43220508d1da4c8a05ce69ef51ff",
+    "trigger_count": 0,
+    "current_item_id": "87afcac1720f3b1018af46f601ad6a71",
     "data": [
         {
             "id": "3308cf6df47b69bfe052ac1e0228a3b0",
@@ -8343,6 +8343,18 @@
             "fetched_datetime": "2026-08-05T17:29:26.453253Z",
             "shown_at": [
                 "2026-08-05T17:29:27.265128Z"
+            ]
+        },
+        {
+            "id": "87afcac1720f3b1018af46f601ad6a71",
+            "source": "breaking_defense",
+            "text": "Space Force awards 3 firms $615M to track airborne targets",
+            "source_link": "https://breakingdefense.com/2026/08/space-force-awards-3-firms-615m-to-track-airborne-targets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T20:29:38.275556Z",
+            "shown_at": [
+                "2026-08-05T20:29:39.148475Z"
             ]
         }
     ]
