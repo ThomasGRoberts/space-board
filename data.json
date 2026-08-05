@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2ef2c19abbe72c8a00034620810645e3",
+    "trigger_count": 0,
+    "current_item_id": "347aab1fcf0df99fb4f6316dc1eb72c8",
     "data": [
         {
             "id": "3308cf6df47b69bfe052ac1e0228a3b0",
@@ -8265,6 +8265,18 @@
             "fetched_datetime": "2026-08-05T03:05:13.206410Z",
             "shown_at": [
                 "2026-08-05T03:05:14.241056Z"
+            ]
+        },
+        {
+            "id": "347aab1fcf0df99fb4f6316dc1eb72c8",
+            "source": "spacenews",
+            "text": "Neuraspace raises $18 million to expand sovereign space awareness",
+            "source_link": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T06:35:14.239581Z",
+            "shown_at": [
+                "2026-08-05T06:35:14.951143Z"
             ]
         }
     ]
