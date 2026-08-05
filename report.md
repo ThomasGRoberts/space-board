@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 16 | 32 |
 | nyt | 3 | 4 | 13 | 25 |
-| breaking_defense | 1 | 3 | 11 | 24 |
+| breaking_defense | 1 | 3 | 12 | 25 |
 
 # Shown Order
 
@@ -2766,3 +2766,4 @@
 - **Aug 05, 02:59 PM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
 - **Aug 05, 03:39 PM** - Finding room in Starlink’s shadow (spacenews)
 - **Aug 05, 04:19 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
+- **Aug 05, 04:54 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
