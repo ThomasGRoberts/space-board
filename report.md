@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 16 | 33 |
-| nyt | 1 | 4 | 12 | 24 |
+| nyt | 1 | 4 | 13 | 25 |
 | breaking_defense | 2 | 4 | 12 | 24 |
 
 # Shown Order
@@ -2777,3 +2777,4 @@
 - **Aug 05, 09:44 PM** - A Ton of Space Junk Tumbles Unpredictably to Earth Every Week (nyt)
 - **Aug 05, 10:19 PM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
 - **Aug 05, 10:54 PM** - New Glenn explosion linked to rocket engine valve (spacenews)
+- **Aug 05, 11:29 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
