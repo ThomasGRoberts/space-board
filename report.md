@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 18 | 32 |
-| nyt | 4 | 4 | 12 | 24 |
+| spacenews | 11 | 17 | 17 | 32 |
+| nyt | 4 | 4 | 13 | 25 |
 | breaking_defense | 2 | 3 | 11 | 24 |
 
 # Shown Order
@@ -2751,3 +2751,4 @@
 - **Aug 05, 05:59 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 05, 06:35 AM** - Neuraspace raises $18 million to expand sovereign space awareness (spacenews)
 - **Aug 05, 07:14 AM** - SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats (breaking_defense)
+- **Aug 05, 07:49 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
