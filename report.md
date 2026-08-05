@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 15 | 17 | 32 |
-| nyt | 3 | 3 | 12 | 24 |
+| nyt | 4 | 4 | 13 | 25 |
 | breaking_defense | 2 | 3 | 12 | 24 |
 
 # Shown Order
@@ -2738,3 +2738,4 @@
 - **Aug 04, 10:24 PM** - Telesat lands $1.63 billion Canadian defense contract (spacenews)
 - **Aug 04, 10:59 PM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 04, 11:34 PM** - SpaceX to begin Starship orbital flights (spacenews)
+- **Aug 05, 12:09 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16f60a433dab4b30e6d16bb951491404",
+    "trigger_count": 0,
+    "current_item_id": "67c9b3ade8c50336f007e9cbb59c5bf5",
     "data": [
         {
             "id": "3308cf6df47b69bfe052ac1e0228a3b0",
@@ -8230,6 +8230,18 @@
             "shown_at": [
                 "2026-05-24T08:24:24.430829Z",
                 "2026-05-27T04:54:21.974540Z"
+            ]
+        },
+        {
+            "id": "67c9b3ade8c50336f007e9cbb59c5bf5",
+            "source": "nyt",
+            "text": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
+            "source_link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T00:09:27.750632Z",
+            "shown_at": [
+                "2026-08-05T00:09:28.564049Z"
             ]
         }
     ]
