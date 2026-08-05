@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e69af0df66403828a562cebaf440c278",
+    "trigger_count": 0,
+    "current_item_id": "e5bcb26b49054d68dda94742f3c40165",
     "data": [
         {
             "id": "3308cf6df47b69bfe052ac1e0228a3b0",
@@ -8297,6 +8297,18 @@
             "shown_at": [
                 "2026-08-05T08:24:49.237663Z",
                 "2026-08-05T11:54:44.772010Z"
+            ]
+        },
+        {
+            "id": "e5bcb26b49054d68dda94742f3c40165",
+            "source": "spacenews",
+            "text": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
+            "source_link": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T12:29:27.889824Z",
+            "shown_at": [
+                "2026-08-05T12:29:28.873582Z"
             ]
         }
     ]
