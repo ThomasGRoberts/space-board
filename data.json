@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3cc0543c4a51d09470aa79f68058f531",
+    "trigger_count": 0,
+    "current_item_id": "7bef728fc57c8f677e9a169271df7623",
     "data": [
         {
             "id": "3308cf6df47b69bfe052ac1e0228a3b0",
@@ -8248,6 +8248,18 @@
             "fetched_datetime": "2026-08-05T00:09:27.750632Z",
             "shown_at": [
                 "2026-08-05T00:09:28.564049Z"
+            ]
+        },
+        {
+            "id": "7bef728fc57c8f677e9a169271df7623",
+            "source": "spacenews",
+            "text": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
+            "source_link": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T03:05:13.206410Z",
+            "shown_at": [
+                "2026-08-05T03:05:14.241056Z"
             ]
         }
     ]
