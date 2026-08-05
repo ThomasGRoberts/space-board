@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 15 | 18 | 32 |
+| spacenews | 11 | 15 | 17 | 32 |
 | nyt | 4 | 4 | 12 | 24 |
-| breaking_defense | 2 | 3 | 11 | 24 |
+| breaking_defense | 2 | 3 | 12 | 25 |
 
 # Shown Order
 
@@ -2740,3 +2740,4 @@
 - **Aug 04, 11:34 PM** - SpaceX to begin Starship orbital flights (spacenews)
 - **Aug 05, 12:09 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 05, 12:44 AM** - Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies (spacenews)
+- **Aug 05, 01:19 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
