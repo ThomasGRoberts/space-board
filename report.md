@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 13 | 28 |
-| breaking_defense | 0 | 2 | 8 | 20 |
+| breaking_defense | 0 | 2 | 9 | 21 |
 | nyt | 0 | 2 | 9 | 22 |
 
 # Shown Order
@@ -2756,3 +2756,4 @@
 - **Aug 06, 02:49 PM** - Redwire to fly dedicated Starfall mission for microgravity research (spacenews)
 - **Aug 06, 03:34 PM** - Lessons for the future of NASA Mars exploration from a 1970s mission (spacenews)
 - **Aug 06, 06:38 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
+- **Aug 06, 10:40 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
