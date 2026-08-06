@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 15 | 31 |
-| breaking_defense | 2 | 3 | 11 | 23 |
-| nyt | 0 | 3 | 11 | 23 |
+| breaking_defense | 2 | 2 | 11 | 22 |
+| nyt | 0 | 3 | 11 | 24 |
 
 # Shown Order
 
@@ -2755,3 +2755,4 @@
 - **Aug 06, 02:14 PM** - China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat (spacenews)
 - **Aug 06, 02:49 PM** - Redwire to fly dedicated Starfall mission for microgravity research (spacenews)
 - **Aug 06, 03:34 PM** - Lessons for the future of NASA Mars exploration from a 1970s mission (spacenews)
+- **Aug 06, 06:38 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
