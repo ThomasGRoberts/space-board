@@ -1,9 +1,132 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-05T00:04:47.126155+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4978b161c731335f2eed8567798503ce",
+    "last_run_datetime": "2026-08-06T00:04:54.727679+00:00",
+    "trigger_count": 0,
+    "current_item_id": "fc7a41525406b0375fb9728a0c12d105",
     "data": [
+        {
+            "id": "f13786de0e38083da817adc979ff034c",
+            "source": "spacenews",
+            "text": "New Glenn explosion linked to rocket engine valve",
+            "source_link": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T22:54:24.992846Z",
+            "shown_at": [
+                "2026-08-05T22:54:28.423746Z"
+            ]
+        },
+        {
+            "id": "4414e19baf00b9a0d7b4ce1ed43df6fe",
+            "source": "breaking_defense",
+            "text": "NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts",
+            "source_link": "https://breakingdefense.com/2026/08/nro-issues-3-sar-satellite-data-providers-rigorous-new-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T22:19:35.182914Z",
+            "shown_at": [
+                "2026-08-05T22:19:39.968438Z"
+            ]
+        },
+        {
+            "id": "87afcac1720f3b1018af46f601ad6a71",
+            "source": "breaking_defense",
+            "text": "Space Force awards 3 firms $615M to track airborne targets",
+            "source_link": "https://breakingdefense.com/2026/08/space-force-awards-3-firms-615m-to-track-airborne-targets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T20:29:38.275556Z",
+            "shown_at": [
+                "2026-08-05T20:29:39.148475Z"
+            ]
+        },
+        {
+            "id": "6d6c9c0162b4275e112f6c1979092de4",
+            "source": "spacenews",
+            "text": "Capella, Iceye and Umbra win NRO radar-data contracts",
+            "source_link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T17:29:26.453253Z",
+            "shown_at": [
+                "2026-08-05T17:29:27.265128Z"
+            ]
+        },
+        {
+            "id": "d8d8e21e07548fc1b07834234be1c6fc",
+            "source": "spacenews",
+            "text": "Finding room in Starlink’s shadow",
+            "source_link": "https://spacenews.com/finding-room-in-starlinks-shadow/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T15:39:22.159536Z",
+            "shown_at": [
+                "2026-08-05T15:39:23.079326Z"
+            ]
+        },
+        {
+            "id": "e5bcb26b49054d68dda94742f3c40165",
+            "source": "spacenews",
+            "text": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
+            "source_link": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T12:29:27.889824Z",
+            "shown_at": [
+                "2026-08-05T12:29:28.873582Z",
+                "2026-08-05T19:19:26.941785Z"
+            ]
+        },
+        {
+            "id": "e69af0df66403828a562cebaf440c278",
+            "source": "spacenews",
+            "text": "Think tank warns Europe’s orbital compute gap is widening",
+            "source_link": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T08:24:48.135267Z",
+            "shown_at": [
+                "2026-08-05T08:24:49.237663Z",
+                "2026-08-05T11:54:44.772010Z"
+            ]
+        },
+        {
+            "id": "347aab1fcf0df99fb4f6316dc1eb72c8",
+            "source": "spacenews",
+            "text": "Neuraspace raises $18 million to expand sovereign space awareness",
+            "source_link": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T06:35:14.239581Z",
+            "shown_at": [
+                "2026-08-05T06:35:14.951143Z"
+            ]
+        },
+        {
+            "id": "7bef728fc57c8f677e9a169271df7623",
+            "source": "spacenews",
+            "text": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
+            "source_link": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T03:05:13.206410Z",
+            "shown_at": [
+                "2026-08-05T03:05:14.241056Z"
+            ]
+        },
+        {
+            "id": "67c9b3ade8c50336f007e9cbb59c5bf5",
+            "source": "nyt",
+            "text": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
+            "source_link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-05T00:09:27.750632Z",
+            "shown_at": [
+                "2026-08-05T00:09:28.564049Z",
+                "2026-08-05T07:49:30.977978Z"
+            ]
+        },
         {
             "id": "3308cf6df47b69bfe052ac1e0228a3b0",
             "source": "spacenews",
@@ -391,7 +514,8 @@
                 "2026-08-04T10:39:17.674864Z",
                 "2026-08-05T05:24:54.441743Z",
                 "2026-08-05T13:05:38.318894Z",
-                "2026-08-05T16:54:41.874843Z"
+                "2026-08-05T16:54:41.874843Z",
+                "2026-08-06T00:05:03.762015Z"
             ]
         },
         {
@@ -8099,289 +8223,6 @@
                 "2026-05-31T19:49:16.700983Z",
                 "2026-05-31T21:34:22.880468Z",
                 "2026-06-02T02:54:20.793471Z"
-            ]
-        },
-        {
-            "id": "e038f08dfdb047a1ff638ae95287dcb0",
-            "source": "nyt",
-            "text": "Where to See the Total Solar Eclipse on Aug. 12",
-            "source_link": "https://www.nytimes.com/2026/05/26/travel/solar-eclipse-spain-iceland-greenland.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T14:14:19.932555Z",
-            "shown_at": [
-                "2026-05-26T14:14:22.073780Z",
-                "2026-05-28T09:19:26.007228Z",
-                "2026-05-29T11:14:22.385744Z",
-                "2026-05-29T20:19:08.533540Z",
-                "2026-05-30T06:59:08.563566Z",
-                "2026-05-31T03:59:42.865691Z",
-                "2026-05-31T12:49:19.823877Z",
-                "2026-06-01T02:49:02.505468Z",
-                "2026-06-01T04:34:39.613647Z",
-                "2026-06-01T15:09:22.679317Z",
-                "2026-06-01T22:49:08.843272Z"
-            ]
-        },
-        {
-            "id": "17c862b03eec2acf0f0f9b3256f8cdae",
-            "source": "breaking_defense",
-            "text": "Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time",
-            "source_link": "https://breakingdefense.com/2026/05/despite-peak-hype-orbital-data-centers-for-ai-not-yet-ready-for-natsec-prime-time/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T13:39:13.150245Z",
-            "shown_at": [
-                "2026-05-26T13:39:14.527426Z",
-                "2026-05-27T00:09:11.874470Z",
-                "2026-05-27T09:15:19.729189Z",
-                "2026-05-27T12:00:01.232604Z",
-                "2026-05-28T03:49:09.781487Z",
-                "2026-05-28T15:59:07.768014Z",
-                "2026-05-31T12:14:13.936827Z",
-                "2026-05-31T17:29:03.778904Z",
-                "2026-06-01T16:19:29.437741Z",
-                "2026-06-01T19:54:25.391720Z",
-                "2026-06-02T09:24:17.017305Z"
-            ]
-        },
-        {
-            "id": "e27ae3c06bf79dd8e01e7fae4c0de355",
-            "source": "spacenews",
-            "text": "Chinese startup Mega Engine advances reusable staged-combustion rocket engine",
-            "source_link": "https://spacenews.com/chinese-startup-mega-engine-advances-reusable-staged-combustion-rocket-engine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T13:04:44.854133Z",
-            "shown_at": [
-                "2026-05-26T14:49:31.007699Z",
-                "2026-05-29T11:49:25.949790Z",
-                "2026-05-31T02:49:07.319176Z",
-                "2026-06-02T07:34:33.651141Z"
-            ]
-        },
-        {
-            "id": "f0e9e1b9a59518218db1ede0be8ab080",
-            "source": "spacenews",
-            "text": "Regulations and access to capital continue to hinder Europe’s smallsat industry",
-            "source_link": "https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T13:04:44.854077Z",
-            "shown_at": [
-                "2026-05-26T13:04:45.876598Z"
-            ]
-        },
-        {
-            "id": "cb800d756ab615f58aeac8979f0f0092",
-            "source": "spacenews",
-            "text": "Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites",
-            "source_link": "https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T08:29:04.065190Z",
-            "shown_at": [
-                "2026-05-26T08:29:04.666848Z",
-                "2026-05-28T02:39:06.110147Z",
-                "2026-05-31T04:34:34.418313Z"
-            ]
-        },
-        {
-            "id": "6e0f596a095d0044c5a0f15f69e8c368",
-            "source": "spacenews",
-            "text": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
-            "source_link": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T06:09:06.331594Z",
-            "shown_at": [
-                "2026-05-26T06:09:07.079981Z",
-                "2026-05-28T00:49:19.810602Z"
-            ]
-        },
-        {
-            "id": "7aaba1dd65290df440aae55c6aff4e14",
-            "source": "spacenews",
-            "text": "Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not.",
-            "source_link": "https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-25T11:09:14.799012Z",
-            "shown_at": [
-                "2026-05-25T11:09:16.348300Z",
-                "2026-05-29T02:29:13.242337Z",
-                "2026-05-30T02:18:29.745936Z",
-                "2026-05-31T16:54:12.438814Z"
-            ]
-        },
-        {
-            "id": "d42e083cfb9c394804a7a05cdd4e797c",
-            "source": "nyt",
-            "text": "In ‘For All Mankind,’ America Wins by Losing",
-            "source_link": "https://www.nytimes.com/2026/05/25/arts/television/for-all-mankind.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-25T09:24:13.941050Z",
-            "shown_at": [
-                "2026-05-25T09:24:14.690052Z",
-                "2026-05-25T18:59:10.203575Z",
-                "2026-05-25T22:34:21.340220Z",
-                "2026-05-26T05:34:33.741612Z",
-                "2026-05-26T20:04:38.507733Z",
-                "2026-05-28T14:44:28.265019Z",
-                "2026-05-28T17:09:18.413490Z",
-                "2026-05-30T03:29:09.852292Z",
-                "2026-05-31T05:44:18.490664Z"
-            ]
-        },
-        {
-            "id": "f120237b0949e90d93ccb20c11c8314d",
-            "source": "spacenews",
-            "text": "Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing",
-            "source_link": "https://spacenews.com/shenzhou-23-crew-arrives-at-tiangong-as-china-maps-path-to-2030-lunar-landing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-24T22:04:34.722982Z",
-            "shown_at": [
-                "2026-05-24T22:04:35.790401Z",
-                "2026-05-25T16:38:52.212960Z",
-                "2026-05-29T22:39:15.092145Z"
-            ]
-        },
-        {
-            "id": "169332b0b20390099450794bb287fdaa",
-            "source": "spacenews",
-            "text": "NASA to add missions to SpaceX commercial crew contract",
-            "source_link": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-24T08:24:23.611143Z",
-            "shown_at": [
-                "2026-05-24T08:24:24.430829Z",
-                "2026-05-27T04:54:21.974540Z"
-            ]
-        },
-        {
-            "id": "67c9b3ade8c50336f007e9cbb59c5bf5",
-            "source": "nyt",
-            "text": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
-            "source_link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-05T00:09:27.750632Z",
-            "shown_at": [
-                "2026-08-05T00:09:28.564049Z",
-                "2026-08-05T07:49:30.977978Z"
-            ]
-        },
-        {
-            "id": "7bef728fc57c8f677e9a169271df7623",
-            "source": "spacenews",
-            "text": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
-            "source_link": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-05T03:05:13.206410Z",
-            "shown_at": [
-                "2026-08-05T03:05:14.241056Z"
-            ]
-        },
-        {
-            "id": "347aab1fcf0df99fb4f6316dc1eb72c8",
-            "source": "spacenews",
-            "text": "Neuraspace raises $18 million to expand sovereign space awareness",
-            "source_link": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-05T06:35:14.239581Z",
-            "shown_at": [
-                "2026-08-05T06:35:14.951143Z"
-            ]
-        },
-        {
-            "id": "e69af0df66403828a562cebaf440c278",
-            "source": "spacenews",
-            "text": "Think tank warns Europe’s orbital compute gap is widening",
-            "source_link": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-05T08:24:48.135267Z",
-            "shown_at": [
-                "2026-08-05T08:24:49.237663Z",
-                "2026-08-05T11:54:44.772010Z"
-            ]
-        },
-        {
-            "id": "e5bcb26b49054d68dda94742f3c40165",
-            "source": "spacenews",
-            "text": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
-            "source_link": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-05T12:29:27.889824Z",
-            "shown_at": [
-                "2026-08-05T12:29:28.873582Z",
-                "2026-08-05T19:19:26.941785Z"
-            ]
-        },
-        {
-            "id": "d8d8e21e07548fc1b07834234be1c6fc",
-            "source": "spacenews",
-            "text": "Finding room in Starlink’s shadow",
-            "source_link": "https://spacenews.com/finding-room-in-starlinks-shadow/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-05T15:39:22.159536Z",
-            "shown_at": [
-                "2026-08-05T15:39:23.079326Z"
-            ]
-        },
-        {
-            "id": "6d6c9c0162b4275e112f6c1979092de4",
-            "source": "spacenews",
-            "text": "Capella, Iceye and Umbra win NRO radar-data contracts",
-            "source_link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-05T17:29:26.453253Z",
-            "shown_at": [
-                "2026-08-05T17:29:27.265128Z"
-            ]
-        },
-        {
-            "id": "87afcac1720f3b1018af46f601ad6a71",
-            "source": "breaking_defense",
-            "text": "Space Force awards 3 firms $615M to track airborne targets",
-            "source_link": "https://breakingdefense.com/2026/08/space-force-awards-3-firms-615m-to-track-airborne-targets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-05T20:29:38.275556Z",
-            "shown_at": [
-                "2026-08-05T20:29:39.148475Z"
-            ]
-        },
-        {
-            "id": "4414e19baf00b9a0d7b4ce1ed43df6fe",
-            "source": "breaking_defense",
-            "text": "NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts",
-            "source_link": "https://breakingdefense.com/2026/08/nro-issues-3-sar-satellite-data-providers-rigorous-new-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-05T22:19:35.182914Z",
-            "shown_at": [
-                "2026-08-05T22:19:39.968438Z"
-            ]
-        },
-        {
-            "id": "f13786de0e38083da817adc979ff034c",
-            "source": "spacenews",
-            "text": "New Glenn explosion linked to rocket engine valve",
-            "source_link": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-05T22:54:24.992846Z",
-            "shown_at": [
-                "2026-08-05T22:54:28.423746Z"
             ]
         }
     ]
