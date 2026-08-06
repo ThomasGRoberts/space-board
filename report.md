@@ -2734,3 +2734,4 @@
 - **Aug 06, 01:54 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
 - **Aug 06, 02:28 AM** - NASA and Roscosmos continue seat barter agreement (spacenews)
 - **Aug 06, 03:04 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
+- **Aug 06, 03:39 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
