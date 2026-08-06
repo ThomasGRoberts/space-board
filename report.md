@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 15 | 32 |
-| breaking_defense | 2 | 4 | 12 | 24 |
+| breaking_defense | 2 | 4 | 13 | 25 |
 | nyt | 0 | 4 | 13 | 25 |
 
 # Shown Order
@@ -2751,3 +2751,4 @@
 - **Aug 06, 11:49 AM** - Rocket Lab launches 8th iQPS satellite (spacenews)
 - **Aug 06, 12:24 PM** - Three companies building the tech to grow crops on the moon (spacenews)
 - **Aug 06, 12:59 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
+- **Aug 06, 01:39 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
