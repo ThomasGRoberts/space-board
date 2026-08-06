@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 17 | 14 | 32 |
-| breaking_defense | 2 | 4 | 13 | 24 |
+| breaking_defense | 2 | 4 | 14 | 24 |
 | nyt | 0 | 4 | 13 | 25 |
 
 # Shown Order
@@ -2743,3 +2743,4 @@
 - **Aug 06, 07:09 AM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
 - **Aug 06, 07:44 AM** - Military demand shapes market for satellite propulsion (spacenews)
 - **Aug 06, 08:19 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
+- **Aug 06, 08:54 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
