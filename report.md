@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 15 | 32 |
 | breaking_defense | 2 | 4 | 13 | 24 |
-| nyt | 0 | 4 | 12 | 25 |
+| nyt | 0 | 4 | 13 | 26 |
 
 # Shown Order
 
@@ -2745,3 +2745,4 @@
 - **Aug 06, 08:19 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 06, 08:54 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
 - **Aug 06, 09:29 AM** - U.S. Air Force expands Blue Origin rocket cargo contract  (spacenews)
+- **Aug 06, 10:04 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
