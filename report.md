@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 17 | 14 | 32 |
+| spacenews | 5 | 17 | 15 | 33 |
 | breaking_defense | 2 | 4 | 13 | 24 |
 | nyt | 0 | 4 | 13 | 25 |
 
@@ -2744,3 +2744,4 @@
 - **Aug 06, 07:44 AM** - Military demand shapes market for satellite propulsion (spacenews)
 - **Aug 06, 08:19 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 06, 08:54 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
+- **Aug 06, 09:29 AM** - U.S. Air Force expands Blue Origin rocket cargo contract  (spacenews)
