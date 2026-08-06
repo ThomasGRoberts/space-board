@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 15 | 32 |
+| spacenews | 7 | 17 | 14 | 32 |
 | breaking_defense | 2 | 4 | 13 | 24 |
-| nyt | 0 | 4 | 12 | 25 |
+| nyt | 0 | 4 | 13 | 25 |
 
 # Shown Order
 
@@ -2736,3 +2736,4 @@
 - **Aug 06, 03:04 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 06, 03:39 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 06, 04:15 AM** - SpaceX to begin Starship orbital flights (spacenews)
+- **Aug 06, 04:49 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
