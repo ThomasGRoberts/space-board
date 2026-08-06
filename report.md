@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 15 | 33 |
 | breaking_defense | 2 | 4 | 13 | 24 |
-| nyt | 0 | 4 | 12 | 24 |
+| nyt | 0 | 4 | 13 | 25 |
 
 # Shown Order
 
@@ -2750,3 +2750,4 @@
 - **Aug 06, 11:14 AM** - Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket (spacenews)
 - **Aug 06, 11:49 AM** - Rocket Lab launches 8th iQPS satellite (spacenews)
 - **Aug 06, 12:24 PM** - Three companies building the tech to grow crops on the moon (spacenews)
+- **Aug 06, 12:59 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
