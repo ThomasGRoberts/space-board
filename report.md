@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 15 | 33 |
+| spacenews | 8 | 18 | 16 | 34 |
 | breaking_defense | 2 | 4 | 13 | 24 |
 | nyt | 0 | 3 | 12 | 24 |
 
@@ -2753,3 +2753,4 @@
 - **Aug 06, 12:59 PM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 06, 01:39 PM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Aug 06, 02:14 PM** - China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat (spacenews)
+- **Aug 06, 02:49 PM** - Redwire to fly dedicated Starfall mission for microgravity research (spacenews)
