@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 15 | 32 |
 | breaking_defense | 2 | 4 | 13 | 24 |
-| nyt | 0 | 4 | 12 | 25 |
+| nyt | 0 | 4 | 13 | 25 |
 
 # Shown Order
 
@@ -2739,3 +2739,4 @@
 - **Aug 06, 04:49 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 06, 05:24 AM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
 - **Aug 06, 05:59 AM** - Spain commits up to $2.3 billion for national military communications for IRIS² (spacenews)
+- **Aug 06, 06:35 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
