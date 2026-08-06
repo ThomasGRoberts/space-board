@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 15 | 33 |
 | breaking_defense | 2 | 4 | 13 | 24 |
-| nyt | 0 | 4 | 12 | 24 |
+| nyt | 0 | 4 | 13 | 25 |
 
 # Shown Order
 
@@ -2730,3 +2730,4 @@
 - **Aug 05, 11:29 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 06, 12:05 AM** - Senate takes next steps toward confirming key Pentagon officials (breaking_defense)
 - **Aug 06, 12:39 AM** - Sending repurposed Mars rover to the moon could cost more than $1 billion (spacenews)
+- **Aug 06, 01:14 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
