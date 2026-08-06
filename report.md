@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 28 |
 | breaking_defense | 0 | 2 | 9 | 21 |
-| nyt | 0 | 1 | 8 | 21 |
+| nyt | 0 | 1 | 9 | 22 |
 
 # Shown Order
 
@@ -2758,3 +2758,4 @@
 - **Aug 06, 06:38 PM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 06, 10:40 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 06, 11:15 PM** - SpaceX to begin Starship orbital flights (spacenews)
+- **Aug 06, 11:49 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
