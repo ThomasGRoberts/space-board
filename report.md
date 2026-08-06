@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 15 | 33 |
+| spacenews | 8 | 19 | 16 | 34 |
 | breaking_defense | 2 | 4 | 13 | 24 |
 | nyt | 0 | 4 | 12 | 24 |
 
@@ -2749,3 +2749,4 @@
 - **Aug 06, 10:39 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
 - **Aug 06, 11:14 AM** - Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket (spacenews)
 - **Aug 06, 11:49 AM** - Rocket Lab launches 8th iQPS satellite (spacenews)
+- **Aug 06, 12:24 PM** - Three companies building the tech to grow crops on the moon (spacenews)

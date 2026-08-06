@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-06T00:04:54.727679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "711278a9638d2f998e1c56232c68f0cb",
+    "trigger_count": 0,
+    "current_item_id": "3ead56d245d7f00fdda909d177d5bd68",
     "data": [
         {
             "id": "f13786de0e38083da817adc979ff034c",
@@ -8276,6 +8276,18 @@
             "fetched_datetime": "2026-08-06T11:49:39.667460Z",
             "shown_at": [
                 "2026-08-06T11:49:40.687405Z"
+            ]
+        },
+        {
+            "id": "3ead56d245d7f00fdda909d177d5bd68",
+            "source": "spacenews",
+            "text": "Three companies building the tech to grow crops on the moon",
+            "source_link": "https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-06T12:24:29.450263Z",
+            "shown_at": [
+                "2026-08-06T12:24:30.361036Z"
             ]
         }
     ]
