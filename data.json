@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-06T00:04:54.727679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "55b24b887776e373529037d2da0eb8e2",
+    "trigger_count": 0,
+    "current_item_id": "a36fff4593fa7c3ff5ea5728079354d0",
     "data": [
         {
             "id": "f13786de0e38083da817adc979ff034c",
@@ -8226,6 +8226,18 @@
                 "2026-05-31T19:49:16.700983Z",
                 "2026-05-31T21:34:22.880468Z",
                 "2026-06-02T02:54:20.793471Z"
+            ]
+        },
+        {
+            "id": "a36fff4593fa7c3ff5ea5728079354d0",
+            "source": "spacenews",
+            "text": "NASA and Roscosmos continue seat barter agreement",
+            "source_link": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-06T02:28:54.085098Z",
+            "shown_at": [
+                "2026-08-06T02:28:54.950959Z"
             ]
         }
     ]

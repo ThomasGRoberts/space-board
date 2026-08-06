@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 15 | 32 |
+| spacenews | 8 | 19 | 16 | 33 |
 | breaking_defense | 2 | 4 | 13 | 24 |
 | nyt | 0 | 4 | 12 | 25 |
 
@@ -2732,3 +2732,4 @@
 - **Aug 06, 12:39 AM** - Sending repurposed Mars rover to the moon could cost more than $1 billion (spacenews)
 - **Aug 06, 01:14 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 06, 01:54 AM** - Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy (breaking_defense)
+- **Aug 06, 02:28 AM** - NASA and Roscosmos continue seat barter agreement (spacenews)
