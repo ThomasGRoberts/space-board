@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 12 | 27 |
 | breaking_defense | 2 | 4 | 11 | 22 |
-| nyt | 0 | 0 | 10 | 21 |
+| nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -2750,3 +2750,4 @@
 - **Aug 07, 03:54 PM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
 - **Aug 07, 04:35 PM** - Europe increases size and cost of IRIS² constellation (spacenews)
 - **Aug 07, 05:09 PM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
+- **Aug 07, 05:44 PM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
