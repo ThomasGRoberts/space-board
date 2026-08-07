@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 28 |
 | breaking_defense | 0 | 2 | 9 | 21 |
-| nyt | 0 | 0 | 8 | 21 |
+| nyt | 0 | 0 | 9 | 22 |
 
 # Shown Order
 
@@ -2723,3 +2723,4 @@
 - **Aug 06, 11:49 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 07, 12:29 AM** - The confidence deficit in space (breaking_defense)
 - **Aug 07, 01:04 AM** - Lessons for the future of NASA Mars exploration from a 1970s mission (spacenews)
+- **Aug 07, 01:39 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
