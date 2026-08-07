@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 12 | 27 |
+| spacenews | 5 | 12 | 13 | 28 |
 | breaking_defense | 0 | 2 | 9 | 22 |
 | nyt | 0 | 0 | 9 | 21 |
 
@@ -2728,3 +2728,4 @@
 - **Aug 07, 02:55 AM** - The new space wars: lessons from Ukraine and the Middle East (spacenews)
 - **Aug 07, 03:29 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 07, 04:05 AM** - The confidence deficit in space (breaking_defense)
+- **Aug 07, 04:44 AM** - Rubicon ASCENT thruster moves from hot-fire testing to production (spacenews)
