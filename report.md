@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 13 | 28 |
-| breaking_defense | 1 | 3 | 8 | 21 |
+| breaking_defense | 1 | 3 | 9 | 22 |
 | nyt | 0 | 0 | 9 | 21 |
 
 # Shown Order
@@ -2744,3 +2744,4 @@
 - **Aug 07, 12:24 PM** - Europe increases size and cost of IRIS² constellation (spacenews)
 - **Aug 07, 12:59 PM** - U.S. Senate confirms Schiess to lead Space Force  (spacenews)
 - **Aug 07, 01:34 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
+- **Aug 07, 02:10 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
