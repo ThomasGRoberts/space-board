@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 12 | 27 |
+| spacenews | 6 | 13 | 13 | 28 |
 | breaking_defense | 0 | 2 | 9 | 22 |
 | nyt | 0 | 0 | 9 | 21 |
 
@@ -2722,3 +2722,4 @@
 - **Aug 06, 11:15 PM** - SpaceX to begin Starship orbital flights (spacenews)
 - **Aug 06, 11:49 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 07, 12:29 AM** - The confidence deficit in space (breaking_defense)
+- **Aug 07, 01:04 AM** - Lessons for the future of NASA Mars exploration from a 1970s mission (spacenews)
