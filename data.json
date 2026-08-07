@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-07T00:05:00.717430+00:00",
-    "trigger_count": 6,
-    "current_item_id": "46bf7794f67a528bb9a5d3640ba84531",
+    "trigger_count": 0,
+    "current_item_id": "12e4e15b6b57fec1c365cc1a5e759240",
     "data": [
         {
             "id": "7147f3c493c5ce83eaa86afa74bab2d4",
@@ -8327,6 +8327,18 @@
             "fetched_datetime": "2026-08-07T18:54:32.916582Z",
             "shown_at": [
                 "2026-08-07T18:54:35.763000Z"
+            ]
+        },
+        {
+            "id": "12e4e15b6b57fec1c365cc1a5e759240",
+            "source": "spacenews",
+            "text": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
+            "source_link": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-07T21:14:57.450554Z",
+            "shown_at": [
+                "2026-08-07T21:14:58.298350Z"
             ]
         }
     ]
