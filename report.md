@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 15 | 28 |
-| breaking_defense | 3 | 3 | 13 | 21 |
+| breaking_defense | 3 | 3 | 14 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
 # Shown Order
@@ -2758,3 +2758,4 @@
 - **Aug 07, 08:39 PM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 07, 09:14 PM** - Senate installs new chiefs for U.S. military space acquisition, spy satellites (spacenews)
 - **Aug 07, 09:54 PM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
+- **Aug 07, 10:29 PM** - Schiess confirmed as third Space Force chief (breaking_defense)
