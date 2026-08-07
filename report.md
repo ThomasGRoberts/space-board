@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 12 | 27 |
+| spacenews | 5 | 11 | 13 | 28 |
 | breaking_defense | 0 | 2 | 9 | 22 |
-| nyt | 0 | 0 | 9 | 21 |
+| nyt | 0 | 0 | 8 | 21 |
 
 # Shown Order
 
@@ -2734,3 +2734,4 @@
 - **Aug 07, 06:29 AM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
 - **Aug 07, 07:05 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 07, 07:44 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
+- **Aug 07, 08:19 AM** - NOAA purchases Spire hyperspectral microwave sounder data (spacenews)
