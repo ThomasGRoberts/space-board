@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 28 |
-| breaking_defense | 0 | 2 | 8 | 21 |
+| breaking_defense | 0 | 2 | 9 | 22 |
 | nyt | 0 | 0 | 9 | 21 |
 
 # Shown Order
@@ -2721,3 +2721,4 @@
 - **Aug 06, 10:40 PM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
 - **Aug 06, 11:15 PM** - SpaceX to begin Starship orbital flights (spacenews)
 - **Aug 06, 11:49 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
+- **Aug 07, 12:29 AM** - The confidence deficit in space (breaking_defense)
