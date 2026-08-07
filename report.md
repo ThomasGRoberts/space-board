@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 13 | 28 |
-| breaking_defense | 2 | 4 | 11 | 21 |
+| breaking_defense | 3 | 5 | 12 | 22 |
 | nyt | 0 | 0 | 10 | 21 |
 
 # Shown Order
@@ -2752,3 +2752,4 @@
 - **Aug 07, 05:09 PM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 07, 05:44 PM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 07, 06:19 PM** - FCC Space Bureau deputy takes the reins amid licensing overhaul (spacenews)
+- **Aug 07, 06:54 PM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
