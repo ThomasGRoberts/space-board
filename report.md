@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 12 | 28 |
 | breaking_defense | 1 | 3 | 9 | 21 |
-| nyt | 0 | 0 | 9 | 21 |
+| nyt | 0 | 0 | 10 | 22 |
 
 # Shown Order
 
@@ -2746,3 +2746,4 @@
 - **Aug 07, 01:34 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 07, 02:10 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
 - **Aug 07, 02:44 PM** - China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat (spacenews)
+- **Aug 07, 03:19 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
