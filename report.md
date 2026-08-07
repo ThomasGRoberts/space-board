@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 12 | 27 |
+| spacenews | 5 | 12 | 13 | 28 |
 | breaking_defense | 0 | 2 | 9 | 22 |
 | nyt | 0 | 0 | 9 | 21 |
 
@@ -2731,3 +2731,4 @@
 - **Aug 07, 04:44 AM** - Rubicon ASCENT thruster moves from hot-fire testing to production (spacenews)
 - **Aug 07, 05:19 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 07, 05:54 AM** - Facing a lack of kit, Space Force creates $981M pool to buy training capabilities (breaking_defense)
+- **Aug 07, 06:29 AM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
