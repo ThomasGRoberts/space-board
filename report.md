@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 12 | 27 |
+| spacenews | 4 | 12 | 12 | 28 |
 | breaking_defense | 1 | 3 | 9 | 22 |
 | nyt | 0 | 0 | 9 | 21 |
 
@@ -2741,3 +2741,4 @@
 - **Aug 07, 10:38 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
 - **Aug 07, 11:14 AM** - China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat (spacenews)
 - **Aug 07, 11:49 AM** - Schiess confirmed as third Space Force chief (breaking_defense)
+- **Aug 07, 12:24 PM** - Europe increases size and cost of IRIS² constellation (spacenews)
