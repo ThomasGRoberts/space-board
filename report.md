@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 12 | 27 |
+| spacenews | 4 | 11 | 13 | 28 |
 | breaking_defense | 2 | 4 | 11 | 22 |
 | nyt | 0 | 0 | 11 | 21 |
 
@@ -2751,3 +2751,4 @@
 - **Aug 07, 04:35 PM** - Europe increases size and cost of IRIS² constellation (spacenews)
 - **Aug 07, 05:09 PM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 07, 05:44 PM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
+- **Aug 07, 06:19 PM** - FCC Space Bureau deputy takes the reins amid licensing overhaul (spacenews)
