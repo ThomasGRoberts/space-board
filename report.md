@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 13 | 27 |
 | breaking_defense | 0 | 2 | 9 | 22 |
-| nyt | 0 | 0 | 8 | 21 |
+| nyt | 0 | 0 | 9 | 22 |
 
 # Shown Order
 
@@ -2729,3 +2729,4 @@
 - **Aug 07, 03:29 AM** - A.I. Data Centers in Space? A System to Cool Chips Could Help. (nyt)
 - **Aug 07, 04:05 AM** - The confidence deficit in space (breaking_defense)
 - **Aug 07, 04:44 AM** - Rubicon ASCENT thruster moves from hot-fire testing to production (spacenews)
+- **Aug 07, 05:19 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
