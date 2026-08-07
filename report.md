@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 13 | 27 |
 | breaking_defense | 0 | 2 | 9 | 22 |
-| nyt | 0 | 0 | 8 | 21 |
+| nyt | 0 | 0 | 9 | 22 |
 
 # Shown Order
 
@@ -2738,3 +2738,4 @@
 - **Aug 07, 08:54 AM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 07, 09:29 AM** - Bipartisan Senate bill would sharpen Space Force training for conflict with China (spacenews)
 - **Aug 07, 10:05 AM** - Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027 (breaking_defense)
+- **Aug 07, 10:38 AM** - Mission to Save Falling NASA Space Telescope Suffers Setback (nyt)
