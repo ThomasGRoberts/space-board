@@ -1,9 +1,81 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-06T00:04:54.727679+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-08-07T00:05:00.717430+00:00",
+    "trigger_count": 3,
     "current_item_id": "67c9b3ade8c50336f007e9cbb59c5bf5",
     "data": [
+        {
+            "id": "7147f3c493c5ce83eaa86afa74bab2d4",
+            "source": "spacenews",
+            "text": "Lessons for the future of NASA Mars exploration from a 1970s mission",
+            "source_link": "https://spacenews.com/lessons-for-the-future-of-nasa-mars-exploration-from-a-1970s-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-06T15:34:56.616155Z",
+            "shown_at": [
+                "2026-08-06T15:34:57.483266Z"
+            ]
+        },
+        {
+            "id": "703542f03f6eace33871fc1e9c0a364e",
+            "source": "spacenews",
+            "text": "Redwire to fly dedicated Starfall mission for microgravity research",
+            "source_link": "https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-06T14:49:43.793168Z",
+            "shown_at": [
+                "2026-08-06T14:49:44.652524Z"
+            ]
+        },
+        {
+            "id": "3ead56d245d7f00fdda909d177d5bd68",
+            "source": "spacenews",
+            "text": "Three companies building the tech to grow crops on the moon",
+            "source_link": "https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-06T12:24:29.450263Z",
+            "shown_at": [
+                "2026-08-06T12:24:30.361036Z"
+            ]
+        },
+        {
+            "id": "711278a9638d2f998e1c56232c68f0cb",
+            "source": "spacenews",
+            "text": "Rocket Lab launches 8th iQPS satellite",
+            "source_link": "https://spacenews.com/rocket-lab-launches-8th-iqps-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-06T11:49:39.667460Z",
+            "shown_at": [
+                "2026-08-06T11:49:40.687405Z"
+            ]
+        },
+        {
+            "id": "18381e7f8d526b7a2b222bc34e777010",
+            "source": "spacenews",
+            "text": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
+            "source_link": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-06T11:14:32.203464Z",
+            "shown_at": [
+                "2026-08-06T11:14:33.191755Z"
+            ]
+        },
+        {
+            "id": "a36fff4593fa7c3ff5ea5728079354d0",
+            "source": "spacenews",
+            "text": "NASA and Roscosmos continue seat barter agreement",
+            "source_link": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-06T02:28:54.085098Z",
+            "shown_at": [
+                "2026-08-06T02:28:54.950959Z"
+            ]
+        },
         {
             "id": "f13786de0e38083da817adc979ff034c",
             "source": "spacenews",
@@ -8143,182 +8215,6 @@
                 "2026-05-31T13:59:19.321983Z",
                 "2026-06-01T09:19:20.328849Z",
                 "2026-06-02T06:59:07.056584Z"
-            ]
-        },
-        {
-            "id": "53aa79c4792feda50b38ef70765da433",
-            "source": "nyt",
-            "text": "A New Era of Exploring the Universe in Radio",
-            "source_link": "https://www.nytimes.com/2026/05/22/science/astronomy-telescopes-universe-ngvla.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T18:19:26.856387Z",
-            "shown_at": [
-                "2026-05-26T18:19:28.937495Z",
-                "2026-05-27T15:19:46.701630Z",
-                "2026-05-27T21:49:19.069215Z",
-                "2026-05-28T18:54:23.395585Z",
-                "2026-05-29T01:54:11.137265Z",
-                "2026-05-29T03:38:59.922127Z",
-                "2026-05-29T23:54:18.707221Z",
-                "2026-05-30T13:58:43.692661Z",
-                "2026-05-30T15:44:25.965051Z",
-                "2026-06-02T06:24:19.974881Z"
-            ]
-        },
-        {
-            "id": "f02c4dba396ba198beeb721d13941145",
-            "source": "spacenews",
-            "text": "The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up",
-            "source_link": "https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T17:44:07.021101Z",
-            "shown_at": [
-                "2026-05-26T18:54:28.986645Z",
-                "2026-05-30T12:49:21.896349Z",
-                "2026-06-01T12:49:09.812340Z"
-            ]
-        },
-        {
-            "id": "b1c9df03e3d48a329a5304304fd80ae5",
-            "source": "spacenews",
-            "text": "Starcloud orders Starlink lasers for orbital data center network",
-            "source_link": "https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T17:44:07.021025Z",
-            "shown_at": [
-                "2026-05-26T17:44:11.755882Z",
-                "2026-05-27T01:24:16.503971Z",
-                "2026-05-30T00:34:42.729409Z"
-            ]
-        },
-        {
-            "id": "df9cd2bddb03cab7fbdac32b26bec124",
-            "source": "nyt",
-            "text": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
-            "source_link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T17:09:10.089006Z",
-            "shown_at": [
-                "2026-05-26T17:09:11.163179Z",
-                "2026-05-28T21:14:15.077420Z",
-                "2026-05-29T00:09:18.491595Z",
-                "2026-05-29T13:34:25.677757Z",
-                "2026-05-30T08:44:40.308445Z",
-                "2026-05-30T20:24:20.253185Z",
-                "2026-05-31T02:14:18.133624Z",
-                "2026-05-31T23:18:58.515376Z",
-                "2026-06-02T00:34:32.701143Z"
-            ]
-        },
-        {
-            "id": "f52d8456ebf50d52ca857b00716338dd",
-            "source": "spacenews",
-            "text": "Voyager wins DARPA contract for solid rocket propellant technology",
-            "source_link": "https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T16:34:38.242486Z",
-            "shown_at": [
-                "2026-05-26T16:34:40.467894Z",
-                "2026-05-27T23:04:41.910507Z",
-                "2026-06-01T22:14:10.636244Z"
-            ]
-        },
-        {
-            "id": "ea60175371922f987ebe9db49eecfff6",
-            "source": "nyt",
-            "text": "SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk",
-            "source_link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T15:24:23.252857Z",
-            "shown_at": [
-                "2026-05-26T15:24:24.358112Z",
-                "2026-05-27T08:34:49.004952Z",
-                "2026-05-28T07:29:14.343980Z",
-                "2026-05-29T09:29:20.400698Z",
-                "2026-05-30T05:14:14.748609Z",
-                "2026-05-30T10:29:28.489853Z",
-                "2026-05-31T00:29:15.952674Z",
-                "2026-05-31T19:49:16.700983Z",
-                "2026-05-31T21:34:22.880468Z",
-                "2026-06-02T02:54:20.793471Z"
-            ]
-        },
-        {
-            "id": "a36fff4593fa7c3ff5ea5728079354d0",
-            "source": "spacenews",
-            "text": "NASA and Roscosmos continue seat barter agreement",
-            "source_link": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-06T02:28:54.085098Z",
-            "shown_at": [
-                "2026-08-06T02:28:54.950959Z"
-            ]
-        },
-        {
-            "id": "18381e7f8d526b7a2b222bc34e777010",
-            "source": "spacenews",
-            "text": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
-            "source_link": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-06T11:14:32.203464Z",
-            "shown_at": [
-                "2026-08-06T11:14:33.191755Z"
-            ]
-        },
-        {
-            "id": "711278a9638d2f998e1c56232c68f0cb",
-            "source": "spacenews",
-            "text": "Rocket Lab launches 8th iQPS satellite",
-            "source_link": "https://spacenews.com/rocket-lab-launches-8th-iqps-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-06T11:49:39.667460Z",
-            "shown_at": [
-                "2026-08-06T11:49:40.687405Z"
-            ]
-        },
-        {
-            "id": "3ead56d245d7f00fdda909d177d5bd68",
-            "source": "spacenews",
-            "text": "Three companies building the tech to grow crops on the moon",
-            "source_link": "https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-06T12:24:29.450263Z",
-            "shown_at": [
-                "2026-08-06T12:24:30.361036Z"
-            ]
-        },
-        {
-            "id": "703542f03f6eace33871fc1e9c0a364e",
-            "source": "spacenews",
-            "text": "Redwire to fly dedicated Starfall mission for microgravity research",
-            "source_link": "https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-06T14:49:43.793168Z",
-            "shown_at": [
-                "2026-08-06T14:49:44.652524Z"
-            ]
-        },
-        {
-            "id": "7147f3c493c5ce83eaa86afa74bab2d4",
-            "source": "spacenews",
-            "text": "Lessons for the future of NASA Mars exploration from a 1970s mission",
-            "source_link": "https://spacenews.com/lessons-for-the-future-of-nasa-mars-exploration-from-a-1970s-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-06T15:34:56.616155Z",
-            "shown_at": [
-                "2026-08-06T15:34:57.483266Z"
             ]
         }
     ]
