@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 11 | 27 |
+| spacenews | 3 | 11 | 12 | 28 |
 | breaking_defense | 1 | 3 | 10 | 22 |
 | nyt | 0 | 0 | 10 | 21 |
 
@@ -2748,3 +2748,4 @@
 - **Aug 07, 02:44 PM** - China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat (spacenews)
 - **Aug 07, 03:19 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 07, 03:54 PM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
+- **Aug 07, 04:35 PM** - Europe increases size and cost of IRIS² constellation (spacenews)
