@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-07T00:05:00.717430+00:00",
-    "trigger_count": 6,
-    "current_item_id": "822e3c8296fcccbab617f67c200f33d5",
+    "trigger_count": 0,
+    "current_item_id": "9608fe268d8d5a0070133980dc212467",
     "data": [
         {
             "id": "7147f3c493c5ce83eaa86afa74bab2d4",
@@ -8245,6 +8245,18 @@
             "fetched_datetime": "2026-08-07T09:29:22.588481Z",
             "shown_at": [
                 "2026-08-07T09:29:23.381651Z"
+            ]
+        },
+        {
+            "id": "9608fe268d8d5a0070133980dc212467",
+            "source": "breaking_defense",
+            "text": "Schiess confirmed as third Space Force chief",
+            "source_link": "https://breakingdefense.com/2026/08/schiess-confirmed-as-third-space-force-chief/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-07T11:49:28.555233Z",
+            "shown_at": [
+                "2026-08-07T11:49:30.495837Z"
             ]
         }
     ]
