@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 13 | 28 |
 | breaking_defense | 1 | 3 | 9 | 21 |
-| nyt | 0 | 0 | 8 | 21 |
+| nyt | 0 | 0 | 9 | 22 |
 
 # Shown Order
 
@@ -2743,3 +2743,4 @@
 - **Aug 07, 11:49 AM** - Schiess confirmed as third Space Force chief (breaking_defense)
 - **Aug 07, 12:24 PM** - Europe increases size and cost of IRIS² constellation (spacenews)
 - **Aug 07, 12:59 PM** - U.S. Senate confirms Schiess to lead Space Force  (spacenews)
+- **Aug 07, 01:34 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
