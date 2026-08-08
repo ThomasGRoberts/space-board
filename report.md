@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 15 | 27 |
+| spacenews | 5 | 10 | 16 | 28 |
 | breaking_defense | 3 | 3 | 13 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
@@ -2713,3 +2713,4 @@
 - **Aug 08, 12:59 AM** - Hughes files for bankruptcy after GEO business loses ground to Starlink (spacenews)
 - **Aug 08, 01:34 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 08, 02:09 AM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
+- **Aug 08, 02:44 AM** - Bipartisan Senate bill would sharpen Space Force training for conflict with China (spacenews)
