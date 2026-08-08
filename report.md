@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 15 | 28 |
 | breaking_defense | 3 | 3 | 13 | 22 |
-| nyt | 0 | 0 | 12 | 20 |
+| nyt | 0 | 0 | 13 | 21 |
 
 # Shown Order
 
@@ -2711,3 +2711,4 @@
 - **Aug 07, 11:49 PM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 08, 12:24 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
 - **Aug 08, 12:59 AM** - Hughes files for bankruptcy after GEO business loses ground to Starlink (spacenews)
+- **Aug 08, 01:34 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
