@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 15 | 28 |
 | breaking_defense | 3 | 3 | 13 | 22 |
-| nyt | 0 | 0 | 12 | 20 |
+| nyt | 0 | 0 | 13 | 21 |
 
 # Shown Order
 
@@ -2714,3 +2714,4 @@
 - **Aug 08, 01:34 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 08, 02:09 AM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 08, 02:44 AM** - Bipartisan Senate bill would sharpen Space Force training for conflict with China (spacenews)
+- **Aug 08, 03:19 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
