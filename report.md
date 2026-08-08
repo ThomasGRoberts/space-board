@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 15 | 27 |
+| spacenews | 5 | 10 | 16 | 28 |
 | breaking_defense | 3 | 3 | 13 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
@@ -2716,3 +2716,4 @@
 - **Aug 08, 02:44 AM** - Bipartisan Senate bill would sharpen Space Force training for conflict with China (spacenews)
 - **Aug 08, 03:19 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 08, 03:54 AM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
+- **Aug 08, 04:29 AM** - Military demand shapes market for satellite propulsion (spacenews)
