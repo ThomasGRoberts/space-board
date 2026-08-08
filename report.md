@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 15 | 27 |
+| spacenews | 5 | 11 | 16 | 28 |
 | breaking_defense | 3 | 3 | 13 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
@@ -2710,3 +2710,4 @@
 - **Aug 07, 11:14 PM** - Rocketdyne reemerges as standalone space company (spacenews)
 - **Aug 07, 11:49 PM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 08, 12:24 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
+- **Aug 08, 12:59 AM** - Hughes files for bankruptcy after GEO business loses ground to Starlink (spacenews)
