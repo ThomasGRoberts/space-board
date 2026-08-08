@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 14 | 27 |
+| spacenews | 4 | 10 | 15 | 28 |
 | breaking_defense | 3 | 3 | 14 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
@@ -2725,3 +2725,4 @@
 - **Aug 08, 08:04 AM** - Rocket Lab launches 8th iQPS satellite (spacenews)
 - **Aug 08, 08:39 AM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 08, 09:14 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
+- **Aug 08, 09:49 AM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
