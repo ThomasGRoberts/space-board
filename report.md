@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 15 | 27 |
+| spacenews | 5 | 10 | 16 | 28 |
 | breaking_defense | 3 | 3 | 13 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
@@ -2722,3 +2722,4 @@
 - **Aug 08, 06:19 AM** - NASA and Roscosmos continue seat barter agreement (spacenews)
 - **Aug 08, 06:54 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 08, 07:29 AM** - Schiess confirmed as third Space Force chief (breaking_defense)
+- **Aug 08, 08:04 AM** - Rocket Lab launches 8th iQPS satellite (spacenews)
