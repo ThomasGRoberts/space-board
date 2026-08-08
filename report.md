@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 13 | 26 |
+| spacenews | 2 | 7 | 14 | 27 |
 | breaking_defense | 2 | 3 | 14 | 23 |
 | nyt | 0 | 0 | 13 | 21 |
 
@@ -2731,3 +2731,4 @@
 - **Aug 08, 11:34 AM** - Space Force awards K2 Space $22.9 million for laser communications demonstration (spacenews)
 - **Aug 08, 12:09 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 08, 12:44 PM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
+- **Aug 08, 01:19 PM** - U.S. Air Force expands Blue Origin rocket cargo contract  (spacenews)
