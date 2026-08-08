@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 28 |
 | breaking_defense | 0 | 3 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 24 |
+| nyt | 0 | 0 | 14 | 25 |
 
 # Shown Order
 
@@ -2744,3 +2744,4 @@
 - **Aug 08, 07:24 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 08, 07:59 PM** - FCC Space Bureau deputy takes the reins amid licensing overhaul (spacenews)
 - **Aug 08, 08:34 PM** - Schiess confirmed as third Space Force chief (breaking_defense)
+- **Aug 08, 09:09 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
