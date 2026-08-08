@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 26 |
 | breaking_defense | 1 | 3 | 13 | 24 |
-| nyt | 0 | 0 | 13 | 23 |
+| nyt | 0 | 0 | 14 | 24 |
 
 # Shown Order
 
@@ -2738,3 +2738,4 @@
 - **Aug 08, 03:44 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 08, 04:19 PM** - The confidence deficit in space (breaking_defense)
 - **Aug 08, 04:54 PM** - Rocketdyne reemerges as standalone space company (spacenews)
+- **Aug 08, 05:29 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
