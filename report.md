@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 15 | 28 |
 | breaking_defense | 3 | 3 | 13 | 22 |
-| nyt | 0 | 0 | 12 | 20 |
+| nyt | 0 | 0 | 13 | 21 |
 
 # Shown Order
 
@@ -2720,3 +2720,4 @@
 - **Aug 08, 05:09 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 08, 05:45 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 08, 06:19 AM** - NASA and Roscosmos continue seat barter agreement (spacenews)
+- **Aug 08, 06:54 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
