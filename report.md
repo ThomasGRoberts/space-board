@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 29 |
 | breaking_defense | 0 | 3 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2747,3 +2747,4 @@
 - **Aug 08, 09:09 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 08, 09:44 PM** - Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket (spacenews)
 - **Aug 08, 10:24 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
+- **Aug 08, 10:59 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
