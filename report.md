@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 15 | 28 |
 | breaking_defense | 3 | 3 | 13 | 22 |
-| nyt | 0 | 0 | 12 | 20 |
+| nyt | 0 | 0 | 13 | 21 |
 
 # Shown Order
 
@@ -2717,3 +2717,4 @@
 - **Aug 08, 03:19 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 08, 03:54 AM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
 - **Aug 08, 04:29 AM** - Military demand shapes market for satellite propulsion (spacenews)
+- **Aug 08, 05:09 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
