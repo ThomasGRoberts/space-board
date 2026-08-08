@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 15 | 27 |
+| spacenews | 5 | 10 | 16 | 28 |
 | breaking_defense | 3 | 3 | 13 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
@@ -2719,3 +2719,4 @@
 - **Aug 08, 04:29 AM** - Military demand shapes market for satellite propulsion (spacenews)
 - **Aug 08, 05:09 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 08, 05:45 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
+- **Aug 08, 06:19 AM** - NASA and Roscosmos continue seat barter agreement (spacenews)
