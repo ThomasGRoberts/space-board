@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 25 |
 | breaking_defense | 2 | 3 | 14 | 23 |
-| nyt | 0 | 0 | 12 | 22 |
+| nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2735,3 +2735,4 @@
 - **Aug 08, 01:59 PM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 08, 02:34 PM** - The confidence deficit in space (breaking_defense)
 - **Aug 08, 03:09 PM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
+- **Aug 08, 03:44 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
