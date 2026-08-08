@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 15 | 28 |
-| breaking_defense | 3 | 3 | 13 | 21 |
+| breaking_defense | 3 | 3 | 14 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
 # Shown Order
@@ -2718,3 +2718,4 @@
 - **Aug 08, 03:54 AM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
 - **Aug 08, 04:29 AM** - Military demand shapes market for satellite propulsion (spacenews)
 - **Aug 08, 05:09 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
+- **Aug 08, 05:45 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
