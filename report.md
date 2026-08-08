@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 9 | 14 | 27 |
+| spacenews | 4 | 9 | 15 | 28 |
 | breaking_defense | 3 | 3 | 14 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
@@ -2728,3 +2728,4 @@
 - **Aug 08, 09:49 AM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
 - **Aug 08, 10:24 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 08, 10:59 AM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
+- **Aug 08, 11:34 AM** - Space Force awards K2 Space $22.9 million for laser communications demonstration (spacenews)
