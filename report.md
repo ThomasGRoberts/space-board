@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 27 |
 | breaking_defense | 0 | 3 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 23 |
+| nyt | 0 | 0 | 14 | 24 |
 
 # Shown Order
 
@@ -2741,3 +2741,4 @@
 - **Aug 08, 05:29 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 08, 06:14 PM** - Northrop Grumman, Canadian Space Agency repurpose their Gateway projects (spacenews)
 - **Aug 08, 06:49 PM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
+- **Aug 08, 07:24 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
