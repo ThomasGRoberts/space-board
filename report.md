@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 15 | 28 |
-| breaking_defense | 3 | 3 | 13 | 21 |
+| breaking_defense | 3 | 3 | 14 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
 # Shown Order
@@ -2724,3 +2724,4 @@
 - **Aug 08, 07:29 AM** - Schiess confirmed as third Space Force chief (breaking_defense)
 - **Aug 08, 08:04 AM** - Rocket Lab launches 8th iQPS satellite (spacenews)
 - **Aug 08, 08:39 AM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
+- **Aug 08, 09:14 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
