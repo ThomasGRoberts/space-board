@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 13 | 25 |
+| spacenews | 2 | 5 | 14 | 26 |
 | breaking_defense | 2 | 3 | 14 | 24 |
 | nyt | 0 | 0 | 13 | 23 |
 
@@ -2737,3 +2737,4 @@
 - **Aug 08, 03:09 PM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
 - **Aug 08, 03:44 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 08, 04:19 PM** - The confidence deficit in space (breaking_defense)
+- **Aug 08, 04:54 PM** - Rocketdyne reemerges as standalone space company (spacenews)
