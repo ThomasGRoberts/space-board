@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 13 | 25 |
+| spacenews | 2 | 6 | 14 | 26 |
 | breaking_defense | 2 | 3 | 14 | 23 |
 | nyt | 0 | 0 | 13 | 22 |
 
@@ -2734,3 +2734,4 @@
 - **Aug 08, 01:19 PM** - U.S. Air Force expands Blue Origin rocket cargo contract  (spacenews)
 - **Aug 08, 01:59 PM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 08, 02:34 PM** - The confidence deficit in space (breaking_defense)
+- **Aug 08, 03:09 PM** - Space Force awards K2 Space $22.9 million for orbital laser communications demonstration (spacenews)
