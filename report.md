@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 27 |
-| breaking_defense | 1 | 3 | 13 | 24 |
+| breaking_defense | 1 | 3 | 14 | 25 |
 | nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -2740,3 +2740,4 @@
 - **Aug 08, 04:54 PM** - Rocketdyne reemerges as standalone space company (spacenews)
 - **Aug 08, 05:29 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 08, 06:14 PM** - Northrop Grumman, Canadian Space Agency repurpose their Gateway projects (spacenews)
+- **Aug 08, 06:49 PM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
