@@ -1,9 +1,107 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-07T00:05:00.717430+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-08-08T00:05:02.298356+00:00",
+    "trigger_count": 3,
     "current_item_id": "2ef2c19abbe72c8a00034620810645e3",
     "data": [
+        {
+            "id": "12e4e15b6b57fec1c365cc1a5e759240",
+            "source": "spacenews",
+            "text": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
+            "source_link": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-07T21:14:57.450554Z",
+            "shown_at": [
+                "2026-08-07T21:14:58.298350Z"
+            ]
+        },
+        {
+            "id": "fc643a99c95b34313f0a141c92ec8707",
+            "source": "breaking_defense",
+            "text": "Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief",
+            "source_link": "https://breakingdefense.com/2026/08/senate-confirms-nominees-for-pentagon-comptroller-space-acquisition-and-nro-chief/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-07T18:54:32.916582Z",
+            "shown_at": [
+                "2026-08-07T18:54:35.763000Z"
+            ]
+        },
+        {
+            "id": "900cdfd34bd60dd18d91c3c7d0ac1053",
+            "source": "spacenews",
+            "text": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
+            "source_link": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-07T18:19:37.877256Z",
+            "shown_at": [
+                "2026-08-07T18:19:39.723037Z"
+            ]
+        },
+        {
+            "id": "4e26d782329c1a4b7e68c9c6cb7d50bf",
+            "source": "breaking_defense",
+            "text": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
+            "source_link": "https://breakingdefense.com/2026/08/eu-lays-out-18b-satellite-constellation-plan-with-spanish-firm-winning-key-role/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-07T17:09:34.527077Z",
+            "shown_at": [
+                "2026-08-07T17:09:36.425821Z"
+            ]
+        },
+        {
+            "id": "93897c408005859f928b01f164c02061",
+            "source": "spacenews",
+            "text": "U.S. Senate confirms Schiess to lead Space Force ",
+            "source_link": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-07T12:59:40.518976Z",
+            "shown_at": [
+                "2026-08-07T12:59:43.490109Z"
+            ]
+        },
+        {
+            "id": "419bf3dff6e9ac35f59f18829b8edc15",
+            "source": "spacenews",
+            "text": "Europe increases size and cost of IRIS² constellation",
+            "source_link": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-07T12:24:37.362853Z",
+            "shown_at": [
+                "2026-08-07T12:24:40.708966Z",
+                "2026-08-07T16:35:02.611159Z"
+            ]
+        },
+        {
+            "id": "9608fe268d8d5a0070133980dc212467",
+            "source": "breaking_defense",
+            "text": "Schiess confirmed as third Space Force chief",
+            "source_link": "https://breakingdefense.com/2026/08/schiess-confirmed-as-third-space-force-chief/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-07T11:49:28.555233Z",
+            "shown_at": [
+                "2026-08-07T11:49:30.495837Z",
+                "2026-08-07T22:29:30.269468Z"
+            ]
+        },
+        {
+            "id": "434a38c76261600fc2476ec3effcff16",
+            "source": "spacenews",
+            "text": "Bipartisan Senate bill would sharpen Space Force training for conflict with China",
+            "source_link": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-07T09:29:22.588481Z",
+            "shown_at": [
+                "2026-08-07T09:29:23.381651Z"
+            ]
+        },
         {
             "id": "7147f3c493c5ce83eaa86afa74bab2d4",
             "source": "spacenews",
@@ -8105,244 +8203,6 @@
             "shown_at": [
                 "2026-05-27T13:34:40.421265Z",
                 "2026-06-01T03:24:22.307752Z"
-            ]
-        },
-        {
-            "id": "d1c2aec367b06bdd645fecdfeff81684",
-            "source": "spacenews",
-            "text": "World’s smallest deployable operational optical ground station proves capability in successful trials",
-            "source_link": "https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T12:59:51.054751Z",
-            "shown_at": [
-                "2026-05-27T12:59:51.771011Z"
-            ]
-        },
-        {
-            "id": "182b5cd85901767e236764b36ffdbc25",
-            "source": "nyt",
-            "text": "A Fiery Visitor From Space Photo-Bombs an Erupting Volcano",
-            "source_link": "https://www.nytimes.com/2026/05/26/science/volcano-eruption-fireball-philippines.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T11:09:16.558112Z",
-            "shown_at": [
-                "2026-05-27T11:09:17.459447Z",
-                "2026-05-27T23:38:58.447721Z",
-                "2026-05-28T11:04:46.605776Z",
-                "2026-05-28T12:49:13.319813Z",
-                "2026-05-29T18:19:17.959000Z",
-                "2026-05-30T12:14:11.818950Z",
-                "2026-06-01T13:24:21.231927Z",
-                "2026-06-01T19:14:29.479322Z",
-                "2026-06-02T10:34:34.396244Z",
-                "2026-06-03T02:59:01.749036Z"
-            ]
-        },
-        {
-            "id": "77d0632b403eed41854e7ef664f1530b",
-            "source": "spacenews",
-            "text": "Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities",
-            "source_link": "https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T07:59:17.530458Z",
-            "shown_at": [
-                "2026-05-27T07:59:18.382214Z",
-                "2026-05-28T19:29:11.776015Z",
-                "2026-05-29T05:59:05.446717Z"
-            ]
-        },
-        {
-            "id": "fcbd5967fc3a1863f0794c3f2678ea62",
-            "source": "nyt",
-            "text": "NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts",
-            "source_link": "https://www.nytimes.com/2026/05/26/science/space/nasa-rovers-moon-base-contracts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T22:59:05.917785Z",
-            "shown_at": [
-                "2026-05-26T22:59:06.771111Z",
-                "2026-05-27T00:49:11.050924Z",
-                "2026-05-28T05:39:16.882449Z",
-                "2026-05-29T05:24:14.228358Z",
-                "2026-05-29T07:44:33.175050Z",
-                "2026-05-31T16:19:15.572769Z",
-                "2026-06-01T01:04:26.375987Z",
-                "2026-06-01T17:29:22.736276Z",
-                "2026-06-02T17:34:35.155915Z"
-            ]
-        },
-        {
-            "id": "f50c4f329f7d4d167222af7e637a4f68",
-            "source": "spacenews",
-            "text": "Open Cosmos’ CEO on what it takes to bring IoT to space",
-            "source_link": "https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T22:24:17.333276Z",
-            "shown_at": [
-                "2026-05-26T23:34:25.848189Z",
-                "2026-05-29T08:19:24.446717Z",
-                "2026-05-30T14:34:26.581807Z"
-            ]
-        },
-        {
-            "id": "9711643cca095d638895bb36971c4417",
-            "source": "spacenews",
-            "text": "NASA selects four companies for initial moon base awards",
-            "source_link": "https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T22:24:17.333216Z",
-            "shown_at": [
-                "2026-05-26T22:24:18.583418Z",
-                "2026-05-31T22:09:09.069511Z"
-            ]
-        },
-        {
-            "id": "aa6258b718ffe344dbddb22633656817",
-            "source": "breaking_defense",
-            "text": "SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’",
-            "source_link": "https://breakingdefense.com/2026/05/spacex-wins-2-29b-to-speed-space-forces-leo-communications-backbone/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T21:49:21.225229Z",
-            "shown_at": [
-                "2026-05-26T21:49:23.158799Z",
-                "2026-05-28T02:04:37.830695Z",
-                "2026-05-28T06:14:17.441290Z",
-                "2026-05-29T07:09:16.288704Z",
-                "2026-05-29T12:59:10.126646Z",
-                "2026-05-30T02:54:03.585690Z",
-                "2026-05-30T08:09:14.133552Z",
-                "2026-05-31T01:39:07.810691Z",
-                "2026-05-31T10:29:12.552265Z",
-                "2026-06-01T23:24:03.868989Z",
-                "2026-06-02T05:13:37.801461Z",
-                "2026-06-02T11:44:11.199581Z"
-            ]
-        },
-        {
-            "id": "b3dd980b89f99811a146bde756188e2c",
-            "source": "breaking_defense",
-            "text": "HASC $1.15T defense policy bill takes aim at industrial base challenges",
-            "source_link": "https://breakingdefense.com/2026/05/hasc-1-15t-defense-policy-bill-takes-aim-at-industrial-base-challenges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T21:14:27.550577Z",
-            "shown_at": [
-                "2026-05-26T21:14:28.470657Z",
-                "2026-05-27T07:24:03.065060Z",
-                "2026-05-27T22:29:26.587011Z",
-                "2026-05-28T08:04:58.827619Z",
-                "2026-05-29T01:19:11.369590Z",
-                "2026-05-29T03:04:39.149174Z",
-                "2026-05-29T04:49:15.975045Z",
-                "2026-05-29T10:39:13.303374Z",
-                "2026-05-30T22:09:18.318128Z",
-                "2026-05-31T13:59:19.321983Z",
-                "2026-06-01T09:19:20.328849Z",
-                "2026-06-02T06:59:07.056584Z"
-            ]
-        },
-        {
-            "id": "434a38c76261600fc2476ec3effcff16",
-            "source": "spacenews",
-            "text": "Bipartisan Senate bill would sharpen Space Force training for conflict with China",
-            "source_link": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-07T09:29:22.588481Z",
-            "shown_at": [
-                "2026-08-07T09:29:23.381651Z"
-            ]
-        },
-        {
-            "id": "9608fe268d8d5a0070133980dc212467",
-            "source": "breaking_defense",
-            "text": "Schiess confirmed as third Space Force chief",
-            "source_link": "https://breakingdefense.com/2026/08/schiess-confirmed-as-third-space-force-chief/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-07T11:49:28.555233Z",
-            "shown_at": [
-                "2026-08-07T11:49:30.495837Z",
-                "2026-08-07T22:29:30.269468Z"
-            ]
-        },
-        {
-            "id": "419bf3dff6e9ac35f59f18829b8edc15",
-            "source": "spacenews",
-            "text": "Europe increases size and cost of IRIS² constellation",
-            "source_link": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-07T12:24:37.362853Z",
-            "shown_at": [
-                "2026-08-07T12:24:40.708966Z",
-                "2026-08-07T16:35:02.611159Z"
-            ]
-        },
-        {
-            "id": "93897c408005859f928b01f164c02061",
-            "source": "spacenews",
-            "text": "U.S. Senate confirms Schiess to lead Space Force ",
-            "source_link": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-07T12:59:40.518976Z",
-            "shown_at": [
-                "2026-08-07T12:59:43.490109Z"
-            ]
-        },
-        {
-            "id": "4e26d782329c1a4b7e68c9c6cb7d50bf",
-            "source": "breaking_defense",
-            "text": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
-            "source_link": "https://breakingdefense.com/2026/08/eu-lays-out-18b-satellite-constellation-plan-with-spanish-firm-winning-key-role/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-07T17:09:34.527077Z",
-            "shown_at": [
-                "2026-08-07T17:09:36.425821Z"
-            ]
-        },
-        {
-            "id": "900cdfd34bd60dd18d91c3c7d0ac1053",
-            "source": "spacenews",
-            "text": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
-            "source_link": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-07T18:19:37.877256Z",
-            "shown_at": [
-                "2026-08-07T18:19:39.723037Z"
-            ]
-        },
-        {
-            "id": "fc643a99c95b34313f0a141c92ec8707",
-            "source": "breaking_defense",
-            "text": "Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief",
-            "source_link": "https://breakingdefense.com/2026/08/senate-confirms-nominees-for-pentagon-comptroller-space-acquisition-and-nro-chief/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-07T18:54:32.916582Z",
-            "shown_at": [
-                "2026-08-07T18:54:35.763000Z"
-            ]
-        },
-        {
-            "id": "12e4e15b6b57fec1c365cc1a5e759240",
-            "source": "spacenews",
-            "text": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
-            "source_link": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-07T21:14:57.450554Z",
-            "shown_at": [
-                "2026-08-07T21:14:58.298350Z"
             ]
         }
     ]
