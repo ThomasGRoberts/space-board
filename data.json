@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-08T00:05:02.298356+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4978b161c731335f2eed8567798503ce",
+    "trigger_count": 0,
+    "current_item_id": "6d4035e0cc49da14c74338b99aa235fb",
     "data": [
         {
             "id": "12e4e15b6b57fec1c365cc1a5e759240",
@@ -8233,6 +8233,18 @@
             "shown_at": [
                 "2026-05-27T13:34:40.421265Z",
                 "2026-06-01T03:24:22.307752Z"
+            ]
+        },
+        {
+            "id": "6d4035e0cc49da14c74338b99aa235fb",
+            "source": "spacenews",
+            "text": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+            "source_link": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-08T18:14:35.236640Z",
+            "shown_at": [
+                "2026-08-08T18:14:36.352045Z"
             ]
         }
     ]

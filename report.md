@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 14 | 26 |
+| spacenews | 3 | 6 | 15 | 27 |
 | breaking_defense | 1 | 3 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 24 |
 
@@ -2739,3 +2739,4 @@
 - **Aug 08, 04:19 PM** - The confidence deficit in space (breaking_defense)
 - **Aug 08, 04:54 PM** - Rocketdyne reemerges as standalone space company (spacenews)
 - **Aug 08, 05:29 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
+- **Aug 08, 06:14 PM** - Northrop Grumman, Canadian Space Agency repurpose their Gateway projects (spacenews)
