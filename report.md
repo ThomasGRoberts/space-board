@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 15 | 28 |
 | breaking_defense | 3 | 3 | 13 | 22 |
-| nyt | 0 | 0 | 12 | 20 |
+| nyt | 0 | 0 | 13 | 21 |
 
 # Shown Order
 
@@ -2723,3 +2723,4 @@
 - **Aug 08, 06:54 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 08, 07:29 AM** - Schiess confirmed as third Space Force chief (breaking_defense)
 - **Aug 08, 08:04 AM** - Rocket Lab launches 8th iQPS satellite (spacenews)
+- **Aug 08, 08:39 AM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
