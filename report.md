@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2786,3 +2786,4 @@
 - **Aug 09, 09:34 PM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 09, 10:09 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 09, 10:44 PM** - Rocket Lab launches 8th iQPS satellite (spacenews)
+- **Aug 09, 11:19 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
