@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
-| breaking_defense | 0 | 2 | 13 | 26 |
+| breaking_defense | 0 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2774,3 +2774,4 @@
 - **Aug 09, 02:34 PM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 09, 03:09 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 09, 03:44 PM** - Bipartisan Senate bill would sharpen Space Force training for conflict with China (spacenews)
+- **Aug 09, 04:19 PM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
