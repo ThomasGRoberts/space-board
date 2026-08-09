@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 29 |
-| breaking_defense | 0 | 3 | 13 | 26 |
+| breaking_defense | 0 | 3 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2759,3 +2759,4 @@
 - **Aug 09, 05:39 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 09, 06:14 AM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 09, 06:54 AM** - Redwire to fly dedicated Starfall mission for microgravity research (spacenews)
+- **Aug 09, 07:29 AM** - The confidence deficit in space (breaking_defense)
