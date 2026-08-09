@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 27 |
 | breaking_defense | 0 | 2 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2772,3 +2772,4 @@
 - **Aug 09, 01:24 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 09, 01:59 PM** - Future of Crew Dragon weighs on commercial spaceflight industry (spacenews)
 - **Aug 09, 02:34 PM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
+- **Aug 09, 03:09 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
