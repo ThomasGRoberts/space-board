@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 27 |
+| spacenews | 0 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -2782,3 +2782,4 @@
 - **Aug 09, 07:14 PM** - Military demand shapes market for satellite propulsion (spacenews)
 - **Aug 09, 07:49 PM** - Schiess confirmed as third Space Force chief (breaking_defense)
 - **Aug 09, 08:24 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
+- **Aug 09, 08:59 PM** - Northrop Grumman, Canadian Space Agency repurpose their Gateway projects (spacenews)
