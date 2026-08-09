@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2787,3 +2787,4 @@
 - **Aug 09, 10:09 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 09, 10:44 PM** - Rocket Lab launches 8th iQPS satellite (spacenews)
 - **Aug 09, 11:19 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
+- **Aug 09, 11:54 PM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
