@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 27 |
 | breaking_defense | 0 | 2 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2775,3 +2775,4 @@
 - **Aug 09, 03:09 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 09, 03:44 PM** - Bipartisan Senate bill would sharpen Space Force training for conflict with China (spacenews)
 - **Aug 09, 04:19 PM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
+- **Aug 09, 04:54 PM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
