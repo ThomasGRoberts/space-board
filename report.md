@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 29 |
-| breaking_defense | 0 | 3 | 13 | 26 |
+| breaking_defense | 0 | 3 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2750,3 +2750,4 @@
 - **Aug 09, 12:14 AM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
 - **Aug 09, 12:49 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 09, 01:24 AM** - Europe increases size and cost of IRIS² constellation (spacenews)
+- **Aug 09, 01:59 AM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
