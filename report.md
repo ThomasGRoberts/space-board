@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 13 | 27 |
+| spacenews | 0 | 1 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -2785,3 +2785,4 @@
 - **Aug 09, 08:59 PM** - Northrop Grumman, Canadian Space Agency repurpose their Gateway projects (spacenews)
 - **Aug 09, 09:34 PM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 09, 10:09 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
+- **Aug 09, 10:44 PM** - Rocket Lab launches 8th iQPS satellite (spacenews)
