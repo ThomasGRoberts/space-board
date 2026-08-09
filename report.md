@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 29 |
-| breaking_defense | 0 | 3 | 13 | 26 |
+| breaking_defense | 0 | 3 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2753,3 +2753,4 @@
 - **Aug 09, 01:59 AM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
 - **Aug 09, 02:34 AM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 09, 03:09 AM** - Military demand shapes market for satellite propulsion (spacenews)
+- **Aug 09, 03:44 AM** - Schiess confirmed as third Space Force chief (breaking_defense)
