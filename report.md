@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 27 |
+| spacenews | 1 | 3 | 14 | 28 |
 | breaking_defense | 0 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 26 |
 
@@ -2770,3 +2770,4 @@
 - **Aug 09, 12:14 PM** - Redwire to fly dedicated Starfall mission for microgravity research (spacenews)
 - **Aug 09, 12:49 PM** - Schiess confirmed as third Space Force chief (breaking_defense)
 - **Aug 09, 01:24 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
+- **Aug 09, 01:59 PM** - Future of Crew Dragon weighs on commercial spaceflight industry (spacenews)
