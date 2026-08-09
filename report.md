@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 29 |
 | breaking_defense | 0 | 3 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2751,3 +2751,4 @@
 - **Aug 09, 12:49 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 09, 01:24 AM** - Europe increases size and cost of IRIS² constellation (spacenews)
 - **Aug 09, 01:59 AM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
+- **Aug 09, 02:34 AM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
