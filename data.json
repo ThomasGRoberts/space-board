@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-08T00:05:02.298356+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-08-09T00:05:15.583014+00:00",
+    "trigger_count": 5,
     "current_item_id": "18381e7f8d526b7a2b222bc34e777010",
     "data": [
+        {
+            "id": "6d4035e0cc49da14c74338b99aa235fb",
+            "source": "spacenews",
+            "text": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+            "source_link": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-08T18:14:35.236640Z",
+            "shown_at": [
+                "2026-08-08T18:14:36.352045Z"
+            ]
+        },
         {
             "id": "12e4e15b6b57fec1c365cc1a5e759240",
             "source": "spacenews",
@@ -8229,31 +8241,6 @@
                 "2026-05-27T14:09:28.065764Z",
                 "2026-05-28T21:49:05.884560Z",
                 "2026-05-31T13:24:11.392826Z"
-            ]
-        },
-        {
-            "id": "0445021cd205b7e7f4e2b63e61176855",
-            "source": "spacenews",
-            "text": "European space industry watching SpaceX IPO plans",
-            "source_link": "https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T12:59:51.054826Z",
-            "shown_at": [
-                "2026-05-27T13:34:40.421265Z",
-                "2026-06-01T03:24:22.307752Z"
-            ]
-        },
-        {
-            "id": "6d4035e0cc49da14c74338b99aa235fb",
-            "source": "spacenews",
-            "text": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
-            "source_link": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-08T18:14:35.236640Z",
-            "shown_at": [
-                "2026-08-08T18:14:36.352045Z"
             ]
         }
     ]

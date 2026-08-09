@@ -8,7 +8,6 @@
 
 # Shown Order
 
-- **May 27, 01:34 PM** - European space industry watching SpaceX IPO plans (spacenews)
 - **May 27, 02:09 PM** - Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans (spacenews)
 - **May 27, 02:44 PM** - Artemis 2 captured the world’s attention. It should change how we think about supply chains. (spacenews)
 - **May 27, 03:54 PM** - Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations (spacenews)
@@ -106,7 +105,6 @@
 - **Jun 01, 12:29 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **Jun 01, 01:39 AM** - FAA documents outline SpaceX plans for Starfall reentry vehicles (spacenews)
 - **Jun 01, 02:14 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
-- **Jun 01, 03:24 AM** - European space industry watching SpaceX IPO plans (spacenews)
 - **Jun 01, 03:59 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **Jun 01, 05:09 AM** - Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking (spacenews)
 - **Jun 01, 05:48 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
