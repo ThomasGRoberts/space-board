@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 13 | 28 |
+| spacenews | 1 | 6 | 14 | 29 |
 | breaking_defense | 0 | 3 | 13 | 26 |
 | nyt | 0 | 0 | 14 | 26 |
 
@@ -2758,3 +2758,4 @@
 - **Aug 09, 04:59 AM** - Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket (spacenews)
 - **Aug 09, 05:39 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 09, 06:14 AM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
+- **Aug 09, 06:54 AM** - Redwire to fly dedicated Starfall mission for microgravity research (spacenews)
