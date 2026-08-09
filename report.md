@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 27 |
+| spacenews | 1 | 3 | 14 | 28 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -2776,3 +2776,4 @@
 - **Aug 09, 03:44 PM** - Bipartisan Senate bill would sharpen Space Force training for conflict with China (spacenews)
 - **Aug 09, 04:19 PM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 09, 04:54 PM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
+- **Aug 09, 05:29 PM** - Capella, Iceye and Umbra win NRO radar-data contracts (spacenews)
