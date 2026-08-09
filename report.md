@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 13 | 27 |
 | breaking_defense | 0 | 2 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2769,3 +2769,4 @@
 - **Aug 09, 11:39 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 09, 12:14 PM** - Redwire to fly dedicated Starfall mission for microgravity research (spacenews)
 - **Aug 09, 12:49 PM** - Schiess confirmed as third Space Force chief (breaking_defense)
+- **Aug 09, 01:24 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
