@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 27 |
+| spacenews | 0 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -2779,3 +2779,4 @@
 - **Aug 09, 05:29 PM** - Capella, Iceye and Umbra win NRO radar-data contracts (spacenews)
 - **Aug 09, 06:04 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
 - **Aug 09, 06:39 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
+- **Aug 09, 07:14 PM** - Military demand shapes market for satellite propulsion (spacenews)
