@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 17 | 30 |
-| breaking_defense | 0 | 0 | 11 | 25 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 1 | 1 | 12 | 26 |
 
 # Shown Order
@@ -2819,3 +2819,4 @@
 - **Aug 10, 05:09 PM** - Schiess confirmed as third Space Force chief (breaking_defense)
 - **Aug 10, 05:44 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 10, 06:19 PM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
+- **Aug 10, 06:54 PM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
