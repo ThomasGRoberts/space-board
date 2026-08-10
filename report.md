@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2806,3 +2806,4 @@
 - **Aug 10, 09:24 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 10, 09:59 AM** - Voyager seeks relaxed requirements in NASA commercial space station RFP (spacenews)
 - **Aug 10, 10:34 AM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
+- **Aug 10, 11:14 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
