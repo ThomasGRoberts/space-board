@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 27 |
+| spacenews | 1 | 2 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -2792,3 +2792,4 @@
 - **Aug 10, 01:04 AM** - Katalyst Space makes progress in restoring control of Swift servicing spacecraft (spacenews)
 - **Aug 10, 01:39 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
 - **Aug 10, 02:14 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
+- **Aug 10, 02:49 AM** - Lessons for the future of NASA Mars exploration from a 1970s mission (spacenews)
