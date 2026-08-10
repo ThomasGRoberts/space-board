@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 27 |
+| spacenews | 1 | 2 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2801,3 +2801,4 @@
 - **Aug 10, 06:19 AM** - Europe increases size and cost of IRIS² constellation (spacenews)
 - **Aug 10, 06:54 AM** - K2 tapped to host Space Force satellite laser links tests (breaking_defense)
 - **Aug 10, 07:35 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
+- **Aug 10, 08:09 AM** - Rocketdyne reemerges as standalone space company (spacenews)
