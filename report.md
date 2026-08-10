@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2790,3 +2790,4 @@
 - **Aug 09, 11:54 PM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 10, 12:29 AM** - Rubicon ASCENT thruster moves from hot-fire testing to production (spacenews)
 - **Aug 10, 01:04 AM** - Katalyst Space makes progress in restoring control of Swift servicing spacecraft (spacenews)
+- **Aug 10, 01:39 AM** - Telesat wins $1.6B for Canadian Arctic MILSATCOM (breaking_defense)
