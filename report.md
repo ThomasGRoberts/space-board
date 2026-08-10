@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2794,3 +2794,4 @@
 - **Aug 10, 02:14 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
 - **Aug 10, 02:49 AM** - Lessons for the future of NASA Mars exploration from a 1970s mission (spacenews)
 - **Aug 10, 03:24 AM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
+- **Aug 10, 03:59 AM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
