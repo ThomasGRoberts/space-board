@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-10T00:05:07.361693+00:00",
-    "trigger_count": 6,
-    "current_item_id": "44262b4ff0cb2257790deda1e6433ef9",
+    "trigger_count": 0,
+    "current_item_id": "5db0861bce733298573cf4aeb9784689",
     "data": [
         {
             "id": "6d4035e0cc49da14c74338b99aa235fb",
@@ -8283,6 +8283,18 @@
                 "2026-05-27T14:09:28.065764Z",
                 "2026-05-28T21:49:05.884560Z",
                 "2026-05-31T13:24:11.392826Z"
+            ]
+        },
+        {
+            "id": "5db0861bce733298573cf4aeb9784689",
+            "source": "spacenews",
+            "text": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
+            "source_link": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T01:04:56.886611Z",
+            "shown_at": [
+                "2026-08-10T01:04:57.443974Z"
             ]
         }
     ]
