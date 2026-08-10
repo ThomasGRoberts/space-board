@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 16 | 30 |
+| spacenews | 5 | 6 | 17 | 31 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 | nyt | 1 | 1 | 13 | 26 |
 
@@ -2812,3 +2812,4 @@
 - **Aug 10, 01:05 PM** - Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite (spacenews)
 - **Aug 10, 01:39 PM** - Chinese Long March 7A rocket explodes shortly after liftoff (spacenews)
 - **Aug 10, 02:14 PM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
+- **Aug 10, 02:49 PM** - National security doesn’t need more maps or imagery; it needs measurement (spacenews)

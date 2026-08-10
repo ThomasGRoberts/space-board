@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-10T00:05:07.361693+00:00",
-    "trigger_count": 6,
-    "current_item_id": "14403772f713b19a6acfd3e30618e4ad",
+    "trigger_count": 0,
+    "current_item_id": "1597d74f2e923b292a369345d54da10e",
     "data": [
         {
             "id": "6d4035e0cc49da14c74338b99aa235fb",
@@ -8356,9 +8356,12 @@
             "source": "spacenews",
             "text": "National security doesn’t need more maps or imagery; it needs measurement",
             "source_link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-08-10T13:39:06.231069Z"
+            "fetched_datetime": "2026-08-10T13:39:06.231069Z",
+            "shown_at": [
+                "2026-08-10T14:49:43.430919Z"
+            ]
         },
         {
             "id": "14403772f713b19a6acfd3e30618e4ad",
