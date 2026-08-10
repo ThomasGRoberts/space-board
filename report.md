@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 27 |
+| spacenews | 1 | 2 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -2804,3 +2804,4 @@
 - **Aug 10, 08:09 AM** - Rocketdyne reemerges as standalone space company (spacenews)
 - **Aug 10, 08:44 AM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
 - **Aug 10, 09:24 AM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
+- **Aug 10, 09:59 AM** - Voyager seeks relaxed requirements in NASA commercial space station RFP (spacenews)
