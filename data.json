@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-10T00:05:07.361693+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dde57a9dde6a5b6a6d95a3ad90d94090",
+    "trigger_count": 0,
+    "current_item_id": "d4a48c6c67d27f26b889753c21230eb5",
     "data": [
         {
             "id": "6d4035e0cc49da14c74338b99aa235fb",
@@ -8332,9 +8332,12 @@
             "source": "spacenews",
             "text": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
             "source_link": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-08-10T12:24:30.567953Z"
+            "fetched_datetime": "2026-08-10T12:24:30.567953Z",
+            "shown_at": [
+                "2026-08-10T13:05:01.875974Z"
+            ]
         }
     ]
 }
