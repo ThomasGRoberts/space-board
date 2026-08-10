@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 17 | 30 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 1 | 1 | 12 | 26 |
 
 # Shown Order
@@ -2816,3 +2816,4 @@
 - **Aug 10, 03:24 PM** - The confidence deficit in space (breaking_defense)
 - **Aug 10, 03:59 PM** - A SpaceX Rocket Will Soon Crash Into the Moon (nyt)
 - **Aug 10, 04:35 PM** - Three companies building the tech to grow crops on the moon (spacenews)
+- **Aug 10, 05:09 PM** - Schiess confirmed as third Space Force chief (breaking_defense)
