@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-10T00:05:07.361693+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4e26d782329c1a4b7e68c9c6cb7d50bf",
+    "trigger_count": 0,
+    "current_item_id": "fde4b9735efc7a333fba07f726ab5881",
     "data": [
         {
             "id": "6d4035e0cc49da14c74338b99aa235fb",
@@ -8395,6 +8395,18 @@
             "fetched_datetime": "2026-08-10T20:44:49.086684Z",
             "shown_at": [
                 "2026-08-10T20:44:50.134474Z"
+            ]
+        },
+        {
+            "id": "fde4b9735efc7a333fba07f726ab5881",
+            "source": "spacenews",
+            "text": "Rocket Lab builds deployable infrastructure for Electron launches",
+            "source_link": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T21:59:24.877750Z",
+            "shown_at": [
+                "2026-08-10T21:59:26.846746Z"
             ]
         }
     ]
