@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 16 | 29 |
+| spacenews | 5 | 5 | 17 | 30 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 | nyt | 1 | 1 | 13 | 26 |
 
@@ -2818,3 +2818,4 @@
 - **Aug 10, 04:35 PM** - Three companies building the tech to grow crops on the moon (spacenews)
 - **Aug 10, 05:09 PM** - Schiess confirmed as third Space Force chief (breaking_defense)
 - **Aug 10, 05:44 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
+- **Aug 10, 06:19 PM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
