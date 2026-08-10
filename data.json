@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-10T00:05:07.361693+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6bb1a9787992716069a7340e32da9ad4",
+    "trigger_count": 0,
+    "current_item_id": "14403772f713b19a6acfd3e30618e4ad",
     "data": [
         {
             "id": "6d4035e0cc49da14c74338b99aa235fb",
@@ -8359,6 +8359,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-08-10T13:39:06.231069Z"
+        },
+        {
+            "id": "14403772f713b19a6acfd3e30618e4ad",
+            "source": "nyt",
+            "text": "What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely",
+            "source_link": "https://www.nytimes.com/2026/08/10/science/europe-total-solar-eclipse-how-to-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T14:14:40.194413Z",
+            "shown_at": [
+                "2026-08-10T14:14:42.254821Z"
+            ]
         }
     ]
 }
