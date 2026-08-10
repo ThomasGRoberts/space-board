@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 17 | 30 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 1 | 1 | 12 | 26 |
 
 # Shown Order
@@ -2813,3 +2813,4 @@
 - **Aug 10, 01:39 PM** - Chinese Long March 7A rocket explodes shortly after liftoff (spacenews)
 - **Aug 10, 02:14 PM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 10, 02:49 PM** - National security doesn’t need more maps or imagery; it needs measurement (spacenews)
+- **Aug 10, 03:24 PM** - The confidence deficit in space (breaking_defense)
