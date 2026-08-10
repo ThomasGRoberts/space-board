@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 17 | 30 |
+| spacenews | 6 | 6 | 18 | 31 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 | nyt | 1 | 1 | 12 | 26 |
 
@@ -2822,3 +2822,4 @@
 - **Aug 10, 06:54 PM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 10, 07:34 PM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 10, 08:09 PM** - Europe increases size and cost of IRIS² constellation (spacenews)
+- **Aug 10, 08:44 PM** - Kepler books Neutron for 2028 optical relay launch (spacenews)

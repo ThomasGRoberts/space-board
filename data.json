@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-10T00:05:07.361693+00:00",
-    "trigger_count": 6,
-    "current_item_id": "419bf3dff6e9ac35f59f18829b8edc15",
+    "trigger_count": 0,
+    "current_item_id": "06b63e045d22ec8587f70a6d033c5f0d",
     "data": [
         {
             "id": "6d4035e0cc49da14c74338b99aa235fb",
@@ -8382,6 +8382,18 @@
             "shown_at": [
                 "2026-08-10T14:14:42.254821Z",
                 "2026-08-10T19:34:41.299904Z"
+            ]
+        },
+        {
+            "id": "06b63e045d22ec8587f70a6d033c5f0d",
+            "source": "spacenews",
+            "text": "Kepler books Neutron for 2028 optical relay launch",
+            "source_link": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T20:44:49.086684Z",
+            "shown_at": [
+                "2026-08-10T20:44:50.134474Z"
             ]
         }
     ]
