@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-10T00:05:07.361693+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d4a48c6c67d27f26b889753c21230eb5",
+    "trigger_count": 0,
+    "current_item_id": "6bb1a9787992716069a7340e32da9ad4",
     "data": [
         {
             "id": "6d4035e0cc49da14c74338b99aa235fb",
@@ -8338,6 +8338,27 @@
             "shown_at": [
                 "2026-08-10T13:05:01.875974Z"
             ]
+        },
+        {
+            "id": "6bb1a9787992716069a7340e32da9ad4",
+            "source": "spacenews",
+            "text": "Chinese Long March 7A rocket explodes shortly after liftoff",
+            "source_link": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T13:39:06.231024Z",
+            "shown_at": [
+                "2026-08-10T13:39:07.169902Z"
+            ]
+        },
+        {
+            "id": "1597d74f2e923b292a369345d54da10e",
+            "source": "spacenews",
+            "text": "National security doesn’t need more maps or imagery; it needs measurement",
+            "source_link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T13:39:06.231069Z"
         }
     ]
 }
