@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 17 | 31 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 1 | 1 | 12 | 25 |
 
 # Shown Order
@@ -2826,3 +2826,4 @@
 - **Aug 10, 09:19 PM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 10, 09:59 PM** - Rocket Lab builds deployable infrastructure for Electron launches (spacenews)
 - **Aug 10, 10:34 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
+- **Aug 10, 11:09 PM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
