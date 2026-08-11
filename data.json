@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 6,
-    "current_item_id": "00a768aa6e05469696b7965f92c2f0a1",
+    "trigger_count": 0,
+    "current_item_id": "6cb03400360babe45834ae9bd2d7bdae",
     "data": [
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
@@ -8340,6 +8340,18 @@
             "fetched_datetime": "2026-08-11T10:24:46.760079Z",
             "shown_at": [
                 "2026-08-11T10:59:46.940404Z"
+            ]
+        },
+        {
+            "id": "6cb03400360babe45834ae9bd2d7bdae",
+            "source": "spacenews",
+            "text": "First Neutron launch may slip to 2027",
+            "source_link": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T11:35:00.046158Z",
+            "shown_at": [
+                "2026-08-11T11:35:02.666533Z"
             ]
         }
     ]

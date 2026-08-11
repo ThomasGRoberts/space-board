@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 9 | 18 | 32 |
+| spacenews | 9 | 10 | 19 | 33 |
 | nyt | 1 | 1 | 11 | 25 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -2824,3 +2824,4 @@
 - **Aug 11, 09:49 AM** - Schiess confirmed as third Space Force chief (breaking_defense)
 - **Aug 11, 10:24 AM** - Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors (spacenews)
 - **Aug 11, 10:59 AM** - H3 launches navigation satellite (spacenews)
+- **Aug 11, 11:35 AM** - First Neutron launch may slip to 2027 (spacenews)
