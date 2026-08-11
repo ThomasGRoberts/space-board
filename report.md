@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 18 | 36 |
+| spacenews | 11 | 17 | 18 | 35 |
 | nyt | 2 | 3 | 12 | 24 |
-| breaking_defense | 0 | 0 | 10 | 21 |
+| breaking_defense | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -2840,3 +2840,4 @@
 - **Aug 11, 07:14 PM** - Schiess confirmed as third Space Force chief (breaking_defense)
 - **Aug 11, 07:49 PM** - Think tank warns Europe’s orbital compute gap is widening (spacenews)
 - **Aug 11, 08:24 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
+- **Aug 11, 08:59 PM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
