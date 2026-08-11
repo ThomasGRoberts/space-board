@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 18 | 33 |
-| nyt | 1 | 1 | 11 | 24 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| nyt | 1 | 1 | 12 | 25 |
+| breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
 
@@ -2826,3 +2826,4 @@
 - **Aug 11, 10:59 AM** - H3 launches navigation satellite (spacenews)
 - **Aug 11, 11:35 AM** - First Neutron launch may slip to 2027 (spacenews)
 - **Aug 11, 12:09 PM** - Why Golden Dome Demands a Reimagined and Revitalized Industrial Base (spacenews)
+- **Aug 11, 12:49 PM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
