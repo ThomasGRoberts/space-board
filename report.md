@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 17 | 31 |
 | nyt | 1 | 1 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2809,3 +2809,4 @@
 - **Aug 11, 12:54 AM** - The confidence deficit in space (breaking_defense)
 - **Aug 11, 01:35 AM** - Rocketdyne reemerges as standalone space company (spacenews)
 - **Aug 11, 02:09 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
+- **Aug 11, 02:44 AM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
