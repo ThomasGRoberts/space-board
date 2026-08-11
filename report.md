@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 18 | 31 |
-| nyt | 1 | 1 | 11 | 25 |
-| breaking_defense | 0 | 0 | 11 | 25 |
+| nyt | 1 | 1 | 12 | 26 |
+| breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -2805,3 +2805,4 @@
 - **Aug 10, 10:34 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 10, 11:09 PM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
 - **Aug 10, 11:44 PM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
+- **Aug 11, 12:19 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
