@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 17 | 31 |
 | nyt | 1 | 1 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2806,3 +2806,4 @@
 - **Aug 10, 11:09 PM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
 - **Aug 10, 11:44 PM** - Satellite manufacturing thrives in California despite cost and regulatory pressures (spacenews)
 - **Aug 11, 12:19 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
+- **Aug 11, 12:54 AM** - The confidence deficit in space (breaking_defense)
