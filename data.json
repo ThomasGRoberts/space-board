@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 6,
-    "current_item_id": "598f48282125f269a65018e8945a594f",
+    "trigger_count": 0,
+    "current_item_id": "99e67b3bf850f47b6d43013bb3da994e",
     "data": [
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
@@ -8402,6 +8402,27 @@
             "shown_at": [
                 "2026-08-11T14:34:51.885763Z"
             ]
+        },
+        {
+            "id": "99e67b3bf850f47b6d43013bb3da994e",
+            "source": "spacenews",
+            "text": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
+            "source_link": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T15:09:28.263591Z",
+            "shown_at": [
+                "2026-08-11T15:09:28.949812Z"
+            ]
+        },
+        {
+            "id": "fb4ac2504f63841774e103069d0ec6e2",
+            "source": "spacenews",
+            "text": "TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
+            "source_link": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T15:09:28.263647Z"
         }
     ]
 }

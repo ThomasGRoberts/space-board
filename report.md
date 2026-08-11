@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 18 | 35 |
-| nyt | 0 | 1 | 11 | 24 |
+| spacenews | 11 | 16 | 19 | 36 |
+| nyt | 0 | 1 | 11 | 23 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
 # Shown Order
@@ -2830,3 +2830,4 @@
 - **Aug 11, 01:24 PM** - Former Space Force general joins Lunar Outpost board (spacenews)
 - **Aug 11, 01:59 PM** - BlackSky wins seven-figure, multiyear international contract (spacenews)
 - **Aug 11, 02:34 PM** - SpaceX increasing footprint in missile defense (spacenews)
+- **Aug 11, 03:09 PM** - Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026 (spacenews)
