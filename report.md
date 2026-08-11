@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 16 | 30 |
+| spacenews | 6 | 7 | 17 | 31 |
 | nyt | 1 | 1 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2810,3 +2810,4 @@
 - **Aug 11, 01:35 AM** - Rocketdyne reemerges as standalone space company (spacenews)
 - **Aug 11, 02:09 AM** - SpaceX’s Spending on A.I. Soars, In First Results After I.P.O. (nyt)
 - **Aug 11, 02:44 AM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
+- **Aug 11, 03:19 AM** - Northrop Grumman, Canadian Space Agency repurpose their Gateway projects (spacenews)
