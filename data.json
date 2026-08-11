@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7c8fccd5010b6b73f4845e4d132b3b67",
+    "trigger_count": 0,
+    "current_item_id": "fb4ac2504f63841774e103069d0ec6e2",
     "data": [
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
@@ -8420,9 +8420,12 @@
             "source": "spacenews",
             "text": "TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
             "source_link": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-08-11T15:09:28.263647Z"
+            "fetched_datetime": "2026-08-11T15:09:28.263647Z",
+            "shown_at": [
+                "2026-08-11T16:19:35.089119Z"
+            ]
         },
         {
             "id": "7c8fccd5010b6b73f4845e4d132b3b67",
