@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6cb03400360babe45834ae9bd2d7bdae",
+    "trigger_count": 0,
+    "current_item_id": "ea6bd8013b000d145c155005d3dd5853",
     "data": [
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
@@ -8352,6 +8352,18 @@
             "fetched_datetime": "2026-08-11T11:35:00.046158Z",
             "shown_at": [
                 "2026-08-11T11:35:02.666533Z"
+            ]
+        },
+        {
+            "id": "ea6bd8013b000d145c155005d3dd5853",
+            "source": "spacenews",
+            "text": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
+            "source_link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T12:09:37.699166Z",
+            "shown_at": [
+                "2026-08-11T12:09:38.828948Z"
             ]
         }
     ]

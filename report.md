@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 18 | 33 |
+| spacenews | 10 | 11 | 19 | 34 |
 | nyt | 1 | 1 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -2825,3 +2825,4 @@
 - **Aug 11, 10:24 AM** - Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors (spacenews)
 - **Aug 11, 10:59 AM** - H3 launches navigation satellite (spacenews)
 - **Aug 11, 11:35 AM** - First Neutron launch may slip to 2027 (spacenews)
+- **Aug 11, 12:09 PM** - Why Golden Dome Demands a Reimagined and Revitalized Industrial Base (spacenews)
