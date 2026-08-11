@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 16 | 19 | 36 |
-| nyt | 0 | 1 | 11 | 23 |
+| spacenews | 11 | 16 | 19 | 35 |
+| nyt | 2 | 3 | 12 | 24 |
 | breaking_defense | 0 | 0 | 10 | 22 |
 
 # Shown Order
@@ -2831,3 +2831,4 @@
 - **Aug 11, 01:59 PM** - BlackSky wins seven-figure, multiyear international contract (spacenews)
 - **Aug 11, 02:34 PM** - SpaceX increasing footprint in missile defense (spacenews)
 - **Aug 11, 03:09 PM** - Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026 (spacenews)
+- **Aug 11, 03:44 PM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)

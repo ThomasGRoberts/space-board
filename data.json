@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 6,
-    "current_item_id": "99e67b3bf850f47b6d43013bb3da994e",
+    "trigger_count": 0,
+    "current_item_id": "7c8fccd5010b6b73f4845e4d132b3b67",
     "data": [
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
@@ -8423,6 +8423,27 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-08-11T15:09:28.263647Z"
+        },
+        {
+            "id": "7c8fccd5010b6b73f4845e4d132b3b67",
+            "source": "nyt",
+            "text": "The Perseid Meteor Shower Is Peaking. Here’s How to Watch.",
+            "source_link": "https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T15:44:43.277498Z",
+            "shown_at": [
+                "2026-08-11T15:44:45.860388Z"
+            ]
+        },
+        {
+            "id": "7f1d8b5fda3990243d124ea39f6acef2",
+            "source": "nyt",
+            "text": "Frenzy for Solar Eclipse Glasses Takes Over London",
+            "source_link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T15:44:43.277702Z"
         }
     ]
 }
