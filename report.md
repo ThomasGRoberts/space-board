@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 17 | 19 | 36 |
-| nyt | 2 | 3 | 11 | 24 |
+| nyt | 2 | 3 | 12 | 24 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
@@ -2836,3 +2836,4 @@
 - **Aug 11, 04:54 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 11, 05:29 PM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
 - **Aug 11, 06:04 PM** - Golden Dome money starting to reach contractors, but long-term funding still unclear (spacenews)
+- **Aug 11, 06:39 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
