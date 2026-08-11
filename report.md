@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 17 | 19 | 35 |
+| spacenews | 12 | 17 | 20 | 36 |
 | nyt | 2 | 3 | 11 | 24 |
-| breaking_defense | 0 | 0 | 10 | 22 |
+| breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
 
@@ -2838,3 +2838,4 @@
 - **Aug 11, 06:04 PM** - Golden Dome money starting to reach contractors, but long-term funding still unclear (spacenews)
 - **Aug 11, 06:39 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 11, 07:14 PM** - Schiess confirmed as third Space Force chief (breaking_defense)
+- **Aug 11, 07:49 PM** - Think tank warns Europe’s orbital compute gap is widening (spacenews)
