@@ -1,9 +1,106 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-10T00:05:07.361693+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
+    "trigger_count": 4,
     "current_item_id": "e5bcb26b49054d68dda94742f3c40165",
     "data": [
+        {
+            "id": "fde4b9735efc7a333fba07f726ab5881",
+            "source": "spacenews",
+            "text": "Rocket Lab builds deployable infrastructure for Electron launches",
+            "source_link": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T21:59:24.877750Z",
+            "shown_at": [
+                "2026-08-10T21:59:26.846746Z"
+            ]
+        },
+        {
+            "id": "06b63e045d22ec8587f70a6d033c5f0d",
+            "source": "spacenews",
+            "text": "Kepler books Neutron for 2028 optical relay launch",
+            "source_link": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T20:44:49.086684Z",
+            "shown_at": [
+                "2026-08-10T20:44:50.134474Z"
+            ]
+        },
+        {
+            "id": "14403772f713b19a6acfd3e30618e4ad",
+            "source": "nyt",
+            "text": "What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely",
+            "source_link": "https://www.nytimes.com/2026/08/10/science/europe-total-solar-eclipse-how-to-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T14:14:40.194413Z",
+            "shown_at": [
+                "2026-08-10T14:14:42.254821Z",
+                "2026-08-10T19:34:41.299904Z"
+            ]
+        },
+        {
+            "id": "1597d74f2e923b292a369345d54da10e",
+            "source": "spacenews",
+            "text": "National security doesn’t need more maps or imagery; it needs measurement",
+            "source_link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T13:39:06.231069Z",
+            "shown_at": [
+                "2026-08-10T14:49:43.430919Z"
+            ]
+        },
+        {
+            "id": "6bb1a9787992716069a7340e32da9ad4",
+            "source": "spacenews",
+            "text": "Chinese Long March 7A rocket explodes shortly after liftoff",
+            "source_link": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T13:39:06.231024Z",
+            "shown_at": [
+                "2026-08-10T13:39:07.169902Z"
+            ]
+        },
+        {
+            "id": "d4a48c6c67d27f26b889753c21230eb5",
+            "source": "spacenews",
+            "text": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
+            "source_link": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T12:24:30.567953Z",
+            "shown_at": [
+                "2026-08-10T13:05:01.875974Z"
+            ]
+        },
+        {
+            "id": "dde57a9dde6a5b6a6d95a3ad90d94090",
+            "source": "spacenews",
+            "text": "Tank problem delays first RFA launch",
+            "source_link": "https://spacenews.com/tank-problem-delays-first-rfa-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T12:24:30.567910Z",
+            "shown_at": [
+                "2026-08-10T12:24:31.785595Z"
+            ]
+        },
+        {
+            "id": "5db0861bce733298573cf4aeb9784689",
+            "source": "spacenews",
+            "text": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
+            "source_link": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-10T01:04:56.886611Z",
+            "shown_at": [
+                "2026-08-10T01:04:57.443974Z"
+            ]
+        },
         {
             "id": "6d4035e0cc49da14c74338b99aa235fb",
             "source": "spacenews",
@@ -8202,214 +8299,6 @@
             "shown_at": [
                 "2026-05-27T19:23:58.147159Z",
                 "2026-05-31T08:09:17.781391Z"
-            ]
-        },
-        {
-            "id": "0814921bfafbabee2aabd4da692c0e87",
-            "source": "spacenews",
-            "text": "Spire expands European manufacturing with Munich plant",
-            "source_link": "https://spacenews.com/spire-expands-european-manufacturing-with-munich-plant/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.355159Z",
-            "shown_at": [
-                "2026-05-27T18:49:17.629950Z",
-                "2026-06-01T23:59:21.971693Z"
-            ]
-        },
-        {
-            "id": "5e33c88febb5d69c48f421f7827f49b7",
-            "source": "spacenews",
-            "text": "Starcloud’s path to 88,000 computing satellites",
-            "source_link": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.355125Z",
-            "shown_at": [
-                "2026-05-27T18:14:11.224179Z",
-                "2026-05-31T15:08:57.317414Z",
-                "2026-05-31T18:38:59.809811Z",
-                "2026-06-03T09:39:16.388989Z"
-            ]
-        },
-        {
-            "id": "bbbfe661371b6494154999829f2e99d8",
-            "source": "spacenews",
-            "text": "Schaeffler AG joins forces with Spire to build sovereign European satellites",
-            "source_link": "https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.355072Z",
-            "shown_at": [
-                "2026-05-27T17:39:26.046730Z",
-                "2026-05-28T04:24:30.672117Z"
-            ]
-        },
-        {
-            "id": "a82c53d9137f929deb91989dff83e8b2",
-            "source": "spacenews",
-            "text": "Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031",
-            "source_link": "https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.355037Z",
-            "shown_at": [
-                "2026-05-27T17:04:44.741780Z",
-                "2026-05-29T00:44:19.299834Z",
-                "2026-06-01T06:59:24.058397Z",
-                "2026-06-02T01:44:07.558792Z"
-            ]
-        },
-        {
-            "id": "13585889272dfcd1efef94509e3da129",
-            "source": "spacenews",
-            "text": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
-            "source_link": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.354996Z",
-            "shown_at": [
-                "2026-05-27T16:29:39.596356Z",
-                "2026-05-29T04:14:25.606394Z",
-                "2026-05-30T23:19:17.911516Z"
-            ]
-        },
-        {
-            "id": "96672876ede284d1b686719904ea1a82",
-            "source": "spacenews",
-            "text": "Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations",
-            "source_link": "https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.354917Z",
-            "shown_at": [
-                "2026-05-27T15:54:25.278934Z",
-                "2026-05-30T16:19:26.807394Z"
-            ]
-        },
-        {
-            "id": "90cdbaed7a9c17d0122218cf9d9a886b",
-            "source": "spacenews",
-            "text": "Artemis 2 captured the world’s attention. It should change how we think about supply chains.",
-            "source_link": "https://spacenews.com/artemis-2-captured-the-worlds-attention-it-should-change-how-we-think-about-supply-chains/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T14:09:26.937213Z",
-            "shown_at": [
-                "2026-05-27T14:44:29.346150Z",
-                "2026-06-02T09:59:27.968431Z",
-                "2026-06-03T02:24:12.447874Z"
-            ]
-        },
-        {
-            "id": "f8eca6fbf5b099577f24639eb515e317",
-            "source": "spacenews",
-            "text": "Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans",
-            "source_link": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T14:09:26.937142Z",
-            "shown_at": [
-                "2026-05-27T14:09:28.065764Z",
-                "2026-05-28T21:49:05.884560Z",
-                "2026-05-31T13:24:11.392826Z"
-            ]
-        },
-        {
-            "id": "5db0861bce733298573cf4aeb9784689",
-            "source": "spacenews",
-            "text": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
-            "source_link": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-10T01:04:56.886611Z",
-            "shown_at": [
-                "2026-08-10T01:04:57.443974Z"
-            ]
-        },
-        {
-            "id": "dde57a9dde6a5b6a6d95a3ad90d94090",
-            "source": "spacenews",
-            "text": "Tank problem delays first RFA launch",
-            "source_link": "https://spacenews.com/tank-problem-delays-first-rfa-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-10T12:24:30.567910Z",
-            "shown_at": [
-                "2026-08-10T12:24:31.785595Z"
-            ]
-        },
-        {
-            "id": "d4a48c6c67d27f26b889753c21230eb5",
-            "source": "spacenews",
-            "text": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
-            "source_link": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-10T12:24:30.567953Z",
-            "shown_at": [
-                "2026-08-10T13:05:01.875974Z"
-            ]
-        },
-        {
-            "id": "6bb1a9787992716069a7340e32da9ad4",
-            "source": "spacenews",
-            "text": "Chinese Long March 7A rocket explodes shortly after liftoff",
-            "source_link": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-10T13:39:06.231024Z",
-            "shown_at": [
-                "2026-08-10T13:39:07.169902Z"
-            ]
-        },
-        {
-            "id": "1597d74f2e923b292a369345d54da10e",
-            "source": "spacenews",
-            "text": "National security doesn’t need more maps or imagery; it needs measurement",
-            "source_link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-10T13:39:06.231069Z",
-            "shown_at": [
-                "2026-08-10T14:49:43.430919Z"
-            ]
-        },
-        {
-            "id": "14403772f713b19a6acfd3e30618e4ad",
-            "source": "nyt",
-            "text": "What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely",
-            "source_link": "https://www.nytimes.com/2026/08/10/science/europe-total-solar-eclipse-how-to-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-10T14:14:40.194413Z",
-            "shown_at": [
-                "2026-08-10T14:14:42.254821Z",
-                "2026-08-10T19:34:41.299904Z"
-            ]
-        },
-        {
-            "id": "06b63e045d22ec8587f70a6d033c5f0d",
-            "source": "spacenews",
-            "text": "Kepler books Neutron for 2028 optical relay launch",
-            "source_link": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-10T20:44:49.086684Z",
-            "shown_at": [
-                "2026-08-10T20:44:50.134474Z"
-            ]
-        },
-        {
-            "id": "fde4b9735efc7a333fba07f726ab5881",
-            "source": "spacenews",
-            "text": "Rocket Lab builds deployable infrastructure for Electron launches",
-            "source_link": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-10T21:59:24.877750Z",
-            "shown_at": [
-                "2026-08-10T21:59:26.846746Z"
             ]
         }
     ]
