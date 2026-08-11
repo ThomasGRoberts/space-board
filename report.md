@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 16 | 19 | 36 |
-| nyt | 2 | 3 | 11 | 24 |
+| nyt | 2 | 3 | 12 | 24 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
@@ -2833,3 +2833,4 @@
 - **Aug 11, 03:09 PM** - Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026 (spacenews)
 - **Aug 11, 03:44 PM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
 - **Aug 11, 04:19 PM** - TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List (spacenews)
+- **Aug 11, 04:54 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
