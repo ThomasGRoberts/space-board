@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4414e19baf00b9a0d7b4ce1ed43df6fe",
+    "trigger_count": 0,
+    "current_item_id": "1b5bfea764d2459b904dd38d7c152065",
     "data": [
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
@@ -8467,6 +8467,18 @@
             "fetched_datetime": "2026-08-11T18:04:53.407367Z",
             "shown_at": [
                 "2026-08-11T18:04:56.344537Z"
+            ]
+        },
+        {
+            "id": "1b5bfea764d2459b904dd38d7c152065",
+            "source": "spacenews",
+            "text": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
+            "source_link": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T21:34:45.711503Z",
+            "shown_at": [
+                "2026-08-11T21:34:46.428683Z"
             ]
         }
     ]

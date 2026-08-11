@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 18 | 35 |
+| spacenews | 12 | 18 | 19 | 36 |
 | nyt | 2 | 3 | 12 | 24 |
 | breaking_defense | 0 | 0 | 10 | 22 |
 
@@ -2841,3 +2841,4 @@
 - **Aug 11, 07:49 PM** - Think tank warns Europe’s orbital compute gap is widening (spacenews)
 - **Aug 11, 08:24 PM** - SpaceX, in First Earnings After IPO, Reports Soaring AI Spending (nyt)
 - **Aug 11, 08:59 PM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
+- **Aug 11, 09:34 PM** - National lab visit boosts NASA’s confidence in space nuclear propulsion mission (spacenews)
