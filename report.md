@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 18 | 36 |
 | nyt | 2 | 3 | 12 | 23 |
-| breaking_defense | 3 | 3 | 10 | 21 |
+| breaking_defense | 3 | 3 | 11 | 22 |
 
 # Shown Order
 
@@ -2845,3 +2845,4 @@
 - **Aug 11, 10:09 PM** - Golden Dome faces 2027 funding cliff  (spacenews)
 - **Aug 11, 10:44 PM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
 - **Aug 11, 11:19 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 11, 11:59 PM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
