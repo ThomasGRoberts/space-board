@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 17 | 31 |
-| nyt | 1 | 1 | 12 | 26 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| nyt | 1 | 1 | 12 | 25 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2815,3 +2815,4 @@
 - **Aug 11, 04:29 AM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
 - **Aug 11, 05:05 AM** - Telesat lands $1.63 billion Canadian defense contract (spacenews)
 - **Aug 11, 05:39 AM** - SpaceX’s Spending on A.I. Soars, in First Results After I.P.O. (nyt)
+- **Aug 11, 06:14 AM** - Schiess confirmed as third Space Force chief (breaking_defense)
