@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1b5bfea764d2459b904dd38d7c152065",
+    "trigger_count": 0,
+    "current_item_id": "caf86565554e2d9ce38687f98786fde8",
     "data": [
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
@@ -8479,6 +8479,18 @@
             "fetched_datetime": "2026-08-11T21:34:45.711503Z",
             "shown_at": [
                 "2026-08-11T21:34:46.428683Z"
+            ]
+        },
+        {
+            "id": "caf86565554e2d9ce38687f98786fde8",
+            "source": "spacenews",
+            "text": "Golden Dome faces 2027 funding cliff ",
+            "source_link": "https://spacenews.com/golden-dome-faces-2027-funding-cliff/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T22:09:14.872212Z",
+            "shown_at": [
+                "2026-08-11T22:09:15.929612Z"
             ]
         }
     ]
