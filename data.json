@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a9189ed3f783af7953da45eba01449a9",
+    "trigger_count": 0,
+    "current_item_id": "598f48282125f269a65018e8945a594f",
     "data": [
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
@@ -8389,6 +8389,18 @@
             "fetched_datetime": "2026-08-11T13:24:46.004288Z",
             "shown_at": [
                 "2026-08-11T13:59:26.621923Z"
+            ]
+        },
+        {
+            "id": "598f48282125f269a65018e8945a594f",
+            "source": "spacenews",
+            "text": "SpaceX increasing footprint in missile defense",
+            "source_link": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T14:34:50.445621Z",
+            "shown_at": [
+                "2026-08-11T14:34:51.885763Z"
             ]
         }
     ]

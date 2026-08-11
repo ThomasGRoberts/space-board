@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 18 | 34 |
+| spacenews | 9 | 14 | 19 | 35 |
 | nyt | 0 | 1 | 11 | 24 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| breaking_defense | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -2829,3 +2829,4 @@
 - **Aug 11, 12:49 PM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 11, 01:24 PM** - Former Space Force general joins Lunar Outpost board (spacenews)
 - **Aug 11, 01:59 PM** - BlackSky wins seven-figure, multiyear international contract (spacenews)
+- **Aug 11, 02:34 PM** - SpaceX increasing footprint in missile defense (spacenews)
