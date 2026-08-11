@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7c8fccd5010b6b73f4845e4d132b3b67",
+    "trigger_count": 0,
+    "current_item_id": "2ae001a46f68535907d8db5fe5ab3bde",
     "data": [
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
@@ -8493,6 +8493,36 @@
             "shown_at": [
                 "2026-08-11T22:09:15.929612Z"
             ]
+        },
+        {
+            "id": "2ae001a46f68535907d8db5fe5ab3bde",
+            "source": "breaking_defense",
+            "text": "A peek at Day 1 of the 2026 Space and Missile Defense Symposium",
+            "source_link": "https://breakingdefense.com/2026/08/a-peek-at-day-1-of-the-2026-space-and-missile-defense-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T23:19:25.042006Z",
+            "shown_at": [
+                "2026-08-11T23:19:26.652207Z"
+            ]
+        },
+        {
+            "id": "19e6db9687b1d19438c56d3c44417a90",
+            "source": "breaking_defense",
+            "text": "If funding falters, ‘there’s no Golden Dome,’ Guetlein warns",
+            "source_link": "https://breakingdefense.com/2026/08/if-funding-falters-theres-no-golden-dome-general-warns/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T23:19:25.042063Z"
+        },
+        {
+            "id": "b79398936cf944f0e64cb390cae89e94",
+            "source": "breaking_defense",
+            "text": "Laser weapons for space? US officials see threat, opportunity",
+            "source_link": "https://breakingdefense.com/2026/08/laser-weapons-for-space-us-officials-see-threat-opportunity/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T23:19:25.042098Z"
         }
     ]
 }

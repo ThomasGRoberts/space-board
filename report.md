@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 19 | 36 |
 | nyt | 2 | 3 | 12 | 24 |
-| breaking_defense | 0 | 0 | 9 | 21 |
+| breaking_defense | 3 | 3 | 10 | 22 |
 
 # Shown Order
 
@@ -2844,3 +2844,4 @@
 - **Aug 11, 09:34 PM** - National lab visit boosts NASA’s confidence in space nuclear propulsion mission (spacenews)
 - **Aug 11, 10:09 PM** - Golden Dome faces 2027 funding cliff  (spacenews)
 - **Aug 11, 10:44 PM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
+- **Aug 11, 11:19 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
