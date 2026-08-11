@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9608fe268d8d5a0070133980dc212467",
+    "trigger_count": 0,
+    "current_item_id": "44fd31d675d9142fcd4bb9216e1e885f",
     "data": [
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
@@ -8317,6 +8317,27 @@
                 "2026-05-27T19:23:58.147159Z",
                 "2026-05-31T08:09:17.781391Z"
             ]
+        },
+        {
+            "id": "44fd31d675d9142fcd4bb9216e1e885f",
+            "source": "spacenews",
+            "text": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
+            "source_link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T10:24:46.759990Z",
+            "shown_at": [
+                "2026-08-11T10:24:47.916015Z"
+            ]
+        },
+        {
+            "id": "00a768aa6e05469696b7965f92c2f0a1",
+            "source": "spacenews",
+            "text": "H3 launches navigation satellite",
+            "source_link": "https://spacenews.com/h3-launches-navigation-satellite/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T10:24:46.760079Z"
         }
     ]
 }
