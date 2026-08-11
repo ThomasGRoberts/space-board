@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 9 | 17 | 31 |
+| spacenews | 8 | 9 | 18 | 32 |
 | nyt | 1 | 1 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
@@ -2823,3 +2823,4 @@
 - **Aug 11, 09:14 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 11, 09:49 AM** - Schiess confirmed as third Space Force chief (breaking_defense)
 - **Aug 11, 10:24 AM** - Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors (spacenews)
+- **Aug 11, 10:59 AM** - H3 launches navigation satellite (spacenews)
