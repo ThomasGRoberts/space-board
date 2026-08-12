@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 5 | 5 | 14 | 24 |
-| spacenews | 7 | 19 | 15 | 34 |
+| spacenews | 7 | 19 | 16 | 35 |
 | nyt | 1 | 3 | 11 | 22 |
 
 # Shown Order
@@ -2813,3 +2813,4 @@
 - **Aug 12, 04:44 PM** - Lessons for the future of NASA Mars exploration from a 1970s mission (spacenews)
 - **Aug 12, 05:19 PM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
 - **Aug 12, 05:54 PM** - Engineering decision advantage for the warfighter (breaking_defense)
+- **Aug 12, 06:29 PM** - Rocket Lab launches 8th iQPS satellite (spacenews)
