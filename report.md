@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 11 | 22 |
-| spacenews | 14 | 20 | 19 | 36 |
-| nyt | 2 | 3 | 10 | 23 |
+| spacenews | 14 | 20 | 20 | 37 |
+| nyt | 2 | 3 | 10 | 22 |
 
 # Shown Order
 
@@ -2795,3 +2795,4 @@
 - **Aug 12, 05:54 AM** - Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket (spacenews)
 - **Aug 12, 06:29 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 12, 07:05 AM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
+- **Aug 12, 07:39 AM** - U.S. Senate confirms Schiess to lead Space Force  (spacenews)
