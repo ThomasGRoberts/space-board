@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 10 | 22 |
 | spacenews | 14 | 20 | 20 | 36 |
-| nyt | 2 | 3 | 10 | 22 |
+| nyt | 2 | 3 | 11 | 23 |
 
 # Shown Order
 
@@ -2787,3 +2787,4 @@
 - **Aug 12, 01:09 AM** - Rocket Lab builds deployable infrastructure for Electron launches (spacenews)
 - **Aug 12, 01:44 AM** - U.S. expands missile production as Army seeks more depth in its arsenal (spacenews)
 - **Aug 12, 02:19 AM** - Firefly increases vehicle production even as launches lag (spacenews)
+- **Aug 12, 02:54 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
