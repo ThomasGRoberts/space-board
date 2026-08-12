@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-12T00:05:16.057732+00:00",
-    "trigger_count": 6,
-    "current_item_id": "97bea729dde4212f9b5abecbf232b926",
+    "trigger_count": 0,
+    "current_item_id": "24ae6cc937dd25315b5e3466ea9ea193",
     "data": [
         {
             "id": "b79398936cf944f0e64cb390cae89e94",
@@ -8366,6 +8366,18 @@
             "fetched_datetime": "2026-08-12T12:59:40.488535Z",
             "shown_at": [
                 "2026-08-12T13:34:59.640859Z"
+            ]
+        },
+        {
+            "id": "24ae6cc937dd25315b5e3466ea9ea193",
+            "source": "spacenews",
+            "text": "Golden Dome creates digital hub to expand commercial participation",
+            "source_link": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T14:09:38.020291Z",
+            "shown_at": [
+                "2026-08-12T14:09:39.053022Z"
             ]
         }
     ]

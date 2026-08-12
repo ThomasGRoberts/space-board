@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 4 | 12 | 23 |
-| spacenews | 10 | 18 | 17 | 35 |
+| spacenews | 11 | 19 | 18 | 36 |
 | nyt | 3 | 4 | 11 | 23 |
 
 # Shown Order
@@ -2806,3 +2806,4 @@
 - **Aug 12, 12:24 PM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 12, 12:59 PM** - China’s iSpace raises first batch of series E funding for reusable rocketry (spacenews)
 - **Aug 12, 01:34 PM** - One species, one planet: The moon is our ethical dress rehearsal for Mars (spacenews)
+- **Aug 12, 02:09 PM** - Golden Dome creates digital hub to expand commercial participation (spacenews)
