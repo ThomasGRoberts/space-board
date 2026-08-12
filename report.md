@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 7 | 7 | 14 | 23 |
+| breaking_defense | 7 | 7 | 15 | 24 |
 | spacenews | 6 | 18 | 15 | 34 |
 | nyt | 3 | 5 | 11 | 23 |
 
@@ -2821,3 +2821,4 @@
 - **Aug 12, 09:29 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 12, 10:05 PM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 12, 10:45 PM** - Space Command identifies capabilities it needs for the next space war (spacenews)
+- **Aug 12, 11:19 PM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)

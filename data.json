@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-12T00:05:16.057732+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7c9b956d933948f2917943cb5fed734f",
+    "trigger_count": 0,
+    "current_item_id": "9f539dc4bf5363765e383655fb22e059",
     "data": [
         {
             "id": "b79398936cf944f0e64cb390cae89e94",
@@ -8442,9 +8442,12 @@
             "source": "breaking_defense",
             "text": "Day 2 of the 2026 Space and Missile Defense Symposium",
             "source_link": "https://breakingdefense.com/2026/08/day-2-of-the-2026-space-and-missile-defense-symposium/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-08-12T22:05:32.267137Z"
+            "fetched_datetime": "2026-08-12T22:05:32.267137Z",
+            "shown_at": [
+                "2026-08-12T23:19:24.846144Z"
+            ]
         },
         {
             "id": "7c9b956d933948f2917943cb5fed734f",
