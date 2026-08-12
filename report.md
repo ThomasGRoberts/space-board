@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 10 | 22 |
-| spacenews | 14 | 20 | 20 | 37 |
-| nyt | 3 | 4 | 10 | 22 |
+| spacenews | 14 | 20 | 20 | 36 |
+| nyt | 3 | 4 | 11 | 23 |
 
 # Shown Order
 
@@ -2799,3 +2799,4 @@
 - **Aug 12, 08:14 AM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 12, 08:49 AM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 12, 09:24 AM** - Former Space Force general joins Lunar Outpost board (spacenews)
+- **Aug 12, 09:59 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
