@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 5 | 5 | 13 | 23 |
-| spacenews | 6 | 17 | 15 | 34 |
+| breaking_defense | 7 | 7 | 14 | 24 |
+| spacenews | 6 | 17 | 15 | 33 |
 | nyt | 3 | 5 | 12 | 24 |
 
 # Shown Order
@@ -2819,3 +2819,4 @@
 - **Aug 12, 08:19 PM** - Senate installs new chiefs for U.S. military space acquisition, spy satellites (spacenews)
 - **Aug 12, 08:54 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 12, 09:29 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
+- **Aug 12, 10:05 PM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)

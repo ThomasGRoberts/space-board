@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-12T00:05:16.057732+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2cee9a7bdfe7ad00b77a85d419c2bd16",
+    "trigger_count": 0,
+    "current_item_id": "d5d9c15464699a4a5f95d9cb28238b83",
     "data": [
         {
             "id": "b79398936cf944f0e64cb390cae89e94",
@@ -8424,6 +8424,27 @@
             "shown_at": [
                 "2026-08-12T21:29:29.417847Z"
             ]
+        },
+        {
+            "id": "d5d9c15464699a4a5f95d9cb28238b83",
+            "source": "breaking_defense",
+            "text": "Space-based interceptor contractors passed first Golden Dome milestone: Guetlein",
+            "source_link": "https://breakingdefense.com/2026/08/space-based-interceptor-contractors-passed-first-golden-dome-milestone-guetlein/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T22:05:32.267083Z",
+            "shown_at": [
+                "2026-08-12T22:05:33.875945Z"
+            ]
+        },
+        {
+            "id": "9f539dc4bf5363765e383655fb22e059",
+            "source": "breaking_defense",
+            "text": "Day 2 of the 2026 Space and Missile Defense Symposium",
+            "source_link": "https://breakingdefense.com/2026/08/day-2-of-the-2026-space-and-missile-defense-symposium/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T22:05:32.267137Z"
         }
     ]
 }
