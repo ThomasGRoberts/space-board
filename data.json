@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-12T00:05:16.057732+00:00",
-    "trigger_count": 6,
-    "current_item_id": "34a30d78fb68ddaa1885c5056892da17",
+    "trigger_count": 0,
+    "current_item_id": "0da0a63756c0042fae5abf2b0b092582",
     "data": [
         {
             "id": "b79398936cf944f0e64cb390cae89e94",
@@ -8343,6 +8343,27 @@
             "shown_at": [
                 "2026-08-12T12:24:43.746043Z"
             ]
+        },
+        {
+            "id": "0da0a63756c0042fae5abf2b0b092582",
+            "source": "spacenews",
+            "text": "China’s iSpace raises first batch of series E funding for reusable rocketry",
+            "source_link": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T12:59:40.488459Z",
+            "shown_at": [
+                "2026-08-12T12:59:46.516395Z"
+            ]
+        },
+        {
+            "id": "97bea729dde4212f9b5abecbf232b926",
+            "source": "spacenews",
+            "text": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
+            "source_link": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T12:59:40.488535Z"
         }
     ]
 }

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 4 | 12 | 23 |
-| spacenews | 10 | 18 | 17 | 35 |
+| spacenews | 12 | 20 | 18 | 36 |
 | nyt | 3 | 4 | 11 | 23 |
 
 # Shown Order
@@ -2804,3 +2804,4 @@
 - **Aug 12, 11:14 AM** - Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors (spacenews)
 - **Aug 12, 11:49 AM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
 - **Aug 12, 12:24 PM** - Engineering decision advantage for the warfighter (breaking_defense)
+- **Aug 12, 12:59 PM** - China’s iSpace raises first batch of series E funding for reusable rocketry (spacenews)
