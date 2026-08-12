@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-12T00:05:16.057732+00:00",
-    "trigger_count": 6,
-    "current_item_id": "12e4e15b6b57fec1c365cc1a5e759240",
+    "trigger_count": 0,
+    "current_item_id": "df7ac46507b011391504241b9dfc272c",
     "data": [
         {
             "id": "b79398936cf944f0e64cb390cae89e94",
@@ -8399,6 +8399,18 @@
             "fetched_datetime": "2026-08-12T16:09:34.177894Z",
             "shown_at": [
                 "2026-08-12T16:09:35.028450Z"
+            ]
+        },
+        {
+            "id": "df7ac46507b011391504241b9dfc272c",
+            "source": "nyt",
+            "text": "See the 2026 European Solar Eclipse, in Photos and Videos",
+            "source_link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T20:54:45.406364Z",
+            "shown_at": [
+                "2026-08-12T20:54:46.310268Z"
             ]
         }
     ]

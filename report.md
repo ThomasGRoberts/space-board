@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 5 | 5 | 14 | 24 |
 | spacenews | 7 | 18 | 16 | 34 |
-| nyt | 1 | 3 | 10 | 22 |
+| nyt | 2 | 4 | 11 | 23 |
 
 # Shown Order
 
@@ -2817,3 +2817,4 @@
 - **Aug 12, 07:05 PM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 12, 07:44 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 12, 08:19 PM** - Senate installs new chiefs for U.S. military space acquisition, spy satellites (spacenews)
+- **Aug 12, 08:54 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
