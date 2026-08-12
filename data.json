@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-12T00:05:16.057732+00:00",
-    "trigger_count": 6,
-    "current_item_id": "df7ac46507b011391504241b9dfc272c",
+    "trigger_count": 0,
+    "current_item_id": "2cee9a7bdfe7ad00b77a85d419c2bd16",
     "data": [
         {
             "id": "b79398936cf944f0e64cb390cae89e94",
@@ -8411,6 +8411,18 @@
             "fetched_datetime": "2026-08-12T20:54:45.406364Z",
             "shown_at": [
                 "2026-08-12T20:54:46.310268Z"
+            ]
+        },
+        {
+            "id": "2cee9a7bdfe7ad00b77a85d419c2bd16",
+            "source": "nyt",
+            "text": "Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired",
+            "source_link": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T21:29:28.137465Z",
+            "shown_at": [
+                "2026-08-12T21:29:29.417847Z"
             ]
         }
     ]
