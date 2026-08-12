@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 11 | 22 |
-| spacenews | 13 | 19 | 19 | 36 |
+| spacenews | 14 | 20 | 20 | 37 |
 | nyt | 2 | 3 | 10 | 22 |
 
 # Shown Order
@@ -2786,3 +2786,4 @@
 - **Aug 12, 12:35 AM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
 - **Aug 12, 01:09 AM** - Rocket Lab builds deployable infrastructure for Electron launches (spacenews)
 - **Aug 12, 01:44 AM** - U.S. expands missile production as Army seeks more depth in its arsenal (spacenews)
+- **Aug 12, 02:19 AM** - Firefly increases vehicle production even as launches lag (spacenews)
