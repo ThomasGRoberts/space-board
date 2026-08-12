@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-12T00:05:16.057732+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19e6db9687b1d19438c56d3c44417a90",
+    "trigger_count": 0,
+    "current_item_id": "b79398936cf944f0e64cb390cae89e94",
     "data": [
         {
             "id": "b79398936cf944f0e64cb390cae89e94",
             "source": "breaking_defense",
             "text": "Laser weapons for space? US officials see threat, opportunity",
             "source_link": "https://breakingdefense.com/2026/08/laser-weapons-for-space-us-officials-see-threat-opportunity/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-08-11T23:19:25.042098Z"
+            "fetched_datetime": "2026-08-11T23:19:25.042098Z",
+            "shown_at": [
+                "2026-08-12T00:35:00.966019Z"
+            ]
         },
         {
             "id": "19e6db9687b1d19438c56d3c44417a90",
