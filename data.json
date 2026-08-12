@@ -1,9 +1,211 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-11T00:05:00.968029+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-08-12T00:05:16.057732+00:00",
+    "trigger_count": 1,
     "current_item_id": "19e6db9687b1d19438c56d3c44417a90",
     "data": [
+        {
+            "id": "b79398936cf944f0e64cb390cae89e94",
+            "source": "breaking_defense",
+            "text": "Laser weapons for space? US officials see threat, opportunity",
+            "source_link": "https://breakingdefense.com/2026/08/laser-weapons-for-space-us-officials-see-threat-opportunity/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T23:19:25.042098Z"
+        },
+        {
+            "id": "19e6db9687b1d19438c56d3c44417a90",
+            "source": "breaking_defense",
+            "text": "If funding falters, ‘there’s no Golden Dome,’ Guetlein warns",
+            "source_link": "https://breakingdefense.com/2026/08/if-funding-falters-theres-no-golden-dome-general-warns/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T23:19:25.042063Z",
+            "shown_at": [
+                "2026-08-11T23:59:30.355178Z"
+            ]
+        },
+        {
+            "id": "2ae001a46f68535907d8db5fe5ab3bde",
+            "source": "breaking_defense",
+            "text": "A peek at Day 1 of the 2026 Space and Missile Defense Symposium",
+            "source_link": "https://breakingdefense.com/2026/08/a-peek-at-day-1-of-the-2026-space-and-missile-defense-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T23:19:25.042006Z",
+            "shown_at": [
+                "2026-08-11T23:19:26.652207Z"
+            ]
+        },
+        {
+            "id": "caf86565554e2d9ce38687f98786fde8",
+            "source": "spacenews",
+            "text": "Golden Dome faces 2027 funding cliff ",
+            "source_link": "https://spacenews.com/golden-dome-faces-2027-funding-cliff/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T22:09:14.872212Z",
+            "shown_at": [
+                "2026-08-11T22:09:15.929612Z"
+            ]
+        },
+        {
+            "id": "1b5bfea764d2459b904dd38d7c152065",
+            "source": "spacenews",
+            "text": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
+            "source_link": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T21:34:45.711503Z",
+            "shown_at": [
+                "2026-08-11T21:34:46.428683Z"
+            ]
+        },
+        {
+            "id": "02988914c7ba9039e48d83734f82bad2",
+            "source": "spacenews",
+            "text": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
+            "source_link": "https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T18:04:53.407367Z",
+            "shown_at": [
+                "2026-08-11T18:04:56.344537Z"
+            ]
+        },
+        {
+            "id": "7f1d8b5fda3990243d124ea39f6acef2",
+            "source": "nyt",
+            "text": "Frenzy for Solar Eclipse Glasses Takes Over London",
+            "source_link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T15:44:43.277702Z",
+            "shown_at": [
+                "2026-08-11T16:54:54.485701Z"
+            ]
+        },
+        {
+            "id": "7c8fccd5010b6b73f4845e4d132b3b67",
+            "source": "nyt",
+            "text": "The Perseid Meteor Shower Is Peaking. Here’s How to Watch.",
+            "source_link": "https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T15:44:43.277498Z",
+            "shown_at": [
+                "2026-08-11T15:44:45.860388Z",
+                "2026-08-11T22:44:47.643323Z"
+            ]
+        },
+        {
+            "id": "fb4ac2504f63841774e103069d0ec6e2",
+            "source": "spacenews",
+            "text": "TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
+            "source_link": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T15:09:28.263647Z",
+            "shown_at": [
+                "2026-08-11T16:19:35.089119Z"
+            ]
+        },
+        {
+            "id": "99e67b3bf850f47b6d43013bb3da994e",
+            "source": "spacenews",
+            "text": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
+            "source_link": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T15:09:28.263591Z",
+            "shown_at": [
+                "2026-08-11T15:09:28.949812Z"
+            ]
+        },
+        {
+            "id": "598f48282125f269a65018e8945a594f",
+            "source": "spacenews",
+            "text": "SpaceX increasing footprint in missile defense",
+            "source_link": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T14:34:50.445621Z",
+            "shown_at": [
+                "2026-08-11T14:34:51.885763Z"
+            ]
+        },
+        {
+            "id": "a9189ed3f783af7953da45eba01449a9",
+            "source": "spacenews",
+            "text": "BlackSky wins seven-figure, multiyear international contract",
+            "source_link": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T13:24:46.004288Z",
+            "shown_at": [
+                "2026-08-11T13:59:26.621923Z"
+            ]
+        },
+        {
+            "id": "c6c48927ad97264f19796dacc1322db5",
+            "source": "spacenews",
+            "text": "Former Space Force general joins Lunar Outpost board",
+            "source_link": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T13:24:46.004230Z",
+            "shown_at": [
+                "2026-08-11T13:24:47.266828Z"
+            ]
+        },
+        {
+            "id": "ea6bd8013b000d145c155005d3dd5853",
+            "source": "spacenews",
+            "text": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
+            "source_link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T12:09:37.699166Z",
+            "shown_at": [
+                "2026-08-11T12:09:38.828948Z"
+            ]
+        },
+        {
+            "id": "6cb03400360babe45834ae9bd2d7bdae",
+            "source": "spacenews",
+            "text": "First Neutron launch may slip to 2027",
+            "source_link": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T11:35:00.046158Z",
+            "shown_at": [
+                "2026-08-11T11:35:02.666533Z"
+            ]
+        },
+        {
+            "id": "00a768aa6e05469696b7965f92c2f0a1",
+            "source": "spacenews",
+            "text": "H3 launches navigation satellite",
+            "source_link": "https://spacenews.com/h3-launches-navigation-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T10:24:46.760079Z",
+            "shown_at": [
+                "2026-08-11T10:59:46.940404Z"
+            ]
+        },
+        {
+            "id": "44fd31d675d9142fcd4bb9216e1e885f",
+            "source": "spacenews",
+            "text": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
+            "source_link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-11T10:24:46.759990Z",
+            "shown_at": [
+                "2026-08-11T10:24:47.916015Z"
+            ]
+        },
         {
             "id": "fde4b9735efc7a333fba07f726ab5881",
             "source": "spacenews",
@@ -8074,458 +8276,6 @@
                 "2026-06-03T15:05:15.341873Z",
                 "2026-06-05T11:19:28.443811Z"
             ]
-        },
-        {
-            "id": "d2ba3af66d67d2bf0b32576411abb41a",
-            "source": "spacenews",
-            "text": "Spatial data has become a weapon of war in the US-Iran war",
-            "source_link": "https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T12:24:23.950628Z",
-            "shown_at": [
-                "2026-05-29T12:24:24.835293Z",
-                "2026-05-30T20:59:10.897906Z",
-                "2026-05-31T11:38:59.976642Z"
-            ]
-        },
-        {
-            "id": "4ba0b6af248bd47585e7932e9acfe74a",
-            "source": "spacenews",
-            "text": "China’s latest batch of new and reusable rockets are close to launch",
-            "source_link": "https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T10:04:32.409473Z",
-            "shown_at": [
-                "2026-05-29T10:04:34.805752Z"
-            ]
-        },
-        {
-            "id": "9b22c0688fbef5ef8492be814995bd76",
-            "source": "spacenews",
-            "text": "New Glenn rocket explodes on Cape Canaveral pad",
-            "source_link": "https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T06:34:35.420035Z",
-            "shown_at": [
-                "2026-05-29T06:34:36.872393Z",
-                "2026-05-29T19:04:47.153806Z",
-                "2026-05-31T23:54:11.179776Z"
-            ]
-        },
-        {
-            "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
-            "source": "spacenews",
-            "text": "Space Force plans nationwide network of ‘resilient operations centers’ ",
-            "source_link": "https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T22:59:18.287254Z",
-            "shown_at": [
-                "2026-05-28T22:59:19.240945Z"
-            ]
-        },
-        {
-            "id": "2da81c41a572cb1d1b33cf9d5d6d8a33",
-            "source": "spacenews",
-            "text": "Observable Space raises $90 million and wins Space Force contract for optical systems",
-            "source_link": "https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T22:24:27.463312Z",
-            "shown_at": [
-                "2026-05-28T22:24:28.394964Z",
-                "2026-06-03T06:04:43.761406Z"
-            ]
-        },
-        {
-            "id": "e4d13f9e5940e7db13b5f591e75a1b65",
-            "source": "breaking_defense",
-            "text": "Epic Fury highlighted Space Force needs for distributed ops, EW sites",
-            "source_link": "https://breakingdefense.com/2026/05/epic-fury-highlighted-space-force-needs-for-distributed-ops-ew-sites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T20:39:10.271486Z",
-            "shown_at": [
-                "2026-05-28T20:39:21.305957Z",
-                "2026-05-28T23:34:29.158720Z",
-                "2026-05-29T08:54:12.033592Z",
-                "2026-05-29T14:44:26.633877Z",
-                "2026-05-31T22:44:21.350086Z",
-                "2026-06-01T00:29:07.902561Z",
-                "2026-06-01T05:48:59.221843Z",
-                "2026-06-01T07:34:21.139643Z",
-                "2026-06-03T00:04:43.533042Z",
-                "2026-06-03T07:19:10.494740Z",
-                "2026-06-03T18:04:44.754965Z",
-                "2026-06-04T14:09:18.603140Z"
-            ]
-        },
-        {
-            "id": "a568caadd888a448402f2d0b9e8e294c",
-            "source": "spacenews",
-            "text": "Setting up a permanent lunar presence needs investment in biology",
-            "source_link": "https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T17:44:25.106809Z",
-            "shown_at": [
-                "2026-05-28T17:44:26.164529Z",
-                "2026-06-01T20:29:17.280630Z",
-                "2026-06-02T19:59:10.459840Z",
-                "2026-06-04T13:34:44.141504Z"
-            ]
-        },
-        {
-            "id": "61d94d22aaf1577c59a53579a1ddd303",
-            "source": "spacenews",
-            "text": "Revolv Space enters in-orbit servicing market with Infinite Orbits deal",
-            "source_link": "https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T16:34:29.684812Z",
-            "shown_at": [
-                "2026-05-28T16:34:32.186306Z",
-                "2026-06-02T05:49:26.292520Z"
-            ]
-        },
-        {
-            "id": "39526d7aebf1f39094ad2da16d5ae171",
-            "source": "spacenews",
-            "text": "Germany pushes European military space command initiative",
-            "source_link": "https://spacenews.com/germany-pushes-european-military-space-command-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T15:24:20.000881Z",
-            "shown_at": [
-                "2026-05-28T15:24:21.794305Z"
-            ]
-        },
-        {
-            "id": "4bc76eb61c4b6f03a18486c1bd2ddece",
-            "source": "spacenews",
-            "text": "The Propulsion Imperative Behind Golden Dome",
-            "source_link": "https://spacenews.com/the-propulsion-imperative-behind-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T13:29:11.178634Z",
-            "shown_at": [
-                "2026-05-28T13:29:12.862938Z",
-                "2026-05-30T09:19:18.457771Z",
-                "2026-05-30T11:04:31.474165Z"
-            ]
-        },
-        {
-            "id": "9b7540bf3b99c8868bc5deaa1705448a",
-            "source": "spacenews",
-            "text": "Europe’s biggest space opportunity comes after launch",
-            "source_link": "https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T10:29:18.237957Z",
-            "shown_at": [
-                "2026-05-28T10:29:20.869457Z",
-                "2026-05-31T20:24:10.548820Z",
-                "2026-06-01T08:44:18.382470Z"
-            ]
-        },
-        {
-            "id": "60247f7a5f0b50a572f1829044b3258a",
-            "source": "spacenews",
-            "text": "Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane",
-            "source_link": "https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T06:50:33.785254Z",
-            "shown_at": [
-                "2026-05-28T06:50:34.320709Z",
-                "2026-06-01T18:39:28.525984Z",
-                "2026-06-03T07:54:09.541533Z"
-            ]
-        },
-        {
-            "id": "e9324f6d7f7de55e90225b89883cce98",
-            "source": "spacenews",
-            "text": "FAA requires mishap investigation into latest Starship launch",
-            "source_link": "https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T04:59:05.811032Z",
-            "shown_at": [
-                "2026-05-28T04:59:06.498162Z"
-            ]
-        },
-        {
-            "id": "97a86e9ff8f96eca3f9016f29579a42d",
-            "source": "breaking_defense",
-            "text": "Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth",
-            "source_link": "https://breakingdefense.com/2026/05/dept-of-air-force-still-working-to-sort-space-programs-into-acquisition-portfolios-ainsworth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T20:34:30.011369Z",
-            "shown_at": [
-                "2026-05-27T20:34:30.972389Z",
-                "2026-05-28T00:14:00.152479Z",
-                "2026-05-28T14:05:07.362507Z",
-                "2026-05-28T18:19:17.458524Z",
-                "2026-05-29T19:44:19.584131Z",
-                "2026-05-30T09:54:04.634543Z",
-                "2026-05-30T11:39:08.078095Z",
-                "2026-05-30T13:24:19.607322Z",
-                "2026-05-30T16:54:11.284940Z",
-                "2026-05-30T19:49:13.371519Z",
-                "2026-05-30T23:54:04.860338Z",
-                "2026-05-31T03:24:09.689256Z",
-                "2026-05-31T05:09:17.091021Z",
-                "2026-05-31T08:44:09.515623Z",
-                "2026-05-31T19:14:08.858196Z",
-                "2026-06-01T12:14:28.694310Z",
-                "2026-06-03T19:49:34.836869Z"
-            ]
-        },
-        {
-            "id": "67f54083b7463c061181cba5ec35d7ce",
-            "source": "spacenews",
-            "text": "As geopolitics reshape space, SpinLaunch sees an opening",
-            "source_link": "https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T19:23:57.229792Z",
-            "shown_at": [
-                "2026-05-27T21:09:16.001065Z",
-                "2026-05-30T05:49:11.573138Z",
-                "2026-06-02T18:14:29.675130Z"
-            ]
-        },
-        {
-            "id": "41a414b7d9c1cb0cbed2725698e06f11",
-            "source": "spacenews",
-            "text": "European space industry warns EU Space Act could slow competitiveness",
-            "source_link": "https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T19:23:57.229764Z",
-            "shown_at": [
-                "2026-05-27T19:59:15.843770Z",
-                "2026-06-03T00:39:26.619357Z"
-            ]
-        },
-        {
-            "id": "d21adef1bc85a4bb1af1da7f33ba54e6",
-            "source": "spacenews",
-            "text": "Mars to Titan: the next rallying call?",
-            "source_link": "https://spacenews.com/mars-to-titan-the-next-rallying-call/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T19:23:57.229719Z",
-            "shown_at": [
-                "2026-05-27T19:23:58.147159Z",
-                "2026-05-31T08:09:17.781391Z"
-            ]
-        },
-        {
-            "id": "44fd31d675d9142fcd4bb9216e1e885f",
-            "source": "spacenews",
-            "text": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
-            "source_link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T10:24:46.759990Z",
-            "shown_at": [
-                "2026-08-11T10:24:47.916015Z"
-            ]
-        },
-        {
-            "id": "00a768aa6e05469696b7965f92c2f0a1",
-            "source": "spacenews",
-            "text": "H3 launches navigation satellite",
-            "source_link": "https://spacenews.com/h3-launches-navigation-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T10:24:46.760079Z",
-            "shown_at": [
-                "2026-08-11T10:59:46.940404Z"
-            ]
-        },
-        {
-            "id": "6cb03400360babe45834ae9bd2d7bdae",
-            "source": "spacenews",
-            "text": "First Neutron launch may slip to 2027",
-            "source_link": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T11:35:00.046158Z",
-            "shown_at": [
-                "2026-08-11T11:35:02.666533Z"
-            ]
-        },
-        {
-            "id": "ea6bd8013b000d145c155005d3dd5853",
-            "source": "spacenews",
-            "text": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
-            "source_link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T12:09:37.699166Z",
-            "shown_at": [
-                "2026-08-11T12:09:38.828948Z"
-            ]
-        },
-        {
-            "id": "c6c48927ad97264f19796dacc1322db5",
-            "source": "spacenews",
-            "text": "Former Space Force general joins Lunar Outpost board",
-            "source_link": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T13:24:46.004230Z",
-            "shown_at": [
-                "2026-08-11T13:24:47.266828Z"
-            ]
-        },
-        {
-            "id": "a9189ed3f783af7953da45eba01449a9",
-            "source": "spacenews",
-            "text": "BlackSky wins seven-figure, multiyear international contract",
-            "source_link": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T13:24:46.004288Z",
-            "shown_at": [
-                "2026-08-11T13:59:26.621923Z"
-            ]
-        },
-        {
-            "id": "598f48282125f269a65018e8945a594f",
-            "source": "spacenews",
-            "text": "SpaceX increasing footprint in missile defense",
-            "source_link": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T14:34:50.445621Z",
-            "shown_at": [
-                "2026-08-11T14:34:51.885763Z"
-            ]
-        },
-        {
-            "id": "99e67b3bf850f47b6d43013bb3da994e",
-            "source": "spacenews",
-            "text": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
-            "source_link": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T15:09:28.263591Z",
-            "shown_at": [
-                "2026-08-11T15:09:28.949812Z"
-            ]
-        },
-        {
-            "id": "fb4ac2504f63841774e103069d0ec6e2",
-            "source": "spacenews",
-            "text": "TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
-            "source_link": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T15:09:28.263647Z",
-            "shown_at": [
-                "2026-08-11T16:19:35.089119Z"
-            ]
-        },
-        {
-            "id": "7c8fccd5010b6b73f4845e4d132b3b67",
-            "source": "nyt",
-            "text": "The Perseid Meteor Shower Is Peaking. Here’s How to Watch.",
-            "source_link": "https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T15:44:43.277498Z",
-            "shown_at": [
-                "2026-08-11T15:44:45.860388Z",
-                "2026-08-11T22:44:47.643323Z"
-            ]
-        },
-        {
-            "id": "7f1d8b5fda3990243d124ea39f6acef2",
-            "source": "nyt",
-            "text": "Frenzy for Solar Eclipse Glasses Takes Over London",
-            "source_link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T15:44:43.277702Z",
-            "shown_at": [
-                "2026-08-11T16:54:54.485701Z"
-            ]
-        },
-        {
-            "id": "02988914c7ba9039e48d83734f82bad2",
-            "source": "spacenews",
-            "text": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
-            "source_link": "https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T18:04:53.407367Z",
-            "shown_at": [
-                "2026-08-11T18:04:56.344537Z"
-            ]
-        },
-        {
-            "id": "1b5bfea764d2459b904dd38d7c152065",
-            "source": "spacenews",
-            "text": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
-            "source_link": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T21:34:45.711503Z",
-            "shown_at": [
-                "2026-08-11T21:34:46.428683Z"
-            ]
-        },
-        {
-            "id": "caf86565554e2d9ce38687f98786fde8",
-            "source": "spacenews",
-            "text": "Golden Dome faces 2027 funding cliff ",
-            "source_link": "https://spacenews.com/golden-dome-faces-2027-funding-cliff/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T22:09:14.872212Z",
-            "shown_at": [
-                "2026-08-11T22:09:15.929612Z"
-            ]
-        },
-        {
-            "id": "2ae001a46f68535907d8db5fe5ab3bde",
-            "source": "breaking_defense",
-            "text": "A peek at Day 1 of the 2026 Space and Missile Defense Symposium",
-            "source_link": "https://breakingdefense.com/2026/08/a-peek-at-day-1-of-the-2026-space-and-missile-defense-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T23:19:25.042006Z",
-            "shown_at": [
-                "2026-08-11T23:19:26.652207Z"
-            ]
-        },
-        {
-            "id": "19e6db9687b1d19438c56d3c44417a90",
-            "source": "breaking_defense",
-            "text": "If funding falters, ‘there’s no Golden Dome,’ Guetlein warns",
-            "source_link": "https://breakingdefense.com/2026/08/if-funding-falters-theres-no-golden-dome-general-warns/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T23:19:25.042063Z",
-            "shown_at": [
-                "2026-08-11T23:59:30.355178Z"
-            ]
-        },
-        {
-            "id": "b79398936cf944f0e64cb390cae89e94",
-            "source": "breaking_defense",
-            "text": "Laser weapons for space? US officials see threat, opportunity",
-            "source_link": "https://breakingdefense.com/2026/08/laser-weapons-for-space-us-officials-see-threat-opportunity/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-08-11T23:19:25.042098Z"
         }
     ]
 }
