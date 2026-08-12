@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 11 | 23 |
-| spacenews | 12 | 18 | 18 | 34 |
+| spacenews | 12 | 18 | 19 | 35 |
 | nyt | 2 | 3 | 11 | 23 |
 
 # Shown Order
@@ -2784,3 +2784,4 @@
 - **Aug 11, 11:19 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 11, 11:59 PM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
 - **Aug 12, 12:35 AM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
+- **Aug 12, 01:09 AM** - Rocket Lab builds deployable infrastructure for Electron launches (spacenews)
