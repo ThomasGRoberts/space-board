@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 10 | 22 |
+| breaking_defense | 3 | 3 | 11 | 22 |
 | spacenews | 14 | 20 | 19 | 36 |
 | nyt | 2 | 3 | 11 | 23 |
 
@@ -2788,3 +2788,4 @@
 - **Aug 12, 01:44 AM** - U.S. expands missile production as Army seeks more depth in its arsenal (spacenews)
 - **Aug 12, 02:19 AM** - Firefly increases vehicle production even as launches lag (spacenews)
 - **Aug 12, 02:54 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
+- **Aug 12, 03:29 AM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
