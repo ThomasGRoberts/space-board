@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 5 | 5 | 14 | 23 |
 | spacenews | 8 | 19 | 16 | 35 |
-| nyt | 1 | 3 | 10 | 22 |
+| nyt | 1 | 3 | 11 | 23 |
 
 # Shown Order
 
@@ -2811,3 +2811,4 @@
 - **Aug 12, 03:34 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
 - **Aug 12, 04:09 PM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
 - **Aug 12, 04:44 PM** - Lessons for the future of NASA Mars exploration from a 1970s mission (spacenews)
+- **Aug 12, 05:19 PM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
