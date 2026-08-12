@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-12T00:05:16.057732+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7c8fccd5010b6b73f4845e4d132b3b67",
+    "trigger_count": 0,
+    "current_item_id": "34a30d78fb68ddaa1885c5056892da17",
     "data": [
         {
             "id": "b79398936cf944f0e64cb390cae89e94",
@@ -8330,6 +8330,18 @@
             "fetched_datetime": "2026-08-12T08:14:43.870203Z",
             "shown_at": [
                 "2026-08-12T08:14:44.592157Z"
+            ]
+        },
+        {
+            "id": "34a30d78fb68ddaa1885c5056892da17",
+            "source": "breaking_defense",
+            "text": "Engineering decision advantage for the warfighter",
+            "source_link": "https://breakingdefense.com/2026/08/engineering-decision-advantage-for-the-warfighter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T12:24:42.895126Z",
+            "shown_at": [
+                "2026-08-12T12:24:43.746043Z"
             ]
         }
     ]
