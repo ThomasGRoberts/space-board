@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 10 | 22 |
+| breaking_defense | 3 | 3 | 11 | 22 |
 | spacenews | 12 | 20 | 19 | 36 |
 | nyt | 3 | 4 | 11 | 23 |
 
@@ -2800,3 +2800,4 @@
 - **Aug 12, 08:49 AM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 12, 09:24 AM** - Former Space Force general joins Lunar Outpost board (spacenews)
 - **Aug 12, 09:59 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
+- **Aug 12, 10:35 AM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
