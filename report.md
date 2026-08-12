@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 10 | 22 |
 | spacenews | 14 | 20 | 20 | 36 |
-| nyt | 2 | 3 | 10 | 22 |
+| nyt | 3 | 4 | 11 | 23 |
 
 # Shown Order
 
@@ -2796,3 +2796,4 @@
 - **Aug 12, 06:29 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 12, 07:05 AM** - NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts (breaking_defense)
 - **Aug 12, 07:39 AM** - U.S. Senate confirms Schiess to lead Space Force  (spacenews)
+- **Aug 12, 08:14 AM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
