@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 5 | 5 | 14 | 23 |
 | spacenews | 7 | 19 | 16 | 35 |
-| nyt | 1 | 3 | 10 | 22 |
+| nyt | 1 | 3 | 11 | 23 |
 
 # Shown Order
 
@@ -2814,3 +2814,4 @@
 - **Aug 12, 05:19 PM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
 - **Aug 12, 05:54 PM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 12, 06:29 PM** - Rocket Lab launches 8th iQPS satellite (spacenews)
+- **Aug 12, 07:05 PM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
