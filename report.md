@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 5 | 5 | 14 | 24 |
-| spacenews | 7 | 19 | 15 | 34 |
+| spacenews | 7 | 19 | 16 | 35 |
 | nyt | 1 | 3 | 11 | 22 |
 
 # Shown Order
@@ -2816,3 +2816,4 @@
 - **Aug 12, 06:29 PM** - Rocket Lab launches 8th iQPS satellite (spacenews)
 - **Aug 12, 07:05 PM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 12, 07:44 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 12, 08:19 PM** - Senate installs new chiefs for U.S. military space acquisition, spy satellites (spacenews)
