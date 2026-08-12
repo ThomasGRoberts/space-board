@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 4 | 12 | 22 |
+| breaking_defense | 4 | 4 | 13 | 23 |
 | spacenews | 8 | 19 | 16 | 35 |
 | nyt | 3 | 3 | 12 | 23 |
 
@@ -2808,3 +2808,4 @@
 - **Aug 12, 01:34 PM** - One species, one planet: The moon is our ethical dress rehearsal for Mars (spacenews)
 - **Aug 12, 02:09 PM** - Golden Dome creates digital hub to expand commercial participation (spacenews)
 - **Aug 12, 02:54 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
+- **Aug 12, 03:34 PM** - Space Force awards 3 firms $615M to track airborne targets (breaking_defense)
