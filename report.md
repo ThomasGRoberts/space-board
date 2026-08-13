@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 21 | 15 | 34 |
-| breaking_defense | 4 | 7 | 12 | 23 |
+| breaking_defense | 4 | 7 | 13 | 24 |
 | nyt | 2 | 5 | 12 | 23 |
 
 # Shown Order
@@ -2723,3 +2723,4 @@
 - **Aug 13, 07:14 AM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 13, 07:49 AM** - Firefly increases vehicle production even as launches lag (spacenews)
 - **Aug 13, 08:24 AM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
+- **Aug 13, 09:05 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
