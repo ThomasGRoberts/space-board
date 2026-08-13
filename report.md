@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 21 | 15 | 34 |
-| breaking_defense | 4 | 7 | 12 | 23 |
+| breaking_defense | 4 | 7 | 13 | 24 |
 | nyt | 3 | 5 | 12 | 23 |
 
 # Shown Order
@@ -2714,3 +2714,4 @@
 - **Aug 13, 01:44 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 13, 02:19 AM** - Virgin Galactic delays resumption of commercial flights to 2027 (spacenews)
 - **Aug 13, 02:59 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
+- **Aug 13, 03:34 AM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
