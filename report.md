@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 16 | 34 |
+| spacenews | 9 | 21 | 15 | 34 |
 | breaking_defense | 4 | 7 | 12 | 23 |
-| nyt | 2 | 5 | 11 | 22 |
+| nyt | 2 | 5 | 12 | 23 |
 
 # Shown Order
 
@@ -2726,3 +2726,4 @@
 - **Aug 13, 09:05 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 13, 09:39 AM** - Astranis unveils geostationary surveillance satellite (spacenews)
 - **Aug 13, 10:30 AM** - Paragon lays off staff after Gateway cancellation (spacenews)
+- **Aug 13, 11:14 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
