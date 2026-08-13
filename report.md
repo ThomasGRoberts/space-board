@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 21 | 15 | 35 |
 | breaking_defense | 4 | 7 | 13 | 23 |
-| nyt | 3 | 5 | 11 | 22 |
+| nyt | 3 | 5 | 12 | 23 |
 
 # Shown Order
 
@@ -2716,3 +2716,4 @@
 - **Aug 13, 02:59 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 13, 03:34 AM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 13, 04:14 AM** - SpaceX increasing footprint in missile defense (spacenews)
+- **Aug 13, 04:50 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
