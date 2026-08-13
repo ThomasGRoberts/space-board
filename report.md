@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 13 | 28 |
-| breaking_defense | 2 | 9 | 10 | 24 |
+| breaking_defense | 2 | 9 | 11 | 25 |
 | nyt | 4 | 7 | 13 | 24 |
 
 # Shown Order
@@ -2743,3 +2743,4 @@
 - **Aug 13, 09:09 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 13, 09:44 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 13, 10:19 PM** - Space Force awards five companies $60 million for multi-vendor satellite network tests (spacenews)
+- **Aug 13, 10:54 PM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
