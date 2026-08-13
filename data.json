@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "df7ac46507b011391504241b9dfc272c",
+    "trigger_count": 0,
+    "current_item_id": "cdb197bdaba4358128b95c0feb2da03a",
     "data": [
         {
             "id": "1538d86239fdb800cb4cbf84aa9c21e6",
@@ -8257,6 +8257,18 @@
             "fetched_datetime": "2026-08-13T10:30:19.550625Z",
             "shown_at": [
                 "2026-08-13T10:30:20.579608Z"
+            ]
+        },
+        {
+            "id": "cdb197bdaba4358128b95c0feb2da03a",
+            "source": "spacenews",
+            "text": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
+            "source_link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T14:44:57.510178Z",
+            "shown_at": [
+                "2026-08-13T14:44:58.250954Z"
             ]
         }
     ]

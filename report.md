@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 13 | 31 |
+| spacenews | 7 | 17 | 14 | 31 |
 | breaking_defense | 3 | 7 | 12 | 24 |
 | nyt | 2 | 5 | 12 | 23 |
 
@@ -2730,3 +2730,4 @@
 - **Aug 13, 11:54 AM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 13, 01:20 PM** - Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026 (spacenews)
 - **Aug 13, 01:59 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
+- **Aug 13, 02:44 PM** - Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity (spacenews)
