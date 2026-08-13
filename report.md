@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 14 | 30 |
 | breaking_defense | 2 | 7 | 11 | 25 |
-| nyt | 2 | 3 | 12 | 22 |
+| nyt | 5 | 6 | 13 | 23 |
 
 # Shown Order
 
@@ -2734,3 +2734,4 @@
 - **Aug 13, 03:20 PM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 13, 03:54 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 13, 04:35 PM** - Space Command expands Alabama footprint as headquarters relocation advances (spacenews)
+- **Aug 13, 05:09 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)

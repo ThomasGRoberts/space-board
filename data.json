@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "512473d7cd99e8221b41140242864d30",
+    "trigger_count": 0,
+    "current_item_id": "6552de45d69a210c6dd29bed9579ae00",
     "data": [
         {
             "id": "1538d86239fdb800cb4cbf84aa9c21e6",
@@ -8284,6 +8284,36 @@
             "shown_at": [
                 "2026-08-13T16:35:23.273095Z"
             ]
+        },
+        {
+            "id": "6552de45d69a210c6dd29bed9579ae00",
+            "source": "nyt",
+            "text": "How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark",
+            "source_link": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T17:09:12.285244Z",
+            "shown_at": [
+                "2026-08-13T17:09:14.670830Z"
+            ]
+        },
+        {
+            "id": "aa7a8b4a0ff794b8f0acbef85c232880",
+            "source": "nyt",
+            "text": "NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired",
+            "source_link": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T17:09:12.285371Z"
+        },
+        {
+            "id": "78de4a5fce223c0eb1268a86d5ba8f6e",
+            "source": "nyt",
+            "text": "The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death",
+            "source_link": "https://www.nytimes.com/2026/08/12/science/mothra-telescope-helix-nebula.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T17:09:12.285479Z"
         }
     ]
 }
