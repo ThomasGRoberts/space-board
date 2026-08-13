@@ -1,9 +1,188 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-12T00:05:16.057732+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
+    "trigger_count": 2,
     "current_item_id": "e13768c22214a1aab953377df52f763b",
     "data": [
+        {
+            "id": "1538d86239fdb800cb4cbf84aa9c21e6",
+            "source": "spacenews",
+            "text": "Pentagon missile buildup changing the factory floor",
+            "source_link": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T23:54:32.460704Z"
+        },
+        {
+            "id": "e13768c22214a1aab953377df52f763b",
+            "source": "spacenews",
+            "text": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
+            "source_link": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T23:54:32.460652Z",
+            "shown_at": [
+                "2026-08-12T23:54:33.190879Z"
+            ]
+        },
+        {
+            "id": "7c9b956d933948f2917943cb5fed734f",
+            "source": "spacenews",
+            "text": "Space Command identifies capabilities it needs for the next space war",
+            "source_link": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T22:45:02.737728Z",
+            "shown_at": [
+                "2026-08-12T22:45:05.922185Z"
+            ]
+        },
+        {
+            "id": "9f539dc4bf5363765e383655fb22e059",
+            "source": "breaking_defense",
+            "text": "Day 2 of the 2026 Space and Missile Defense Symposium",
+            "source_link": "https://breakingdefense.com/2026/08/day-2-of-the-2026-space-and-missile-defense-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T22:05:32.267137Z",
+            "shown_at": [
+                "2026-08-12T23:19:24.846144Z"
+            ]
+        },
+        {
+            "id": "d5d9c15464699a4a5f95d9cb28238b83",
+            "source": "breaking_defense",
+            "text": "Space-based interceptor contractors passed first Golden Dome milestone: Guetlein",
+            "source_link": "https://breakingdefense.com/2026/08/space-based-interceptor-contractors-passed-first-golden-dome-milestone-guetlein/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T22:05:32.267083Z",
+            "shown_at": [
+                "2026-08-12T22:05:33.875945Z"
+            ]
+        },
+        {
+            "id": "2cee9a7bdfe7ad00b77a85d419c2bd16",
+            "source": "nyt",
+            "text": "Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired",
+            "source_link": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T21:29:28.137465Z",
+            "shown_at": [
+                "2026-08-12T21:29:29.417847Z"
+            ]
+        },
+        {
+            "id": "df7ac46507b011391504241b9dfc272c",
+            "source": "nyt",
+            "text": "See the 2026 European Solar Eclipse, in Photos and Videos",
+            "source_link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T20:54:45.406364Z",
+            "shown_at": [
+                "2026-08-12T20:54:46.310268Z"
+            ]
+        },
+        {
+            "id": "2b1b6c6ae984f2203ce5a4356800d522",
+            "source": "breaking_defense",
+            "text": "Joint force needs kinetic and non-kinetic weapons for space war: Whiting",
+            "source_link": "https://breakingdefense.com/2026/08/joint-force-needs-kinetic-and-non-kinetic-weapons-for-space-war-whiting/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T16:09:34.177894Z",
+            "shown_at": [
+                "2026-08-12T16:09:35.028450Z"
+            ]
+        },
+        {
+            "id": "24ae6cc937dd25315b5e3466ea9ea193",
+            "source": "spacenews",
+            "text": "Golden Dome creates digital hub to expand commercial participation",
+            "source_link": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T14:09:38.020291Z",
+            "shown_at": [
+                "2026-08-12T14:09:39.053022Z"
+            ]
+        },
+        {
+            "id": "97bea729dde4212f9b5abecbf232b926",
+            "source": "spacenews",
+            "text": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
+            "source_link": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T12:59:40.488535Z",
+            "shown_at": [
+                "2026-08-12T13:34:59.640859Z"
+            ]
+        },
+        {
+            "id": "0da0a63756c0042fae5abf2b0b092582",
+            "source": "spacenews",
+            "text": "China’s iSpace raises first batch of series E funding for reusable rocketry",
+            "source_link": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T12:59:40.488459Z",
+            "shown_at": [
+                "2026-08-12T12:59:46.516395Z"
+            ]
+        },
+        {
+            "id": "34a30d78fb68ddaa1885c5056892da17",
+            "source": "breaking_defense",
+            "text": "Engineering decision advantage for the warfighter",
+            "source_link": "https://breakingdefense.com/2026/08/engineering-decision-advantage-for-the-warfighter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T12:24:42.895126Z",
+            "shown_at": [
+                "2026-08-12T12:24:43.746043Z",
+                "2026-08-12T17:54:29.589235Z"
+            ]
+        },
+        {
+            "id": "b32a6cb6cbf74640e48323e6e0130c79",
+            "source": "nyt",
+            "text": "Telescope Spots Two Black Holes on the Cusp of Merging",
+            "source_link": "https://www.nytimes.com/2026/08/12/science/space/telescope-spots-two-black-holes-on-the-cusp-of-merging.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T08:14:43.870203Z",
+            "shown_at": [
+                "2026-08-12T08:14:44.592157Z",
+                "2026-08-12T19:05:08.777541Z"
+            ]
+        },
+        {
+            "id": "a57741774002867edc7587ca175bc43b",
+            "source": "spacenews",
+            "text": "Firefly increases vehicle production even as launches lag",
+            "source_link": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T02:19:39.353470Z",
+            "shown_at": [
+                "2026-08-12T02:19:40.088472Z"
+            ]
+        },
+        {
+            "id": "ed0184734d0106a050e43ce24f4d796a",
+            "source": "spacenews",
+            "text": "U.S. expands missile production as Army seeks more depth in its arsenal",
+            "source_link": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-12T01:44:43.147804Z",
+            "shown_at": [
+                "2026-08-12T01:44:43.883001Z"
+            ]
+        },
         {
             "id": "b79398936cf944f0e64cb390cae89e94",
             "source": "breaking_defense",
@@ -8023,464 +8202,6 @@
                 "2026-06-02T04:04:47.039040Z",
                 "2026-06-05T02:29:19.944598Z"
             ]
-        },
-        {
-            "id": "8653ab627b085d12b82b1f4b600fc866",
-            "source": "spacenews",
-            "text": "Spaceport facility bonds are now law – and they fundamentally change space infrastructure finance",
-            "source_link": "https://spacenews.com/spaceport-facility-bonds-are-now-law-and-they-fundamentally-change-space-infrastructure-finance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-01T14:34:48.631638Z",
-            "shown_at": [
-                "2026-06-01T14:34:49.616416Z",
-                "2026-06-02T22:19:34.058522Z",
-                "2026-06-07T18:04:50.145795Z"
-            ]
-        },
-        {
-            "id": "36b9350a125e46f3e0bbbe862456c3d1",
-            "source": "spacenews",
-            "text": "China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight",
-            "source_link": "https://spacenews.com/china-conducts-surprise-launch-of-long-march-12b-delivers-qianfan-satellites-on-debut-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-01T11:05:07.391780Z",
-            "shown_at": [
-                "2026-06-01T11:05:08.281411Z",
-                "2026-06-04T18:14:16.001747Z",
-                "2026-06-06T01:19:12.227996Z"
-            ]
-        },
-        {
-            "id": "12d481556ef694485598808fc9c546c9",
-            "source": "spacenews",
-            "text": "China launches test direct-to-device satellites for multiple projects",
-            "source_link": "https://spacenews.com/china-launches-test-direct-to-device-satellites-for-multiple-projects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-01T09:54:17.417208Z",
-            "shown_at": [
-                "2026-06-01T10:29:14.676376Z",
-                "2026-06-06T08:24:36.181982Z",
-                "2026-06-07T16:14:19.433408Z"
-            ]
-        },
-        {
-            "id": "cdb5f4f933a21ad746f1dd0240c622cd",
-            "source": "spacenews",
-            "text": "New Glenn failure worsens constrained launch market",
-            "source_link": "https://spacenews.com/new-glenn-failure-worsens-constrained-launch-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-01T09:54:17.417146Z",
-            "shown_at": [
-                "2026-06-01T09:54:19.040772Z"
-            ]
-        },
-        {
-            "id": "e1401d20895d5b988bde3e66f29b5dff",
-            "source": "spacenews",
-            "text": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
-            "source_link": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-31T09:54:08.980592Z",
-            "shown_at": [
-                "2026-05-31T09:54:09.657979Z",
-                "2026-06-01T01:39:13.282027Z",
-                "2026-06-06T15:34:29.834870Z"
-            ]
-        },
-        {
-            "id": "09209b5b77de1f55ceae9edd3187c0c9",
-            "source": "spacenews",
-            "text": "Blue Origin gets national security launch task order hours before New Glenn explosion",
-            "source_link": "https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-30T21:34:17.105975Z",
-            "shown_at": [
-                "2026-05-30T21:34:18.520464Z"
-            ]
-        },
-        {
-            "id": "57bcd60528cc3bd28f1547011a94f062",
-            "source": "nyt",
-            "text": "The Blue Micromoon Rises in Sunday’s Early Skies",
-            "source_link": "https://www.nytimes.com/2026/05/30/science/blue-micromoon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-30T17:29:12.268674Z",
-            "shown_at": [
-                "2026-05-30T18:39:11.380159Z",
-                "2026-05-31T07:34:22.443923Z",
-                "2026-06-03T06:39:07.153086Z",
-                "2026-06-03T10:14:19.151169Z",
-                "2026-06-03T12:34:52.725841Z",
-                "2026-06-03T14:29:11.688104Z",
-                "2026-06-04T12:59:07.006605Z",
-                "2026-06-05T03:44:21.088789Z",
-                "2026-06-05T07:49:21.861972Z",
-                "2026-06-05T10:09:14.657429Z",
-                "2026-06-05T14:49:23.698786Z",
-                "2026-06-05T17:09:02.226502Z",
-                "2026-06-05T18:54:21.813875Z",
-                "2026-06-05T20:39:10.039377Z",
-                "2026-06-05T22:24:32.313730Z"
-            ]
-        },
-        {
-            "id": "7eb0515187ef46d9035db14e72d578a1",
-            "source": "nyt",
-            "text": "Blue Origin Rocket Blows Up on Florida Launchpad During Test",
-            "source_link": "https://www.nytimes.com/2026/05/28/science/blue-origin-explosion-rocket.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-30T17:29:12.268644Z",
-            "shown_at": [
-                "2026-05-30T18:03:50.249374Z",
-                "2026-05-30T22:44:21.427434Z",
-                "2026-05-31T11:04:35.154431Z",
-                "2026-06-01T11:39:33.680978Z",
-                "2026-06-02T23:29:13.973054Z",
-                "2026-06-03T01:14:06.118434Z",
-                "2026-06-03T20:24:23.005327Z",
-                "2026-06-03T23:59:15.755088Z",
-                "2026-06-04T18:49:31.913466Z",
-                "2026-06-06T03:39:09.584057Z",
-                "2026-06-06T05:24:20.217821Z",
-                "2026-06-06T12:29:19.666742Z",
-                "2026-06-06T14:14:29.351622Z"
-            ]
-        },
-        {
-            "id": "dc669d5da554e90edec509e523b6b40c",
-            "source": "nyt",
-            "text": "What’s Next for Blue Origin After Rocket Explosion",
-            "source_link": "https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-30T17:29:12.268595Z",
-            "shown_at": [
-                "2026-05-30T17:29:15.257780Z",
-                "2026-05-31T09:19:14.253618Z",
-                "2026-05-31T14:34:32.107269Z",
-                "2026-05-31T18:04:32.186053Z",
-                "2026-06-01T08:09:24.930767Z",
-                "2026-06-01T21:04:39.260297Z",
-                "2026-06-02T13:29:26.531528Z",
-                "2026-06-02T19:24:37.952994Z",
-                "2026-06-03T04:49:24.024742Z",
-                "2026-06-03T08:29:17.343728Z",
-                "2026-06-03T16:54:28.449280Z",
-                "2026-06-03T18:39:30.366916Z",
-                "2026-06-04T07:34:38.968941Z",
-                "2026-06-06T10:44:03.664343Z"
-            ]
-        },
-        {
-            "id": "65918cf4c14d0088af6d382e6ca9580b",
-            "source": "breaking_defense",
-            "text": "SpaceX wins $4.16B Space Force contract to detect airborne moving targets",
-            "source_link": "https://breakingdefense.com/2026/05/spacex-wins-4-16b-space-force-contract-to-detect-airborne-moving-targets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T17:44:22.311871Z",
-            "shown_at": [
-                "2026-05-29T17:44:24.686895Z",
-                "2026-05-29T23:14:15.768565Z",
-                "2026-05-30T01:09:10.762878Z",
-                "2026-05-30T04:39:03.590690Z",
-                "2026-05-30T15:09:14.751558Z",
-                "2026-06-01T02:14:09.357555Z",
-                "2026-06-01T03:59:13.256192Z",
-                "2026-06-03T01:49:09.812975Z",
-                "2026-06-04T02:54:38.934669Z",
-                "2026-06-04T12:24:22.053009Z",
-                "2026-06-05T06:39:07.833934Z",
-                "2026-06-05T15:24:24.560938Z"
-            ]
-        },
-        {
-            "id": "3e186ebf5d7ae06493a9aade4c50bb32",
-            "source": "spacenews",
-            "text": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
-            "source_link": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T17:09:14.393139Z",
-            "shown_at": [
-                "2026-05-29T17:09:16.031341Z",
-                "2026-05-31T01:04:49.515103Z",
-                "2026-05-31T06:24:14.977088Z",
-                "2026-06-01T05:09:16.996277Z",
-                "2026-06-04T02:19:18.251216Z"
-            ]
-        },
-        {
-            "id": "11127ba5c8e86ad217ba0921b198d810",
-            "source": "nyt",
-            "text": "What Exactly Caused That Loud Boom in South Carolina?",
-            "source_link": "https://www.nytimes.com/2026/05/29/us/south-carolina-sonic-boom.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T16:28:57.514878Z",
-            "shown_at": [
-                "2026-05-29T16:29:00.128307Z",
-                "2026-05-29T22:04:41.552900Z",
-                "2026-05-30T01:44:02.144771Z",
-                "2026-06-01T06:24:14.180465Z",
-                "2026-06-02T04:39:06.289027Z",
-                "2026-06-02T08:49:30.614230Z",
-                "2026-06-02T15:49:15.422322Z",
-                "2026-06-02T21:09:38.175042Z",
-                "2026-06-04T04:04:43.500341Z",
-                "2026-06-04T05:49:28.237181Z",
-                "2026-06-04T20:34:29.886535Z",
-                "2026-06-04T22:24:33.106598Z",
-                "2026-06-05T05:29:11.499360Z",
-                "2026-06-05T12:29:20.863098Z"
-            ]
-        },
-        {
-            "id": "b2def25bf48c5323b0b509e9a868fba9",
-            "source": "breaking_defense",
-            "text": "SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist",
-            "source_link": "https://breakingdefense.com/2026/05/spacecom-exploring-tech-for-future-offensive-cislunar-ops-chief-scientist/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T15:53:49.178717Z",
-            "shown_at": [
-                "2026-05-29T15:53:50.030585Z",
-                "2026-05-29T21:29:05.181783Z",
-                "2026-05-30T06:24:31.684307Z",
-                "2026-05-31T06:59:19.335575Z",
-                "2026-05-31T15:44:15.848505Z",
-                "2026-05-31T20:59:16.355708Z",
-                "2026-06-01T13:59:13.611989Z",
-                "2026-06-02T14:04:29.705488Z",
-                "2026-06-02T16:59:18.205032Z",
-                "2026-06-02T18:49:18.404733Z",
-                "2026-06-04T04:39:18.495645Z",
-                "2026-06-04T06:24:20.582693Z",
-                "2026-06-04T10:39:22.093966Z",
-                "2026-06-04T15:54:03.148504Z",
-                "2026-06-04T17:39:17.358463Z",
-                "2026-06-04T21:14:16.659675Z",
-                "2026-06-05T04:54:32.034284Z",
-                "2026-06-05T13:39:22.281816Z"
-            ]
-        },
-        {
-            "id": "866c41b1abeee6ac19611a6303aec82d",
-            "source": "spacenews",
-            "text": "Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business",
-            "source_link": "https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T15:19:37.455242Z",
-            "shown_at": [
-                "2026-05-29T15:19:39.309165Z",
-                "2026-05-30T04:04:36.819633Z",
-                "2026-05-30T19:14:17.521715Z",
-                "2026-06-05T00:44:16.919393Z"
-            ]
-        },
-        {
-            "id": "12ba169e71a8dbd47d7e17e0c072e63b",
-            "source": "spacenews",
-            "text": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
-            "source_link": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T14:09:17.902498Z",
-            "shown_at": [
-                "2026-05-29T14:09:18.956945Z",
-                "2026-05-30T07:34:37.628629Z",
-                "2026-06-03T04:14:22.673678Z",
-                "2026-06-03T15:05:15.341873Z",
-                "2026-06-05T11:19:28.443811Z"
-            ]
-        },
-        {
-            "id": "ed0184734d0106a050e43ce24f4d796a",
-            "source": "spacenews",
-            "text": "U.S. expands missile production as Army seeks more depth in its arsenal",
-            "source_link": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T01:44:43.147804Z",
-            "shown_at": [
-                "2026-08-12T01:44:43.883001Z"
-            ]
-        },
-        {
-            "id": "a57741774002867edc7587ca175bc43b",
-            "source": "spacenews",
-            "text": "Firefly increases vehicle production even as launches lag",
-            "source_link": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T02:19:39.353470Z",
-            "shown_at": [
-                "2026-08-12T02:19:40.088472Z"
-            ]
-        },
-        {
-            "id": "b32a6cb6cbf74640e48323e6e0130c79",
-            "source": "nyt",
-            "text": "Telescope Spots Two Black Holes on the Cusp of Merging",
-            "source_link": "https://www.nytimes.com/2026/08/12/science/space/telescope-spots-two-black-holes-on-the-cusp-of-merging.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T08:14:43.870203Z",
-            "shown_at": [
-                "2026-08-12T08:14:44.592157Z",
-                "2026-08-12T19:05:08.777541Z"
-            ]
-        },
-        {
-            "id": "34a30d78fb68ddaa1885c5056892da17",
-            "source": "breaking_defense",
-            "text": "Engineering decision advantage for the warfighter",
-            "source_link": "https://breakingdefense.com/2026/08/engineering-decision-advantage-for-the-warfighter/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T12:24:42.895126Z",
-            "shown_at": [
-                "2026-08-12T12:24:43.746043Z",
-                "2026-08-12T17:54:29.589235Z"
-            ]
-        },
-        {
-            "id": "0da0a63756c0042fae5abf2b0b092582",
-            "source": "spacenews",
-            "text": "China’s iSpace raises first batch of series E funding for reusable rocketry",
-            "source_link": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T12:59:40.488459Z",
-            "shown_at": [
-                "2026-08-12T12:59:46.516395Z"
-            ]
-        },
-        {
-            "id": "97bea729dde4212f9b5abecbf232b926",
-            "source": "spacenews",
-            "text": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
-            "source_link": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T12:59:40.488535Z",
-            "shown_at": [
-                "2026-08-12T13:34:59.640859Z"
-            ]
-        },
-        {
-            "id": "24ae6cc937dd25315b5e3466ea9ea193",
-            "source": "spacenews",
-            "text": "Golden Dome creates digital hub to expand commercial participation",
-            "source_link": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T14:09:38.020291Z",
-            "shown_at": [
-                "2026-08-12T14:09:39.053022Z"
-            ]
-        },
-        {
-            "id": "2b1b6c6ae984f2203ce5a4356800d522",
-            "source": "breaking_defense",
-            "text": "Joint force needs kinetic and non-kinetic weapons for space war: Whiting",
-            "source_link": "https://breakingdefense.com/2026/08/joint-force-needs-kinetic-and-non-kinetic-weapons-for-space-war-whiting/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T16:09:34.177894Z",
-            "shown_at": [
-                "2026-08-12T16:09:35.028450Z"
-            ]
-        },
-        {
-            "id": "df7ac46507b011391504241b9dfc272c",
-            "source": "nyt",
-            "text": "See the 2026 European Solar Eclipse, in Photos and Videos",
-            "source_link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T20:54:45.406364Z",
-            "shown_at": [
-                "2026-08-12T20:54:46.310268Z"
-            ]
-        },
-        {
-            "id": "2cee9a7bdfe7ad00b77a85d419c2bd16",
-            "source": "nyt",
-            "text": "Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired",
-            "source_link": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T21:29:28.137465Z",
-            "shown_at": [
-                "2026-08-12T21:29:29.417847Z"
-            ]
-        },
-        {
-            "id": "d5d9c15464699a4a5f95d9cb28238b83",
-            "source": "breaking_defense",
-            "text": "Space-based interceptor contractors passed first Golden Dome milestone: Guetlein",
-            "source_link": "https://breakingdefense.com/2026/08/space-based-interceptor-contractors-passed-first-golden-dome-milestone-guetlein/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T22:05:32.267083Z",
-            "shown_at": [
-                "2026-08-12T22:05:33.875945Z"
-            ]
-        },
-        {
-            "id": "9f539dc4bf5363765e383655fb22e059",
-            "source": "breaking_defense",
-            "text": "Day 2 of the 2026 Space and Missile Defense Symposium",
-            "source_link": "https://breakingdefense.com/2026/08/day-2-of-the-2026-space-and-missile-defense-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T22:05:32.267137Z",
-            "shown_at": [
-                "2026-08-12T23:19:24.846144Z"
-            ]
-        },
-        {
-            "id": "7c9b956d933948f2917943cb5fed734f",
-            "source": "spacenews",
-            "text": "Space Command identifies capabilities it needs for the next space war",
-            "source_link": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T22:45:02.737728Z",
-            "shown_at": [
-                "2026-08-12T22:45:05.922185Z"
-            ]
-        },
-        {
-            "id": "e13768c22214a1aab953377df52f763b",
-            "source": "spacenews",
-            "text": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
-            "source_link": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T23:54:32.460652Z",
-            "shown_at": [
-                "2026-08-12T23:54:33.190879Z"
-            ]
-        },
-        {
-            "id": "1538d86239fdb800cb4cbf84aa9c21e6",
-            "source": "spacenews",
-            "text": "Pentagon missile buildup changing the factory floor",
-            "source_link": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-08-12T23:54:32.460704Z"
         }
     ]
 }
