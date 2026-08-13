@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "78de4a5fce223c0eb1268a86d5ba8f6e",
+    "trigger_count": 0,
+    "current_item_id": "f596ed4ad509172585a2ba829e586491",
     "data": [
         {
             "id": "1538d86239fdb800cb4cbf84aa9c21e6",
@@ -8319,6 +8319,18 @@
             "fetched_datetime": "2026-08-13T17:09:12.285479Z",
             "shown_at": [
                 "2026-08-13T18:34:56.834328Z"
+            ]
+        },
+        {
+            "id": "f596ed4ad509172585a2ba829e586491",
+            "source": "nyt",
+            "text": "Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired",
+            "source_link": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T19:09:29.902579Z",
+            "shown_at": [
+                "2026-08-13T19:09:30.608090Z"
             ]
         }
     ]

@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 13 | 29 |
 | breaking_defense | 2 | 7 | 10 | 24 |
-| nyt | 5 | 6 | 14 | 24 |
+| nyt | 6 | 7 | 14 | 25 |
 
 # Shown Order
 
@@ -2737,3 +2737,4 @@
 - **Aug 13, 05:09 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 13, 05:49 PM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
 - **Aug 13, 06:34 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
+- **Aug 13, 07:09 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
