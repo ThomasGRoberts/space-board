@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 14 | 30 |
 | breaking_defense | 2 | 7 | 11 | 24 |
-| nyt | 5 | 6 | 12 | 23 |
+| nyt | 5 | 6 | 13 | 24 |
 
 # Shown Order
 
@@ -2735,3 +2735,4 @@
 - **Aug 13, 03:54 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 13, 04:35 PM** - Space Command expands Alabama footprint as headquarters relocation advances (spacenews)
 - **Aug 13, 05:09 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
+- **Aug 13, 05:49 PM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
