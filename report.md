@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 21 | 15 | 35 |
 | breaking_defense | 4 | 7 | 13 | 23 |
-| nyt | 3 | 5 | 12 | 22 |
+| nyt | 3 | 5 | 12 | 23 |
 
 # Shown Order
 
@@ -2713,3 +2713,4 @@
 - **Aug 13, 01:09 AM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
 - **Aug 13, 01:44 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 13, 02:19 AM** - Virgin Galactic delays resumption of commercial flights to 2027 (spacenews)
+- **Aug 13, 02:59 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
