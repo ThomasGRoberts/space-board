@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 16 | 34 |
-| breaking_defense | 4 | 7 | 12 | 23 |
+| breaking_defense | 4 | 7 | 13 | 24 |
 | nyt | 3 | 5 | 12 | 23 |
 
 # Shown Order
@@ -2711,3 +2711,4 @@
 - **Aug 12, 11:54 PM** - Space Force orders two more Impulse Space vehicles for maneuvering demonstrations (spacenews)
 - **Aug 13, 12:35 AM** - Pentagon missile buildup changing the factory floor (spacenews)
 - **Aug 13, 01:09 AM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
+- **Aug 13, 01:44 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
