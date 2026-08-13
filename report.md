@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 21 | 14 | 34 |
+| spacenews | 7 | 21 | 15 | 35 |
 | breaking_defense | 4 | 7 | 13 | 24 |
 | nyt | 3 | 5 | 12 | 22 |
 
@@ -2718,3 +2718,4 @@
 - **Aug 13, 04:14 AM** - SpaceX increasing footprint in missile defense (spacenews)
 - **Aug 13, 04:50 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 13, 05:24 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 13, 05:59 AM** - Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026 (spacenews)
