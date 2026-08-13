@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 13 | 27 |
+| spacenews | 9 | 14 | 14 | 28 |
 | breaking_defense | 2 | 9 | 10 | 24 |
 | nyt | 4 | 7 | 13 | 25 |
 
@@ -2742,3 +2742,4 @@
 - **Aug 13, 08:29 PM** - Tank problem delays first RFA launch (spacenews)
 - **Aug 13, 09:09 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 13, 09:44 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
+- **Aug 13, 10:19 PM** - Space Force awards five companies $60 million for multi-vendor satellite network tests (spacenews)

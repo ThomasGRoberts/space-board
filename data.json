@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "78de4a5fce223c0eb1268a86d5ba8f6e",
+    "trigger_count": 0,
+    "current_item_id": "93b77bc186d8922ebe105c44c9072d2a",
     "data": [
         {
             "id": "1538d86239fdb800cb4cbf84aa9c21e6",
@@ -8357,6 +8357,18 @@
             "fetched_datetime": "2026-08-13T21:09:19.166005Z",
             "shown_at": [
                 "2026-08-13T21:09:20.007997Z"
+            ]
+        },
+        {
+            "id": "93b77bc186d8922ebe105c44c9072d2a",
+            "source": "spacenews",
+            "text": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+            "source_link": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T22:19:30.477167Z",
+            "shown_at": [
+                "2026-08-13T22:19:32.061041Z"
             ]
         }
     ]
