@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 12 | 28 |
+| spacenews | 8 | 15 | 13 | 29 |
 | breaking_defense | 3 | 8 | 10 | 24 |
 | nyt | 6 | 7 | 14 | 24 |
 
@@ -2739,3 +2739,4 @@
 - **Aug 13, 06:34 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 13, 07:09 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 13, 07:54 PM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 13, 08:29 PM** - Tank problem delays first RFA launch (spacenews)
