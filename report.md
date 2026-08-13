@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 17 | 35 |
+| spacenews | 8 | 20 | 16 | 35 |
 | breaking_defense | 4 | 7 | 12 | 23 |
-| nyt | 3 | 5 | 11 | 22 |
+| nyt | 3 | 5 | 12 | 23 |
 
 # Shown Order
 
@@ -2710,3 +2710,4 @@
 - **Aug 12, 11:19 PM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 12, 11:54 PM** - Space Force orders two more Impulse Space vehicles for maneuvering demonstrations (spacenews)
 - **Aug 13, 12:35 AM** - Pentagon missile buildup changing the factory floor (spacenews)
+- **Aug 13, 01:09 AM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
