@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d5d9c15464699a4a5f95d9cb28238b83",
+    "trigger_count": 0,
+    "current_item_id": "a29efe3f9bc10f9f8baff8fb1bd0fda5",
     "data": [
         {
             "id": "1538d86239fdb800cb4cbf84aa9c21e6",
@@ -8206,6 +8206,18 @@
                 "2026-06-01T15:44:29.266206Z",
                 "2026-06-02T04:04:47.039040Z",
                 "2026-06-05T02:29:19.944598Z"
+            ]
+        },
+        {
+            "id": "a29efe3f9bc10f9f8baff8fb1bd0fda5",
+            "source": "spacenews",
+            "text": "Virgin Galactic delays resumption of commercial flights to 2027",
+            "source_link": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T02:19:38.175596Z",
+            "shown_at": [
+                "2026-08-13T02:19:38.996690Z"
             ]
         }
     ]

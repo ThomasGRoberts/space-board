@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 20 | 15 | 34 |
+| spacenews | 8 | 21 | 16 | 35 |
 | breaking_defense | 4 | 7 | 13 | 24 |
 | nyt | 3 | 5 | 12 | 22 |
 
@@ -2712,3 +2712,4 @@
 - **Aug 13, 12:35 AM** - Pentagon missile buildup changing the factory floor (spacenews)
 - **Aug 13, 01:09 AM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
 - **Aug 13, 01:44 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
+- **Aug 13, 02:19 AM** - Virgin Galactic delays resumption of commercial flights to 2027 (spacenews)
