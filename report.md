@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 22 | 15 | 35 |
+| spacenews | 9 | 21 | 16 | 35 |
 | breaking_defense | 4 | 7 | 13 | 23 |
 | nyt | 2 | 5 | 11 | 22 |
 
@@ -2725,3 +2725,4 @@
 - **Aug 13, 08:24 AM** - The Perseid Meteor Shower Is Peaking. Here’s How to Watch. (nyt)
 - **Aug 13, 09:05 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 13, 09:39 AM** - Astranis unveils geostationary surveillance satellite (spacenews)
+- **Aug 13, 10:30 AM** - Paragon lays off staff after Gateway cancellation (spacenews)

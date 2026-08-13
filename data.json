@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3aaed4e7ed00b03c26052ba7784bfa31",
+    "trigger_count": 0,
+    "current_item_id": "e6efe41eca20733133fa1bd0d26b2356",
     "data": [
         {
             "id": "1538d86239fdb800cb4cbf84aa9c21e6",
@@ -8241,6 +8241,18 @@
             "fetched_datetime": "2026-08-13T09:39:25.458000Z",
             "shown_at": [
                 "2026-08-13T09:39:26.119956Z"
+            ]
+        },
+        {
+            "id": "e6efe41eca20733133fa1bd0d26b2356",
+            "source": "spacenews",
+            "text": "Paragon lays off staff after Gateway cancellation",
+            "source_link": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T10:30:19.550625Z",
+            "shown_at": [
+                "2026-08-13T10:30:20.579608Z"
             ]
         }
     ]
