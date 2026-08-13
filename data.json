@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9f539dc4bf5363765e383655fb22e059",
+    "trigger_count": 0,
+    "current_item_id": "3aaed4e7ed00b03c26052ba7784bfa31",
     "data": [
         {
             "id": "1538d86239fdb800cb4cbf84aa9c21e6",
@@ -8229,6 +8229,18 @@
             "fetched_datetime": "2026-08-13T02:19:38.175596Z",
             "shown_at": [
                 "2026-08-13T02:19:38.996690Z"
+            ]
+        },
+        {
+            "id": "3aaed4e7ed00b03c26052ba7784bfa31",
+            "source": "spacenews",
+            "text": "Astranis unveils geostationary surveillance satellite",
+            "source_link": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T09:39:25.458000Z",
+            "shown_at": [
+                "2026-08-13T09:39:26.119956Z"
             ]
         }
     ]
