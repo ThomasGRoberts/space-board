@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 14 | 29 |
+| spacenews | 8 | 16 | 15 | 30 |
 | breaking_defense | 2 | 7 | 11 | 25 |
 | nyt | 2 | 3 | 12 | 23 |
 
@@ -2733,3 +2733,4 @@
 - **Aug 13, 02:44 PM** - Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity (spacenews)
 - **Aug 13, 03:20 PM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 13, 03:54 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
+- **Aug 13, 04:35 PM** - Space Command expands Alabama footprint as headquarters relocation advances (spacenews)

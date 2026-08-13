@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2cee9a7bdfe7ad00b77a85d419c2bd16",
+    "trigger_count": 0,
+    "current_item_id": "512473d7cd99e8221b41140242864d30",
     "data": [
         {
             "id": "1538d86239fdb800cb4cbf84aa9c21e6",
@@ -8271,6 +8271,18 @@
             "fetched_datetime": "2026-08-13T14:44:57.510178Z",
             "shown_at": [
                 "2026-08-13T14:44:58.250954Z"
+            ]
+        },
+        {
+            "id": "512473d7cd99e8221b41140242864d30",
+            "source": "spacenews",
+            "text": "Space Command expands Alabama footprint as headquarters relocation advances",
+            "source_link": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T16:35:21.538559Z",
+            "shown_at": [
+                "2026-08-13T16:35:23.273095Z"
             ]
         }
     ]
