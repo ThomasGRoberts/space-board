@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 13 | 29 |
-| breaking_defense | 3 | 8 | 10 | 24 |
+| breaking_defense | 4 | 9 | 11 | 24 |
 | nyt | 5 | 7 | 13 | 24 |
 
 # Shown Order
@@ -2740,3 +2740,4 @@
 - **Aug 13, 07:09 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 13, 07:54 PM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 13, 08:29 PM** - Tank problem delays first RFA launch (spacenews)
+- **Aug 13, 09:09 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)

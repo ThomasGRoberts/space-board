@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dde57a9dde6a5b6a6d95a3ad90d94090",
+    "trigger_count": 0,
+    "current_item_id": "6c6144899bf66e615caefb61646973d4",
     "data": [
         {
             "id": "1538d86239fdb800cb4cbf84aa9c21e6",
@@ -8344,6 +8344,18 @@
             "fetched_datetime": "2026-08-13T19:54:46.946229Z",
             "shown_at": [
                 "2026-08-13T19:54:47.919997Z"
+            ]
+        },
+        {
+            "id": "6c6144899bf66e615caefb61646973d4",
+            "source": "breaking_defense",
+            "text": "Army gears up to ‘engage’ enemy surveillance satellites",
+            "source_link": "https://breakingdefense.com/2026/08/army-gears-up-to-engage-enemy-surveillance-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T21:09:19.166005Z",
+            "shown_at": [
+                "2026-08-13T21:09:20.007997Z"
             ]
         }
     ]
