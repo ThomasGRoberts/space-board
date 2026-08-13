@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 14 | 29 |
+| spacenews | 8 | 15 | 13 | 29 |
 | breaking_defense | 2 | 7 | 10 | 24 |
-| nyt | 5 | 6 | 13 | 24 |
+| nyt | 5 | 6 | 14 | 25 |
 
 # Shown Order
 
@@ -2736,3 +2736,4 @@
 - **Aug 13, 04:35 PM** - Space Command expands Alabama footprint as headquarters relocation advances (spacenews)
 - **Aug 13, 05:09 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 13, 05:49 PM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
+- **Aug 13, 06:34 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
