@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 21 | 15 | 34 |
-| breaking_defense | 4 | 7 | 12 | 23 |
+| breaking_defense | 4 | 7 | 13 | 24 |
 | nyt | 3 | 5 | 12 | 23 |
 
 # Shown Order
@@ -2717,3 +2717,4 @@
 - **Aug 13, 03:34 AM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 13, 04:14 AM** - SpaceX increasing footprint in missile defense (spacenews)
 - **Aug 13, 04:50 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
+- **Aug 13, 05:24 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
