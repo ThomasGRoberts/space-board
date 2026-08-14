@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 12 | 28 |
 | breaking_defense | 2 | 6 | 11 | 23 |
-| nyt | 4 | 7 | 13 | 25 |
+| nyt | 4 | 7 | 14 | 26 |
 
 # Shown Order
 
@@ -2666,3 +2666,4 @@
 - **Aug 13, 11:34 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 14, 12:09 AM** - FCC Space Bureau deputy takes the reins amid licensing overhaul (spacenews)
 - **Aug 14, 12:44 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 14, 01:19 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
