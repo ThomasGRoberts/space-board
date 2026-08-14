@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 15 | 29 |
+| spacenews | 9 | 16 | 15 | 30 |
 | breaking_defense | 2 | 5 | 10 | 22 |
 | nyt | 4 | 6 | 14 | 25 |
 
@@ -2686,3 +2686,4 @@
 - **Aug 14, 11:34 AM** - Intuitive Machines wins contract for three GEO satellites (spacenews)
 - **Aug 14, 12:09 PM** - Blue Origin outlines plans for second Cape Canaveral launch pad (spacenews)
 - **Aug 14, 12:44 PM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
+- **Aug 14, 01:24 PM** - Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. (spacenews)
