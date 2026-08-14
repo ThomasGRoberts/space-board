@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 16 | 28 |
+| spacenews | 8 | 16 | 16 | 29 |
 | breaking_defense | 1 | 4 | 12 | 22 |
 | nyt | 0 | 6 | 12 | 26 |
 
@@ -2698,3 +2698,4 @@
 - **Aug 14, 06:44 PM** - Golden Dome faces 2027 funding cliff  (spacenews)
 - **Aug 14, 07:19 PM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 14, 07:54 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
+- **Aug 14, 08:29 PM** - Space Force orders two more Impulse Space vehicles for maneuvering demonstrations (spacenews)
