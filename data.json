@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-14T00:04:48.695562+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a57741774002867edc7587ca175bc43b",
+    "trigger_count": 0,
+    "current_item_id": "ad734b3daf404782b950cd7bc2e73084",
     "data": [
         {
             "id": "93b77bc186d8922ebe105c44c9072d2a",
@@ -8162,6 +8162,18 @@
                 "2026-06-02T22:54:04.585711Z",
                 "2026-06-04T21:49:50.556147Z",
                 "2026-06-09T00:29:22.365343Z"
+            ]
+        },
+        {
+            "id": "ad734b3daf404782b950cd7bc2e73084",
+            "source": "spacenews",
+            "text": "CesiumAstro buys semiconductor specialist to boost constellation plans",
+            "source_link": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T02:29:19.710586Z",
+            "shown_at": [
+                "2026-08-14T02:29:20.249940Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 12 | 27 |
+| spacenews | 6 | 13 | 13 | 28 |
 | breaking_defense | 2 | 6 | 10 | 23 |
 | nyt | 4 | 7 | 14 | 26 |
 
@@ -2668,3 +2668,4 @@
 - **Aug 14, 12:44 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 14, 01:19 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 14, 01:54 AM** - Firefly increases vehicle production even as launches lag (spacenews)
+- **Aug 14, 02:29 AM** - CesiumAstro buys semiconductor specialist to boost constellation plans (spacenews)
