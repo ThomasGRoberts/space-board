@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 28 |
 | breaking_defense | 2 | 6 | 10 | 23 |
-| nyt | 4 | 7 | 13 | 25 |
+| nyt | 4 | 7 | 14 | 26 |
 
 # Shown Order
 
@@ -2670,3 +2670,4 @@
 - **Aug 14, 01:54 AM** - Firefly increases vehicle production even as launches lag (spacenews)
 - **Aug 14, 02:29 AM** - CesiumAstro buys semiconductor specialist to boost constellation plans (spacenews)
 - **Aug 14, 03:04 AM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
+- **Aug 14, 03:39 AM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
