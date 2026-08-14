@@ -1,9 +1,156 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-13T00:05:14.446411+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-08-14T00:04:48.695562+00:00",
+    "trigger_count": 6,
     "current_item_id": "78de4a5fce223c0eb1268a86d5ba8f6e",
     "data": [
+        {
+            "id": "93b77bc186d8922ebe105c44c9072d2a",
+            "source": "spacenews",
+            "text": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+            "source_link": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T22:19:30.477167Z",
+            "shown_at": [
+                "2026-08-13T22:19:32.061041Z"
+            ]
+        },
+        {
+            "id": "6c6144899bf66e615caefb61646973d4",
+            "source": "breaking_defense",
+            "text": "Army gears up to ‘engage’ enemy surveillance satellites",
+            "source_link": "https://breakingdefense.com/2026/08/army-gears-up-to-engage-enemy-surveillance-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T21:09:19.166005Z",
+            "shown_at": [
+                "2026-08-13T21:09:20.007997Z"
+            ]
+        },
+        {
+            "id": "1bc514a1a38f81c634fca71151416564",
+            "source": "breaking_defense",
+            "text": "Day 3 of the 2026 Space and Missile Defense Symposium",
+            "source_link": "https://breakingdefense.com/2026/08/day-3-of-the-2026-space-and-missile-defense-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T19:54:46.946229Z",
+            "shown_at": [
+                "2026-08-13T19:54:47.919997Z",
+                "2026-08-13T22:54:30.035715Z"
+            ]
+        },
+        {
+            "id": "f596ed4ad509172585a2ba829e586491",
+            "source": "nyt",
+            "text": "Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired",
+            "source_link": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T19:09:29.902579Z",
+            "shown_at": [
+                "2026-08-13T19:09:30.608090Z"
+            ]
+        },
+        {
+            "id": "78de4a5fce223c0eb1268a86d5ba8f6e",
+            "source": "nyt",
+            "text": "The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death",
+            "source_link": "https://www.nytimes.com/2026/08/12/science/mothra-telescope-helix-nebula.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T17:09:12.285479Z",
+            "shown_at": [
+                "2026-08-13T18:34:56.834328Z",
+                "2026-08-13T21:44:19.233550Z",
+                "2026-08-13T23:34:56.375829Z"
+            ]
+        },
+        {
+            "id": "aa7a8b4a0ff794b8f0acbef85c232880",
+            "source": "nyt",
+            "text": "NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired",
+            "source_link": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T17:09:12.285371Z",
+            "shown_at": [
+                "2026-08-13T17:49:48.228536Z"
+            ]
+        },
+        {
+            "id": "6552de45d69a210c6dd29bed9579ae00",
+            "source": "nyt",
+            "text": "How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark",
+            "source_link": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T17:09:12.285244Z",
+            "shown_at": [
+                "2026-08-13T17:09:14.670830Z"
+            ]
+        },
+        {
+            "id": "512473d7cd99e8221b41140242864d30",
+            "source": "spacenews",
+            "text": "Space Command expands Alabama footprint as headquarters relocation advances",
+            "source_link": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T16:35:21.538559Z",
+            "shown_at": [
+                "2026-08-13T16:35:23.273095Z"
+            ]
+        },
+        {
+            "id": "cdb197bdaba4358128b95c0feb2da03a",
+            "source": "spacenews",
+            "text": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
+            "source_link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T14:44:57.510178Z",
+            "shown_at": [
+                "2026-08-13T14:44:58.250954Z"
+            ]
+        },
+        {
+            "id": "e6efe41eca20733133fa1bd0d26b2356",
+            "source": "spacenews",
+            "text": "Paragon lays off staff after Gateway cancellation",
+            "source_link": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T10:30:19.550625Z",
+            "shown_at": [
+                "2026-08-13T10:30:20.579608Z"
+            ]
+        },
+        {
+            "id": "3aaed4e7ed00b03c26052ba7784bfa31",
+            "source": "spacenews",
+            "text": "Astranis unveils geostationary surveillance satellite",
+            "source_link": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T09:39:25.458000Z",
+            "shown_at": [
+                "2026-08-13T09:39:26.119956Z"
+            ]
+        },
+        {
+            "id": "a29efe3f9bc10f9f8baff8fb1bd0fda5",
+            "source": "spacenews",
+            "text": "Virgin Galactic delays resumption of commercial flights to 2027",
+            "source_link": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-13T02:19:38.175596Z",
+            "shown_at": [
+                "2026-08-13T02:19:38.996690Z"
+            ]
+        },
         {
             "id": "1538d86239fdb800cb4cbf84aa9c21e6",
             "source": "spacenews",
@@ -8011,366 +8158,6 @@
                 "2026-06-02T22:54:04.585711Z",
                 "2026-06-04T21:49:50.556147Z",
                 "2026-06-09T00:29:22.365343Z"
-            ]
-        },
-        {
-            "id": "bb8e5670fd963f0acdb0d21af22971fa",
-            "source": "breaking_defense",
-            "text": "How AI is shaping the future of geospatial intelligence",
-            "source_link": "https://breakingdefense.com/2026/06/how-ai-is-shaping-the-future-of-geospatial-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T21:44:30.594684Z",
-            "shown_at": [
-                "2026-06-02T21:44:31.783577Z",
-                "2026-06-03T11:24:12.082006Z",
-                "2026-06-04T08:09:11.293278Z",
-                "2026-06-04T19:24:29.551016Z",
-                "2026-06-05T10:44:20.125091Z",
-                "2026-06-05T19:29:07.755799Z",
-                "2026-06-05T21:13:57.347380Z",
-                "2026-06-06T00:43:49.445322Z",
-                "2026-06-06T11:19:13.847698Z",
-                "2026-06-06T16:44:18.565889Z",
-                "2026-06-07T03:54:31.736095Z",
-                "2026-06-07T07:24:20.159306Z",
-                "2026-06-07T09:14:28.528533Z",
-                "2026-06-07T15:04:39.204714Z",
-                "2026-06-07T16:49:21.492879Z",
-                "2026-06-07T23:54:30.855473Z",
-                "2026-06-08T01:39:18.789719Z",
-                "2026-06-08T12:14:45.789707Z",
-                "2026-06-08T13:59:38.344117Z",
-                "2026-06-08T22:09:21.564064Z",
-                "2026-06-08T23:54:25.587977Z",
-                "2026-06-09T03:24:22.500224Z",
-                "2026-06-09T08:44:21.784169Z"
-            ]
-        },
-        {
-            "id": "54fe1bd18c6069c84b916574324916ec",
-            "source": "spacenews",
-            "text": "Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety",
-            "source_link": "https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T16:24:39.748676Z",
-            "shown_at": [
-                "2026-06-02T16:24:40.820179Z",
-                "2026-06-06T04:49:28.934729Z",
-                "2026-06-08T02:49:31.417536Z",
-                "2026-06-08T04:34:46.459084Z"
-            ]
-        },
-        {
-            "id": "46ca671cdf1b09b14dcfbeea720c87b8",
-            "source": "spacenews",
-            "text": "UK explores Vast space station mission for astronaut with physical disability",
-            "source_link": "https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T14:39:14.384349Z",
-            "shown_at": [
-                "2026-06-02T15:14:30.158356Z",
-                "2026-06-03T20:59:16.992268Z",
-                "2026-06-04T06:59:03.682016Z",
-                "2026-06-05T04:19:18.013476Z",
-                "2026-06-05T06:04:19.808538Z",
-                "2026-06-05T23:34:26.518006Z",
-                "2026-06-06T13:39:23.576821Z"
-            ]
-        },
-        {
-            "id": "4c071443747a1fc2fafa6c50cc5ba76d",
-            "source": "spacenews",
-            "text": "The importance of determining an equilibrium state for space traffic management",
-            "source_link": "https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T14:39:14.384275Z",
-            "shown_at": [
-                "2026-06-02T14:39:17.020208Z",
-                "2026-06-07T02:43:54.276653Z",
-                "2026-06-07T06:14:27.927282Z",
-                "2026-06-08T09:19:54.571262Z"
-            ]
-        },
-        {
-            "id": "8ce5ccc6fe35d0af5c693fa1da5a8d29",
-            "source": "spacenews",
-            "text": "Voyager to acquire lunar lander developer Astrobotic",
-            "source_link": "https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T12:19:18.622019Z",
-            "shown_at": [
-                "2026-06-02T12:54:20.818308Z",
-                "2026-06-03T17:29:25.799957Z"
-            ]
-        },
-        {
-            "id": "7e0f303a8926800d40342f68ad3c08f8",
-            "source": "spacenews",
-            "text": "Impulse Space raises $500 million",
-            "source_link": "https://spacenews.com/impulse-space-raises-500-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T12:19:18.621950Z",
-            "shown_at": [
-                "2026-06-02T12:19:21.529825Z",
-                "2026-06-07T04:29:23.101409Z"
-            ]
-        },
-        {
-            "id": "23923c27086ecf86b123c9a3006b57a1",
-            "source": "spacenews",
-            "text": "Researchers call for regulations to protect low Earth orbit environment",
-            "source_link": "https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T11:09:12.163246Z",
-            "shown_at": [
-                "2026-06-02T11:09:14.042721Z",
-                "2026-06-04T05:14:21.774148Z",
-                "2026-06-06T10:09:12.631976Z"
-            ]
-        },
-        {
-            "id": "b2d08749c223e5085480b74d07a9eb9d",
-            "source": "spacenews",
-            "text": "NASA abandons ‘core module’ concept for commercial space station development",
-            "source_link": "https://spacenews.com/nasa-abandons-core-module-concept-for-commercial-space-station-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T08:14:25.172474Z",
-            "shown_at": [
-                "2026-06-02T08:14:26.056855Z"
-            ]
-        },
-        {
-            "id": "41018a3f0a3d1bec3aae0fa97abb9fc4",
-            "source": "spacenews",
-            "text": "France to fly two astronauts on Vast missions",
-            "source_link": "https://spacenews.com/france-to-fly-two-astronauts-on-vast-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T02:19:18.707546Z",
-            "shown_at": [
-                "2026-06-02T02:19:19.481045Z",
-                "2026-06-05T21:49:16.837009Z",
-                "2026-06-07T21:34:39.210884Z"
-            ]
-        },
-        {
-            "id": "e6f0edc880d2104218b53fe971968ea5",
-            "source": "breaking_defense",
-            "text": "Northrop Grumman partners with Apex for 2027 SBI demo",
-            "source_link": "https://breakingdefense.com/2026/06/northrop-grumman-partners-with-apex-for-2027-sbi-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-01T18:04:46.656014Z",
-            "shown_at": [
-                "2026-06-01T18:04:47.455746Z",
-                "2026-06-01T21:39:14.562355Z",
-                "2026-06-02T01:09:07.004739Z",
-                "2026-06-03T03:39:03.732916Z",
-                "2026-06-03T22:44:32.254796Z",
-                "2026-06-05T01:19:28.981630Z",
-                "2026-06-05T03:09:20.469084Z",
-                "2026-06-05T22:59:12.198510Z",
-                "2026-06-06T13:04:38.600906Z",
-                "2026-06-06T14:49:14.431337Z",
-                "2026-06-07T05:39:12.598580Z",
-                "2026-06-07T10:59:19.990854Z",
-                "2026-06-07T20:24:13.029295Z",
-                "2026-06-08T16:19:28.077710Z"
-            ]
-        },
-        {
-            "id": "8c76800454ae57f64a5d93e1fccfa5b5",
-            "source": "breaking_defense",
-            "text": "National security launch schedule not likely impacted by New Glenn disaster",
-            "source_link": "https://breakingdefense.com/2026/06/national-security-launch-schedule-not-likely-impacted-by-new-glenn-disaster/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-01T16:54:26.488788Z",
-            "shown_at": [
-                "2026-06-01T16:54:29.447579Z",
-                "2026-06-02T03:29:26.992975Z",
-                "2026-06-02T20:34:26.169737Z",
-                "2026-06-03T05:29:20.117534Z",
-                "2026-06-03T09:04:51.173922Z",
-                "2026-06-03T13:49:31.956048Z",
-                "2026-06-04T01:09:14.726204Z",
-                "2026-06-05T08:24:33.897664Z",
-                "2026-06-06T05:59:16.586251Z",
-                "2026-06-06T07:44:28.365623Z",
-                "2026-06-06T09:34:32.931786Z",
-                "2026-06-06T19:04:43.311858Z",
-                "2026-06-06T20:49:28.718981Z",
-                "2026-06-07T02:09:30.486922Z",
-                "2026-06-08T05:09:05.428758Z"
-            ]
-        },
-        {
-            "id": "971bdc5c4f8cc03a3b06077a02ca0418",
-            "source": "spacenews",
-            "text": "Northrop Grumman partners with Apex on space-based interceptors for Golden Dome",
-            "source_link": "https://spacenews.com/northrop-grumman-partners-with-apex-on-space-based-interceptors-for-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-01T15:44:25.775920Z",
-            "shown_at": [
-                "2026-06-01T15:44:29.266206Z",
-                "2026-06-02T04:04:47.039040Z",
-                "2026-06-05T02:29:19.944598Z"
-            ]
-        },
-        {
-            "id": "a29efe3f9bc10f9f8baff8fb1bd0fda5",
-            "source": "spacenews",
-            "text": "Virgin Galactic delays resumption of commercial flights to 2027",
-            "source_link": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T02:19:38.175596Z",
-            "shown_at": [
-                "2026-08-13T02:19:38.996690Z"
-            ]
-        },
-        {
-            "id": "3aaed4e7ed00b03c26052ba7784bfa31",
-            "source": "spacenews",
-            "text": "Astranis unveils geostationary surveillance satellite",
-            "source_link": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T09:39:25.458000Z",
-            "shown_at": [
-                "2026-08-13T09:39:26.119956Z"
-            ]
-        },
-        {
-            "id": "e6efe41eca20733133fa1bd0d26b2356",
-            "source": "spacenews",
-            "text": "Paragon lays off staff after Gateway cancellation",
-            "source_link": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T10:30:19.550625Z",
-            "shown_at": [
-                "2026-08-13T10:30:20.579608Z"
-            ]
-        },
-        {
-            "id": "cdb197bdaba4358128b95c0feb2da03a",
-            "source": "spacenews",
-            "text": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
-            "source_link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T14:44:57.510178Z",
-            "shown_at": [
-                "2026-08-13T14:44:58.250954Z"
-            ]
-        },
-        {
-            "id": "512473d7cd99e8221b41140242864d30",
-            "source": "spacenews",
-            "text": "Space Command expands Alabama footprint as headquarters relocation advances",
-            "source_link": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T16:35:21.538559Z",
-            "shown_at": [
-                "2026-08-13T16:35:23.273095Z"
-            ]
-        },
-        {
-            "id": "6552de45d69a210c6dd29bed9579ae00",
-            "source": "nyt",
-            "text": "How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark",
-            "source_link": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T17:09:12.285244Z",
-            "shown_at": [
-                "2026-08-13T17:09:14.670830Z"
-            ]
-        },
-        {
-            "id": "aa7a8b4a0ff794b8f0acbef85c232880",
-            "source": "nyt",
-            "text": "NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired",
-            "source_link": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T17:09:12.285371Z",
-            "shown_at": [
-                "2026-08-13T17:49:48.228536Z"
-            ]
-        },
-        {
-            "id": "78de4a5fce223c0eb1268a86d5ba8f6e",
-            "source": "nyt",
-            "text": "The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death",
-            "source_link": "https://www.nytimes.com/2026/08/12/science/mothra-telescope-helix-nebula.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T17:09:12.285479Z",
-            "shown_at": [
-                "2026-08-13T18:34:56.834328Z",
-                "2026-08-13T21:44:19.233550Z",
-                "2026-08-13T23:34:56.375829Z"
-            ]
-        },
-        {
-            "id": "f596ed4ad509172585a2ba829e586491",
-            "source": "nyt",
-            "text": "Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired",
-            "source_link": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T19:09:29.902579Z",
-            "shown_at": [
-                "2026-08-13T19:09:30.608090Z"
-            ]
-        },
-        {
-            "id": "1bc514a1a38f81c634fca71151416564",
-            "source": "breaking_defense",
-            "text": "Day 3 of the 2026 Space and Missile Defense Symposium",
-            "source_link": "https://breakingdefense.com/2026/08/day-3-of-the-2026-space-and-missile-defense-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T19:54:46.946229Z",
-            "shown_at": [
-                "2026-08-13T19:54:47.919997Z",
-                "2026-08-13T22:54:30.035715Z"
-            ]
-        },
-        {
-            "id": "6c6144899bf66e615caefb61646973d4",
-            "source": "breaking_defense",
-            "text": "Army gears up to ‘engage’ enemy surveillance satellites",
-            "source_link": "https://breakingdefense.com/2026/08/army-gears-up-to-engage-enemy-surveillance-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T21:09:19.166005Z",
-            "shown_at": [
-                "2026-08-13T21:09:20.007997Z"
-            ]
-        },
-        {
-            "id": "93b77bc186d8922ebe105c44c9072d2a",
-            "source": "spacenews",
-            "text": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
-            "source_link": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-13T22:19:30.477167Z",
-            "shown_at": [
-                "2026-08-13T22:19:32.061041Z"
             ]
         }
     ]
