@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-14T00:04:48.695562+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1bc514a1a38f81c634fca71151416564",
+    "trigger_count": 0,
+    "current_item_id": "d7e2a8bc4822304fd31e5afc0ca4bccc",
     "data": [
         {
             "id": "93b77bc186d8922ebe105c44c9072d2a",
@@ -8185,6 +8185,27 @@
                 "2026-08-14T02:29:20.249940Z",
                 "2026-08-14T04:14:46.082128Z"
             ]
+        },
+        {
+            "id": "d7e2a8bc4822304fd31e5afc0ca4bccc",
+            "source": "spacenews",
+            "text": "Bulgaria advances project to launch new space, defense innovation hub",
+            "source_link": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T09:09:28.021168Z",
+            "shown_at": [
+                "2026-08-14T09:09:28.874185Z"
+            ]
+        },
+        {
+            "id": "f90d03adcfaee2314d4255c3976b362a",
+            "source": "spacenews",
+            "text": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
+            "source_link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T09:09:28.021226Z"
         }
     ]
 }

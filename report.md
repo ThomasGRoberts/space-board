@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 13 | 28 |
-| breaking_defense | 2 | 6 | 11 | 23 |
+| spacenews | 8 | 15 | 14 | 29 |
+| breaking_defense | 2 | 6 | 10 | 23 |
 | nyt | 4 | 6 | 13 | 25 |
 
 # Shown Order
@@ -2679,3 +2679,4 @@
 - **Aug 14, 07:19 AM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 14, 07:54 AM** - Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite (spacenews)
 - **Aug 14, 08:34 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 14, 09:09 AM** - Bulgaria advances project to launch new space, defense innovation hub (spacenews)
