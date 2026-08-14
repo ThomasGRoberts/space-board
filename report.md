@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 12 | 28 |
+| spacenews | 6 | 14 | 13 | 29 |
 | breaking_defense | 2 | 6 | 10 | 23 |
 | nyt | 4 | 7 | 14 | 25 |
 
@@ -2664,3 +2664,4 @@
 - **Aug 13, 10:19 PM** - Space Force awards five companies $60 million for multi-vendor satellite network tests (spacenews)
 - **Aug 13, 10:54 PM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 13, 11:34 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
+- **Aug 14, 12:09 AM** - FCC Space Bureau deputy takes the reins amid licensing overhaul (spacenews)
