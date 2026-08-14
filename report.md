@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 13 | 29 |
-| breaking_defense | 2 | 6 | 10 | 22 |
+| breaking_defense | 2 | 6 | 11 | 23 |
 | nyt | 4 | 6 | 14 | 25 |
 
 # Shown Order
@@ -2682,3 +2682,4 @@
 - **Aug 14, 09:09 AM** - Bulgaria advances project to launch new space, defense innovation hub (spacenews)
 - **Aug 14, 09:44 AM** - In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade (spacenews)
 - **Aug 14, 10:19 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
+- **Aug 14, 10:59 AM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
