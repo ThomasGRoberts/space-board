@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 15 | 28 |
 | breaking_defense | 2 | 5 | 11 | 23 |
-| nyt | 4 | 6 | 13 | 25 |
+| nyt | 4 | 6 | 14 | 26 |
 
 # Shown Order
 
@@ -2688,3 +2688,4 @@
 - **Aug 14, 12:44 PM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 14, 01:24 PM** - Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. (spacenews)
 - **Aug 14, 01:59 PM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 14, 02:34 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
