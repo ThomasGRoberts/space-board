@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 15 | 29 |
 | breaking_defense | 2 | 4 | 11 | 22 |
-| nyt | 4 | 6 | 13 | 25 |
+| nyt | 4 | 6 | 14 | 26 |
 
 # Shown Order
 
@@ -2691,3 +2691,4 @@
 - **Aug 14, 02:34 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 14, 03:14 PM** - National security doesn’t need more maps or imagery; it needs measurement (spacenews)
 - **Aug 14, 03:49 PM** - Engineering decision advantage for the warfighter (breaking_defense)
+- **Aug 14, 04:24 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
