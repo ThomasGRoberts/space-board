@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 28 |
-| breaking_defense | 2 | 6 | 11 | 23 |
-| nyt | 4 | 7 | 13 | 25 |
+| breaking_defense | 2 | 6 | 10 | 23 |
+| nyt | 4 | 7 | 14 | 26 |
 
 # Shown Order
 
@@ -2673,3 +2673,4 @@
 - **Aug 14, 03:39 AM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
 - **Aug 14, 04:14 AM** - CesiumAstro buys semiconductor specialist to boost constellation plans (spacenews)
 - **Aug 14, 04:49 AM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
+- **Aug 14, 05:24 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
