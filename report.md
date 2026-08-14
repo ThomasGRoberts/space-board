@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 14 | 28 |
+| spacenews | 8 | 15 | 15 | 29 |
 | breaking_defense | 2 | 5 | 11 | 23 |
 | nyt | 4 | 6 | 14 | 25 |
 
@@ -2689,3 +2689,4 @@
 - **Aug 14, 01:24 PM** - Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. (spacenews)
 - **Aug 14, 01:59 PM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 14, 02:34 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
+- **Aug 14, 03:14 PM** - National security doesn’t need more maps or imagery; it needs measurement (spacenews)
