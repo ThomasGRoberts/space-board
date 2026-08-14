@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-14T00:04:48.695562+00:00",
-    "trigger_count": 6,
-    "current_item_id": "df7ac46507b011391504241b9dfc272c",
+    "trigger_count": 0,
+    "current_item_id": "59030ea46f06517bcd1f6e2dc060d841",
     "data": [
         {
             "id": "93b77bc186d8922ebe105c44c9072d2a",
@@ -8272,6 +8272,18 @@
             "fetched_datetime": "2026-08-14T16:59:41.549658Z",
             "shown_at": [
                 "2026-08-14T16:59:42.294255Z"
+            ]
+        },
+        {
+            "id": "59030ea46f06517bcd1f6e2dc060d841",
+            "source": "spacenews",
+            "text": "Wallops gears up for an increase in launches",
+            "source_link": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T22:14:09.591768Z",
+            "shown_at": [
+                "2026-08-14T22:14:12.707523Z"
             ]
         }
     ]
