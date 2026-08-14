@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 16 | 29 |
 | breaking_defense | 2 | 4 | 13 | 22 |
-| nyt | 0 | 6 | 11 | 25 |
+| nyt | 0 | 6 | 12 | 26 |
 
 # Shown Order
 
@@ -2697,3 +2697,4 @@
 - **Aug 14, 06:09 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 14, 06:44 PM** - Golden Dome faces 2027 funding cliff  (spacenews)
 - **Aug 14, 07:19 PM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 14, 07:54 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
