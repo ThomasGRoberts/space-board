@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 15 | 29 |
 | breaking_defense | 2 | 4 | 12 | 22 |
-| nyt | 1 | 6 | 12 | 25 |
+| nyt | 1 | 6 | 13 | 26 |
 
 # Shown Order
 
@@ -2694,3 +2694,4 @@
 - **Aug 14, 04:24 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 14, 04:59 PM** - Spire and PlanetiQ win NOAA radio-occultation contracts (spacenews)
 - **Aug 14, 05:34 PM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
+- **Aug 14, 06:09 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
