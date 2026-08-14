@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 14 | 29 |
 | breaking_defense | 2 | 6 | 10 | 23 |
-| nyt | 4 | 6 | 13 | 24 |
+| nyt | 4 | 6 | 14 | 25 |
 
 # Shown Order
 
@@ -2681,3 +2681,4 @@
 - **Aug 14, 08:34 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 14, 09:09 AM** - Bulgaria advances project to launch new space, defense innovation hub (spacenews)
 - **Aug 14, 09:44 AM** - In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade (spacenews)
+- **Aug 14, 10:19 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
