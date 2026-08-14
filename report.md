@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 13 | 27 |
+| spacenews | 6 | 13 | 13 | 28 |
 | breaking_defense | 2 | 6 | 10 | 23 |
 | nyt | 4 | 7 | 14 | 26 |
 
@@ -2677,3 +2677,4 @@
 - **Aug 14, 06:04 AM** - Kepler books Neutron for 2028 optical relay launch (spacenews)
 - **Aug 14, 06:39 AM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
 - **Aug 14, 07:19 AM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
+- **Aug 14, 07:54 AM** - Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite (spacenews)
