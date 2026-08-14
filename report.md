@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 28 |
-| breaking_defense | 2 | 6 | 10 | 23 |
-| nyt | 4 | 7 | 14 | 25 |
+| breaking_defense | 2 | 6 | 11 | 24 |
+| nyt | 4 | 7 | 13 | 25 |
 
 # Shown Order
 
@@ -2675,3 +2675,4 @@
 - **Aug 14, 04:49 AM** - Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief (breaking_defense)
 - **Aug 14, 05:24 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 14, 06:04 AM** - Kepler books Neutron for 2028 optical relay launch (spacenews)
+- **Aug 14, 06:39 AM** - EU lays out $18B satellite constellation plan, with Spanish firm winning key role (breaking_defense)
