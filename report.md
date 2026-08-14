@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 15 | 30 |
 | breaking_defense | 2 | 5 | 10 | 22 |
-| nyt | 4 | 6 | 13 | 24 |
+| nyt | 4 | 6 | 14 | 25 |
 
 # Shown Order
 
@@ -2685,3 +2685,4 @@
 - **Aug 14, 10:59 AM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 14, 11:34 AM** - Intuitive Machines wins contract for three GEO satellites (spacenews)
 - **Aug 14, 12:09 PM** - Blue Origin outlines plans for second Cape Canaveral launch pad (spacenews)
+- **Aug 14, 12:44 PM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
