@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-14T00:04:48.695562+00:00",
-    "trigger_count": 6,
-    "current_item_id": "78de4a5fce223c0eb1268a86d5ba8f6e",
+    "trigger_count": 0,
+    "current_item_id": "311091477a25c712d20db32456b60585",
     "data": [
         {
             "id": "93b77bc186d8922ebe105c44c9072d2a",
@@ -8252,6 +8252,18 @@
             "fetched_datetime": "2026-08-14T13:24:25.472843Z",
             "shown_at": [
                 "2026-08-14T13:24:26.933356Z"
+            ]
+        },
+        {
+            "id": "311091477a25c712d20db32456b60585",
+            "source": "spacenews",
+            "text": "Spire and PlanetiQ win NOAA radio-occultation contracts",
+            "source_link": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T16:59:41.549658Z",
+            "shown_at": [
+                "2026-08-14T16:59:42.294255Z"
             ]
         }
     ]

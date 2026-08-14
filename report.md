@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 14 | 28 |
+| spacenews | 8 | 16 | 15 | 29 |
 | breaking_defense | 2 | 4 | 11 | 22 |
 | nyt | 4 | 6 | 14 | 26 |
 
@@ -2692,3 +2692,4 @@
 - **Aug 14, 03:14 PM** - National security doesn’t need more maps or imagery; it needs measurement (spacenews)
 - **Aug 14, 03:49 PM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 14, 04:24 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
+- **Aug 14, 04:59 PM** - Spire and PlanetiQ win NOAA radio-occultation contracts (spacenews)
