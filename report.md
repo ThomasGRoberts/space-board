@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 16 | 29 |
 | breaking_defense | 0 | 4 | 12 | 23 |
-| nyt | 0 | 4 | 12 | 24 |
+| nyt | 0 | 4 | 13 | 25 |
 
 # Shown Order
 
@@ -2700,3 +2700,4 @@
 - **Aug 14, 07:54 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 14, 08:29 PM** - Space Force orders two more Impulse Space vehicles for maneuvering demonstrations (spacenews)
 - **Aug 14, 09:04 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 14, 09:39 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
