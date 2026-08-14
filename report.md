@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 15 | 29 |
-| breaking_defense | 2 | 5 | 10 | 22 |
+| breaking_defense | 2 | 5 | 11 | 23 |
 | nyt | 4 | 6 | 14 | 25 |
 
 # Shown Order
@@ -2687,3 +2687,4 @@
 - **Aug 14, 12:09 PM** - Blue Origin outlines plans for second Cape Canaveral launch pad (spacenews)
 - **Aug 14, 12:44 PM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 14, 01:24 PM** - Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. (spacenews)
+- **Aug 14, 01:59 PM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
