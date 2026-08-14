@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 14 | 28 |
+| spacenews | 7 | 15 | 14 | 29 |
 | breaking_defense | 2 | 6 | 10 | 23 |
 | nyt | 4 | 6 | 13 | 25 |
 
@@ -2680,3 +2680,4 @@
 - **Aug 14, 07:54 AM** - Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite (spacenews)
 - **Aug 14, 08:34 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 14, 09:09 AM** - Bulgaria advances project to launch new space, defense innovation hub (spacenews)
+- **Aug 14, 09:44 AM** - In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade (spacenews)
