@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 14 | 29 |
 | breaking_defense | 0 | 2 | 13 | 23 |
-| nyt | 0 | 4 | 13 | 26 |
+| nyt | 0 | 4 | 14 | 27 |
 
 # Shown Order
 
@@ -2658,3 +2658,4 @@
 - **Aug 15, 10:49 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 15, 11:24 AM** - Intuitive Machines wins contract for three GEO satellites (spacenews)
 - **Aug 15, 11:59 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
+- **Aug 15, 12:34 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
