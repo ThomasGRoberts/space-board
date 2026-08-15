@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 9 | 13 | 30 |
 | breaking_defense | 0 | 0 | 14 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2676,3 +2676,4 @@
 - **Aug 15, 09:24 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 15, 10:09 PM** - Space Force orders two more Impulse Space vehicles for maneuvering demonstrations (spacenews)
 - **Aug 15, 10:49 PM** - Engineering decision advantage for the warfighter (breaking_defense)
+- **Aug 15, 11:24 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
