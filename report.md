@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 14 | 30 |
+| spacenews | 2 | 10 | 15 | 31 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -2674,3 +2674,4 @@
 - **Aug 15, 08:09 PM** - Golden Dome faces 2027 funding cliff  (spacenews)
 - **Aug 15, 08:46 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 15, 09:24 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
+- **Aug 15, 10:09 PM** - Space Force orders two more Impulse Space vehicles for maneuvering demonstrations (spacenews)
