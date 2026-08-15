@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 16 | 29 |
 | breaking_defense | 0 | 2 | 12 | 23 |
-| nyt | 0 | 4 | 12 | 25 |
+| nyt | 0 | 4 | 13 | 26 |
 
 # Shown Order
 
@@ -2652,3 +2652,4 @@
 - **Aug 15, 07:14 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 15, 07:49 AM** - Spire and PlanetiQ win NOAA radio-occultation contracts (spacenews)
 - **Aug 15, 08:24 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
+- **Aug 15, 08:59 AM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
