@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 14 | 29 |
-| breaking_defense | 0 | 2 | 13 | 23 |
+| breaking_defense | 0 | 2 | 14 | 24 |
 | nyt | 0 | 4 | 13 | 27 |
 
 # Shown Order
@@ -2660,3 +2660,4 @@
 - **Aug 15, 11:59 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 15, 12:34 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 15, 01:09 PM** - Northrop Grumman, Canadian Space Agency repurpose their Gateway projects (spacenews)
+- **Aug 15, 01:44 PM** - Engineering decision advantage for the warfighter (breaking_defense)
