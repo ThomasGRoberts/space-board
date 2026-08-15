@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 9 | 13 | 30 |
+| spacenews | 1 | 10 | 14 | 31 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 | nyt | 0 | 0 | 14 | 25 |
 
@@ -2677,3 +2677,4 @@
 - **Aug 15, 10:09 PM** - Space Force orders two more Impulse Space vehicles for maneuvering demonstrations (spacenews)
 - **Aug 15, 10:49 PM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 15, 11:24 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
+- **Aug 15, 11:59 PM** - Lunar orbiter among upcoming NASA CLPS task orders (spacenews)
