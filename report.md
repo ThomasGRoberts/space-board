@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 16 | 29 |
-| breaking_defense | 0 | 2 | 12 | 22 |
-| nyt | 0 | 4 | 12 | 26 |
+| breaking_defense | 0 | 2 | 12 | 23 |
+| nyt | 0 | 4 | 12 | 25 |
 
 # Shown Order
 
@@ -2642,3 +2642,4 @@
 - **Aug 15, 01:14 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 15, 01:49 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 15, 02:24 AM** - CesiumAstro buys semiconductor specialist to boost constellation plans (spacenews)
+- **Aug 15, 03:05 AM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
