@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 17 | 29 |
-| breaking_defense | 0 | 2 | 11 | 22 |
+| breaking_defense | 0 | 2 | 12 | 23 |
 | nyt | 0 | 4 | 12 | 25 |
 
 # Shown Order
@@ -2639,3 +2639,4 @@
 - **Aug 14, 11:29 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 15, 12:04 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 15, 12:39 AM** - Astranis unveils geostationary surveillance satellite (spacenews)
+- **Aug 15, 01:14 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
