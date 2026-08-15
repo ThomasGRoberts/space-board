@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 14 | 28 |
+| spacenews | 3 | 11 | 15 | 29 |
 | breaking_defense | 0 | 2 | 13 | 24 |
 | nyt | 0 | 4 | 13 | 27 |
 
@@ -2662,3 +2662,4 @@
 - **Aug 15, 01:09 PM** - Northrop Grumman, Canadian Space Agency repurpose their Gateway projects (spacenews)
 - **Aug 15, 01:44 PM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 15, 02:19 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
+- **Aug 15, 02:54 PM** - Golden Dome money starting to reach contractors, but long-term funding still unclear (spacenews)
