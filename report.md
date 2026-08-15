@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 16 | 29 |
+| spacenews | 8 | 14 | 17 | 29 |
 | breaking_defense | 0 | 2 | 12 | 22 |
 | nyt | 0 | 4 | 12 | 26 |
 
@@ -2647,3 +2647,4 @@
 - **Aug 15, 04:19 AM** - Space Command expands Alabama footprint as headquarters relocation advances (spacenews)
 - **Aug 15, 04:54 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 15, 05:29 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
+- **Aug 15, 06:04 AM** - Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite (spacenews)
