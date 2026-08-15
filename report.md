@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 30 |
 | breaking_defense | 0 | 2 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 24 |
+| nyt | 0 | 0 | 14 | 25 |
 
 # Shown Order
 
@@ -2670,3 +2670,4 @@
 - **Aug 15, 05:49 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 15, 06:24 PM** - SpaceX increasing footprint in missile defense (spacenews)
 - **Aug 15, 06:59 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 15, 07:34 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
