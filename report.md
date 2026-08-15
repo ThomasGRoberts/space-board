@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 14 | 29 |
+| spacenews | 4 | 12 | 15 | 30 |
 | breaking_defense | 0 | 2 | 13 | 23 |
 | nyt | 0 | 4 | 13 | 27 |
 
@@ -2659,3 +2659,4 @@
 - **Aug 15, 11:24 AM** - Intuitive Machines wins contract for three GEO satellites (spacenews)
 - **Aug 15, 11:59 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 15, 12:34 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
+- **Aug 15, 01:09 PM** - Northrop Grumman, Canadian Space Agency repurpose their Gateway projects (spacenews)
