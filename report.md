@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 16 | 29 |
-| breaking_defense | 0 | 2 | 12 | 22 |
-| nyt | 0 | 4 | 12 | 26 |
+| breaking_defense | 0 | 2 | 13 | 23 |
+| nyt | 0 | 4 | 12 | 25 |
 
 # Shown Order
 
@@ -2648,3 +2648,4 @@
 - **Aug 15, 04:54 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 15, 05:29 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 15, 06:04 AM** - Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite (spacenews)
+- **Aug 15, 06:39 AM** - Engineering decision advantage for the warfighter (breaking_defense)
