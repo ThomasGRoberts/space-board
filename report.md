@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 14 | 29 |
 | breaking_defense | 0 | 2 | 13 | 24 |
-| nyt | 0 | 4 | 13 | 26 |
+| nyt | 0 | 4 | 14 | 27 |
 
 # Shown Order
 
@@ -2664,3 +2664,4 @@
 - **Aug 15, 02:19 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 15, 02:54 PM** - Golden Dome money starting to reach contractors, but long-term funding still unclear (spacenews)
 - **Aug 15, 03:29 PM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
+- **Aug 15, 04:04 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
