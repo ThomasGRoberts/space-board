@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 16 | 29 |
+| spacenews | 9 | 15 | 17 | 29 |
 | breaking_defense | 0 | 2 | 12 | 22 |
 | nyt | 0 | 4 | 12 | 26 |
 
@@ -2638,3 +2638,4 @@
 - **Aug 14, 10:49 PM** - U.S. Space Force adds second surveillance sensor to Japanese constellation (spacenews)
 - **Aug 14, 11:29 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 15, 12:04 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
+- **Aug 15, 12:39 AM** - Astranis unveils geostationary surveillance satellite (spacenews)
