@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 16 | 29 |
 | breaking_defense | 0 | 2 | 12 | 23 |
-| nyt | 0 | 4 | 12 | 25 |
+| nyt | 0 | 4 | 13 | 26 |
 
 # Shown Order
 
@@ -2649,3 +2649,4 @@
 - **Aug 15, 05:29 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 15, 06:04 AM** - Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite (spacenews)
 - **Aug 15, 06:39 AM** - Engineering decision advantage for the warfighter (breaking_defense)
+- **Aug 15, 07:14 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
