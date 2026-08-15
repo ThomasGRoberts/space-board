@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 14 | 29 |
 | breaking_defense | 0 | 2 | 13 | 24 |
-| nyt | 0 | 4 | 13 | 26 |
+| nyt | 0 | 4 | 14 | 27 |
 
 # Shown Order
 
@@ -2661,3 +2661,4 @@
 - **Aug 15, 12:34 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 15, 01:09 PM** - Northrop Grumman, Canadian Space Agency repurpose their Gateway projects (spacenews)
 - **Aug 15, 01:44 PM** - Engineering decision advantage for the warfighter (breaking_defense)
+- **Aug 15, 02:19 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
