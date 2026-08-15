@@ -2644,3 +2644,4 @@
 - **Aug 15, 02:24 AM** - CesiumAstro buys semiconductor specialist to boost constellation plans (spacenews)
 - **Aug 15, 03:05 AM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
 - **Aug 15, 03:44 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
+- **Aug 15, 04:19 AM** - Space Command expands Alabama footprint as headquarters relocation advances (spacenews)
