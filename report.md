@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 9 | 14 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| spacenews | 0 | 9 | 14 | 30 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2675,3 +2675,4 @@
 - **Aug 15, 08:46 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 15, 09:24 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 15, 10:09 PM** - Space Force orders two more Impulse Space vehicles for maneuvering demonstrations (spacenews)
+- **Aug 15, 10:49 PM** - Engineering decision advantage for the warfighter (breaking_defense)
