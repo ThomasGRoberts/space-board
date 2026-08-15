@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 30 |
-| breaking_defense | 0 | 2 | 13 | 25 |
+| breaking_defense | 0 | 2 | 14 | 26 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2669,3 +2669,4 @@
 - **Aug 15, 05:14 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 15, 05:49 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 15, 06:24 PM** - SpaceX increasing footprint in missile defense (spacenews)
+- **Aug 15, 06:59 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
