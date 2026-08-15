@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 15 | 28 |
 | breaking_defense | 0 | 2 | 13 | 23 |
-| nyt | 0 | 4 | 12 | 26 |
+| nyt | 0 | 4 | 13 | 27 |
 
 # Shown Order
 
@@ -2655,3 +2655,4 @@
 - **Aug 15, 08:59 AM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 15, 09:34 AM** - CesiumAstro buys semiconductor specialist to boost constellation plans (spacenews)
 - **Aug 15, 10:14 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
+- **Aug 15, 10:49 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
