@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 16 | 29 |
-| breaking_defense | 0 | 2 | 12 | 23 |
-| nyt | 0 | 4 | 12 | 25 |
+| breaking_defense | 0 | 2 | 12 | 22 |
+| nyt | 0 | 4 | 12 | 26 |
 
 # Shown Order
 
@@ -2646,3 +2646,4 @@
 - **Aug 15, 03:44 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 15, 04:19 AM** - Space Command expands Alabama footprint as headquarters relocation advances (spacenews)
 - **Aug 15, 04:54 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
+- **Aug 15, 05:29 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
