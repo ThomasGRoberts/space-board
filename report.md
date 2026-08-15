@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 29 |
-| breaking_defense | 0 | 2 | 13 | 24 |
-| nyt | 0 | 4 | 13 | 27 |
+| breaking_defense | 0 | 2 | 14 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -2666,3 +2666,4 @@
 - **Aug 15, 03:29 PM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
 - **Aug 15, 04:04 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 15, 04:39 PM** - First Neutron launch may slip to 2027 (spacenews)
+- **Aug 15, 05:14 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
