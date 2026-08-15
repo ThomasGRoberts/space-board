@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 30 |
-| breaking_defense | 0 | 1 | 13 | 25 |
+| breaking_defense | 0 | 1 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2672,3 +2672,4 @@
 - **Aug 15, 06:59 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 15, 07:34 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 15, 08:09 PM** - Golden Dome faces 2027 funding cliff  (spacenews)
+- **Aug 15, 08:46 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
