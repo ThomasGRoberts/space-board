@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 16 | 29 |
 | breaking_defense | 0 | 2 | 12 | 22 |
-| nyt | 0 | 4 | 12 | 25 |
+| nyt | 0 | 4 | 12 | 26 |
 
 # Shown Order
 
@@ -2643,3 +2643,4 @@
 - **Aug 15, 01:49 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 15, 02:24 AM** - CesiumAstro buys semiconductor specialist to boost constellation plans (spacenews)
 - **Aug 15, 03:05 AM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
+- **Aug 15, 03:44 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
