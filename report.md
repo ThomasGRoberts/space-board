@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 15 | 28 |
+| spacenews | 6 | 12 | 16 | 29 |
 | breaking_defense | 0 | 2 | 12 | 23 |
 | nyt | 0 | 4 | 13 | 26 |
 
@@ -2656,3 +2656,4 @@
 - **Aug 15, 09:34 AM** - CesiumAstro buys semiconductor specialist to boost constellation plans (spacenews)
 - **Aug 15, 10:14 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 15, 10:49 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
+- **Aug 15, 11:24 AM** - Intuitive Machines wins contract for three GEO satellites (spacenews)
