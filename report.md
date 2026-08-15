@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 29 |
 | breaking_defense | 0 | 2 | 13 | 25 |
-| nyt | 0 | 1 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -2667,3 +2667,4 @@
 - **Aug 15, 04:04 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 15, 04:39 PM** - First Neutron launch may slip to 2027 (spacenews)
 - **Aug 15, 05:14 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 15, 05:49 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
