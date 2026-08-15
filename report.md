@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 15 | 29 |
-| breaking_defense | 0 | 2 | 12 | 22 |
+| breaking_defense | 0 | 2 | 13 | 23 |
 | nyt | 0 | 4 | 13 | 26 |
 
 # Shown Order
@@ -2654,3 +2654,4 @@
 - **Aug 15, 08:24 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 15, 08:59 AM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 15, 09:34 AM** - CesiumAstro buys semiconductor specialist to boost constellation plans (spacenews)
+- **Aug 15, 10:14 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
