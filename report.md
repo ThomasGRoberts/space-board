@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 14 | 30 |
+| spacenews | 2 | 10 | 15 | 31 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -2671,3 +2671,4 @@
 - **Aug 15, 06:24 PM** - SpaceX increasing footprint in missile defense (spacenews)
 - **Aug 15, 06:59 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 15, 07:34 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
+- **Aug 15, 08:09 PM** - Golden Dome faces 2027 funding cliff  (spacenews)
