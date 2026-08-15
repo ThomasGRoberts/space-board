@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 30 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2673,3 +2673,4 @@
 - **Aug 15, 07:34 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 15, 08:09 PM** - Golden Dome faces 2027 funding cliff  (spacenews)
 - **Aug 15, 08:46 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
+- **Aug 15, 09:24 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
