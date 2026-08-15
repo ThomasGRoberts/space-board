@@ -1,9 +1,118 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-14T00:04:48.695562+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2ae001a46f68535907d8db5fe5ab3bde",
+    "last_run_datetime": "2026-08-15T00:04:51.361594+00:00",
+    "trigger_count": 0,
+    "current_item_id": "7f1d8b5fda3990243d124ea39f6acef2",
     "data": [
+        {
+            "id": "e9ce5b4e0b1291e949d4b669c5777fc8",
+            "source": "spacenews",
+            "text": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
+            "source_link": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T22:49:27.517020Z",
+            "shown_at": [
+                "2026-08-14T22:49:29.695760Z"
+            ]
+        },
+        {
+            "id": "59030ea46f06517bcd1f6e2dc060d841",
+            "source": "spacenews",
+            "text": "Wallops gears up for an increase in launches",
+            "source_link": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T22:14:09.591768Z",
+            "shown_at": [
+                "2026-08-14T22:14:12.707523Z"
+            ]
+        },
+        {
+            "id": "311091477a25c712d20db32456b60585",
+            "source": "spacenews",
+            "text": "Spire and PlanetiQ win NOAA radio-occultation contracts",
+            "source_link": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T16:59:41.549658Z",
+            "shown_at": [
+                "2026-08-14T16:59:42.294255Z"
+            ]
+        },
+        {
+            "id": "89ab7c747d5f9e699f590cb70479271f",
+            "source": "spacenews",
+            "text": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
+            "source_link": "https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T13:24:25.472843Z",
+            "shown_at": [
+                "2026-08-14T13:24:26.933356Z"
+            ]
+        },
+        {
+            "id": "282aae71575fed1dd2d611df8d0e092f",
+            "source": "spacenews",
+            "text": "Blue Origin outlines plans for second Cape Canaveral launch pad",
+            "source_link": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T12:09:27.562463Z",
+            "shown_at": [
+                "2026-08-14T12:09:28.399982Z"
+            ]
+        },
+        {
+            "id": "6830b7e821a2251805ff850ba7b1d309",
+            "source": "spacenews",
+            "text": "Intuitive Machines wins contract for three GEO satellites",
+            "source_link": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T11:34:47.272357Z",
+            "shown_at": [
+                "2026-08-14T11:34:48.048968Z"
+            ]
+        },
+        {
+            "id": "f90d03adcfaee2314d4255c3976b362a",
+            "source": "spacenews",
+            "text": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
+            "source_link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T09:09:28.021226Z",
+            "shown_at": [
+                "2026-08-14T09:44:19.610342Z"
+            ]
+        },
+        {
+            "id": "d7e2a8bc4822304fd31e5afc0ca4bccc",
+            "source": "spacenews",
+            "text": "Bulgaria advances project to launch new space, defense innovation hub",
+            "source_link": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T09:09:28.021168Z",
+            "shown_at": [
+                "2026-08-14T09:09:28.874185Z"
+            ]
+        },
+        {
+            "id": "ad734b3daf404782b950cd7bc2e73084",
+            "source": "spacenews",
+            "text": "CesiumAstro buys semiconductor specialist to boost constellation plans",
+            "source_link": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-14T02:29:19.710586Z",
+            "shown_at": [
+                "2026-08-14T02:29:20.249940Z",
+                "2026-08-14T04:14:46.082128Z"
+            ]
+        },
         {
             "id": "93b77bc186d8922ebe105c44c9072d2a",
             "source": "spacenews",
@@ -454,7 +563,8 @@
                 "2026-08-12T04:39:31.599625Z",
                 "2026-08-12T09:59:30.806589Z",
                 "2026-08-12T14:54:41.082387Z",
-                "2026-08-13T04:50:16.061426Z"
+                "2026-08-13T04:50:16.061426Z",
+                "2026-08-15T00:04:57.110974Z"
             ]
         },
         {
@@ -8022,281 +8132,6 @@
                 "2026-06-04T19:59:27.875853Z",
                 "2026-06-06T11:54:28.555425Z",
                 "2026-06-07T07:59:13.841374Z"
-            ]
-        },
-        {
-            "id": "b7a176dda7b89fc56c42aefac1f5ca59",
-            "source": "nyt",
-            "text": "SpaceX IPO to Be Largest Ever at $135 Share Price",
-            "source_link": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T22:09:15.468579Z",
-            "shown_at": [
-                "2026-06-03T22:09:18.928789Z",
-                "2026-06-04T01:44:12.632917Z",
-                "2026-06-04T09:29:23.106561Z",
-                "2026-06-04T11:14:22.636282Z",
-                "2026-06-04T17:04:54.362726Z",
-                "2026-06-05T00:08:58.750720Z",
-                "2026-06-05T01:54:16.007177Z",
-                "2026-06-06T01:53:58.924683Z",
-                "2026-06-06T07:09:17.125970Z",
-                "2026-06-06T08:59:19.428118Z",
-                "2026-06-06T18:29:19.865472Z",
-                "2026-06-06T20:14:20.740931Z",
-                "2026-06-06T21:59:17.886019Z",
-                "2026-06-07T06:49:17.777203Z",
-                "2026-06-07T12:09:19.600577Z",
-                "2026-06-07T19:14:29.991833Z",
-                "2026-06-07T22:44:17.881840Z",
-                "2026-06-08T02:15:03.803042Z",
-                "2026-06-08T12:49:28.280198Z",
-                "2026-06-08T19:49:25.646155Z",
-                "2026-06-08T21:34:30.717050Z",
-                "2026-06-09T04:34:35.436368Z",
-                "2026-06-09T08:04:45.872455Z",
-                "2026-06-09T09:59:27.619276Z",
-                "2026-06-10T07:54:39.616977Z"
-            ]
-        },
-        {
-            "id": "06cd249aa879531519681e43165ae13e",
-            "source": "spacenews",
-            "text": "AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027",
-            "source_link": "https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T21:34:45.261452Z",
-            "shown_at": [
-                "2026-06-03T21:34:46.156114Z"
-            ]
-        },
-        {
-            "id": "cc6e6124a64084d7ddee0e24987a0dc7",
-            "source": "spacenews",
-            "text": "After cooperation on SMILE mission, ESA and China chart parallel but separate paths",
-            "source_link": "https://spacenews.com/after-cooperation-on-smile-mission-esa-and-china-chart-parallel-but-separate-paths/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T19:14:27.373805Z",
-            "shown_at": [
-                "2026-06-03T19:14:28.129173Z"
-            ]
-        },
-        {
-            "id": "1e1353c294d55f5424a4f6d37d5489ff",
-            "source": "breaking_defense",
-            "text": "Army, J-7 to test new sensor with high-altitude balloon in coming days",
-            "source_link": "https://breakingdefense.com/2026/06/army-j-7-to-test-new-sensor-with-high-altitude-balloon-in-coming-days/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T16:19:33.728033Z",
-            "shown_at": [
-                "2026-06-03T16:19:35.969722Z",
-                "2026-06-04T23:33:35.663478Z",
-                "2026-06-05T17:44:19.915080Z",
-                "2026-06-06T02:29:13.322299Z",
-                "2026-06-06T04:14:06.230071Z",
-                "2026-06-06T22:34:43.072173Z",
-                "2026-06-07T00:19:26.032263Z",
-                "2026-06-07T12:44:38.824520Z",
-                "2026-06-07T18:39:15.769827Z",
-                "2026-06-07T22:09:10.336415Z",
-                "2026-06-08T03:24:11.103195Z",
-                "2026-06-08T08:09:43.917660Z",
-                "2026-06-08T09:54:25.770733Z",
-                "2026-06-08T18:04:58.595021Z",
-                "2026-06-08T20:24:17.495505Z",
-                "2026-06-09T01:39:13.381353Z",
-                "2026-06-09T05:09:18.211513Z",
-                "2026-06-09T06:54:25.115794Z",
-                "2026-06-09T10:34:42.245511Z",
-                "2026-06-10T01:54:26.666381Z",
-                "2026-06-10T03:39:24.312374Z",
-                "2026-06-10T07:19:28.199398Z",
-                "2026-06-10T10:54:30.713390Z"
-            ]
-        },
-        {
-            "id": "92ab0ee8074ab2219b16f57624c0f2e1",
-            "source": "spacenews",
-            "text": "Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers",
-            "source_link": "https://spacenews.com/electronics-manufacturer-murata-to-explore-xona-satellite-timing-service-for-telecom-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T15:44:23.793520Z",
-            "shown_at": [
-                "2026-06-03T15:44:24.979436Z"
-            ]
-        },
-        {
-            "id": "6f76f3b365db001580c3873e2a7ea45e",
-            "source": "spacenews",
-            "text": "Europe is rearming together — except in space",
-            "source_link": "https://spacenews.com/europe-is-rearming-together-except-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T13:14:33.884860Z",
-            "shown_at": [
-                "2026-06-03T13:14:35.768491Z",
-                "2026-06-04T08:49:26.179401Z",
-                "2026-06-10T03:04:49.077942Z"
-            ]
-        },
-        {
-            "id": "647be05ce63a84f8652bea1aa77e5f23",
-            "source": "spacenews",
-            "text": "Muon Space unveils Starship-class satellite platform for orbital data centers",
-            "source_link": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T11:59:14.889151Z",
-            "shown_at": [
-                "2026-06-03T11:59:16.044692Z",
-                "2026-06-03T23:24:14.275323Z",
-                "2026-06-04T15:19:20.720141Z",
-                "2026-06-06T17:19:08.052091Z"
-            ]
-        },
-        {
-            "id": "cfbd741cd8c0b79b0dcf308867b45324",
-            "source": "spacenews",
-            "text": "Blue Origin seeks to resume New Glenn launches by year’s end",
-            "source_link": "https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T10:49:12.220099Z",
-            "shown_at": [
-                "2026-06-03T10:49:15.333009Z",
-                "2026-06-05T20:04:36.981873Z",
-                "2026-06-06T21:24:14.740043Z",
-                "2026-06-07T23:19:13.562274Z",
-                "2026-06-08T16:54:34.162444Z",
-                "2026-06-08T22:43:46.167830Z"
-            ]
-        },
-        {
-            "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
-            "source": "spacenews",
-            "text": "NRO nominee says commercial space, AI are reshaping spy satellite agency",
-            "source_link": "https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T22:54:02.243762Z",
-            "shown_at": [
-                "2026-06-02T22:54:04.585711Z",
-                "2026-06-04T21:49:50.556147Z",
-                "2026-06-09T00:29:22.365343Z"
-            ]
-        },
-        {
-            "id": "ad734b3daf404782b950cd7bc2e73084",
-            "source": "spacenews",
-            "text": "CesiumAstro buys semiconductor specialist to boost constellation plans",
-            "source_link": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-14T02:29:19.710586Z",
-            "shown_at": [
-                "2026-08-14T02:29:20.249940Z",
-                "2026-08-14T04:14:46.082128Z"
-            ]
-        },
-        {
-            "id": "d7e2a8bc4822304fd31e5afc0ca4bccc",
-            "source": "spacenews",
-            "text": "Bulgaria advances project to launch new space, defense innovation hub",
-            "source_link": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-14T09:09:28.021168Z",
-            "shown_at": [
-                "2026-08-14T09:09:28.874185Z"
-            ]
-        },
-        {
-            "id": "f90d03adcfaee2314d4255c3976b362a",
-            "source": "spacenews",
-            "text": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-            "source_link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-14T09:09:28.021226Z",
-            "shown_at": [
-                "2026-08-14T09:44:19.610342Z"
-            ]
-        },
-        {
-            "id": "6830b7e821a2251805ff850ba7b1d309",
-            "source": "spacenews",
-            "text": "Intuitive Machines wins contract for three GEO satellites",
-            "source_link": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-14T11:34:47.272357Z",
-            "shown_at": [
-                "2026-08-14T11:34:48.048968Z"
-            ]
-        },
-        {
-            "id": "282aae71575fed1dd2d611df8d0e092f",
-            "source": "spacenews",
-            "text": "Blue Origin outlines plans for second Cape Canaveral launch pad",
-            "source_link": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-14T12:09:27.562463Z",
-            "shown_at": [
-                "2026-08-14T12:09:28.399982Z"
-            ]
-        },
-        {
-            "id": "89ab7c747d5f9e699f590cb70479271f",
-            "source": "spacenews",
-            "text": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
-            "source_link": "https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-14T13:24:25.472843Z",
-            "shown_at": [
-                "2026-08-14T13:24:26.933356Z"
-            ]
-        },
-        {
-            "id": "311091477a25c712d20db32456b60585",
-            "source": "spacenews",
-            "text": "Spire and PlanetiQ win NOAA radio-occultation contracts",
-            "source_link": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-14T16:59:41.549658Z",
-            "shown_at": [
-                "2026-08-14T16:59:42.294255Z"
-            ]
-        },
-        {
-            "id": "59030ea46f06517bcd1f6e2dc060d841",
-            "source": "spacenews",
-            "text": "Wallops gears up for an increase in launches",
-            "source_link": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-14T22:14:09.591768Z",
-            "shown_at": [
-                "2026-08-14T22:14:12.707523Z"
-            ]
-        },
-        {
-            "id": "e9ce5b4e0b1291e949d4b669c5777fc8",
-            "source": "spacenews",
-            "text": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
-            "source_link": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-14T22:49:27.517020Z",
-            "shown_at": [
-                "2026-08-14T22:49:29.695760Z"
             ]
         }
     ]
