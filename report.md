@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2703,3 +2703,4 @@
 - **Aug 16, 03:49 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 16, 04:24 PM** - In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade (spacenews)
 - **Aug 16, 04:59 PM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
+- **Aug 16, 05:34 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
