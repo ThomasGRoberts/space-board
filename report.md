@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 14 | 29 |
+| spacenews | 2 | 8 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2692,3 +2692,4 @@
 - **Aug 16, 09:24 AM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
 - **Aug 16, 09:59 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 16, 10:34 AM** - U.S. Space Force adds second surveillance sensor to Japanese constellation (spacenews)
+- **Aug 16, 11:09 AM** - U.S. defense agencies tap three companies for satellite disposal study (spacenews)

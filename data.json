@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-16T00:04:40.468183+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e9ce5b4e0b1291e949d4b669c5777fc8",
+    "trigger_count": 0,
+    "current_item_id": "d8a84f4137443ee23cc9955925ef27a8",
     "data": [
         {
             "id": "4b662d995019871ef180641cdc73d209",
@@ -8186,6 +8186,18 @@
             "fetched_datetime": "2026-06-04T03:29:25.238945Z",
             "shown_at": [
                 "2026-06-04T03:29:26.593090Z"
+            ]
+        },
+        {
+            "id": "d8a84f4137443ee23cc9955925ef27a8",
+            "source": "spacenews",
+            "text": "U.S. defense agencies tap three companies for satellite disposal study",
+            "source_link": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-16T11:09:14.656846Z",
+            "shown_at": [
+                "2026-08-16T11:09:15.995946Z"
             ]
         }
     ]
