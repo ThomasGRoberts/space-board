@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 13 | 30 |
 | breaking_defense | 0 | 0 | 14 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2675,3 +2675,4 @@
 - **Aug 15, 11:24 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 15, 11:59 PM** - Lunar orbiter among upcoming NASA CLPS task orders (spacenews)
 - **Aug 16, 12:34 AM** - Engineering decision advantage for the warfighter (breaking_defense)
+- **Aug 16, 01:09 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
