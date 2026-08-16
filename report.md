@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 13 | 29 |
 | breaking_defense | 0 | 0 | 14 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2678,3 +2678,4 @@
 - **Aug 16, 01:09 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 16, 01:44 AM** - Blue Origin outlines plans for second Cape Canaveral launch pad (spacenews)
 - **Aug 16, 02:18 AM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
+- **Aug 16, 02:54 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
