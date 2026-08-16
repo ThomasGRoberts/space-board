@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 14 | 29 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 2 | 5 | 14 | 28 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2696,3 +2696,4 @@
 - **Aug 16, 11:43 AM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
 - **Aug 16, 12:19 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 16, 12:54 PM** - Lunar orbiter among upcoming NASA CLPS task orders (spacenews)
+- **Aug 16, 01:28 PM** - Engineering decision advantage for the warfighter (breaking_defense)
