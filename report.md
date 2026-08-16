@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 14 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2683,3 +2683,4 @@
 - **Aug 16, 04:04 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 16, 04:39 AM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 16, 05:14 AM** - China’s iSpace raises first batch of series E funding for reusable rocketry (spacenews)
+- **Aug 16, 05:49 AM** - Engineering decision advantage for the warfighter (breaking_defense)
