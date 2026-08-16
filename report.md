@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 15 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2714,3 +2714,4 @@
 - **Aug 16, 10:14 PM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
 - **Aug 16, 10:49 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 16, 11:24 PM** - Satellite operators emphasize launch deals in a constrained market (spacenews)
+- **Aug 16, 11:59 PM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
