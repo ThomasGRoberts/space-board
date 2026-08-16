@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2712,3 +2712,4 @@
 - **Aug 16, 09:04 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 16, 09:39 PM** - In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade (spacenews)
 - **Aug 16, 10:14 PM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
+- **Aug 16, 10:49 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
