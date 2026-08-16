@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 13 | 29 |
 | breaking_defense | 0 | 0 | 14 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2684,3 +2684,4 @@
 - **Aug 16, 04:39 AM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 16, 05:14 AM** - China’s iSpace raises first batch of series E funding for reusable rocketry (spacenews)
 - **Aug 16, 05:49 AM** - Engineering decision advantage for the warfighter (breaking_defense)
+- **Aug 16, 06:24 AM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
