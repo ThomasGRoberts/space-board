@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 28 |
+| spacenews | 2 | 4 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -2704,3 +2704,4 @@
 - **Aug 16, 04:24 PM** - In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade (spacenews)
 - **Aug 16, 04:59 PM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 16, 05:34 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
+- **Aug 16, 06:09 PM** - National security doesn’t need more maps or imagery; it needs measurement (spacenews)
