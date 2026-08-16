@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 13 | 29 |
 | breaking_defense | 0 | 0 | 14 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2687,3 +2687,4 @@
 - **Aug 16, 06:24 AM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 16, 06:59 AM** - In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade (spacenews)
 - **Aug 16, 07:34 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 16, 08:14 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
