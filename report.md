@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2694,3 +2694,4 @@
 - **Aug 16, 10:34 AM** - U.S. Space Force adds second surveillance sensor to Japanese constellation (spacenews)
 - **Aug 16, 11:09 AM** - U.S. defense agencies tap three companies for satellite disposal study (spacenews)
 - **Aug 16, 11:43 AM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
+- **Aug 16, 12:19 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
