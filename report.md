@@ -8,13 +8,11 @@
 
 # Shown Order
 
-- **Jun 04, 12:34 AM** - NASA declares end to MAVEN Mars mission (spacenews)
 - **Jun 04, 03:29 AM** - SpaceX to raise at least $75 billion in IPO (spacenews)
 - **Jun 04, 10:04 AM** - China builds institutional framework for space computing push (spacenews)
 - **Jun 04, 11:49 AM** - NASA working to streamline development of nuclear electric propulsion demo mission (spacenews)
 - **Jun 04, 02:44 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 04, 04:29 PM** - AstroForge completes DeepSpace-2 spacecraft (spacenews)
-- **Jun 04, 07:59 PM** - NASA declares end to MAVEN Mars mission (spacenews)
 - **Jun 04, 10:59 PM** - HASC NDAA markup challenges Space Force on satellite programs (spacenews)
 - **Jun 05, 07:14 AM** - Axiom Space adds more than $175 million to funding round (spacenews)
 - **Jun 05, 08:59 AM** - The Exploration Company completes drop test of Nyx capsule (spacenews)
@@ -28,7 +26,6 @@
 - **Jun 06, 12:09 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 06, 03:04 AM** - NASA working to streamline development of nuclear electric propulsion demo mission (spacenews)
 - **Jun 06, 06:34 AM** - Astronauts briefly shelter in Dragon during ISS leak repair (spacenews)
-- **Jun 06, 11:54 AM** - NASA declares end to MAVEN Mars mission (spacenews)
 - **Jun 06, 04:09 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 06, 05:54 PM** - NASA concerns about Russian repairs prompted ISS safe haven decision (spacenews)
 - **Jun 06, 07:39 PM** - HASC NDAA markup challenges Space Force on satellite programs (spacenews)
@@ -38,7 +35,6 @@
 - **Jun 07, 01:34 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 07, 03:19 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 07, 05:04 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
-- **Jun 07, 07:59 AM** - NASA declares end to MAVEN Mars mission (spacenews)
 - **Jun 07, 08:39 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 07, 09:49 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
 - **Jun 07, 10:24 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
