@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 14 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2686,3 +2686,4 @@
 - **Aug 16, 05:49 AM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 16, 06:24 AM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 16, 06:59 AM** - In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade (spacenews)
+- **Aug 16, 07:34 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
