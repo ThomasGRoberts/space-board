@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 14 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2677,3 +2677,4 @@
 - **Aug 16, 12:34 AM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 16, 01:09 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 16, 01:44 AM** - Blue Origin outlines plans for second Cape Canaveral launch pad (spacenews)
+- **Aug 16, 02:18 AM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
