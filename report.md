@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2697,3 +2697,4 @@
 - **Aug 16, 12:19 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 16, 12:54 PM** - Lunar orbiter among upcoming NASA CLPS task orders (spacenews)
 - **Aug 16, 01:28 PM** - Engineering decision advantage for the warfighter (breaking_defense)
+- **Aug 16, 02:04 PM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
