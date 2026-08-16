@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 14 | 29 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2689,3 +2689,4 @@
 - **Aug 16, 07:34 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 16, 08:14 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 16, 08:49 AM** - Spire and PlanetiQ win NOAA radio-occultation contracts (spacenews)
+- **Aug 16, 09:24 AM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
