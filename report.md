@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 13 | 28 |
 | breaking_defense | 0 | 0 | 14 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2690,3 +2690,4 @@
 - **Aug 16, 08:14 AM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 16, 08:49 AM** - Spire and PlanetiQ win NOAA radio-occultation contracts (spacenews)
 - **Aug 16, 09:24 AM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
+- **Aug 16, 09:59 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
