@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 14 | 29 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2693,3 +2693,4 @@
 - **Aug 16, 09:59 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 16, 10:34 AM** - U.S. Space Force adds second surveillance sensor to Japanese constellation (spacenews)
 - **Aug 16, 11:09 AM** - U.S. defense agencies tap three companies for satellite disposal study (spacenews)
+- **Aug 16, 11:43 AM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
