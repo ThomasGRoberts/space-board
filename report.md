@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 14 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2674,3 +2674,4 @@
 - **Aug 15, 10:49 PM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 15, 11:24 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 15, 11:59 PM** - Lunar orbiter among upcoming NASA CLPS task orders (spacenews)
+- **Aug 16, 12:34 AM** - Engineering decision advantage for the warfighter (breaking_defense)
