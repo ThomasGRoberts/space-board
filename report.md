@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 14 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2680,3 +2680,4 @@
 - **Aug 16, 02:18 AM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
 - **Aug 16, 02:54 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 16, 03:29 AM** - Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors (spacenews)
+- **Aug 16, 04:04 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
