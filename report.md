@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 14 | 28 |
+| spacenews | 2 | 5 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2698,3 +2698,4 @@
 - **Aug 16, 12:54 PM** - Lunar orbiter among upcoming NASA CLPS task orders (spacenews)
 - **Aug 16, 01:28 PM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 16, 02:04 PM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
+- **Aug 16, 02:39 PM** - Rocket Lab builds deployable infrastructure for Electron launches (spacenews)
