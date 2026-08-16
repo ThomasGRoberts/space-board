@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 29 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2705,3 +2705,4 @@
 - **Aug 16, 04:59 PM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 16, 05:34 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 16, 06:09 PM** - National security doesn’t need more maps or imagery; it needs measurement (spacenews)
+- **Aug 16, 06:44 PM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
