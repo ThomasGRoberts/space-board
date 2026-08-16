@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 14 | 28 |
+| spacenews | 2 | 6 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2695,3 +2695,4 @@
 - **Aug 16, 11:09 AM** - U.S. defense agencies tap three companies for satellite disposal study (spacenews)
 - **Aug 16, 11:43 AM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
 - **Aug 16, 12:19 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
+- **Aug 16, 12:54 PM** - Lunar orbiter among upcoming NASA CLPS task orders (spacenews)
