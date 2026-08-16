@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 14 | 29 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 2 | 5 | 14 | 28 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2699,3 +2699,4 @@
 - **Aug 16, 01:28 PM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 16, 02:04 PM** - What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely (nyt)
 - **Aug 16, 02:39 PM** - Rocket Lab builds deployable infrastructure for Electron launches (spacenews)
+- **Aug 16, 03:14 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
