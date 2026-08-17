@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-17T00:04:52.792754+00:00",
-    "trigger_count": 6,
-    "current_item_id": "048ecd5ac520e8334a4b8eb9ea044662",
+    "trigger_count": 0,
+    "current_item_id": "57e71664f523e39fbb23b5f8fb25665f",
     "data": [
         {
             "id": "cd4513d671975fe6ec4712a5057457e1",
@@ -8292,6 +8292,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-08-17T12:44:47.596508Z"
+        },
+        {
+            "id": "57e71664f523e39fbb23b5f8fb25665f",
+            "source": "breaking_defense",
+            "text": "Space Force brings 5 companies on-board Space Data Network",
+            "source_link": "https://breakingdefense.com/2026/08/space-force-brings-5-companies-on-board-space-data-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T13:19:45.396117Z",
+            "shown_at": [
+                "2026-08-17T13:19:46.331804Z"
+            ]
         }
     ]
 }

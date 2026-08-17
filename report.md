@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 15 | 29 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 1 | 1 | 14 | 27 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2733,3 +2733,4 @@
 - **Aug 17, 11:29 AM** - A rocket crashed into the moon. It was harmless, but the next one might not be. (spacenews)
 - **Aug 17, 12:09 PM** - SEOPS adds second Waymaker rideshare mission (spacenews)
 - **Aug 17, 12:44 PM** - L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down (spacenews)
+- **Aug 17, 01:19 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
