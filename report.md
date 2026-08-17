@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 15 | 30 |
-| breaking_defense | 2 | 2 | 12 | 25 |
+| breaking_defense | 2 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -2749,3 +2749,4 @@
 - **Aug 17, 09:59 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 17, 10:39 PM** - HEO to use Planet satellites for non-Earth imaging (spacenews)
 - **Aug 17, 11:19 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
+- **Aug 17, 11:54 PM** - Engineering decision advantage for the warfighter (breaking_defense)
