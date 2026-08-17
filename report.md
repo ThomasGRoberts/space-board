@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 16 | 30 |
 | breaking_defense | 2 | 2 | 12 | 25 |
-| nyt | 0 | 0 | 10 | 24 |
+| nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -2748,3 +2748,4 @@
 - **Aug 17, 09:24 PM** - New EU sanctions target leaders of Russia’s space industry (spacenews)
 - **Aug 17, 09:59 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 17, 10:39 PM** - HEO to use Planet satellites for non-Earth imaging (spacenews)
+- **Aug 17, 11:19 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
