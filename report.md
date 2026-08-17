@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 15 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 2 | 3 | 14 | 28 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2714,3 +2714,4 @@
 - **Aug 16, 11:59 PM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
 - **Aug 17, 12:34 AM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 17, 01:09 AM** - Space Command identifies capabilities it needs for the next space war (spacenews)
+- **Aug 17, 01:44 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
