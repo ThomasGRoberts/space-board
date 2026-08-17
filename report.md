@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2721,3 +2721,4 @@
 - **Aug 17, 04:04 AM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 17, 04:39 AM** - Lynk and Omnispace form Elveo Mobile to advance D2D services (spacenews)
 - **Aug 17, 05:19 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
+- **Aug 17, 05:54 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
