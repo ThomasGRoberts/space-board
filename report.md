@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2723,3 +2723,4 @@
 - **Aug 17, 05:19 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 17, 05:54 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 17, 06:34 AM** - Kepler books Neutron for 2028 optical relay launch (spacenews)
+- **Aug 17, 07:10 AM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
