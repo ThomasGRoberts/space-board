@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-17T00:04:52.792754+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11dddc82919173e0e950de5c6e41612b",
+    "trigger_count": 0,
+    "current_item_id": "b62e847956233f3455513e1d684b5343",
     "data": [
         {
             "id": "cd4513d671975fe6ec4712a5057457e1",
@@ -8258,6 +8258,18 @@
             "fetched_datetime": "2026-08-17T11:29:38.593048Z",
             "shown_at": [
                 "2026-08-17T11:29:39.615949Z"
+            ]
+        },
+        {
+            "id": "b62e847956233f3455513e1d684b5343",
+            "source": "spacenews",
+            "text": "SEOPS adds second Waymaker rideshare mission",
+            "source_link": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T12:09:17.457016Z",
+            "shown_at": [
+                "2026-08-17T12:09:19.436568Z"
             ]
         }
     ]

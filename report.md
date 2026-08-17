@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 14 | 28 |
+| spacenews | 5 | 7 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2731,3 +2731,4 @@
 - **Aug 17, 10:14 AM** - Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE (spacenews)
 - **Aug 17, 10:49 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 17, 11:29 AM** - A rocket crashed into the moon. It was harmless, but the next one might not be. (spacenews)
+- **Aug 17, 12:09 PM** - SEOPS adds second Waymaker rideshare mission (spacenews)
