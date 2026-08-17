@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 14 | 27 |
+| spacenews | 3 | 4 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -2722,3 +2722,4 @@
 - **Aug 17, 04:39 AM** - Lynk and Omnispace form Elveo Mobile to advance D2D services (spacenews)
 - **Aug 17, 05:19 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 17, 05:54 AM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
+- **Aug 17, 06:34 AM** - Kepler books Neutron for 2028 optical relay launch (spacenews)
