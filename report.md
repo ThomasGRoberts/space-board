@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 14 | 29 |
+| spacenews | 8 | 10 | 15 | 30 |
 | breaking_defense | 2 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -2743,3 +2743,4 @@
 - **Aug 17, 05:54 PM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
 - **Aug 17, 06:50 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 17, 07:29 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
+- **Aug 17, 08:05 PM** - Kepler books Neutron for 2028 optical relay launch (spacenews)
