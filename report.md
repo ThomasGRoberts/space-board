@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 15 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 2 | 3 | 14 | 28 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2717,3 +2717,4 @@
 - **Aug 17, 01:44 AM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 17, 02:19 AM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 17, 02:54 AM** - Former Space Force general joins Lunar Outpost board (spacenews)
+- **Aug 17, 03:29 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
