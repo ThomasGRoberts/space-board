@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2712,3 +2712,4 @@
 - **Aug 16, 10:49 PM** - Frenzy for Solar Eclipse Glasses Takes Over London (nyt)
 - **Aug 16, 11:24 PM** - Satellite operators emphasize launch deals in a constrained market (spacenews)
 - **Aug 16, 11:59 PM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
+- **Aug 17, 12:34 AM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
