@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 15 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 3 | 4 | 14 | 28 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Aug 17, 03:29 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 17, 04:04 AM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 17, 04:39 AM** - Lynk and Omnispace form Elveo Mobile to advance D2D services (spacenews)
+- **Aug 17, 05:19 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
