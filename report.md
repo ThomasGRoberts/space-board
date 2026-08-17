@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 15 | 29 |
-| breaking_defense | 1 | 1 | 12 | 25 |
+| breaking_defense | 2 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
@@ -2742,3 +2742,4 @@
 - **Aug 17, 05:14 PM** - ULA names Peller as new CEO (spacenews)
 - **Aug 17, 05:54 PM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
 - **Aug 17, 06:50 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
+- **Aug 17, 07:29 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
