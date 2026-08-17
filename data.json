@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-17T00:04:52.792754+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b32a6cb6cbf74640e48323e6e0130c79",
+    "trigger_count": 0,
+    "current_item_id": "e6f37d414e3bc443063e9dbe9699dc46",
     "data": [
         {
             "id": "cd4513d671975fe6ec4712a5057457e1",
@@ -8233,6 +8233,18 @@
             "fetched_datetime": "2026-08-17T04:39:30.737773Z",
             "shown_at": [
                 "2026-08-17T04:39:31.368715Z"
+            ]
+        },
+        {
+            "id": "e6f37d414e3bc443063e9dbe9699dc46",
+            "source": "spacenews",
+            "text": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
+            "source_link": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T10:14:45.846004Z",
+            "shown_at": [
+                "2026-08-17T10:14:50.177928Z"
             ]
         }
     ]
