@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-17T00:04:52.792754+00:00",
-    "trigger_count": 6,
-    "current_item_id": "78de4a5fce223c0eb1268a86d5ba8f6e",
+    "trigger_count": 0,
+    "current_item_id": "ffbc0be2ac589a5e2e87fb993a8247c7",
     "data": [
         {
             "id": "cd4513d671975fe6ec4712a5057457e1",
@@ -8213,6 +8213,18 @@
             "shown_at": [
                 "2026-06-04T11:49:19.575076Z",
                 "2026-06-06T03:04:44.911546Z"
+            ]
+        },
+        {
+            "id": "ffbc0be2ac589a5e2e87fb993a8247c7",
+            "source": "spacenews",
+            "text": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
+            "source_link": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T04:39:30.737773Z",
+            "shown_at": [
+                "2026-08-17T04:39:31.368715Z"
             ]
         }
     ]
