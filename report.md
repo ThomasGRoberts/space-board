@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 15 | 29 |
+| spacenews | 7 | 9 | 16 | 30 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2734,3 +2734,4 @@
 - **Aug 17, 12:09 PM** - SEOPS adds second Waymaker rideshare mission (spacenews)
 - **Aug 17, 12:44 PM** - L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down (spacenews)
 - **Aug 17, 01:19 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
+- **Aug 17, 01:54 PM** - The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss (spacenews)
