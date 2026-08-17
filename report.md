@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 16 | 30 |
 | breaking_defense | 1 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2735,3 +2735,4 @@
 - **Aug 17, 12:44 PM** - L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down (spacenews)
 - **Aug 17, 01:19 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 17, 01:54 PM** - The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss (spacenews)
+- **Aug 17, 02:29 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
