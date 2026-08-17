@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-17T00:04:52.792754+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b62e847956233f3455513e1d684b5343",
+    "trigger_count": 0,
+    "current_item_id": "048ecd5ac520e8334a4b8eb9ea044662",
     "data": [
         {
             "id": "cd4513d671975fe6ec4712a5057457e1",
@@ -8271,6 +8271,27 @@
             "shown_at": [
                 "2026-08-17T12:09:19.436568Z"
             ]
+        },
+        {
+            "id": "048ecd5ac520e8334a4b8eb9ea044662",
+            "source": "spacenews",
+            "text": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
+            "source_link": "https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T12:44:47.596449Z",
+            "shown_at": [
+                "2026-08-17T12:44:50.432493Z"
+            ]
+        },
+        {
+            "id": "49a28e7b0aadd10a79b31299936f3fed",
+            "source": "spacenews",
+            "text": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
+            "source_link": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T12:44:47.596508Z"
         }
     ]
 }
