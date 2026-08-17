@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-17T00:04:52.792754+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6552de45d69a210c6dd29bed9579ae00",
+    "trigger_count": 0,
+    "current_item_id": "cd636c6bafc5501338ebab9551256ce4",
     "data": [
         {
             "id": "cd4513d671975fe6ec4712a5057457e1",
@@ -8310,6 +8310,18 @@
             "fetched_datetime": "2026-08-17T13:19:45.396117Z",
             "shown_at": [
                 "2026-08-17T13:19:46.331804Z"
+            ]
+        },
+        {
+            "id": "cd636c6bafc5501338ebab9551256ce4",
+            "source": "spacenews",
+            "text": "ULA names Peller as new CEO",
+            "source_link": "https://spacenews.com/ula-names-peller-as-new-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T17:14:21.034933Z",
+            "shown_at": [
+                "2026-08-17T17:14:22.297502Z"
             ]
         }
     ]
