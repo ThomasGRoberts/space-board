@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-17T00:04:52.792754+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9f539dc4bf5363765e383655fb22e059",
+    "trigger_count": 0,
+    "current_item_id": "11dddc82919173e0e950de5c6e41612b",
     "data": [
         {
             "id": "cd4513d671975fe6ec4712a5057457e1",
@@ -8246,6 +8246,18 @@
             "fetched_datetime": "2026-08-17T10:14:45.846004Z",
             "shown_at": [
                 "2026-08-17T10:14:50.177928Z"
+            ]
+        },
+        {
+            "id": "11dddc82919173e0e950de5c6e41612b",
+            "source": "spacenews",
+            "text": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
+            "source_link": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T11:29:38.593048Z",
+            "shown_at": [
+                "2026-08-17T11:29:39.615949Z"
             ]
         }
     ]
