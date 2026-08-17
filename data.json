@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-17T00:04:52.792754+00:00",
-    "trigger_count": 6,
-    "current_item_id": "57e71664f523e39fbb23b5f8fb25665f",
+    "trigger_count": 0,
+    "current_item_id": "8779be4c00c2277a4070eea8811ee755",
     "data": [
         {
             "id": "cd4513d671975fe6ec4712a5057457e1",
@@ -8351,6 +8351,18 @@
             "fetched_datetime": "2026-08-17T21:24:18.041481Z",
             "shown_at": [
                 "2026-08-17T21:24:18.991615Z"
+            ]
+        },
+        {
+            "id": "8779be4c00c2277a4070eea8811ee755",
+            "source": "spacenews",
+            "text": "HEO to use Planet satellites for non-Earth imaging",
+            "source_link": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T22:39:31.003805Z",
+            "shown_at": [
+                "2026-08-17T22:39:33.745074Z"
             ]
         }
     ]

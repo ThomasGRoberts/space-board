@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 15 | 29 |
+| spacenews | 10 | 12 | 16 | 30 |
 | breaking_defense | 2 | 2 | 12 | 26 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -2747,3 +2747,4 @@
 - **Aug 17, 08:39 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 17, 09:24 PM** - New EU sanctions target leaders of Russia’s space industry (spacenews)
 - **Aug 17, 09:59 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
+- **Aug 17, 10:39 PM** - HEO to use Planet satellites for non-Earth imaging (spacenews)
