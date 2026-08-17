@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 15 | 29 |
-| breaking_defense | 1 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 11 | 24 |
+| breaking_defense | 1 | 1 | 12 | 26 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2741,3 +2741,4 @@
 - **Aug 17, 04:34 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 17, 05:14 PM** - ULA names Peller as new CEO (spacenews)
 - **Aug 17, 05:54 PM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
+- **Aug 17, 06:50 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
