@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 15 | 30 |
 | breaking_defense | 1 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2738,3 +2738,4 @@
 - **Aug 17, 02:29 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 17, 03:14 PM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 17, 03:54 PM** - China’s iSpace raises first batch of series E funding for reusable rocketry (spacenews)
+- **Aug 17, 04:34 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
