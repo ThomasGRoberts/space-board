@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 15 | 29 |
 | breaking_defense | 2 | 2 | 12 | 26 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2744,3 +2744,4 @@
 - **Aug 17, 06:50 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 17, 07:29 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 17, 08:05 PM** - Kepler books Neutron for 2028 optical relay launch (spacenews)
+- **Aug 17, 08:39 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
