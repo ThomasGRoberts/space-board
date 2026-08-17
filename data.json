@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-16T00:04:40.468183+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-08-17T00:04:52.792754+00:00",
+    "trigger_count": 1,
     "current_item_id": "b79398936cf944f0e64cb390cae89e94",
     "data": [
+        {
+            "id": "cd4513d671975fe6ec4712a5057457e1",
+            "source": "spacenews",
+            "text": "Satellite operators emphasize launch deals in a constrained market",
+            "source_link": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-16T23:24:29.081420Z",
+            "shown_at": [
+                "2026-08-16T23:24:30.022152Z"
+            ]
+        },
+        {
+            "id": "d8a84f4137443ee23cc9955925ef27a8",
+            "source": "spacenews",
+            "text": "U.S. defense agencies tap three companies for satellite disposal study",
+            "source_link": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-16T11:09:14.656846Z",
+            "shown_at": [
+                "2026-08-16T11:09:15.995946Z"
+            ]
+        },
         {
             "id": "4b662d995019871ef180641cdc73d209",
             "source": "spacenews",
@@ -8182,55 +8206,6 @@
             "shown_at": [
                 "2026-06-04T11:49:19.575076Z",
                 "2026-06-06T03:04:44.911546Z"
-            ]
-        },
-        {
-            "id": "b73a8255c30ec7113734daf4005e9c56",
-            "source": "spacenews",
-            "text": "China builds institutional framework for space computing push",
-            "source_link": "https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-04T10:04:55.085793Z",
-            "shown_at": [
-                "2026-06-04T10:04:55.825584Z",
-                "2026-06-07T13:19:33.887467Z"
-            ]
-        },
-        {
-            "id": "296a1e86615dce06120f4e7feb01649f",
-            "source": "spacenews",
-            "text": "SpaceX to raise at least $75 billion in IPO",
-            "source_link": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-04T03:29:25.238945Z",
-            "shown_at": [
-                "2026-06-04T03:29:26.593090Z"
-            ]
-        },
-        {
-            "id": "d8a84f4137443ee23cc9955925ef27a8",
-            "source": "spacenews",
-            "text": "U.S. defense agencies tap three companies for satellite disposal study",
-            "source_link": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-16T11:09:14.656846Z",
-            "shown_at": [
-                "2026-08-16T11:09:15.995946Z"
-            ]
-        },
-        {
-            "id": "cd4513d671975fe6ec4712a5057457e1",
-            "source": "spacenews",
-            "text": "Satellite operators emphasize launch deals in a constrained market",
-            "source_link": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-16T23:24:29.081420Z",
-            "shown_at": [
-                "2026-08-16T23:24:30.022152Z"
             ]
         }
     ]

@@ -2,14 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 15 | 28 |
+| spacenews | 2 | 3 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
-- **Jun 04, 03:29 AM** - SpaceX to raise at least $75 billion in IPO (spacenews)
-- **Jun 04, 10:04 AM** - China builds institutional framework for space computing push (spacenews)
 - **Jun 04, 11:49 AM** - NASA working to streamline development of nuclear electric propulsion demo mission (spacenews)
 - **Jun 04, 02:44 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 04, 04:29 PM** - AstroForge completes DeepSpace-2 spacecraft (spacenews)
@@ -39,7 +37,6 @@
 - **Jun 07, 09:49 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
 - **Jun 07, 10:24 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 07, 11:34 AM** - Rounding up the space unicorns (spacenews)
-- **Jun 07, 01:19 PM** - China builds institutional framework for space computing push (spacenews)
 - **Jun 07, 01:53 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 07, 02:29 PM** - NASA to select new headquarters building by end of year (spacenews)
 - **Jun 07, 03:38 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
