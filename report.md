@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 13 | 12 | 28 |
+| spacenews | 4 | 14 | 13 | 29 |
 | breaking_defense | 1 | 3 | 11 | 23 |
-| nyt | 1 | 1 | 12 | 22 |
+| nyt | 1 | 1 | 11 | 22 |
 
 # Shown Order
 
@@ -2730,3 +2730,4 @@
 - **Aug 18, 09:34 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 18, 10:08 PM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 18, 10:44 PM** - Wallops gears up for an increase in launches (spacenews)
+- **Aug 18, 11:19 PM** - Rocket Lab to test Space Force data network connection in orbit in 2027 (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-18T00:04:36.180752+00:00",
-    "trigger_count": 6,
-    "current_item_id": "59030ea46f06517bcd1f6e2dc060d841",
+    "trigger_count": 0,
+    "current_item_id": "8f0df57d94014112880c388f0a560502",
     "data": [
         {
             "id": "8779be4c00c2277a4070eea8811ee755",
@@ -8279,6 +8279,18 @@
             "fetched_datetime": "2026-08-18T18:14:17.154454Z",
             "shown_at": [
                 "2026-08-18T18:14:19.904299Z"
+            ]
+        },
+        {
+            "id": "8f0df57d94014112880c388f0a560502",
+            "source": "spacenews",
+            "text": "Rocket Lab to test Space Force data network connection in orbit in 2027",
+            "source_link": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-18T23:19:24.903225Z",
+            "shown_at": [
+                "2026-08-18T23:19:26.999788Z"
             ]
         }
     ]
