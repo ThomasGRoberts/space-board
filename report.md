@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 15 | 29 |
 | breaking_defense | 2 | 2 | 11 | 24 |
-| nyt | 0 | 0 | 9 | 23 |
+| nyt | 0 | 0 | 10 | 24 |
 
 # Shown Order
 
@@ -2707,3 +2707,4 @@
 - **Aug 18, 06:05 AM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 18, 06:44 AM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
 - **Aug 18, 07:24 AM** - Golden Dome money starting to reach contractors, but long-term funding still unclear (spacenews)
+- **Aug 18, 07:59 AM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
