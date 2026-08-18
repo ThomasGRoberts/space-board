@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 15 | 29 |
 | breaking_defense | 2 | 2 | 11 | 24 |
-| nyt | 0 | 0 | 9 | 23 |
+| nyt | 0 | 0 | 10 | 24 |
 
 # Shown Order
 
@@ -2701,3 +2701,4 @@
 - **Aug 18, 01:35 AM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
 - **Aug 18, 02:44 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 18, 03:35 AM** - Satellite operators emphasize launch deals in a constrained market (spacenews)
+- **Aug 18, 04:19 AM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
