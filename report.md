@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 12 | 27 |
-| breaking_defense | 1 | 3 | 10 | 23 |
+| breaking_defense | 1 | 3 | 11 | 24 |
 | nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -2725,3 +2725,4 @@
 - **Aug 18, 06:14 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
 - **Aug 18, 07:05 PM** - New EU sanctions target leaders of Russia’s space industry (spacenews)
 - **Aug 18, 07:44 PM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
+- **Aug 18, 08:19 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
