@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 12 | 28 |
 | breaking_defense | 1 | 3 | 11 | 23 |
-| nyt | 1 | 1 | 11 | 22 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -2727,3 +2727,4 @@
 - **Aug 18, 07:44 PM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 18, 08:19 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 18, 08:59 PM** - Virgin Galactic delays resumption of commercial flights to 2027 (spacenews)
+- **Aug 18, 09:34 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
