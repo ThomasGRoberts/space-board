@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 14 | 28 |
+| spacenews | 8 | 12 | 15 | 29 |
 | breaking_defense | 2 | 2 | 11 | 25 |
 | nyt | 0 | 0 | 10 | 23 |
 
@@ -2712,3 +2712,4 @@
 - **Aug 18, 09:14 AM** - NRO to expand use of HawkEye 360’s satellite intelligence (spacenews)
 - **Aug 18, 09:50 AM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 18, 10:29 AM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
+- **Aug 18, 11:05 AM** - SEOPS adds second Waymaker rideshare mission (spacenews)
