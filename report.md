@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 14 | 29 |
-| breaking_defense | 2 | 2 | 12 | 25 |
+| spacenews | 9 | 11 | 15 | 29 |
+| breaking_defense | 2 | 2 | 11 | 25 |
 | nyt | 0 | 0 | 10 | 23 |
 
 # Shown Order
@@ -2700,3 +2700,4 @@
 - **Aug 18, 12:29 AM** - Space Command expands Alabama footprint as headquarters relocation advances (spacenews)
 - **Aug 18, 01:35 AM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
 - **Aug 18, 02:44 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
+- **Aug 18, 03:35 AM** - Satellite operators emphasize launch deals in a constrained market (spacenews)
