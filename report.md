@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 13 | 28 |
 | breaking_defense | 1 | 3 | 10 | 23 |
-| nyt | 1 | 1 | 11 | 22 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -2724,3 +2724,4 @@
 - **Aug 18, 05:15 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 18, 06:14 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
 - **Aug 18, 07:05 PM** - New EU sanctions target leaders of Russia’s space industry (spacenews)
+- **Aug 18, 07:44 PM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
