@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-18T00:04:36.180752+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2b1b6c6ae984f2203ce5a4356800d522",
+    "trigger_count": 0,
+    "current_item_id": "604a7fad24b33a292349dfa6e3b9cb74",
     "data": [
         {
             "id": "8779be4c00c2277a4070eea8811ee755",
@@ -8203,6 +8203,18 @@
             "shown_at": [
                 "2026-06-05T18:19:13.743881Z",
                 "2026-06-07T19:49:35.739982Z"
+            ]
+        },
+        {
+            "id": "604a7fad24b33a292349dfa6e3b9cb74",
+            "source": "spacenews",
+            "text": "NRO to expand use of HawkEye 360’s satellite intelligence",
+            "source_link": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-18T09:14:21.981862Z",
+            "shown_at": [
+                "2026-08-18T09:14:22.978639Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 14 | 28 |
+| spacenews | 9 | 12 | 15 | 29 |
 | breaking_defense | 2 | 2 | 11 | 25 |
 | nyt | 0 | 0 | 10 | 23 |
 
@@ -2709,3 +2709,4 @@
 - **Aug 18, 07:24 AM** - Golden Dome money starting to reach contractors, but long-term funding still unclear (spacenews)
 - **Aug 18, 07:59 AM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
 - **Aug 18, 08:39 AM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
+- **Aug 18, 09:14 AM** - NRO to expand use of HawkEye 360’s satellite intelligence (spacenews)
