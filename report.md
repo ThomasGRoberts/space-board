@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 28 |
 | breaking_defense | 2 | 2 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2715,3 +2715,4 @@
 - **Aug 18, 11:05 AM** - SEOPS adds second Waymaker rideshare mission (spacenews)
 - **Aug 18, 11:44 AM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 18, 12:20 PM** - Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027 (spacenews)
+- **Aug 18, 12:59 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
