@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 13 | 28 |
-| breaking_defense | 1 | 3 | 11 | 23 |
-| nyt | 1 | 1 | 11 | 22 |
+| breaking_defense | 1 | 3 | 10 | 23 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -2731,3 +2731,4 @@
 - **Aug 18, 10:08 PM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 18, 10:44 PM** - Wallops gears up for an increase in launches (spacenews)
 - **Aug 18, 11:19 PM** - Rocket Lab to test Space Force data network connection in orbit in 2027 (spacenews)
+- **Aug 18, 11:54 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
