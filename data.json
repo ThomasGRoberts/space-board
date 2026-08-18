@@ -1,9 +1,142 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-17T00:04:52.792754+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-08-18T00:04:36.180752+00:00",
+    "trigger_count": 2,
     "current_item_id": "34a30d78fb68ddaa1885c5056892da17",
     "data": [
+        {
+            "id": "8779be4c00c2277a4070eea8811ee755",
+            "source": "spacenews",
+            "text": "HEO to use Planet satellites for non-Earth imaging",
+            "source_link": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T22:39:31.003805Z",
+            "shown_at": [
+                "2026-08-17T22:39:33.745074Z"
+            ]
+        },
+        {
+            "id": "7e3d1c50019f8eb9ffeddcf1dbe0ad9f",
+            "source": "spacenews",
+            "text": "New EU sanctions target leaders of Russia’s space industry",
+            "source_link": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T21:24:18.041481Z",
+            "shown_at": [
+                "2026-08-17T21:24:18.991615Z"
+            ]
+        },
+        {
+            "id": "39b6ce742e2825a16cceaba5f24446cb",
+            "source": "breaking_defense",
+            "text": "Japan launches second US military payload to monitor space above Indo-Pacific",
+            "source_link": "https://breakingdefense.com/2026/08/japan-launches-second-us-military-payload-to-monitor-space-above-indo-pacific/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T19:29:07.863725Z",
+            "shown_at": [
+                "2026-08-17T19:29:08.496432Z"
+            ]
+        },
+        {
+            "id": "cd636c6bafc5501338ebab9551256ce4",
+            "source": "spacenews",
+            "text": "ULA names Peller as new CEO",
+            "source_link": "https://spacenews.com/ula-names-peller-as-new-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T17:14:21.034933Z",
+            "shown_at": [
+                "2026-08-17T17:14:22.297502Z"
+            ]
+        },
+        {
+            "id": "57e71664f523e39fbb23b5f8fb25665f",
+            "source": "breaking_defense",
+            "text": "Space Force brings 5 companies on-board Space Data Network",
+            "source_link": "https://breakingdefense.com/2026/08/space-force-brings-5-companies-on-board-space-data-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T13:19:45.396117Z",
+            "shown_at": [
+                "2026-08-17T13:19:46.331804Z",
+                "2026-08-17T21:59:03.243568Z"
+            ]
+        },
+        {
+            "id": "49a28e7b0aadd10a79b31299936f3fed",
+            "source": "spacenews",
+            "text": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
+            "source_link": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T12:44:47.596508Z",
+            "shown_at": [
+                "2026-08-17T13:54:24.561182Z"
+            ]
+        },
+        {
+            "id": "048ecd5ac520e8334a4b8eb9ea044662",
+            "source": "spacenews",
+            "text": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
+            "source_link": "https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T12:44:47.596449Z",
+            "shown_at": [
+                "2026-08-17T12:44:50.432493Z"
+            ]
+        },
+        {
+            "id": "b62e847956233f3455513e1d684b5343",
+            "source": "spacenews",
+            "text": "SEOPS adds second Waymaker rideshare mission",
+            "source_link": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T12:09:17.457016Z",
+            "shown_at": [
+                "2026-08-17T12:09:19.436568Z"
+            ]
+        },
+        {
+            "id": "11dddc82919173e0e950de5c6e41612b",
+            "source": "spacenews",
+            "text": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
+            "source_link": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T11:29:38.593048Z",
+            "shown_at": [
+                "2026-08-17T11:29:39.615949Z"
+            ]
+        },
+        {
+            "id": "e6f37d414e3bc443063e9dbe9699dc46",
+            "source": "spacenews",
+            "text": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
+            "source_link": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T10:14:45.846004Z",
+            "shown_at": [
+                "2026-08-17T10:14:50.177928Z"
+            ]
+        },
+        {
+            "id": "ffbc0be2ac589a5e2e87fb993a8247c7",
+            "source": "spacenews",
+            "text": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
+            "source_link": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-17T04:39:30.737773Z",
+            "shown_at": [
+                "2026-08-17T04:39:31.368715Z"
+            ]
+        },
         {
             "id": "cd4513d671975fe6ec4712a5057457e1",
             "source": "spacenews",
@@ -8058,313 +8191,6 @@
             "shown_at": [
                 "2026-06-05T18:19:13.743881Z",
                 "2026-06-07T19:49:35.739982Z"
-            ]
-        },
-        {
-            "id": "a0c726c24a8c4ed813b87e1c4b17570b",
-            "source": "spacenews",
-            "text": "Astronauts briefly shelter in Dragon during ISS leak repair",
-            "source_link": "https://spacenews.com/astronauts-briefly-shelter-in-dragon-during-iss-leak-repair/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T16:34:46.716571Z",
-            "shown_at": [
-                "2026-06-05T16:34:47.629128Z",
-                "2026-06-06T06:34:30.806092Z",
-                "2026-06-09T05:44:26.537879Z",
-                "2026-06-12T14:54:32.870442Z"
-            ]
-        },
-        {
-            "id": "4062c3ae5d7dfdfce392deec1583cee3",
-            "source": "spacenews",
-            "text": "Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters",
-            "source_link": "https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T14:14:39.797962Z",
-            "shown_at": [
-                "2026-06-05T14:14:41.611248Z",
-                "2026-06-11T02:19:28.291919Z"
-            ]
-        },
-        {
-            "id": "c6c4696a00937e3e711896279c61c516",
-            "source": "spacenews",
-            "text": "Let’s build the moon base, but not lose sight of Mars",
-            "source_link": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T13:04:59.306084Z",
-            "shown_at": [
-                "2026-06-05T13:05:01.739937Z",
-                "2026-06-10T06:44:50.564825Z"
-            ]
-        },
-        {
-            "id": "bf9de160dbffcc73dd0dc863c0da84a8",
-            "source": "spacenews",
-            "text": "Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches",
-            "source_link": "https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T11:54:28.591247Z",
-            "shown_at": [
-                "2026-06-05T11:54:29.537090Z",
-                "2026-06-11T05:49:39.713249Z"
-            ]
-        },
-        {
-            "id": "708c24ff317be16032f2daf7e2b6d7dd",
-            "source": "spacenews",
-            "text": "Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise",
-            "source_link": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T09:34:31.250584Z",
-            "shown_at": [
-                "2026-06-05T09:34:31.919973Z",
-                "2026-06-05T15:59:16.758433Z",
-                "2026-06-12T01:54:17.205487Z"
-            ]
-        },
-        {
-            "id": "9cfaa13a2cb321b35077e8ddb9ff4f2a",
-            "source": "spacenews",
-            "text": "The Exploration Company completes drop test of Nyx capsule",
-            "source_link": "https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T08:59:20.282257Z",
-            "shown_at": [
-                "2026-06-05T08:59:21.649758Z",
-                "2026-06-06T23:09:11.304690Z",
-                "2026-06-08T06:19:49.581736Z"
-            ]
-        },
-        {
-            "id": "368a0be8aa73369ac4f141288824ff60",
-            "source": "spacenews",
-            "text": "Axiom Space adds more than $175 million to funding round",
-            "source_link": "https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T07:14:25.643365Z",
-            "shown_at": [
-                "2026-06-05T07:14:26.567337Z",
-                "2026-06-10T04:54:21.833047Z",
-                "2026-06-10T08:29:31.050225Z"
-            ]
-        },
-        {
-            "id": "3b1a7b5aaafb34335b107f79713abe60",
-            "source": "spacenews",
-            "text": "HASC NDAA markup challenges Space Force on satellite programs",
-            "source_link": "https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-04T22:59:19.172579Z",
-            "shown_at": [
-                "2026-06-04T22:59:20.229979Z",
-                "2026-06-06T19:39:26.956659Z",
-                "2026-06-08T01:04:45.503377Z",
-                "2026-06-08T18:39:17.484873Z",
-                "2026-06-10T01:19:18.443163Z"
-            ]
-        },
-        {
-            "id": "81de3fdb6a0de6a20fb345a26288f9ea",
-            "source": "spacenews",
-            "text": "AstroForge completes DeepSpace-2 spacecraft",
-            "source_link": "https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-04T16:29:32.258481Z",
-            "shown_at": [
-                "2026-06-04T16:29:33.176189Z",
-                "2026-06-09T09:19:22.739997Z"
-            ]
-        },
-        {
-            "id": "a76d9f521adf64037dcd48f5ebfcc595",
-            "source": "nyt",
-            "text": "Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand",
-            "source_link": "https://www.nytimes.com/2026/06/04/technology/gwynne-shotwell-spacex.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-04T14:44:31.175088Z",
-            "shown_at": [
-                "2026-06-04T14:44:32.106366Z",
-                "2026-06-06T00:09:20.612624Z",
-                "2026-06-06T16:09:11.061424Z",
-                "2026-06-06T23:44:37.876893Z",
-                "2026-06-07T01:34:41.985673Z",
-                "2026-06-07T03:19:24.861222Z",
-                "2026-06-07T05:04:47.051473Z",
-                "2026-06-07T08:39:24.967009Z",
-                "2026-06-07T10:24:24.010734Z",
-                "2026-06-07T13:53:56.992148Z",
-                "2026-06-07T15:38:41.995841Z",
-                "2026-06-07T17:29:17.733531Z",
-                "2026-06-07T20:59:24.660428Z",
-                "2026-06-08T00:29:27.977905Z",
-                "2026-06-08T03:59:13.591494Z",
-                "2026-06-08T05:44:02.063692Z",
-                "2026-06-08T08:44:32.682840Z",
-                "2026-06-08T10:29:26.553869Z",
-                "2026-06-08T15:44:30.733707Z",
-                "2026-06-08T17:29:10.337009Z",
-                "2026-06-08T23:19:32.434394Z",
-                "2026-06-09T01:04:47.514778Z",
-                "2026-06-09T02:49:23.359673Z",
-                "2026-06-09T06:19:30.338380Z",
-                "2026-06-10T00:44:20.628751Z"
-            ]
-        },
-        {
-            "id": "25e4d1e60394afb4f1e98cff971b95cf",
-            "source": "spacenews",
-            "text": "NASA working to streamline development of nuclear electric propulsion demo mission",
-            "source_link": "https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-04T11:49:18.513591Z",
-            "shown_at": [
-                "2026-06-04T11:49:19.575076Z",
-                "2026-06-06T03:04:44.911546Z"
-            ]
-        },
-        {
-            "id": "ffbc0be2ac589a5e2e87fb993a8247c7",
-            "source": "spacenews",
-            "text": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
-            "source_link": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T04:39:30.737773Z",
-            "shown_at": [
-                "2026-08-17T04:39:31.368715Z"
-            ]
-        },
-        {
-            "id": "e6f37d414e3bc443063e9dbe9699dc46",
-            "source": "spacenews",
-            "text": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
-            "source_link": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T10:14:45.846004Z",
-            "shown_at": [
-                "2026-08-17T10:14:50.177928Z"
-            ]
-        },
-        {
-            "id": "11dddc82919173e0e950de5c6e41612b",
-            "source": "spacenews",
-            "text": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
-            "source_link": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T11:29:38.593048Z",
-            "shown_at": [
-                "2026-08-17T11:29:39.615949Z"
-            ]
-        },
-        {
-            "id": "b62e847956233f3455513e1d684b5343",
-            "source": "spacenews",
-            "text": "SEOPS adds second Waymaker rideshare mission",
-            "source_link": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T12:09:17.457016Z",
-            "shown_at": [
-                "2026-08-17T12:09:19.436568Z"
-            ]
-        },
-        {
-            "id": "048ecd5ac520e8334a4b8eb9ea044662",
-            "source": "spacenews",
-            "text": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
-            "source_link": "https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T12:44:47.596449Z",
-            "shown_at": [
-                "2026-08-17T12:44:50.432493Z"
-            ]
-        },
-        {
-            "id": "49a28e7b0aadd10a79b31299936f3fed",
-            "source": "spacenews",
-            "text": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
-            "source_link": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T12:44:47.596508Z",
-            "shown_at": [
-                "2026-08-17T13:54:24.561182Z"
-            ]
-        },
-        {
-            "id": "57e71664f523e39fbb23b5f8fb25665f",
-            "source": "breaking_defense",
-            "text": "Space Force brings 5 companies on-board Space Data Network",
-            "source_link": "https://breakingdefense.com/2026/08/space-force-brings-5-companies-on-board-space-data-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T13:19:45.396117Z",
-            "shown_at": [
-                "2026-08-17T13:19:46.331804Z",
-                "2026-08-17T21:59:03.243568Z"
-            ]
-        },
-        {
-            "id": "cd636c6bafc5501338ebab9551256ce4",
-            "source": "spacenews",
-            "text": "ULA names Peller as new CEO",
-            "source_link": "https://spacenews.com/ula-names-peller-as-new-ceo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T17:14:21.034933Z",
-            "shown_at": [
-                "2026-08-17T17:14:22.297502Z"
-            ]
-        },
-        {
-            "id": "39b6ce742e2825a16cceaba5f24446cb",
-            "source": "breaking_defense",
-            "text": "Japan launches second US military payload to monitor space above Indo-Pacific",
-            "source_link": "https://breakingdefense.com/2026/08/japan-launches-second-us-military-payload-to-monitor-space-above-indo-pacific/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T19:29:07.863725Z",
-            "shown_at": [
-                "2026-08-17T19:29:08.496432Z"
-            ]
-        },
-        {
-            "id": "7e3d1c50019f8eb9ffeddcf1dbe0ad9f",
-            "source": "spacenews",
-            "text": "New EU sanctions target leaders of Russia’s space industry",
-            "source_link": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T21:24:18.041481Z",
-            "shown_at": [
-                "2026-08-17T21:24:18.991615Z"
-            ]
-        },
-        {
-            "id": "8779be4c00c2277a4070eea8811ee755",
-            "source": "spacenews",
-            "text": "HEO to use Planet satellites for non-Earth imaging",
-            "source_link": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-17T22:39:31.003805Z",
-            "shown_at": [
-                "2026-08-17T22:39:33.745074Z"
             ]
         }
     ]
