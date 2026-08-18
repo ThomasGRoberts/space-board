@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 12 | 28 |
-| breaking_defense | 1 | 2 | 10 | 23 |
+| spacenews | 5 | 13 | 12 | 27 |
+| breaking_defense | 2 | 3 | 11 | 24 |
 | nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -2722,3 +2722,4 @@
 - **Aug 18, 03:24 PM** - Paragon lays off staff after Gateway cancellation (spacenews)
 - **Aug 18, 04:25 PM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 18, 05:15 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
+- **Aug 18, 06:14 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
