@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 14 | 28 |
-| breaking_defense | 2 | 2 | 11 | 25 |
-| nyt | 0 | 0 | 10 | 23 |
+| breaking_defense | 2 | 2 | 11 | 24 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -2713,3 +2713,4 @@
 - **Aug 18, 09:50 AM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
 - **Aug 18, 10:29 AM** - Laser weapons for space? US officials see threat, opportunity (breaking_defense)
 - **Aug 18, 11:05 AM** - SEOPS adds second Waymaker rideshare mission (spacenews)
+- **Aug 18, 11:44 AM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
