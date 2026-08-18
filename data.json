@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-18T00:04:36.180752+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2cee9a7bdfe7ad00b77a85d419c2bd16",
+    "trigger_count": 0,
+    "current_item_id": "9863beff2d185606ae4ba49a6337d487",
     "data": [
         {
             "id": "8779be4c00c2277a4070eea8811ee755",
@@ -8220,6 +8220,27 @@
             "shown_at": [
                 "2026-08-18T09:14:22.978639Z"
             ]
+        },
+        {
+            "id": "9863beff2d185606ae4ba49a6337d487",
+            "source": "spacenews",
+            "text": "Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027",
+            "source_link": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-18T12:20:06.905632Z",
+            "shown_at": [
+                "2026-08-18T12:20:08.016001Z"
+            ]
+        },
+        {
+            "id": "09a718533ce21fe6ef69e4816057a1d4",
+            "source": "spacenews",
+            "text": "New report takes closer look at the Space Force spending surge",
+            "source_link": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-18T12:20:06.905680Z"
         }
     ]
 }
