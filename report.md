@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 15 | 30 |
 | breaking_defense | 2 | 2 | 12 | 25 |
-| nyt | 0 | 0 | 10 | 23 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -2698,3 +2698,4 @@
 - **Aug 17, 11:19 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 17, 11:54 PM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 18, 12:29 AM** - Space Command expands Alabama footprint as headquarters relocation advances (spacenews)
+- **Aug 18, 01:35 AM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
