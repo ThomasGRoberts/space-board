@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 14 | 29 |
-| breaking_defense | 2 | 2 | 11 | 24 |
+| breaking_defense | 2 | 2 | 12 | 25 |
 | nyt | 0 | 0 | 10 | 23 |
 
 # Shown Order
@@ -2705,3 +2705,4 @@
 - **Aug 18, 04:54 AM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 18, 05:29 AM** - Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity (spacenews)
 - **Aug 18, 06:05 AM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
+- **Aug 18, 06:44 AM** - If funding falters, ‘there’s no Golden Dome,’ Guetlein warns (breaking_defense)
