@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 29 |
-| breaking_defense | 1 | 2 | 10 | 23 |
-| nyt | 1 | 1 | 12 | 24 |
+| breaking_defense | 1 | 2 | 11 | 24 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -2717,3 +2717,4 @@
 - **Aug 18, 12:20 PM** - Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027 (spacenews)
 - **Aug 18, 12:59 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 18, 01:34 PM** - New report takes closer look at the Space Force spending surge (spacenews)
+- **Aug 18, 02:09 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
