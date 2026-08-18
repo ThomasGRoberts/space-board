@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 13 | 28 |
+| spacenews | 6 | 13 | 14 | 29 |
 | breaking_defense | 1 | 2 | 10 | 23 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2719,3 +2719,4 @@
 - **Aug 18, 01:34 PM** - New report takes closer look at the Space Force spending surge (spacenews)
 - **Aug 18, 02:09 PM** - A peek at Day 1 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 18, 02:45 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
+- **Aug 18, 03:24 PM** - Paragon lays off staff after Gateway cancellation (spacenews)
