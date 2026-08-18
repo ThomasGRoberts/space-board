@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 12 | 27 |
+| spacenews | 5 | 13 | 13 | 28 |
 | breaking_defense | 2 | 3 | 11 | 23 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -2723,3 +2723,4 @@
 - **Aug 18, 04:25 PM** - Day 2 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 18, 05:15 PM** - See the 2026 European Solar Eclipse, in Photos and Videos (nyt)
 - **Aug 18, 06:14 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
+- **Aug 18, 07:05 PM** - New EU sanctions target leaders of Russia’s space industry (spacenews)
