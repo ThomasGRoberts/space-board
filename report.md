@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 12 | 27 |
+| spacenews | 3 | 13 | 12 | 28 |
 | breaking_defense | 1 | 3 | 11 | 23 |
 | nyt | 1 | 1 | 12 | 23 |
 
@@ -2729,3 +2729,4 @@
 - **Aug 18, 08:59 PM** - Virgin Galactic delays resumption of commercial flights to 2027 (spacenews)
 - **Aug 18, 09:34 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 18, 10:08 PM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
+- **Aug 18, 10:44 PM** - Wallops gears up for an increase in launches (spacenews)
