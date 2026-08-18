@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 15 | 29 |
 | breaking_defense | 2 | 2 | 11 | 24 |
-| nyt | 0 | 0 | 9 | 23 |
+| nyt | 0 | 0 | 10 | 24 |
 
 # Shown Order
 
@@ -2704,3 +2704,4 @@
 - **Aug 18, 04:19 AM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
 - **Aug 18, 04:54 AM** - Engineering decision advantage for the warfighter (breaking_defense)
 - **Aug 18, 05:29 AM** - Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity (spacenews)
+- **Aug 18, 06:05 AM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
