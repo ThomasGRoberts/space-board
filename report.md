@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 15 | 29 |
 | breaking_defense | 2 | 2 | 11 | 24 |
-| nyt | 0 | 0 | 9 | 23 |
+| nyt | 0 | 0 | 10 | 24 |
 
 # Shown Order
 
@@ -2710,3 +2710,4 @@
 - **Aug 18, 07:59 AM** - NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation Has Retired (nyt)
 - **Aug 18, 08:39 AM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
 - **Aug 18, 09:14 AM** - NRO to expand use of HawkEye 360’s satellite intelligence (spacenews)
+- **Aug 18, 09:50 AM** - Telescope Spots Two Black Holes on the Cusp of Merging (nyt)
