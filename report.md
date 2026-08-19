@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 13 | 28 |
 | breaking_defense | 1 | 3 | 10 | 21 |
-| nyt | 1 | 1 | 10 | 20 |
+| nyt | 1 | 1 | 11 | 21 |
 
 # Shown Order
 
@@ -2724,3 +2724,4 @@
 - **Aug 19, 04:41 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 19, 05:49 AM** - Rocket Lab to test Space Force data network connection in orbit in 2027 (spacenews)
 - **Aug 19, 06:24 AM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
+- **Aug 19, 08:17 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
