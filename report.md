@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 12 | 24 |
-| breaking_defense | 1 | 2 | 7 | 18 |
+| breaking_defense | 1 | 2 | 8 | 19 |
 | nyt | 0 | 1 | 7 | 19 |
 
 # Shown Order
@@ -2731,3 +2731,4 @@
 - **Aug 19, 02:05 PM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
 - **Aug 19, 02:54 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 19, 04:12 PM** - Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions (spacenews)
+- **Aug 19, 05:24 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
