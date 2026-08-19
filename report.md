@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 14 | 29 |
-| breaking_defense | 1 | 3 | 10 | 21 |
+| breaking_defense | 1 | 3 | 11 | 22 |
 | nyt | 1 | 1 | 12 | 22 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Aug 19, 01:39 AM** - China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket (spacenews)
 - **Aug 19, 02:35 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 19, 03:30 AM** - Space nuclear programs face near- and long-term challenges (spacenews)
+- **Aug 19, 04:04 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
