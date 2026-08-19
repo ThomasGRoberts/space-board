@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 11 | 24 |
-| breaking_defense | 1 | 2 | 6 | 17 |
-| nyt | 2 | 3 | 8 | 19 |
+| spacenews | 9 | 13 | 12 | 25 |
+| breaking_defense | 1 | 2 | 6 | 16 |
+| nyt | 2 | 3 | 7 | 19 |
 
 # Shown Order
 
@@ -2739,3 +2739,4 @@
 - **Aug 19, 10:09 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 19, 10:44 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 19, 11:19 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)
+- **Aug 19, 11:54 PM** - Eartheye Space forges strategic partnership with IN2 (spacenews)
