@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 13 | 28 |
+| spacenews | 6 | 14 | 14 | 29 |
 | breaking_defense | 1 | 3 | 10 | 21 |
 | nyt | 1 | 1 | 12 | 22 |
 
@@ -2722,3 +2722,4 @@
 - **Aug 19, 03:30 AM** - Space nuclear programs face near- and long-term challenges (spacenews)
 - **Aug 19, 04:04 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 19, 04:41 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
+- **Aug 19, 05:49 AM** - Rocket Lab to test Space Force data network connection in orbit in 2027 (spacenews)
