@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 11 | 24 |
+| spacenews | 7 | 13 | 12 | 25 |
 | breaking_defense | 1 | 2 | 8 | 18 |
 | nyt | 0 | 1 | 8 | 20 |
 
@@ -2730,3 +2730,4 @@
 - **Aug 19, 01:24 PM** - The space industry’s next challenge: supply chain resilience (spacenews)
 - **Aug 19, 02:05 PM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
 - **Aug 19, 02:54 PM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
+- **Aug 19, 04:12 PM** - Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6552de45d69a210c6dd29bed9579ae00",
+    "trigger_count": 0,
+    "current_item_id": "b009c3f55befc49a4bd3337c366b07c9",
     "data": [
         {
             "id": "8f0df57d94014112880c388f0a560502",
@@ -8279,6 +8279,18 @@
             "fetched_datetime": "2026-08-19T13:24:14.086964Z",
             "shown_at": [
                 "2026-08-19T13:24:14.975060Z"
+            ]
+        },
+        {
+            "id": "b009c3f55befc49a4bd3337c366b07c9",
+            "source": "spacenews",
+            "text": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
+            "source_link": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T16:12:13.284118Z",
+            "shown_at": [
+                "2026-08-19T16:12:16.564769Z"
             ]
         }
     ]
