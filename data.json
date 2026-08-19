@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd4513d671975fe6ec4712a5057457e1",
+    "trigger_count": 0,
+    "current_item_id": "b105fab0e5c2d65f4f0cff0c92ed3158",
     "data": [
         {
             "id": "8f0df57d94014112880c388f0a560502",
@@ -8211,6 +8211,18 @@
             "shown_at": [
                 "2026-06-08T07:34:32.457938Z",
                 "2026-06-09T07:29:25.421526Z"
+            ]
+        },
+        {
+            "id": "b105fab0e5c2d65f4f0cff0c92ed3158",
+            "source": "spacenews",
+            "text": "China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket",
+            "source_link": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T01:39:12.713105Z",
+            "shown_at": [
+                "2026-08-19T01:39:13.358127Z"
             ]
         }
     ]
