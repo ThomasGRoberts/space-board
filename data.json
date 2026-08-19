@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd4513d671975fe6ec4712a5057457e1",
+    "trigger_count": 0,
+    "current_item_id": "07166f90c6b0ef62431be296acd17394",
     "data": [
         {
             "id": "8f0df57d94014112880c388f0a560502",
@@ -8294,6 +8294,18 @@
             "fetched_datetime": "2026-08-19T16:12:13.284118Z",
             "shown_at": [
                 "2026-08-19T16:12:16.564769Z"
+            ]
+        },
+        {
+            "id": "07166f90c6b0ef62431be296acd17394",
+            "source": "spacenews",
+            "text": "Katalyst Space and NASA abandon plans for Swift reboost",
+            "source_link": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T19:25:42.674028Z",
+            "shown_at": [
+                "2026-08-19T19:25:44.505650Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 12 | 25 |
+| spacenews | 8 | 13 | 13 | 26 |
 | breaking_defense | 0 | 2 | 7 | 18 |
 | nyt | 0 | 1 | 8 | 19 |
 
@@ -2734,3 +2734,4 @@
 - **Aug 19, 05:24 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 19, 05:59 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 19, 06:39 PM** - Satellite operators emphasize launch deals in a constrained market (spacenews)
+- **Aug 19, 07:25 PM** - Katalyst Space and NASA abandon plans for Swift reboost (spacenews)
