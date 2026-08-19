@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b500bee5d51adfc3df130fc007ce9260",
+    "trigger_count": 0,
+    "current_item_id": "427f4ff0afa3fba9eedef7da9c2ddd3a",
     "data": [
         {
             "id": "8f0df57d94014112880c388f0a560502",
@@ -8337,9 +8337,12 @@
             "source": "nyt",
             "text": "NASA’s Attempt to Save the Swift Telescope Has Failed",
             "source_link": "https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-08-19T22:09:18.917795Z"
+            "fetched_datetime": "2026-08-19T22:09:18.917795Z",
+            "shown_at": [
+                "2026-08-19T22:44:34.168656Z"
+            ]
         }
     ]
 }

@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 12 | 24 |
+| spacenews | 8 | 11 | 11 | 23 |
 | breaking_defense | 1 | 2 | 6 | 17 |
-| nyt | 2 | 3 | 7 | 19 |
+| nyt | 2 | 3 | 8 | 20 |
 
 # Shown Order
 
@@ -2737,3 +2737,4 @@
 - **Aug 19, 07:25 PM** - Katalyst Space and NASA abandon plans for Swift reboost (spacenews)
 - **Aug 19, 08:29 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 19, 10:09 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
+- **Aug 19, 10:44 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
