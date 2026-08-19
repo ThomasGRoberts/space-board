@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
-    "trigger_count": 6,
-    "current_item_id": "07166f90c6b0ef62431be296acd17394",
+    "trigger_count": 0,
+    "current_item_id": "da1cdb9a4c47138f9ed45d439307b0e4",
     "data": [
         {
             "id": "8f0df57d94014112880c388f0a560502",
@@ -8306,6 +8306,18 @@
             "fetched_datetime": "2026-08-19T19:25:42.674028Z",
             "shown_at": [
                 "2026-08-19T19:25:44.505650Z"
+            ]
+        },
+        {
+            "id": "da1cdb9a4c47138f9ed45d439307b0e4",
+            "source": "breaking_defense",
+            "text": "Pentagon rebuffed repeated requests for Golden Dome brief: CBO",
+            "source_link": "https://breakingdefense.com/2026/08/pentagon-rebuffed-repeated-requests-for-golden-dome-brief-cbo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T20:29:17.337759Z",
+            "shown_at": [
+                "2026-08-19T20:29:17.957797Z"
             ]
         }
     ]

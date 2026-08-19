@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 13 | 25 |
-| breaking_defense | 0 | 1 | 6 | 17 |
+| breaking_defense | 1 | 2 | 7 | 18 |
 | nyt | 0 | 1 | 7 | 19 |
 
 # Shown Order
@@ -2735,3 +2735,4 @@
 - **Aug 19, 05:59 PM** - Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired (nyt)
 - **Aug 19, 06:39 PM** - Satellite operators emphasize launch deals in a constrained market (spacenews)
 - **Aug 19, 07:25 PM** - Katalyst Space and NASA abandon plans for Swift reboost (spacenews)
+- **Aug 19, 08:29 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
