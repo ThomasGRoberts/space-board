@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f596ed4ad509172585a2ba829e586491",
+    "trigger_count": 0,
+    "current_item_id": "17a5a3011a4cceefd46e81d29674b5ca",
     "data": [
         {
             "id": "8f0df57d94014112880c388f0a560502",
@@ -8241,6 +8241,18 @@
             "fetched_datetime": "2026-08-19T03:30:35.271971Z",
             "shown_at": [
                 "2026-08-19T03:30:35.952454Z"
+            ]
+        },
+        {
+            "id": "17a5a3011a4cceefd46e81d29674b5ca",
+            "source": "spacenews",
+            "text": "Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission",
+            "source_link": "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T12:04:46.929262Z",
+            "shown_at": [
+                "2026-08-19T12:04:47.975025Z"
             ]
         }
     ]

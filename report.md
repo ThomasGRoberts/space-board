@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 11 | 25 |
+| spacenews | 6 | 13 | 12 | 26 |
 | breaking_defense | 1 | 3 | 8 | 19 |
 | nyt | 1 | 1 | 9 | 20 |
 
@@ -2725,3 +2725,4 @@
 - **Aug 19, 05:49 AM** - Rocket Lab to test Space Force data network connection in orbit in 2027 (spacenews)
 - **Aug 19, 06:24 AM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
 - **Aug 19, 08:17 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
+- **Aug 19, 12:04 PM** - Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission (spacenews)
