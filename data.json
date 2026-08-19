@@ -1,9 +1,81 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-18T00:04:36.180752+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
+    "trigger_count": 2,
     "current_item_id": "f596ed4ad509172585a2ba829e586491",
     "data": [
+        {
+            "id": "8f0df57d94014112880c388f0a560502",
+            "source": "spacenews",
+            "text": "Rocket Lab to test Space Force data network connection in orbit in 2027",
+            "source_link": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-18T23:19:24.903225Z",
+            "shown_at": [
+                "2026-08-18T23:19:26.999788Z"
+            ]
+        },
+        {
+            "id": "fb20d489801cb5dd8b725bf0ea2f9f74",
+            "source": "breaking_defense",
+            "text": "DoD expands R&D on clearing expired satellites from orbit",
+            "source_link": "https://breakingdefense.com/2026/08/dod-expands-rd-on-clearing-expired-satellites-from-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-18T18:14:17.154454Z",
+            "shown_at": [
+                "2026-08-18T18:14:19.904299Z"
+            ]
+        },
+        {
+            "id": "a0edc4dd8ec057cc30915af3d386a40b",
+            "source": "nyt",
+            "text": "How NASA Engineers Are Keeping the Voyagers Alive",
+            "source_link": "https://www.nytimes.com/2026/08/18/science/nasa-voyagers-big-bang.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-18T12:59:22.248288Z",
+            "shown_at": [
+                "2026-08-18T12:59:24.385823Z"
+            ]
+        },
+        {
+            "id": "09a718533ce21fe6ef69e4816057a1d4",
+            "source": "spacenews",
+            "text": "New report takes closer look at the Space Force spending surge",
+            "source_link": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-18T12:20:06.905680Z",
+            "shown_at": [
+                "2026-08-18T13:34:42.531296Z"
+            ]
+        },
+        {
+            "id": "9863beff2d185606ae4ba49a6337d487",
+            "source": "spacenews",
+            "text": "Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027",
+            "source_link": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-18T12:20:06.905632Z",
+            "shown_at": [
+                "2026-08-18T12:20:08.016001Z"
+            ]
+        },
+        {
+            "id": "604a7fad24b33a292349dfa6e3b9cb74",
+            "source": "spacenews",
+            "text": "NRO to expand use of HawkEye 360’s satellite intelligence",
+            "source_link": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-18T09:14:21.981862Z",
+            "shown_at": [
+                "2026-08-18T09:14:22.978639Z"
+            ]
+        },
         {
             "id": "8779be4c00c2277a4070eea8811ee755",
             "source": "spacenews",
@@ -8137,161 +8209,6 @@
             "shown_at": [
                 "2026-06-08T07:34:32.457938Z",
                 "2026-06-09T07:29:25.421526Z"
-            ]
-        },
-        {
-            "id": "1679077eb5d3029b52296f3b357a7cb7",
-            "source": "spacenews",
-            "text": "OQ Technology plans direct-to-smartphone demo with cellular spectrum",
-            "source_link": "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T06:58:50.934529Z",
-            "shown_at": [
-                "2026-06-08T06:58:51.644018Z",
-                "2026-06-11T07:34:44.029351Z",
-                "2026-06-13T10:22:31.824729Z",
-                "2026-06-13T13:59:25.778295Z",
-                "2026-06-14T00:35:01.596680Z"
-            ]
-        },
-        {
-            "id": "e9a9b74778fac3b5f3dae0538a806a12",
-            "source": "spacenews",
-            "text": "NASA to select new headquarters building by end of year",
-            "source_link": "https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-07T14:29:11.610976Z",
-            "shown_at": [
-                "2026-06-07T14:29:13.485279Z",
-                "2026-06-08T20:59:19.506728Z",
-                "2026-06-13T03:14:37.905574Z"
-            ]
-        },
-        {
-            "id": "df90bc4997d4a95361a1b4c0b2e09ddc",
-            "source": "spacenews",
-            "text": "Rounding up the space unicorns",
-            "source_link": "https://spacenews.com/rounding-up-the-space-unicorns/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-07T11:34:33.313010Z",
-            "shown_at": [
-                "2026-06-07T11:34:34.069479Z"
-            ]
-        },
-        {
-            "id": "a5d7308b2cd19fe03f1e82c8e962dbbf",
-            "source": "spacenews",
-            "text": "NASA interested in Hubble reboost if costs can be reduced",
-            "source_link": "https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-07T00:54:14.060064Z",
-            "shown_at": [
-                "2026-06-07T00:54:15.935500Z",
-                "2026-06-07T09:49:25.805584Z",
-                "2026-06-09T03:59:24.709885Z",
-                "2026-06-10T10:14:27.355426Z"
-            ]
-        },
-        {
-            "id": "3cc224dcbd92c3d72f204bf843b632cf",
-            "source": "spacenews",
-            "text": "NASA concerns about Russian repairs prompted ISS safe haven decision",
-            "source_link": "https://spacenews.com/nasa-concerns-about-russian-repairs-prompted-iss-safe-haven-decision/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-06T17:54:12.983017Z",
-            "shown_at": [
-                "2026-06-06T17:54:13.838885Z",
-                "2026-06-09T02:14:29.092889Z"
-            ]
-        },
-        {
-            "id": "c0e90c749c0729eb48ad75fb910aaa51",
-            "source": "spacenews",
-            "text": "Leaf Space partners with D-Orbit and EnduroSat to test connectivity service",
-            "source_link": "https://spacenews.com/leaf-space-partners-with-d-orbit-and-endurosat-to-test-connectivity-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T18:19:12.791112Z",
-            "shown_at": [
-                "2026-06-05T18:19:13.743881Z",
-                "2026-06-07T19:49:35.739982Z"
-            ]
-        },
-        {
-            "id": "604a7fad24b33a292349dfa6e3b9cb74",
-            "source": "spacenews",
-            "text": "NRO to expand use of HawkEye 360’s satellite intelligence",
-            "source_link": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-18T09:14:21.981862Z",
-            "shown_at": [
-                "2026-08-18T09:14:22.978639Z"
-            ]
-        },
-        {
-            "id": "9863beff2d185606ae4ba49a6337d487",
-            "source": "spacenews",
-            "text": "Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027",
-            "source_link": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-18T12:20:06.905632Z",
-            "shown_at": [
-                "2026-08-18T12:20:08.016001Z"
-            ]
-        },
-        {
-            "id": "09a718533ce21fe6ef69e4816057a1d4",
-            "source": "spacenews",
-            "text": "New report takes closer look at the Space Force spending surge",
-            "source_link": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-18T12:20:06.905680Z",
-            "shown_at": [
-                "2026-08-18T13:34:42.531296Z"
-            ]
-        },
-        {
-            "id": "a0edc4dd8ec057cc30915af3d386a40b",
-            "source": "nyt",
-            "text": "How NASA Engineers Are Keeping the Voyagers Alive",
-            "source_link": "https://www.nytimes.com/2026/08/18/science/nasa-voyagers-big-bang.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-18T12:59:22.248288Z",
-            "shown_at": [
-                "2026-08-18T12:59:24.385823Z"
-            ]
-        },
-        {
-            "id": "fb20d489801cb5dd8b725bf0ea2f9f74",
-            "source": "breaking_defense",
-            "text": "DoD expands R&D on clearing expired satellites from orbit",
-            "source_link": "https://breakingdefense.com/2026/08/dod-expands-rd-on-clearing-expired-satellites-from-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-18T18:14:17.154454Z",
-            "shown_at": [
-                "2026-08-18T18:14:19.904299Z"
-            ]
-        },
-        {
-            "id": "8f0df57d94014112880c388f0a560502",
-            "source": "spacenews",
-            "text": "Rocket Lab to test Space Force data network connection in orbit in 2027",
-            "source_link": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-18T23:19:24.903225Z",
-            "shown_at": [
-                "2026-08-18T23:19:26.999788Z"
             ]
         }
     ]
