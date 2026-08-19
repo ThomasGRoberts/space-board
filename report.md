@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 11 | 23 |
+| spacenews | 10 | 13 | 12 | 24 |
 | breaking_defense | 1 | 2 | 6 | 17 |
-| nyt | 2 | 3 | 8 | 20 |
+| nyt | 2 | 3 | 8 | 19 |
 
 # Shown Order
 
@@ -2738,3 +2738,4 @@
 - **Aug 19, 08:29 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 19, 10:09 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 19, 10:44 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 19, 11:19 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
-    "trigger_count": 6,
-    "current_item_id": "427f4ff0afa3fba9eedef7da9c2ddd3a",
+    "trigger_count": 0,
+    "current_item_id": "5cc7e4f087c164282553d2e7ff910d55",
     "data": [
         {
             "id": "8f0df57d94014112880c388f0a560502",
@@ -8343,6 +8343,27 @@
             "shown_at": [
                 "2026-08-19T22:44:34.168656Z"
             ]
+        },
+        {
+            "id": "5cc7e4f087c164282553d2e7ff910d55",
+            "source": "spacenews",
+            "text": "Hypersonic missile startup Castelion raises $1 billion ",
+            "source_link": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T23:19:16.951285Z",
+            "shown_at": [
+                "2026-08-19T23:19:20.068453Z"
+            ]
+        },
+        {
+            "id": "36e8cb2107774a241bff17ac23777b7a",
+            "source": "spacenews",
+            "text": "Eartheye Space forges strategic partnership with IN2",
+            "source_link": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T23:19:16.951346Z"
         }
     ]
 }
