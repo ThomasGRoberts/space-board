@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 12 | 25 |
-| breaking_defense | 1 | 3 | 8 | 19 |
+| spacenews | 6 | 12 | 13 | 26 |
+| breaking_defense | 1 | 2 | 8 | 18 |
 | nyt | 0 | 1 | 8 | 20 |
 
 # Shown Order
@@ -2727,3 +2727,4 @@
 - **Aug 19, 08:17 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 19, 12:04 PM** - Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission (spacenews)
 - **Aug 19, 12:49 PM** - Vantor names new head of U.S. government business (spacenews)
+- **Aug 19, 01:24 PM** - The space industry’s next challenge: supply chain resilience (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3568a656b2f9363c744aee555fd7a82b",
+    "trigger_count": 0,
+    "current_item_id": "670632667abe3a084c6a5aa0e1efa5ad",
     "data": [
         {
             "id": "8f0df57d94014112880c388f0a560502",
@@ -8265,6 +8265,18 @@
             "fetched_datetime": "2026-08-19T12:49:37.694386Z",
             "shown_at": [
                 "2026-08-19T12:49:39.035020Z"
+            ]
+        },
+        {
+            "id": "670632667abe3a084c6a5aa0e1efa5ad",
+            "source": "spacenews",
+            "text": "The space industry’s next challenge: supply chain resilience",
+            "source_link": "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T13:24:14.086964Z",
+            "shown_at": [
+                "2026-08-19T13:24:14.975060Z"
             ]
         }
     ]
