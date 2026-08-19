@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 14 | 29 |
 | breaking_defense | 1 | 3 | 11 | 22 |
-| nyt | 1 | 1 | 11 | 21 |
+| nyt | 1 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -2718,3 +2718,4 @@
 - **Aug 19, 12:29 AM** - Space-based interceptor contractors passed first Golden Dome milestone: Guetlein (breaking_defense)
 - **Aug 19, 01:04 AM** - Satellite operators emphasize launch deals in a constrained market (spacenews)
 - **Aug 19, 01:39 AM** - China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket (spacenews)
+- **Aug 19, 02:35 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
