@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
-    "trigger_count": 6,
-    "current_item_id": "17a5a3011a4cceefd46e81d29674b5ca",
+    "trigger_count": 0,
+    "current_item_id": "3568a656b2f9363c744aee555fd7a82b",
     "data": [
         {
             "id": "8f0df57d94014112880c388f0a560502",
@@ -8253,6 +8253,18 @@
             "fetched_datetime": "2026-08-19T12:04:46.929262Z",
             "shown_at": [
                 "2026-08-19T12:04:47.975025Z"
+            ]
+        },
+        {
+            "id": "3568a656b2f9363c744aee555fd7a82b",
+            "source": "spacenews",
+            "text": "Vantor names new head of U.S. government business",
+            "source_link": "https://spacenews.com/vantor-names-new-head-of-u-s-government-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T12:49:37.694386Z",
+            "shown_at": [
+                "2026-08-19T12:49:39.035020Z"
             ]
         }
     ]

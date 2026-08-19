@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 11 | 25 |
+| spacenews | 5 | 11 | 12 | 25 |
 | breaking_defense | 1 | 3 | 8 | 19 |
 | nyt | 1 | 1 | 9 | 20 |
 
@@ -2726,3 +2726,4 @@
 - **Aug 19, 06:24 AM** - Joint force needs kinetic and non-kinetic weapons for space war: Whiting (breaking_defense)
 - **Aug 19, 08:17 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 19, 12:04 PM** - Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission (spacenews)
+- **Aug 19, 12:49 PM** - Vantor names new head of U.S. government business (spacenews)
