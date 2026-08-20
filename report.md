@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 14 | 26 |
-| nyt | 2 | 2 | 10 | 19 |
+| spacenews | 11 | 16 | 15 | 27 |
+| nyt | 2 | 2 | 10 | 18 |
 | breaking_defense | 2 | 3 | 10 | 18 |
 
 # Shown Order
@@ -2731,3 +2731,4 @@
 - **Aug 20, 11:19 AM** - Muon Space raises $250 million to ramp up satellite production (spacenews)
 - **Aug 20, 11:54 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
 - **Aug 20, 12:29 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
+- **Aug 20, 01:05 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
