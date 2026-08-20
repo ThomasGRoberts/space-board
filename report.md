@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 18 | 29 |
+| spacenews | 12 | 20 | 19 | 30 |
 | nyt | 0 | 2 | 10 | 18 |
 | breaking_defense | 1 | 2 | 11 | 17 |
 
@@ -2747,3 +2747,4 @@
 - **Aug 20, 09:09 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 20, 09:44 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 20, 10:19 PM** - SpaceWERX selects 11 firms to scale technologies for military space (spacenews)
+- **Aug 20, 10:54 PM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)

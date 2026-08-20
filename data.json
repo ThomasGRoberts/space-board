@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ad3cc64d6d733caf5aadcc56feb5a9db",
+    "trigger_count": 0,
+    "current_item_id": "b2615fb39ccb859643c2e25d53771bbb",
     "data": [
         {
             "id": "36e8cb2107774a241bff17ac23777b7a",
@@ -8351,6 +8351,18 @@
             "fetched_datetime": "2026-08-20T22:19:39.193721Z",
             "shown_at": [
                 "2026-08-20T22:19:40.917779Z"
+            ]
+        },
+        {
+            "id": "b2615fb39ccb859643c2e25d53771bbb",
+            "source": "spacenews",
+            "text": "Elve qualifies millimeter-wave amplifiers for spaceflight",
+            "source_link": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T22:54:18.628967Z",
+            "shown_at": [
+                "2026-08-20T22:54:20.906624Z"
             ]
         }
     ]
