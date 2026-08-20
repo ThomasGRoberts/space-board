@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 17 | 29 |
+| spacenews | 11 | 18 | 17 | 30 |
 | nyt | 2 | 2 | 10 | 18 |
 | breaking_defense | 2 | 2 | 10 | 17 |
 
@@ -2740,3 +2740,4 @@
 - **Aug 20, 04:49 PM** - Rocket Lab launches 9th satellite for iQPS (spacenews)
 - **Aug 20, 05:29 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 20, 06:04 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
+- **Aug 20, 06:44 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)
