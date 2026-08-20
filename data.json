@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6552de45d69a210c6dd29bed9579ae00",
+    "trigger_count": 0,
+    "current_item_id": "04c13a12b5422795b5b9e69ea08cfb5e",
     "data": [
         {
             "id": "36e8cb2107774a241bff17ac23777b7a",
@@ -8257,6 +8257,18 @@
             "fetched_datetime": "2026-08-20T11:19:18.732488Z",
             "shown_at": [
                 "2026-08-20T11:19:19.406645Z"
+            ]
+        },
+        {
+            "id": "04c13a12b5422795b5b9e69ea08cfb5e",
+            "source": "breaking_defense",
+            "text": "New White House strategy clarifies military tech priorities: undersea, outer space and AI",
+            "source_link": "https://breakingdefense.com/2026/08/new-white-house-strategy-clarifies-military-tech-priorities-undersea-outer-space-and-ai/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T12:29:29.666677Z",
+            "shown_at": [
+                "2026-08-20T12:29:30.564431Z"
             ]
         }
     ]

@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 15 | 26 |
 | nyt | 2 | 3 | 10 | 19 |
-| breaking_defense | 1 | 2 | 9 | 17 |
+| breaking_defense | 2 | 3 | 10 | 18 |
 
 # Shown Order
 
@@ -2730,3 +2730,4 @@
 - **Aug 20, 10:44 AM** - Draper Selects Proteus Space for Advanced On-Orbit Mission (spacenews)
 - **Aug 20, 11:19 AM** - Muon Space raises $250 million to ramp up satellite production (spacenews)
 - **Aug 20, 11:54 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
+- **Aug 20, 12:29 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
