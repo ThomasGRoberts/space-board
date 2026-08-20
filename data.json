@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b2615fb39ccb859643c2e25d53771bbb",
+    "trigger_count": 0,
+    "current_item_id": "b1c535961d516bfcd86b185f6b1574ab",
     "data": [
         {
             "id": "36e8cb2107774a241bff17ac23777b7a",
@@ -8363,6 +8363,18 @@
             "fetched_datetime": "2026-08-20T22:54:18.628967Z",
             "shown_at": [
                 "2026-08-20T22:54:20.906624Z"
+            ]
+        },
+        {
+            "id": "b1c535961d516bfcd86b185f6b1574ab",
+            "source": "spacenews",
+            "text": "Golden Dome chief touts progress as funding questions loom",
+            "source_link": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T23:29:09.722491Z",
+            "shown_at": [
+                "2026-08-20T23:29:10.464016Z"
             ]
         }
     ]
