@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 11 | 25 |
+| spacenews | 7 | 13 | 12 | 26 |
 | nyt | 2 | 3 | 9 | 20 |
 | breaking_defense | 1 | 2 | 7 | 17 |
 
@@ -2721,3 +2721,4 @@
 - **Aug 20, 05:19 AM** - New EU sanctions target leaders of Russia’s space industry (spacenews)
 - **Aug 20, 05:54 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 20, 06:34 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
+- **Aug 20, 07:09 AM** - Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. (spacenews)
