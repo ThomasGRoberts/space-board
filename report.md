@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 16 | 27 |
-| nyt | 2 | 3 | 9 | 18 |
+| nyt | 2 | 3 | 10 | 19 |
 | breaking_defense | 1 | 2 | 9 | 17 |
 
 # Shown Order
@@ -2729,3 +2729,4 @@
 - **Aug 20, 10:09 AM** - LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation (spacenews)
 - **Aug 20, 10:44 AM** - Draper Selects Proteus Space for Advanced On-Orbit Mission (spacenews)
 - **Aug 20, 11:19 AM** - Muon Space raises $250 million to ramp up satellite production (spacenews)
+- **Aug 20, 11:54 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
