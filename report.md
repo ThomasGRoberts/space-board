@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 12 | 24 |
-| nyt | 2 | 3 | 7 | 19 |
+| spacenews | 9 | 13 | 11 | 24 |
+| nyt | 2 | 3 | 8 | 20 |
 | breaking_defense | 1 | 2 | 6 | 17 |
 
 # Shown Order
@@ -2711,3 +2711,4 @@
 - **Aug 19, 11:19 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)
 - **Aug 19, 11:54 PM** - Eartheye Space forges strategic partnership with IN2 (spacenews)
 - **Aug 20, 12:29 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
+- **Aug 20, 01:05 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
