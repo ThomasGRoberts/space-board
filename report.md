@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 12 | 25 |
-| nyt | 2 | 3 | 9 | 19 |
+| nyt | 2 | 3 | 9 | 20 |
 | breaking_defense | 1 | 2 | 8 | 18 |
 
 # Shown Order
@@ -2723,3 +2723,4 @@
 - **Aug 20, 06:34 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 20, 07:09 AM** - Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. (spacenews)
 - **Aug 20, 07:44 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
+- **Aug 20, 08:19 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
