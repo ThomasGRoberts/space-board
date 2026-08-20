@@ -1,9 +1,153 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-19T00:04:53.569320+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
+    "trigger_count": 2,
     "current_item_id": "36e8cb2107774a241bff17ac23777b7a",
     "data": [
+        {
+            "id": "36e8cb2107774a241bff17ac23777b7a",
+            "source": "spacenews",
+            "text": "Eartheye Space forges strategic partnership with IN2",
+            "source_link": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T23:19:16.951346Z",
+            "shown_at": [
+                "2026-08-19T23:54:33.754399Z"
+            ]
+        },
+        {
+            "id": "5cc7e4f087c164282553d2e7ff910d55",
+            "source": "spacenews",
+            "text": "Hypersonic missile startup Castelion raises $1 billion ",
+            "source_link": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T23:19:16.951285Z",
+            "shown_at": [
+                "2026-08-19T23:19:20.068453Z"
+            ]
+        },
+        {
+            "id": "427f4ff0afa3fba9eedef7da9c2ddd3a",
+            "source": "nyt",
+            "text": "NASA’s Attempt to Save the Swift Telescope Has Failed",
+            "source_link": "https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T22:09:18.917795Z",
+            "shown_at": [
+                "2026-08-19T22:44:34.168656Z"
+            ]
+        },
+        {
+            "id": "b500bee5d51adfc3df130fc007ce9260",
+            "source": "nyt",
+            "text": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+            "source_link": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T22:09:18.917745Z",
+            "shown_at": [
+                "2026-08-19T22:09:19.672345Z"
+            ]
+        },
+        {
+            "id": "da1cdb9a4c47138f9ed45d439307b0e4",
+            "source": "breaking_defense",
+            "text": "Pentagon rebuffed repeated requests for Golden Dome brief: CBO",
+            "source_link": "https://breakingdefense.com/2026/08/pentagon-rebuffed-repeated-requests-for-golden-dome-brief-cbo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T20:29:17.337759Z",
+            "shown_at": [
+                "2026-08-19T20:29:17.957797Z"
+            ]
+        },
+        {
+            "id": "07166f90c6b0ef62431be296acd17394",
+            "source": "spacenews",
+            "text": "Katalyst Space and NASA abandon plans for Swift reboost",
+            "source_link": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T19:25:42.674028Z",
+            "shown_at": [
+                "2026-08-19T19:25:44.505650Z"
+            ]
+        },
+        {
+            "id": "b009c3f55befc49a4bd3337c366b07c9",
+            "source": "spacenews",
+            "text": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
+            "source_link": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T16:12:13.284118Z",
+            "shown_at": [
+                "2026-08-19T16:12:16.564769Z"
+            ]
+        },
+        {
+            "id": "670632667abe3a084c6a5aa0e1efa5ad",
+            "source": "spacenews",
+            "text": "The space industry’s next challenge: supply chain resilience",
+            "source_link": "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T13:24:14.086964Z",
+            "shown_at": [
+                "2026-08-19T13:24:14.975060Z"
+            ]
+        },
+        {
+            "id": "3568a656b2f9363c744aee555fd7a82b",
+            "source": "spacenews",
+            "text": "Vantor names new head of U.S. government business",
+            "source_link": "https://spacenews.com/vantor-names-new-head-of-u-s-government-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T12:49:37.694386Z",
+            "shown_at": [
+                "2026-08-19T12:49:39.035020Z"
+            ]
+        },
+        {
+            "id": "17a5a3011a4cceefd46e81d29674b5ca",
+            "source": "spacenews",
+            "text": "Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission",
+            "source_link": "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T12:04:46.929262Z",
+            "shown_at": [
+                "2026-08-19T12:04:47.975025Z"
+            ]
+        },
+        {
+            "id": "b4a3dcd17097369b8cbf53c4aef14c60",
+            "source": "spacenews",
+            "text": "Space nuclear programs face near- and long-term challenges",
+            "source_link": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T03:30:35.271971Z",
+            "shown_at": [
+                "2026-08-19T03:30:35.952454Z"
+            ]
+        },
+        {
+            "id": "b105fab0e5c2d65f4f0cff0c92ed3158",
+            "source": "spacenews",
+            "text": "China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket",
+            "source_link": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-19T01:39:12.713105Z",
+            "shown_at": [
+                "2026-08-19T01:39:13.358127Z"
+            ]
+        },
         {
             "id": "8f0df57d94014112880c388f0a560502",
             "source": "spacenews",
@@ -8060,312 +8204,6 @@
             "shown_at": [
                 "2026-06-09T14:09:15.743811Z",
                 "2026-06-12T23:44:23.523052Z"
-            ]
-        },
-        {
-            "id": "88dc75985bd688e20644a6f28a9e719e",
-            "source": "spacenews",
-            "text": "New Glenn forced an explosive rewrite for NASA’s plans to build a moon base",
-            "source_link": "https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T12:58:58.438008Z",
-            "shown_at": [
-                "2026-06-09T13:34:46.453526Z",
-                "2026-06-11T00:35:02.258672Z"
-            ]
-        },
-        {
-            "id": "7d36f92447e0880b7dcdb52bfff162f7",
-            "source": "spacenews",
-            "text": "BlackSky to accelerate broad-area collection work under NRO contract modification",
-            "source_link": "https://spacenews.com/blacksky-to-accelerate-broad-area-collection-work-under-nro-contract-modification/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T12:58:58.437963Z",
-            "shown_at": [
-                "2026-06-09T12:59:00.125096Z",
-                "2026-06-13T01:29:29.265058Z"
-            ]
-        },
-        {
-            "id": "542574116215760d03722ddca758a32e",
-            "source": "spacenews",
-            "text": "Let’s procure in-orbit services like Earth observation data and services",
-            "source_link": "https://spacenews.com/lets-procure-in-orbit-services-like-earth-observation-data-and-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T11:14:23.671907Z",
-            "shown_at": [
-                "2026-06-09T12:24:26.559673Z",
-                "2026-06-10T19:15:03.630771Z",
-                "2026-06-11T04:04:45.630390Z",
-                "2026-06-14T05:59:17.333794Z",
-                "2026-06-15T05:09:16.749787Z",
-                "2026-06-15T08:44:43.023876Z",
-                "2026-06-16T02:39:18.822689Z"
-            ]
-        },
-        {
-            "id": "dcabb72735ffd93a44929e90cbc9c720",
-            "source": "spacenews",
-            "text": "Commercial launch providers shortlisted for China’s low-cost cargo spacecraft",
-            "source_link": "https://spacenews.com/commercial-launch-providers-shortlisted-for-chinas-low-cost-cargo-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T11:14:23.671857Z",
-            "shown_at": [
-                "2026-06-09T11:49:03.926247Z"
-            ]
-        },
-        {
-            "id": "204fc28bca7254290c137c0bfaebca60",
-            "source": "spacenews",
-            "text": "Isar Aerospace raises 270 million euros for global launch expansion",
-            "source_link": "https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T11:14:23.671784Z",
-            "shown_at": [
-                "2026-06-09T11:14:29.048086Z"
-            ]
-        },
-        {
-            "id": "cf36d5f0ace94c4cc0679bf19373b35f",
-            "source": "spacenews",
-            "text": "FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty",
-            "source_link": "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T19:14:31.588336Z",
-            "shown_at": [
-                "2026-06-08T19:14:32.355536Z",
-                "2026-06-09T23:29:10.948286Z",
-                "2026-06-14T11:19:30.299996Z"
-            ]
-        },
-        {
-            "id": "47a12231c257bb6927986a5026e83da9",
-            "source": "spacenews",
-            "text": "Russia is jamming GPS from space ",
-            "source_link": "https://spacenews.com/russia-is-jamming-gps-from-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T15:09:47.243520Z",
-            "shown_at": [
-                "2026-06-08T15:09:48.207112Z",
-                "2026-06-13T06:49:25.108711Z"
-            ]
-        },
-        {
-            "id": "98cf3fab391cd0ab4b60add3236e5560",
-            "source": "spacenews",
-            "text": "Quantum Space to go public in SPAC deal",
-            "source_link": "https://spacenews.com/quantum-space-to-go-public-in-spac-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T14:34:48.704280Z",
-            "shown_at": [
-                "2026-06-08T14:34:49.504785Z",
-                "2026-06-10T21:38:55.680911Z",
-                "2026-06-11T09:24:20.204370Z",
-                "2026-06-11T22:24:22.173540Z"
-            ]
-        },
-        {
-            "id": "9c0a02442f50d5d5122769bcf5e0ce6a",
-            "source": "spacenews",
-            "text": "WRC-27: the next arena for U.S.-China space competition",
-            "source_link": "https://spacenews.com/wrc-27-the-next-arena-for-u-s-china-space-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T13:24:40.595687Z",
-            "shown_at": [
-                "2026-06-08T13:24:41.458595Z",
-                "2026-06-15T10:35:04.141559Z"
-            ]
-        },
-        {
-            "id": "525a82f5357ada7c825bff8216ebd83b",
-            "source": "spacenews",
-            "text": "Axiom and Prada advance design of spacesuit",
-            "source_link": "https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T11:39:20.462707Z",
-            "shown_at": [
-                "2026-06-08T11:39:23.107789Z",
-                "2026-06-12T11:59:23.406922Z",
-                "2026-06-14T16:39:15.551106Z"
-            ]
-        },
-        {
-            "id": "cfe4238e39cdef25947763beba59c83a",
-            "source": "spacenews",
-            "text": "Speed as a Strategic Advantage in Border Monitoring",
-            "source_link": "https://spacenews.com/speed-as-a-strategic-advantage-in-border-monitoring/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T11:05:07.093227Z",
-            "shown_at": [
-                "2026-06-08T11:05:09.464557Z"
-            ]
-        },
-        {
-            "id": "bbd65cc2c3ca655753cb49ae65f73d7e",
-            "source": "spacenews",
-            "text": "UK startup NewOrbit raises $18.5 million in Series A round",
-            "source_link": "https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T07:34:31.035600Z",
-            "shown_at": [
-                "2026-06-08T07:34:32.457938Z",
-                "2026-06-09T07:29:25.421526Z"
-            ]
-        },
-        {
-            "id": "b105fab0e5c2d65f4f0cff0c92ed3158",
-            "source": "spacenews",
-            "text": "China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket",
-            "source_link": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T01:39:12.713105Z",
-            "shown_at": [
-                "2026-08-19T01:39:13.358127Z"
-            ]
-        },
-        {
-            "id": "b4a3dcd17097369b8cbf53c4aef14c60",
-            "source": "spacenews",
-            "text": "Space nuclear programs face near- and long-term challenges",
-            "source_link": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T03:30:35.271971Z",
-            "shown_at": [
-                "2026-08-19T03:30:35.952454Z"
-            ]
-        },
-        {
-            "id": "17a5a3011a4cceefd46e81d29674b5ca",
-            "source": "spacenews",
-            "text": "Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission",
-            "source_link": "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T12:04:46.929262Z",
-            "shown_at": [
-                "2026-08-19T12:04:47.975025Z"
-            ]
-        },
-        {
-            "id": "3568a656b2f9363c744aee555fd7a82b",
-            "source": "spacenews",
-            "text": "Vantor names new head of U.S. government business",
-            "source_link": "https://spacenews.com/vantor-names-new-head-of-u-s-government-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T12:49:37.694386Z",
-            "shown_at": [
-                "2026-08-19T12:49:39.035020Z"
-            ]
-        },
-        {
-            "id": "670632667abe3a084c6a5aa0e1efa5ad",
-            "source": "spacenews",
-            "text": "The space industry’s next challenge: supply chain resilience",
-            "source_link": "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T13:24:14.086964Z",
-            "shown_at": [
-                "2026-08-19T13:24:14.975060Z"
-            ]
-        },
-        {
-            "id": "b009c3f55befc49a4bd3337c366b07c9",
-            "source": "spacenews",
-            "text": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
-            "source_link": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T16:12:13.284118Z",
-            "shown_at": [
-                "2026-08-19T16:12:16.564769Z"
-            ]
-        },
-        {
-            "id": "07166f90c6b0ef62431be296acd17394",
-            "source": "spacenews",
-            "text": "Katalyst Space and NASA abandon plans for Swift reboost",
-            "source_link": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T19:25:42.674028Z",
-            "shown_at": [
-                "2026-08-19T19:25:44.505650Z"
-            ]
-        },
-        {
-            "id": "da1cdb9a4c47138f9ed45d439307b0e4",
-            "source": "breaking_defense",
-            "text": "Pentagon rebuffed repeated requests for Golden Dome brief: CBO",
-            "source_link": "https://breakingdefense.com/2026/08/pentagon-rebuffed-repeated-requests-for-golden-dome-brief-cbo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T20:29:17.337759Z",
-            "shown_at": [
-                "2026-08-19T20:29:17.957797Z"
-            ]
-        },
-        {
-            "id": "b500bee5d51adfc3df130fc007ce9260",
-            "source": "nyt",
-            "text": "Chinese Start-Up Lands Reusable Rocket for the First Time",
-            "source_link": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T22:09:18.917745Z",
-            "shown_at": [
-                "2026-08-19T22:09:19.672345Z"
-            ]
-        },
-        {
-            "id": "427f4ff0afa3fba9eedef7da9c2ddd3a",
-            "source": "nyt",
-            "text": "NASA’s Attempt to Save the Swift Telescope Has Failed",
-            "source_link": "https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T22:09:18.917795Z",
-            "shown_at": [
-                "2026-08-19T22:44:34.168656Z"
-            ]
-        },
-        {
-            "id": "5cc7e4f087c164282553d2e7ff910d55",
-            "source": "spacenews",
-            "text": "Hypersonic missile startup Castelion raises $1 billion ",
-            "source_link": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T23:19:16.951285Z",
-            "shown_at": [
-                "2026-08-19T23:19:20.068453Z"
-            ]
-        },
-        {
-            "id": "36e8cb2107774a241bff17ac23777b7a",
-            "source": "spacenews",
-            "text": "Eartheye Space forges strategic partnership with IN2",
-            "source_link": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-19T23:19:16.951346Z",
-            "shown_at": [
-                "2026-08-19T23:54:33.754399Z"
             ]
         }
     ]
