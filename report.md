@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 17 | 29 |
 | nyt | 2 | 2 | 12 | 18 |
-| breaking_defense | 1 | 2 | 10 | 17 |
+| breaking_defense | 1 | 2 | 11 | 18 |
 
 # Shown Order
 
@@ -2745,3 +2745,4 @@
 - **Aug 20, 07:53 PM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 20, 08:29 PM** - ULA names Peller as new CEO (spacenews)
 - **Aug 20, 09:09 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
+- **Aug 20, 09:44 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
