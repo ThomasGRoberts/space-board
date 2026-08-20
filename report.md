@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 16 | 29 |
+| spacenews | 10 | 18 | 17 | 30 |
 | nyt | 2 | 2 | 11 | 18 |
 | breaking_defense | 2 | 2 | 11 | 17 |
 
@@ -2743,3 +2743,4 @@
 - **Aug 20, 06:44 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)
 - **Aug 20, 07:19 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 20, 07:53 PM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 20, 08:29 PM** - ULA names Peller as new CEO (spacenews)
