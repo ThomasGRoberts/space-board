@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 17 | 29 |
 | nyt | 2 | 2 | 10 | 18 |
-| breaking_defense | 2 | 3 | 9 | 17 |
+| breaking_defense | 2 | 3 | 10 | 18 |
 
 # Shown Order
 
@@ -2739,3 +2739,4 @@
 - **Aug 20, 04:14 PM** - Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium  (spacenews)
 - **Aug 20, 04:49 PM** - Rocket Lab launches 9th satellite for iQPS (spacenews)
 - **Aug 20, 05:29 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
+- **Aug 20, 06:04 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
