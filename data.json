@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "073a55ac06132fd8d08011518d8e5e9c",
+    "trigger_count": 0,
+    "current_item_id": "789f1ee95f8f45b69e6b1ab6f2a4e775",
     "data": [
         {
             "id": "36e8cb2107774a241bff17ac23777b7a",
@@ -8288,9 +8288,12 @@
             "source": "spacenews",
             "text": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
             "source_link": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-08-20T13:05:00.727604Z"
+            "fetched_datetime": "2026-08-20T13:05:00.727604Z",
+            "shown_at": [
+                "2026-08-20T13:44:33.401197Z"
+            ]
         },
         {
             "id": "6eb78479944f7ae0bbf297861a108c08",
