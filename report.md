@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 12 | 25 |
 | nyt | 2 | 3 | 7 | 19 |
-| breaking_defense | 1 | 2 | 6 | 16 |
+| breaking_defense | 1 | 2 | 6 | 17 |
 
 # Shown Order
 
@@ -2710,3 +2710,4 @@
 - **Aug 19, 10:44 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 19, 11:19 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)
 - **Aug 19, 11:54 PM** - Eartheye Space forges strategic partnership with IN2 (spacenews)
+- **Aug 20, 12:29 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
