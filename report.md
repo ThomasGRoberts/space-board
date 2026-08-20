@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 17 | 29 |
-| nyt | 2 | 2 | 10 | 17 |
+| nyt | 2 | 2 | 11 | 18 |
 | breaking_defense | 2 | 3 | 9 | 17 |
 
 # Shown Order
@@ -2738,3 +2738,4 @@
 - **Aug 20, 03:39 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 20, 04:14 PM** - Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium  (spacenews)
 - **Aug 20, 04:49 PM** - Rocket Lab launches 9th satellite for iQPS (spacenews)
+- **Aug 20, 05:29 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
