@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 16 | 28 |
+| spacenews | 11 | 18 | 17 | 29 |
 | nyt | 2 | 2 | 10 | 18 |
 | breaking_defense | 2 | 3 | 10 | 17 |
 
@@ -2737,3 +2737,4 @@
 - **Aug 20, 02:55 PM** - The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death (nyt)
 - **Aug 20, 03:39 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 20, 04:14 PM** - Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium  (spacenews)
+- **Aug 20, 04:49 PM** - Rocket Lab launches 9th satellite for iQPS (spacenews)

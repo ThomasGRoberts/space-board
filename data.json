@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ef5015896d1b0378d5a0c1db326a4cb2",
+    "trigger_count": 0,
+    "current_item_id": "7c935566a92a2964a65c424e925aa4cb",
     "data": [
         {
             "id": "36e8cb2107774a241bff17ac23777b7a",
@@ -8319,6 +8319,18 @@
             "fetched_datetime": "2026-08-20T16:14:27.015821Z",
             "shown_at": [
                 "2026-08-20T16:14:28.579757Z"
+            ]
+        },
+        {
+            "id": "7c935566a92a2964a65c424e925aa4cb",
+            "source": "spacenews",
+            "text": "Rocket Lab launches 9th satellite for iQPS",
+            "source_link": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T16:49:43.291402Z",
+            "shown_at": [
+                "2026-08-20T16:49:47.886814Z"
             ]
         }
     ]
