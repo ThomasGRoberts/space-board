@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 12 | 25 |
+| spacenews | 7 | 13 | 11 | 25 |
 | nyt | 2 | 3 | 8 | 20 |
-| breaking_defense | 1 | 2 | 7 | 17 |
+| breaking_defense | 1 | 2 | 8 | 18 |
 
 # Shown Order
 
@@ -2719,3 +2719,4 @@
 - **Aug 20, 04:09 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 20, 04:44 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 20, 05:19 AM** - New EU sanctions target leaders of Russia’s space industry (spacenews)
+- **Aug 20, 05:54 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
