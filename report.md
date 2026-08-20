@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 13 | 25 |
+| spacenews | 9 | 14 | 14 | 26 |
 | nyt | 2 | 3 | 9 | 19 |
 | breaking_defense | 1 | 2 | 9 | 18 |
 
@@ -2726,3 +2726,4 @@
 - **Aug 20, 08:19 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 20, 08:59 AM** - SEOPS adds second Waymaker rideshare mission (spacenews)
 - **Aug 20, 09:34 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
+- **Aug 20, 10:09 AM** - LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation (spacenews)
