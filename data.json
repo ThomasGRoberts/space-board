@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da1cdb9a4c47138f9ed45d439307b0e4",
+    "trigger_count": 0,
+    "current_item_id": "ad3cc64d6d733caf5aadcc56feb5a9db",
     "data": [
         {
             "id": "36e8cb2107774a241bff17ac23777b7a",
@@ -8339,6 +8339,18 @@
             "fetched_datetime": "2026-08-20T16:49:43.291402Z",
             "shown_at": [
                 "2026-08-20T16:49:47.886814Z"
+            ]
+        },
+        {
+            "id": "ad3cc64d6d733caf5aadcc56feb5a9db",
+            "source": "spacenews",
+            "text": "SpaceWERX selects 11 firms to scale technologies for military space",
+            "source_link": "https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T22:19:39.193721Z",
+            "shown_at": [
+                "2026-08-20T22:19:40.917779Z"
             ]
         }
     ]
