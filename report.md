@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 15 | 27 |
+| spacenews | 10 | 16 | 16 | 28 |
 | nyt | 2 | 2 | 10 | 18 |
 | breaking_defense | 2 | 3 | 9 | 17 |
 
@@ -2733,3 +2733,4 @@
 - **Aug 20, 12:29 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 20, 01:05 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
 - **Aug 20, 01:44 PM** - Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference (spacenews)
+- **Aug 20, 02:19 PM** - China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch (spacenews)
