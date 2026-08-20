@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "39b6ce742e2825a16cceaba5f24446cb",
+    "trigger_count": 0,
+    "current_item_id": "ef5015896d1b0378d5a0c1db326a4cb2",
     "data": [
         {
             "id": "36e8cb2107774a241bff17ac23777b7a",
@@ -8307,6 +8307,18 @@
             "fetched_datetime": "2026-08-20T13:05:00.727659Z",
             "shown_at": [
                 "2026-08-20T14:19:44.611516Z"
+            ]
+        },
+        {
+            "id": "ef5015896d1b0378d5a0c1db326a4cb2",
+            "source": "spacenews",
+            "text": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium ",
+            "source_link": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T16:14:27.015821Z",
+            "shown_at": [
+                "2026-08-20T16:14:28.579757Z"
             ]
         }
     ]
