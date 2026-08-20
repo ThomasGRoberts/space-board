@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 13 | 25 |
 | nyt | 2 | 3 | 9 | 20 |
-| breaking_defense | 1 | 2 | 8 | 17 |
+| breaking_defense | 1 | 2 | 9 | 18 |
 
 # Shown Order
 
@@ -2725,3 +2725,4 @@
 - **Aug 20, 07:44 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 20, 08:19 AM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 20, 08:59 AM** - SEOPS adds second Waymaker rideshare mission (spacenews)
+- **Aug 20, 09:34 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
