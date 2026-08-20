@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 11 | 25 |
 | nyt | 2 | 3 | 8 | 19 |
-| breaking_defense | 1 | 2 | 6 | 17 |
+| breaking_defense | 1 | 2 | 7 | 18 |
 
 # Shown Order
 
@@ -2713,3 +2713,4 @@
 - **Aug 20, 12:29 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 20, 01:05 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 20, 01:39 AM** - Wallops gears up for an increase in launches (spacenews)
+- **Aug 20, 02:19 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
