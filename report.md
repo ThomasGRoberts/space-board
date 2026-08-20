@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 11 | 25 |
+| spacenews | 7 | 13 | 11 | 26 |
 | nyt | 2 | 3 | 8 | 20 |
 | breaking_defense | 1 | 2 | 7 | 17 |
 
@@ -2715,3 +2715,4 @@
 - **Aug 20, 01:39 AM** - Wallops gears up for an increase in launches (spacenews)
 - **Aug 20, 02:19 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 20, 02:55 AM** - How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark (nyt)
+- **Aug 20, 03:34 AM** - Blue Origin outlines plans for second Cape Canaveral launch pad (spacenews)
