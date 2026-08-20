@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5ea37f594af250dc1b9c6af411d74043",
+    "trigger_count": 0,
+    "current_item_id": "d8205774dec44cfbf6bdde5af34006a8",
     "data": [
         {
             "id": "36e8cb2107774a241bff17ac23777b7a",
@@ -8244,6 +8244,18 @@
             "fetched_datetime": "2026-08-20T10:09:23.935153Z",
             "shown_at": [
                 "2026-08-20T10:44:47.679603Z"
+            ]
+        },
+        {
+            "id": "d8205774dec44cfbf6bdde5af34006a8",
+            "source": "spacenews",
+            "text": "Muon Space raises $250 million to ramp up satellite production",
+            "source_link": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T11:19:18.732488Z",
+            "shown_at": [
+                "2026-08-20T11:19:19.406645Z"
             ]
         }
     ]

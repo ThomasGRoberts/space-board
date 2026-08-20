@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 15 | 26 |
+| spacenews | 10 | 15 | 16 | 27 |
 | nyt | 2 | 3 | 9 | 19 |
 | breaking_defense | 1 | 2 | 9 | 17 |
 
@@ -2728,3 +2728,4 @@
 - **Aug 20, 09:34 AM** - Day 3 of the 2026 Space and Missile Defense Symposium (breaking_defense)
 - **Aug 20, 10:09 AM** - LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation (spacenews)
 - **Aug 20, 10:44 AM** - Draper Selects Proteus Space for Advanced On-Orbit Mission (spacenews)
+- **Aug 20, 11:19 AM** - Muon Space raises $250 million to ramp up satellite production (spacenews)
