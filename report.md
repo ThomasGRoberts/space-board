@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 12 | 25 |
 | nyt | 2 | 3 | 9 | 20 |
-| breaking_defense | 1 | 2 | 7 | 17 |
+| breaking_defense | 1 | 2 | 8 | 18 |
 
 # Shown Order
 
@@ -2722,3 +2722,4 @@
 - **Aug 20, 05:54 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 20, 06:34 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 20, 07:09 AM** - Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. (spacenews)
+- **Aug 20, 07:44 AM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
