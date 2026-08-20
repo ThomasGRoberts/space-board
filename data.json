@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4c7fe9dc9e5185713b736e00a978740f",
+    "trigger_count": 0,
+    "current_item_id": "5ea37f594af250dc1b9c6af411d74043",
     "data": [
         {
             "id": "36e8cb2107774a241bff17ac23777b7a",
@@ -8239,9 +8239,12 @@
             "source": "spacenews",
             "text": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
             "source_link": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-08-20T10:09:23.935153Z"
+            "fetched_datetime": "2026-08-20T10:09:23.935153Z",
+            "shown_at": [
+                "2026-08-20T10:44:47.679603Z"
+            ]
         }
     ]
 }
