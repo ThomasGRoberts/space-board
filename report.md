@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 17 | 29 |
-| nyt | 2 | 2 | 10 | 18 |
+| nyt | 2 | 2 | 11 | 19 |
 | breaking_defense | 2 | 2 | 10 | 17 |
 
 # Shown Order
@@ -2741,3 +2741,4 @@
 - **Aug 20, 05:29 PM** - Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired (nyt)
 - **Aug 20, 06:04 PM** - Army gears up to ‘engage’ enemy surveillance satellites (breaking_defense)
 - **Aug 20, 06:44 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)
+- **Aug 20, 07:19 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
