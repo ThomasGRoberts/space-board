@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 14 | 33 |
-| breaking_defense | 1 | 2 | 11 | 22 |
+| breaking_defense | 1 | 2 | 12 | 23 |
 | nyt | 1 | 1 | 13 | 23 |
 
 # Shown Order
@@ -2719,3 +2719,4 @@
 - **Aug 21, 09:59 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 21, 10:39 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 21, 11:14 PM** - NRO to expand use of HawkEye 360’s satellite intelligence (spacenews)
+- **Aug 21, 11:49 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
