@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 19 | 30 |
 | breaking_defense | 1 | 2 | 11 | 18 |
-| nyt | 0 | 2 | 10 | 19 |
+| nyt | 0 | 2 | 11 | 20 |
 
 # Shown Order
 
@@ -2693,3 +2693,4 @@
 - **Aug 21, 05:19 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 21, 05:54 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 21, 06:29 AM** - Blue Origin outlines plans for second Cape Canaveral launch pad (spacenews)
+- **Aug 21, 07:04 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
