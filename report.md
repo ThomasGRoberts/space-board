@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 19 | 31 |
 | breaking_defense | 1 | 2 | 11 | 19 |
-| nyt | 0 | 2 | 10 | 19 |
+| nyt | 0 | 2 | 11 | 20 |
 
 # Shown Order
 
@@ -2696,3 +2696,4 @@
 - **Aug 21, 07:04 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 21, 07:39 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 21, 08:14 AM** - Space nuclear programs face near- and long-term challenges (spacenews)
+- **Aug 21, 08:49 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
