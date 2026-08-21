@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 15 | 31 |
 | breaking_defense | 1 | 3 | 12 | 22 |
-| nyt | 1 | 3 | 12 | 23 |
+| nyt | 1 | 3 | 13 | 24 |
 
 # Shown Order
 
@@ -2713,3 +2713,4 @@
 - **Aug 21, 05:49 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 21, 06:29 PM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
 - **Aug 21, 07:04 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 21, 07:39 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
