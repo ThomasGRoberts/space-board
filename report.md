@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 15 | 33 |
 | breaking_defense | 1 | 2 | 11 | 22 |
-| nyt | 1 | 1 | 12 | 23 |
+| nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2717,3 +2717,4 @@
 - **Aug 21, 08:14 PM** - Chinese radio-frequency intelligence startup StarRF closes new funding round (spacenews)
 - **Aug 21, 09:25 PM** - New Novaspace forecast: 6,500+ EO satellites to launch by 2035 (spacenews)
 - **Aug 21, 09:59 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
+- **Aug 21, 10:39 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
