@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 18 | 30 |
-| breaking_defense | 1 | 2 | 10 | 16 |
+| breaking_defense | 1 | 2 | 11 | 17 |
 | nyt | 0 | 2 | 11 | 18 |
 
 # Shown Order
@@ -2682,3 +2682,4 @@
 - **Aug 20, 10:54 PM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
 - **Aug 20, 11:29 PM** - Golden Dome chief touts progress as funding questions loom (spacenews)
 - **Aug 21, 12:04 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 21, 12:39 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
