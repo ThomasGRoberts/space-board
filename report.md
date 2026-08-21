@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 18 | 29 |
-| breaking_defense | 1 | 2 | 11 | 18 |
+| breaking_defense | 1 | 2 | 12 | 18 |
 | nyt | 0 | 2 | 11 | 19 |
 
 # Shown Order
@@ -2688,3 +2688,4 @@
 - **Aug 21, 02:24 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 21, 02:59 AM** - Wallops gears up for an increase in launches (spacenews)
 - **Aug 21, 03:34 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 21, 04:09 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
