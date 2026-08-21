@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 18 | 29 |
-| breaking_defense | 1 | 2 | 11 | 19 |
+| spacenews | 11 | 18 | 19 | 30 |
+| breaking_defense | 1 | 2 | 11 | 18 |
 | nyt | 0 | 2 | 11 | 19 |
 
 # Shown Order
@@ -2692,3 +2692,4 @@
 - **Aug 21, 04:44 AM** - Rocket Lab to test Space Force data network connection in orbit in 2027 (spacenews)
 - **Aug 21, 05:19 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 21, 05:54 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
+- **Aug 21, 06:29 AM** - Blue Origin outlines plans for second Cape Canaveral launch pad (spacenews)
