@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 18 | 29 |
 | breaking_defense | 1 | 2 | 11 | 17 |
-| nyt | 0 | 2 | 10 | 18 |
+| nyt | 0 | 2 | 11 | 19 |
 
 # Shown Order
 
@@ -2684,3 +2684,4 @@
 - **Aug 21, 12:04 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 21, 12:39 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 21, 01:14 AM** - The space industry’s next challenge: supply chain resilience (spacenews)
+- **Aug 21, 01:49 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
