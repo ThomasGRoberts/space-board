@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-21T00:04:49.773631+00:00",
-    "trigger_count": 6,
-    "current_item_id": "427f4ff0afa3fba9eedef7da9c2ddd3a",
+    "trigger_count": 0,
+    "current_item_id": "430011e9f710b2922c960ca73ea11f7a",
     "data": [
         {
             "id": "b1c535961d516bfcd86b185f6b1574ab",
@@ -8253,6 +8253,27 @@
             "shown_at": [
                 "2026-08-21T19:04:37.610829Z"
             ]
+        },
+        {
+            "id": "430011e9f710b2922c960ca73ea11f7a",
+            "source": "spacenews",
+            "text": "Chinese radio-frequency intelligence startup StarRF closes new funding round",
+            "source_link": "https://spacenews.com/chinese-radio-frequency-intelligence-startup-starrf-closes-new-funding-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-21T20:14:28.338249Z",
+            "shown_at": [
+                "2026-08-21T20:14:29.135360Z"
+            ]
+        },
+        {
+            "id": "d264e32b7427a9228125067af091acd7",
+            "source": "spacenews",
+            "text": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
+            "source_link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-08-21T20:14:28.338329Z"
         }
     ]
 }

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 15 | 15 | 31 |
+| spacenews | 7 | 17 | 16 | 32 |
 | breaking_defense | 1 | 3 | 11 | 22 |
 | nyt | 1 | 3 | 13 | 24 |
 
@@ -2714,3 +2714,4 @@
 - **Aug 21, 06:29 PM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
 - **Aug 21, 07:04 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 21, 07:39 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 21, 08:14 PM** - Chinese radio-frequency intelligence startup StarRF closes new funding round (spacenews)
