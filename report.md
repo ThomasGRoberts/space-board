@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 15 | 32 |
-| breaking_defense | 0 | 2 | 11 | 21 |
+| breaking_defense | 1 | 3 | 12 | 22 |
 | nyt | 1 | 3 | 13 | 23 |
 
 # Shown Order
@@ -2712,3 +2712,4 @@
 - **Aug 21, 04:51 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
 - **Aug 21, 05:49 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 21, 06:29 PM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
+- **Aug 21, 07:04 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)

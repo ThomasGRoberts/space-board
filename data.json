@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-21T00:04:49.773631+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b2615fb39ccb859643c2e25d53771bbb",
+    "trigger_count": 0,
+    "current_item_id": "c8d53a9daa276856d404fa45e9763133",
     "data": [
         {
             "id": "b1c535961d516bfcd86b185f6b1574ab",
@@ -8239,6 +8239,18 @@
             "fetched_datetime": "2026-08-21T14:09:33.761735Z",
             "shown_at": [
                 "2026-08-21T14:09:34.613927Z"
+            ]
+        },
+        {
+            "id": "c8d53a9daa276856d404fa45e9763133",
+            "source": "breaking_defense",
+            "text": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
+            "source_link": "https://breakingdefense.com/2026/08/space-war-2040-spacecom-preps-for-attacks-on-ground-segments-eyes-cislunar-ops/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-21T19:04:33.704167Z",
+            "shown_at": [
+                "2026-08-21T19:04:37.610829Z"
             ]
         }
     ]
