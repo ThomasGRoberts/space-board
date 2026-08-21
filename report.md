@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 19 | 32 |
-| breaking_defense | 1 | 2 | 10 | 19 |
+| breaking_defense | 1 | 2 | 11 | 20 |
 | nyt | 0 | 2 | 11 | 20 |
 
 # Shown Order
@@ -2698,3 +2698,4 @@
 - **Aug 21, 08:14 AM** - Space nuclear programs face near- and long-term challenges (spacenews)
 - **Aug 21, 08:49 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 21, 09:24 AM** - Landspace aims to refly recovered Zhuque-3 booster within six months (spacenews)
+- **Aug 21, 09:59 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
