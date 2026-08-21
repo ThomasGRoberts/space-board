@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-21T00:04:49.773631+00:00",
-    "trigger_count": 6,
-    "current_item_id": "427f4ff0afa3fba9eedef7da9c2ddd3a",
+    "trigger_count": 0,
+    "current_item_id": "8baac4a28e7fb3349230c1498ca71308",
     "data": [
         {
             "id": "b1c535961d516bfcd86b185f6b1574ab",
@@ -8191,6 +8191,18 @@
             "fetched_datetime": "2026-06-09T19:59:26.452328Z",
             "shown_at": [
                 "2026-06-09T19:59:29.017615Z"
+            ]
+        },
+        {
+            "id": "8baac4a28e7fb3349230c1498ca71308",
+            "source": "spacenews",
+            "text": "Landspace aims to refly recovered Zhuque-3 booster within six months",
+            "source_link": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-21T09:24:24.433649Z",
+            "shown_at": [
+                "2026-08-21T09:24:25.214766Z"
             ]
         }
     ]
