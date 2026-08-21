@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 16 | 33 |
-| breaking_defense | 1 | 2 | 10 | 21 |
+| breaking_defense | 1 | 2 | 11 | 22 |
 | nyt | 1 | 3 | 12 | 24 |
 
 # Shown Order
@@ -2716,3 +2716,4 @@
 - **Aug 21, 07:39 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 21, 08:14 PM** - Chinese radio-frequency intelligence startup StarRF closes new funding round (spacenews)
 - **Aug 21, 09:25 PM** - New Novaspace forecast: 6,500+ EO satellites to launch by 2035 (spacenews)
+- **Aug 21, 09:59 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
