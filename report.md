@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 17 | 31 |
 | breaking_defense | 0 | 2 | 11 | 21 |
-| nyt | 0 | 2 | 12 | 22 |
+| nyt | 1 | 3 | 13 | 23 |
 
 # Shown Order
 
@@ -2704,3 +2704,4 @@
 - **Aug 21, 11:44 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 21, 12:19 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 21, 12:54 PM** - Lynk and Omnispace form Elveo Mobile to advance D2D services (spacenews)
+- **Aug 21, 01:34 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)

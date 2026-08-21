@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-21T00:04:49.773631+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ffbc0be2ac589a5e2e87fb993a8247c7",
+    "trigger_count": 0,
+    "current_item_id": "0943e4472d78dc7aec4c5095768fff04",
     "data": [
         {
             "id": "b1c535961d516bfcd86b185f6b1574ab",
@@ -8209,6 +8209,18 @@
             "fetched_datetime": "2026-08-21T09:24:24.433649Z",
             "shown_at": [
                 "2026-08-21T09:24:25.214766Z"
+            ]
+        },
+        {
+            "id": "0943e4472d78dc7aec4c5095768fff04",
+            "source": "nyt",
+            "text": "Trump Announces a New Policy for a ‘Golden Age of Space Transportation’",
+            "source_link": "https://www.nytimes.com/2026/08/20/science/trump-space-transportation-policy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-21T13:34:42.364068Z",
+            "shown_at": [
+                "2026-08-21T13:34:43.309116Z"
             ]
         }
     ]
