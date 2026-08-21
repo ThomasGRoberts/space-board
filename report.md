@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 18 | 30 |
-| breaking_defense | 1 | 2 | 11 | 18 |
+| breaking_defense | 1 | 2 | 12 | 19 |
 | nyt | 0 | 2 | 11 | 20 |
 
 # Shown Order
@@ -2694,3 +2694,4 @@
 - **Aug 21, 05:54 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 21, 06:29 AM** - Blue Origin outlines plans for second Cape Canaveral launch pad (spacenews)
 - **Aug 21, 07:04 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
+- **Aug 21, 07:39 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
