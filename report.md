@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 18 | 32 |
 | breaking_defense | 1 | 2 | 11 | 20 |
-| nyt | 0 | 2 | 11 | 20 |
+| nyt | 0 | 2 | 12 | 21 |
 
 # Shown Order
 
@@ -2699,3 +2699,4 @@
 - **Aug 21, 08:49 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 21, 09:24 AM** - Landspace aims to refly recovered Zhuque-3 booster within six months (spacenews)
 - **Aug 21, 09:59 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
+- **Aug 21, 10:34 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
