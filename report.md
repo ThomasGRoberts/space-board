@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 16 | 32 |
-| breaking_defense | 0 | 2 | 11 | 20 |
+| breaking_defense | 0 | 2 | 12 | 21 |
 | nyt | 1 | 3 | 13 | 23 |
 
 # Shown Order
@@ -2706,3 +2706,4 @@
 - **Aug 21, 12:54 PM** - Lynk and Omnispace form Elveo Mobile to advance D2D services (spacenews)
 - **Aug 21, 01:34 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 21, 02:09 PM** - The COSMOSIS framework can ensure that Washington governs space with its complexity in mind. (spacenews)
+- **Aug 21, 02:43 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
