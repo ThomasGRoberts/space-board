@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 17 | 32 |
 | breaking_defense | 1 | 2 | 12 | 21 |
-| nyt | 0 | 2 | 11 | 21 |
+| nyt | 0 | 2 | 12 | 22 |
 
 # Shown Order
 
@@ -2702,3 +2702,4 @@
 - **Aug 21, 10:34 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 21, 11:09 AM** - Lunar orbiter among upcoming NASA CLPS task orders (spacenews)
 - **Aug 21, 11:44 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
+- **Aug 21, 12:19 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
