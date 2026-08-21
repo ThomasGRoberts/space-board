@@ -1,9 +1,153 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-20T00:04:50.515483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b1c535961d516bfcd86b185f6b1574ab",
+    "last_run_datetime": "2026-08-21T00:04:49.773631+00:00",
+    "trigger_count": 0,
+    "current_item_id": "427f4ff0afa3fba9eedef7da9c2ddd3a",
     "data": [
+        {
+            "id": "b1c535961d516bfcd86b185f6b1574ab",
+            "source": "spacenews",
+            "text": "Golden Dome chief touts progress as funding questions loom",
+            "source_link": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T23:29:09.722491Z",
+            "shown_at": [
+                "2026-08-20T23:29:10.464016Z"
+            ]
+        },
+        {
+            "id": "b2615fb39ccb859643c2e25d53771bbb",
+            "source": "spacenews",
+            "text": "Elve qualifies millimeter-wave amplifiers for spaceflight",
+            "source_link": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T22:54:18.628967Z",
+            "shown_at": [
+                "2026-08-20T22:54:20.906624Z"
+            ]
+        },
+        {
+            "id": "ad3cc64d6d733caf5aadcc56feb5a9db",
+            "source": "spacenews",
+            "text": "SpaceWERX selects 11 firms to scale technologies for military space",
+            "source_link": "https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T22:19:39.193721Z",
+            "shown_at": [
+                "2026-08-20T22:19:40.917779Z"
+            ]
+        },
+        {
+            "id": "7c935566a92a2964a65c424e925aa4cb",
+            "source": "spacenews",
+            "text": "Rocket Lab launches 9th satellite for iQPS",
+            "source_link": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T16:49:43.291402Z",
+            "shown_at": [
+                "2026-08-20T16:49:47.886814Z"
+            ]
+        },
+        {
+            "id": "ef5015896d1b0378d5a0c1db326a4cb2",
+            "source": "spacenews",
+            "text": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium ",
+            "source_link": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T16:14:27.015821Z",
+            "shown_at": [
+                "2026-08-20T16:14:28.579757Z"
+            ]
+        },
+        {
+            "id": "6eb78479944f7ae0bbf297861a108c08",
+            "source": "spacenews",
+            "text": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
+            "source_link": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T13:05:00.727659Z",
+            "shown_at": [
+                "2026-08-20T14:19:44.611516Z"
+            ]
+        },
+        {
+            "id": "789f1ee95f8f45b69e6b1ab6f2a4e775",
+            "source": "spacenews",
+            "text": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
+            "source_link": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T13:05:00.727604Z",
+            "shown_at": [
+                "2026-08-20T13:44:33.401197Z"
+            ]
+        },
+        {
+            "id": "073a55ac06132fd8d08011518d8e5e9c",
+            "source": "spacenews",
+            "text": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
+            "source_link": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T13:05:00.727506Z",
+            "shown_at": [
+                "2026-08-20T13:05:04.808157Z"
+            ]
+        },
+        {
+            "id": "04c13a12b5422795b5b9e69ea08cfb5e",
+            "source": "breaking_defense",
+            "text": "New White House strategy clarifies military tech priorities: undersea, outer space and AI",
+            "source_link": "https://breakingdefense.com/2026/08/new-white-house-strategy-clarifies-military-tech-priorities-undersea-outer-space-and-ai/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T12:29:29.666677Z",
+            "shown_at": [
+                "2026-08-20T12:29:30.564431Z"
+            ]
+        },
+        {
+            "id": "d8205774dec44cfbf6bdde5af34006a8",
+            "source": "spacenews",
+            "text": "Muon Space raises $250 million to ramp up satellite production",
+            "source_link": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T11:19:18.732488Z",
+            "shown_at": [
+                "2026-08-20T11:19:19.406645Z"
+            ]
+        },
+        {
+            "id": "5ea37f594af250dc1b9c6af411d74043",
+            "source": "spacenews",
+            "text": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
+            "source_link": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T10:09:23.935153Z",
+            "shown_at": [
+                "2026-08-20T10:44:47.679603Z"
+            ]
+        },
+        {
+            "id": "4c7fe9dc9e5185713b736e00a978740f",
+            "source": "spacenews",
+            "text": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
+            "source_link": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-20T10:09:23.935097Z",
+            "shown_at": [
+                "2026-08-20T10:09:24.641141Z"
+            ]
+        },
         {
             "id": "36e8cb2107774a241bff17ac23777b7a",
             "source": "spacenews",
@@ -39,7 +183,8 @@
             "fetched_datetime": "2026-08-19T22:09:18.917795Z",
             "shown_at": [
                 "2026-08-19T22:44:34.168656Z",
-                "2026-08-20T19:19:14.673132Z"
+                "2026-08-20T19:19:14.673132Z",
+                "2026-08-21T00:04:58.376194Z"
             ]
         },
         {
@@ -8031,350 +8176,6 @@
             "fetched_datetime": "2026-06-09T19:59:26.452328Z",
             "shown_at": [
                 "2026-06-09T19:59:29.017615Z"
-            ]
-        },
-        {
-            "id": "daec9ddad223a9fda2a36797a9b5b472",
-            "source": "breaking_defense",
-            "text": "NRO funds BlackSky for new satellites, AI-optimized image detection system",
-            "source_link": "https://breakingdefense.com/2026/06/nro-funds-blacksky-for-new-satellites-ai-optimized-image-detection-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T18:14:22.464396Z",
-            "shown_at": [
-                "2026-06-09T18:14:23.292264Z",
-                "2026-06-11T18:19:34.100763Z",
-                "2026-06-12T00:44:14.866135Z",
-                "2026-06-12T16:05:08.103393Z",
-                "2026-06-12T22:34:52.064398Z",
-                "2026-06-13T02:04:52.087958Z",
-                "2026-06-13T07:24:37.655249Z",
-                "2026-06-13T09:44:37.401576Z",
-                "2026-06-13T20:24:36.147877Z",
-                "2026-06-13T22:14:34.195675Z",
-                "2026-06-14T12:29:23.909911Z",
-                "2026-06-15T04:34:29.390662Z",
-                "2026-06-15T15:14:38.432034Z"
-            ]
-        },
-        {
-            "id": "d2f52b70b41119d9c3e90c40ca3dca2b",
-            "source": "nyt",
-            "text": "Remember Apollo 9? No? Have a Look at Artemis III.",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/apollo-9-nasa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.878003Z",
-            "shown_at": [
-                "2026-06-09T21:09:31.327616Z",
-                "2026-06-11T19:29:15.584770Z",
-                "2026-06-15T07:29:32.904127Z",
-                "2026-06-16T00:19:40.857399Z"
-            ]
-        },
-        {
-            "id": "ad68b051c527d729490b723104a6151a",
-            "source": "nyt",
-            "text": "Why is NASA going back to the moon?",
-            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/why-is-nasa-going-back-to-the-moon",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877984Z",
-            "shown_at": [
-                "2026-06-09T20:34:26.535991Z",
-                "2026-06-11T04:39:08.337768Z",
-                "2026-06-15T11:09:21.536601Z",
-                "2026-06-16T03:49:40.580503Z"
-            ]
-        },
-        {
-            "id": "a418d7661d98e4be9ece479bffdafc74",
-            "source": "nyt",
-            "text": "Artemis III Astronauts to Wear Prada Spacesuits",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/prada-axiom-lcvg-artemis-iii.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877965Z",
-            "shown_at": [
-                "2026-06-09T19:24:57.785856Z",
-                "2026-06-11T08:13:59.988193Z"
-            ]
-        },
-        {
-            "id": "28621afcebef49da8433848e74b59988",
-            "source": "nyt",
-            "text": "The Artemis II mission transfixed the nation.",
-            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/the-artemis-ii-mission-transfixed-the-nation",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877946Z",
-            "shown_at": [
-                "2026-06-09T18:49:32.425902Z",
-                "2026-06-10T02:29:30.988998Z",
-                "2026-06-10T04:19:28.261981Z",
-                "2026-06-10T09:39:25.155103Z",
-                "2026-06-12T23:09:36.095810Z",
-                "2026-06-13T23:24:35.968848Z",
-                "2026-06-14T22:39:18.815454Z",
-                "2026-06-15T05:44:25.925503Z"
-            ]
-        },
-        {
-            "id": "eb551f9a35d2a4b8b8684fa492f39813",
-            "source": "nyt",
-            "text": "How Will the Artemis III Astronauts Train?",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-training.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877924Z",
-            "shown_at": [
-                "2026-06-09T17:39:41.413320Z",
-                "2026-06-11T14:44:33.418438Z",
-                "2026-06-11T21:14:20.695270Z",
-                "2026-06-12T13:44:31.835413Z",
-                "2026-06-12T17:19:29.547357Z",
-                "2026-06-13T19:49:19.613989Z",
-                "2026-06-15T12:54:47.610637Z",
-                "2026-06-16T09:09:28.653928Z"
-            ]
-        },
-        {
-            "id": "e4f975a35112b0eccbacab3dbf7db3ab",
-            "source": "nyt",
-            "text": "NASA’s moon-base plans are off to a slow start.",
-            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/nasa-moon-base",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877891Z",
-            "shown_at": [
-                "2026-06-09T17:04:56.869094Z",
-                "2026-06-10T06:05:00.943659Z",
-                "2026-06-10T16:44:30.996500Z",
-                "2026-06-11T09:59:29.484290Z",
-                "2026-06-13T14:34:50.901190Z",
-                "2026-06-13T16:19:39.879640Z",
-                "2026-06-14T02:59:14.446838Z",
-                "2026-06-14T10:09:31.612371Z",
-                "2026-06-16T15:09:38.016484Z"
-            ]
-        },
-        {
-            "id": "6b1b267d805a434ea2bc44716ad34f55",
-            "source": "spacenews",
-            "text": "Warren AI™ Risk analysis engine Is now Live: Building The Risk Intelligence Infrastructure Layer for The Space Economy ",
-            "source_link": "https://spacenews.com/warren-ai-risk-analysis-engine-is-now-live-building-the-risk-intelligence-infrastructure-layer-for-the-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T15:19:34.072166Z",
-            "shown_at": [
-                "2026-06-09T15:19:36.645375Z"
-            ]
-        },
-        {
-            "id": "6c4a3a361394b277d57c635b4e8885b2",
-            "source": "nyt",
-            "text": "What is the Orion spacecraft?",
-            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/what-is-the-orion-spacecraft",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T14:44:45.651646Z",
-            "shown_at": [
-                "2026-06-09T16:29:45.570017Z",
-                "2026-06-10T23:24:21.309307Z",
-                "2026-06-11T01:09:14.749573Z",
-                "2026-06-12T06:39:08.373676Z",
-                "2026-06-13T12:49:36.834052Z",
-                "2026-06-14T06:34:54.606451Z",
-                "2026-06-15T15:49:32.692017Z"
-            ]
-        },
-        {
-            "id": "29979c6902cacf3ba8836a642ac96049",
-            "source": "nyt",
-            "text": "How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans?",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/blue-origin-explosion-nasa-artemis-iii.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T14:44:45.651627Z",
-            "shown_at": [
-                "2026-06-09T15:55:05.780183Z",
-                "2026-06-10T21:04:51.268981Z",
-                "2026-06-11T02:54:18.540060Z",
-                "2026-06-12T01:19:29.736383Z",
-                "2026-06-13T21:39:22.772581Z",
-                "2026-06-15T17:39:33.154378Z"
-            ]
-        },
-        {
-            "id": "8f1531c5095a96468ce9e4ddef619a37",
-            "source": "nyt",
-            "text": "Who gets to be a NASA astronaut?",
-            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/who-gets-to-be-a-nasa-astronaut",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T14:44:45.651596Z",
-            "shown_at": [
-                "2026-06-09T14:44:47.960162Z",
-                "2026-06-12T03:04:45.955732Z",
-                "2026-06-13T06:14:40.059946Z",
-                "2026-06-15T22:34:37.623128Z"
-            ]
-        },
-        {
-            "id": "ff15419bdbca69697e7280e520ab1e5d",
-            "source": "spacenews",
-            "text": "Iceye raises 1 billion euros to expand SAR satellite systems",
-            "source_link": "https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T12:58:58.438035Z",
-            "shown_at": [
-                "2026-06-09T14:09:15.743811Z",
-                "2026-06-12T23:44:23.523052Z"
-            ]
-        },
-        {
-            "id": "4c7fe9dc9e5185713b736e00a978740f",
-            "source": "spacenews",
-            "text": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
-            "source_link": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T10:09:23.935097Z",
-            "shown_at": [
-                "2026-08-20T10:09:24.641141Z"
-            ]
-        },
-        {
-            "id": "5ea37f594af250dc1b9c6af411d74043",
-            "source": "spacenews",
-            "text": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
-            "source_link": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T10:09:23.935153Z",
-            "shown_at": [
-                "2026-08-20T10:44:47.679603Z"
-            ]
-        },
-        {
-            "id": "d8205774dec44cfbf6bdde5af34006a8",
-            "source": "spacenews",
-            "text": "Muon Space raises $250 million to ramp up satellite production",
-            "source_link": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T11:19:18.732488Z",
-            "shown_at": [
-                "2026-08-20T11:19:19.406645Z"
-            ]
-        },
-        {
-            "id": "04c13a12b5422795b5b9e69ea08cfb5e",
-            "source": "breaking_defense",
-            "text": "New White House strategy clarifies military tech priorities: undersea, outer space and AI",
-            "source_link": "https://breakingdefense.com/2026/08/new-white-house-strategy-clarifies-military-tech-priorities-undersea-outer-space-and-ai/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T12:29:29.666677Z",
-            "shown_at": [
-                "2026-08-20T12:29:30.564431Z"
-            ]
-        },
-        {
-            "id": "073a55ac06132fd8d08011518d8e5e9c",
-            "source": "spacenews",
-            "text": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
-            "source_link": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T13:05:00.727506Z",
-            "shown_at": [
-                "2026-08-20T13:05:04.808157Z"
-            ]
-        },
-        {
-            "id": "789f1ee95f8f45b69e6b1ab6f2a4e775",
-            "source": "spacenews",
-            "text": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
-            "source_link": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T13:05:00.727604Z",
-            "shown_at": [
-                "2026-08-20T13:44:33.401197Z"
-            ]
-        },
-        {
-            "id": "6eb78479944f7ae0bbf297861a108c08",
-            "source": "spacenews",
-            "text": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
-            "source_link": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T13:05:00.727659Z",
-            "shown_at": [
-                "2026-08-20T14:19:44.611516Z"
-            ]
-        },
-        {
-            "id": "ef5015896d1b0378d5a0c1db326a4cb2",
-            "source": "spacenews",
-            "text": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium ",
-            "source_link": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T16:14:27.015821Z",
-            "shown_at": [
-                "2026-08-20T16:14:28.579757Z"
-            ]
-        },
-        {
-            "id": "7c935566a92a2964a65c424e925aa4cb",
-            "source": "spacenews",
-            "text": "Rocket Lab launches 9th satellite for iQPS",
-            "source_link": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T16:49:43.291402Z",
-            "shown_at": [
-                "2026-08-20T16:49:47.886814Z"
-            ]
-        },
-        {
-            "id": "ad3cc64d6d733caf5aadcc56feb5a9db",
-            "source": "spacenews",
-            "text": "SpaceWERX selects 11 firms to scale technologies for military space",
-            "source_link": "https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T22:19:39.193721Z",
-            "shown_at": [
-                "2026-08-20T22:19:40.917779Z"
-            ]
-        },
-        {
-            "id": "b2615fb39ccb859643c2e25d53771bbb",
-            "source": "spacenews",
-            "text": "Elve qualifies millimeter-wave amplifiers for spaceflight",
-            "source_link": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T22:54:18.628967Z",
-            "shown_at": [
-                "2026-08-20T22:54:20.906624Z"
-            ]
-        },
-        {
-            "id": "b1c535961d516bfcd86b185f6b1574ab",
-            "source": "spacenews",
-            "text": "Golden Dome chief touts progress as funding questions loom",
-            "source_link": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-20T23:29:09.722491Z",
-            "shown_at": [
-                "2026-08-20T23:29:10.464016Z"
             ]
         }
     ]
