@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 17 | 32 |
+| spacenews | 10 | 19 | 18 | 33 |
 | breaking_defense | 1 | 2 | 11 | 20 |
 | nyt | 0 | 2 | 12 | 21 |
 
@@ -2700,3 +2700,4 @@
 - **Aug 21, 09:24 AM** - Landspace aims to refly recovered Zhuque-3 booster within six months (spacenews)
 - **Aug 21, 09:59 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 21, 10:34 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
+- **Aug 21, 11:09 AM** - Lunar orbiter among upcoming NASA CLPS task orders (spacenews)
