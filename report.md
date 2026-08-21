@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 15 | 32 |
 | breaking_defense | 0 | 2 | 12 | 21 |
-| nyt | 1 | 3 | 12 | 23 |
+| nyt | 1 | 3 | 13 | 24 |
 
 # Shown Order
 
@@ -2710,3 +2710,4 @@
 - **Aug 21, 03:19 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 21, 03:59 PM** - NRO to expand use of HawkEye 360’s satellite intelligence (spacenews)
 - **Aug 21, 04:51 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
+- **Aug 21, 05:49 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
