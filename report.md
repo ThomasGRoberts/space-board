@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 17 | 32 |
+| spacenews | 9 | 17 | 18 | 32 |
 | breaking_defense | 0 | 2 | 11 | 21 |
 | nyt | 0 | 2 | 12 | 22 |
 
@@ -2703,3 +2703,4 @@
 - **Aug 21, 11:09 AM** - Lunar orbiter among upcoming NASA CLPS task orders (spacenews)
 - **Aug 21, 11:44 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 21, 12:19 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 21, 12:54 PM** - Lynk and Omnispace form Elveo Mobile to advance D2D services (spacenews)
