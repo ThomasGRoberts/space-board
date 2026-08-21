@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 16 | 31 |
-| breaking_defense | 0 | 2 | 11 | 21 |
+| spacenews | 7 | 17 | 17 | 32 |
+| breaking_defense | 0 | 2 | 11 | 20 |
 | nyt | 1 | 3 | 13 | 23 |
 
 # Shown Order
@@ -2705,3 +2705,4 @@
 - **Aug 21, 12:19 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 21, 12:54 PM** - Lynk and Omnispace form Elveo Mobile to advance D2D services (spacenews)
 - **Aug 21, 01:34 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
+- **Aug 21, 02:09 PM** - The COSMOSIS framework can ensure that Washington governs space with its complexity in mind. (spacenews)

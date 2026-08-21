@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-21T00:04:49.773631+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0943e4472d78dc7aec4c5095768fff04",
+    "trigger_count": 0,
+    "current_item_id": "d2751d17227975f447927e5eb22f8ff3",
     "data": [
         {
             "id": "b1c535961d516bfcd86b185f6b1574ab",
@@ -8221,6 +8221,18 @@
             "fetched_datetime": "2026-08-21T13:34:42.364068Z",
             "shown_at": [
                 "2026-08-21T13:34:43.309116Z"
+            ]
+        },
+        {
+            "id": "d2751d17227975f447927e5eb22f8ff3",
+            "source": "spacenews",
+            "text": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
+            "source_link": "https://spacenews.com/the-cosmosis-framework-can-ensure-that-washington-governs-space-with-its-complexity-in-mind/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-21T14:09:33.761735Z",
+            "shown_at": [
+                "2026-08-21T14:09:34.613927Z"
             ]
         }
     ]
