@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 18 | 29 |
-| breaking_defense | 1 | 2 | 11 | 17 |
+| breaking_defense | 1 | 2 | 11 | 18 |
 | nyt | 0 | 2 | 11 | 19 |
 
 # Shown Order
@@ -2685,3 +2685,4 @@
 - **Aug 21, 12:39 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 21, 01:14 AM** - The space industry’s next challenge: supply chain resilience (spacenews)
 - **Aug 21, 01:49 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 21, 02:24 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
