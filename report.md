@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 14 | 32 |
 | breaking_defense | 1 | 2 | 11 | 22 |
-| nyt | 1 | 1 | 12 | 23 |
+| nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2694,3 +2694,4 @@
 - **Aug 22, 06:09 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 22, 06:44 AM** - The COSMOSIS framework can ensure that Washington governs space with its complexity in mind. (spacenews)
 - **Aug 22, 07:19 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
+- **Aug 22, 07:54 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
