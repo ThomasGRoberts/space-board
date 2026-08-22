@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 13 | 28 |
+| spacenews | 2 | 7 | 14 | 29 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 1 | 13 | 26 |
 
@@ -2710,3 +2710,4 @@
 - **Aug 22, 03:29 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
 - **Aug 22, 04:04 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 22, 04:44 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 22, 05:19 PM** - Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE (spacenews)
