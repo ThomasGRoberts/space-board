@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 14 | 29 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2714,3 +2714,4 @@
 - **Aug 22, 05:54 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 22, 06:29 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 22, 07:04 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)
+- **Aug 22, 07:39 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
