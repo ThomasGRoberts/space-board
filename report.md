@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 14 | 28 |
-| breaking_defense | 0 | 1 | 13 | 24 |
+| spacenews | 0 | 5 | 13 | 28 |
+| breaking_defense | 0 | 1 | 14 | 25 |
 | nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Aug 22, 09:24 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 22, 09:59 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 22, 10:39 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)
+- **Aug 22, 11:14 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
