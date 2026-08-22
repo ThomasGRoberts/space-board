@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 7 | 13 | 28 |
+| spacenews | 0 | 7 | 14 | 29 |
 | breaking_defense | 0 | 1 | 13 | 24 |
 | nyt | 0 | 1 | 13 | 26 |
 
@@ -2716,3 +2716,4 @@
 - **Aug 22, 07:04 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)
 - **Aug 22, 07:39 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 22, 08:14 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 22, 08:49 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
