@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 13 | 29 |
 | breaking_defense | 1 | 1 | 13 | 24 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -2709,3 +2709,4 @@
 - **Aug 22, 02:54 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 22, 03:29 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
 - **Aug 22, 04:04 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
+- **Aug 22, 04:44 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
