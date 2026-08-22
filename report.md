@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 15 | 13 | 32 |
+| spacenews | 4 | 15 | 14 | 33 |
 | breaking_defense | 1 | 2 | 11 | 22 |
 | nyt | 1 | 1 | 13 | 23 |
 
@@ -2689,3 +2689,4 @@
 - **Aug 22, 02:48 AM** - L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down (spacenews)
 - **Aug 22, 03:29 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 22, 04:05 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 22, 04:49 AM** - New Novaspace forecast: 6,500+ EO satellites to launch by 2035 (spacenews)
