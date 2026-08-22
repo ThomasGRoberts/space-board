@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 14 | 32 |
-| breaking_defense | 1 | 2 | 11 | 22 |
+| breaking_defense | 1 | 2 | 12 | 23 |
 | nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -2690,3 +2690,4 @@
 - **Aug 22, 03:29 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 22, 04:05 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 22, 04:49 AM** - New Novaspace forecast: 6,500+ EO satellites to launch by 2035 (spacenews)
+- **Aug 22, 05:28 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
