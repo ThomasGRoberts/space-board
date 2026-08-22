@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 13 | 29 |
+| spacenews | 2 | 9 | 14 | 30 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 1 | 12 | 25 |
 
@@ -2707,3 +2707,4 @@
 - **Aug 22, 01:44 PM** - Space nuclear programs face near- and long-term challenges (spacenews)
 - **Aug 22, 02:19 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
 - **Aug 22, 02:54 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
+- **Aug 22, 03:29 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
