@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 15 | 13 | 32 |
-| breaking_defense | 1 | 2 | 12 | 23 |
-| nyt | 1 | 1 | 12 | 23 |
+| breaking_defense | 1 | 2 | 12 | 22 |
+| nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2697,3 +2697,4 @@
 - **Aug 22, 07:54 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 22, 08:29 AM** - Satellite operators emphasize launch deals in a constrained market (spacenews)
 - **Aug 22, 09:05 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
+- **Aug 22, 09:39 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
