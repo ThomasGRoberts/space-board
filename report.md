@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 14 | 31 |
-| breaking_defense | 1 | 2 | 11 | 23 |
+| breaking_defense | 1 | 1 | 12 | 23 |
 | nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2702,3 +2702,4 @@
 - **Aug 22, 10:49 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 22, 11:24 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 22, 11:59 AM** - New EU sanctions target leaders of Russia’s space industry (spacenews)
+- **Aug 22, 12:34 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
