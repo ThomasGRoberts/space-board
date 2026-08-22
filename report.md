@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 14 | 33 |
-| breaking_defense | 1 | 2 | 11 | 22 |
+| breaking_defense | 1 | 2 | 12 | 23 |
 | nyt | 1 | 1 | 13 | 23 |
 
 # Shown Order
@@ -2684,3 +2684,4 @@
 - **Aug 21, 11:49 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 22, 12:29 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 22, 01:04 AM** - Katalyst Space and NASA abandon plans for Swift reboost (spacenews)
+- **Aug 22, 01:39 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
