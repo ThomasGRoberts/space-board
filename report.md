@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 13 | 30 |
-| breaking_defense | 1 | 1 | 12 | 23 |
+| breaking_defense | 1 | 1 | 13 | 24 |
 | nyt | 0 | 1 | 12 | 25 |
 
 # Shown Order
@@ -2705,3 +2705,4 @@
 - **Aug 22, 12:34 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 22, 01:09 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 22, 01:44 PM** - Space nuclear programs face near- and long-term challenges (spacenews)
+- **Aug 22, 02:19 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
