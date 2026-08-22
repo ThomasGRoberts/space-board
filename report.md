@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 15 | 14 | 32 |
+| spacenews | 4 | 15 | 15 | 33 |
 | breaking_defense | 1 | 2 | 11 | 22 |
 | nyt | 1 | 1 | 13 | 24 |
 
@@ -2686,3 +2686,4 @@
 - **Aug 22, 01:04 AM** - Katalyst Space and NASA abandon plans for Swift reboost (spacenews)
 - **Aug 22, 01:39 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 22, 02:14 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
+- **Aug 22, 02:48 AM** - L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down (spacenews)
