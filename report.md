@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 14 | 29 |
+| spacenews | 2 | 7 | 13 | 29 |
 | breaking_defense | 1 | 1 | 13 | 24 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -2712,3 +2712,4 @@
 - **Aug 22, 04:44 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 22, 05:19 PM** - Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE (spacenews)
 - **Aug 22, 05:54 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 22, 06:29 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
