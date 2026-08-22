@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 15 | 13 | 32 |
+| spacenews | 4 | 15 | 14 | 33 |
 | breaking_defense | 1 | 2 | 11 | 22 |
 | nyt | 1 | 1 | 13 | 23 |
 
@@ -2695,3 +2695,4 @@
 - **Aug 22, 06:44 AM** - The COSMOSIS framework can ensure that Washington governs space with its complexity in mind. (spacenews)
 - **Aug 22, 07:19 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 22, 07:54 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 22, 08:29 AM** - Satellite operators emphasize launch deals in a constrained market (spacenews)
