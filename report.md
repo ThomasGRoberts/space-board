@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 7 | 13 | 29 |
-| breaking_defense | 0 | 1 | 14 | 24 |
-| nyt | 0 | 1 | 13 | 25 |
+| breaking_defense | 0 | 1 | 13 | 24 |
+| nyt | 0 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -2718,3 +2718,4 @@
 - **Aug 22, 08:14 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 22, 08:49 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
 - **Aug 22, 09:24 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
+- **Aug 22, 09:59 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
