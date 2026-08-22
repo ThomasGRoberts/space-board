@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 7 | 14 | 29 |
-| breaking_defense | 0 | 1 | 13 | 24 |
+| breaking_defense | 0 | 1 | 14 | 25 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2717,3 +2717,4 @@
 - **Aug 22, 07:39 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 22, 08:14 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 22, 08:49 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
+- **Aug 22, 09:24 PM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
