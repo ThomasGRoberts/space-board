@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 13 | 13 | 31 |
+| spacenews | 3 | 12 | 13 | 30 |
 | breaking_defense | 1 | 2 | 12 | 23 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2700,3 +2700,4 @@
 - **Aug 22, 09:39 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 22, 10:14 AM** - A rocket crashed into the moon. It was harmless, but the next one might not be. (spacenews)
 - **Aug 22, 10:49 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
+- **Aug 22, 11:24 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
