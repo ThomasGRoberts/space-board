@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 14 | 33 |
-| breaking_defense | 1 | 2 | 11 | 22 |
+| breaking_defense | 1 | 2 | 12 | 23 |
 | nyt | 1 | 1 | 13 | 23 |
 
 # Shown Order
@@ -2687,3 +2687,4 @@
 - **Aug 22, 01:39 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 22, 02:14 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 22, 02:48 AM** - L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down (spacenews)
+- **Aug 22, 03:29 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
