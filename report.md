@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 15 | 14 | 32 |
+| spacenews | 4 | 15 | 15 | 33 |
 | breaking_defense | 1 | 2 | 11 | 22 |
 | nyt | 1 | 1 | 13 | 24 |
 
@@ -2683,3 +2683,4 @@
 - **Aug 21, 11:14 PM** - NRO to expand use of HawkEye 360’s satellite intelligence (spacenews)
 - **Aug 21, 11:49 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 22, 12:29 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 22, 01:04 AM** - Katalyst Space and NASA abandon plans for Swift reboost (spacenews)
