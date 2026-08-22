@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 13 | 30 |
+| spacenews | 3 | 9 | 14 | 31 |
 | breaking_defense | 1 | 1 | 12 | 23 |
 | nyt | 0 | 1 | 12 | 25 |
 
@@ -2704,3 +2704,4 @@
 - **Aug 22, 11:59 AM** - New EU sanctions target leaders of Russia’s space industry (spacenews)
 - **Aug 22, 12:34 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 22, 01:09 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 22, 01:44 PM** - Space nuclear programs face near- and long-term challenges (spacenews)
