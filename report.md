@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 14 | 32 |
 | breaking_defense | 1 | 2 | 12 | 23 |
-| nyt | 1 | 1 | 12 | 23 |
+| nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2685,3 +2685,4 @@
 - **Aug 22, 12:29 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 22, 01:04 AM** - Katalyst Space and NASA abandon plans for Swift reboost (spacenews)
 - **Aug 22, 01:39 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
+- **Aug 22, 02:14 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
