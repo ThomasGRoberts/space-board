@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 13 | 29 |
 | breaking_defense | 1 | 1 | 12 | 24 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -2706,3 +2706,4 @@
 - **Aug 22, 01:09 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 22, 01:44 PM** - Space nuclear programs face near- and long-term challenges (spacenews)
 - **Aug 22, 02:19 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
+- **Aug 22, 02:54 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
