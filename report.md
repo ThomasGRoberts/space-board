@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 27 |
+| spacenews | 0 | 4 | 14 | 28 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 1 | 14 | 26 |
 
@@ -2728,3 +2728,4 @@
 - **Aug 23, 02:09 AM** - Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027 (spacenews)
 - **Aug 23, 02:44 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
 - **Aug 23, 03:18 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
+- **Aug 23, 03:54 AM** - Muon Space raises $250 million to ramp up satellite production (spacenews)
