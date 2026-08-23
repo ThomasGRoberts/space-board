@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 27 |
+| spacenews | 0 | 4 | 14 | 28 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 1 | 14 | 26 |
 
@@ -2722,3 +2722,4 @@
 - **Aug 22, 10:39 PM** - Hypersonic missile startup Castelion raises $1 billion  (spacenews)
 - **Aug 22, 11:14 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 22, 11:49 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
+- **Aug 23, 12:24 AM** - Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium  (spacenews)
