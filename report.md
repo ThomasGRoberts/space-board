@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 26 |
-| breaking_defense | 0 | 1 | 14 | 26 |
+| spacenews | 0 | 2 | 14 | 27 |
+| breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -2749,3 +2749,4 @@
 - **Aug 23, 02:24 PM** - China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket (spacenews)
 - **Aug 23, 02:59 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 23, 03:34 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
+- **Aug 23, 04:09 PM** - Chinese radio-frequency intelligence startup StarRF closes new funding round (spacenews)
