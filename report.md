@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 14 | 27 |
-| breaking_defense | 0 | 1 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 2 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2754,3 +2754,4 @@
 - **Aug 23, 05:18 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 23, 05:54 PM** - Rocket Lab to test Space Force data network connection in orbit in 2027 (spacenews)
 - **Aug 23, 06:28 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
+- **Aug 23, 07:04 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
