@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 3 | 13 | 27 |
+| spacenews | 0 | 3 | 14 | 28 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 1 | 14 | 26 |
 
@@ -2740,3 +2740,4 @@
 - **Aug 23, 09:09 AM** - SEOPS adds second Waymaker rideshare mission (spacenews)
 - **Aug 23, 09:44 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 23, 10:19 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 23, 10:54 AM** - China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket (spacenews)
