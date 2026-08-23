@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 26 |
-| breaking_defense | 0 | 1 | 14 | 26 |
+| spacenews | 0 | 2 | 14 | 27 |
+| breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -2746,3 +2746,4 @@
 - **Aug 23, 12:39 PM** - China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch (spacenews)
 - **Aug 23, 01:14 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 23, 01:49 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
+- **Aug 23, 02:24 PM** - China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket (spacenews)
