@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 27 |
 | breaking_defense | 0 | 1 | 14 | 25 |
-| nyt | 0 | 1 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -2727,3 +2727,4 @@
 - **Aug 23, 01:34 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 23, 02:09 AM** - Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027 (spacenews)
 - **Aug 23, 02:44 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
+- **Aug 23, 03:18 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
