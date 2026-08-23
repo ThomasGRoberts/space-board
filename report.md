@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 14 | 27 |
-| breaking_defense | 0 | 1 | 13 | 25 |
+| breaking_defense | 0 | 1 | 14 | 26 |
 | nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
@@ -2741,3 +2741,4 @@
 - **Aug 23, 09:44 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 23, 10:19 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 23, 10:54 AM** - China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket (spacenews)
+- **Aug 23, 11:29 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
