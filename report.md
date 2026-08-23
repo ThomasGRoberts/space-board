@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2759,3 +2759,4 @@
 - **Aug 23, 08:14 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 23, 08:49 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 23, 09:29 PM** - NRO to expand use of HawkEye 360’s satellite intelligence (spacenews)
+- **Aug 23, 10:04 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
