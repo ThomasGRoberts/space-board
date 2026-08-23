@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 14 | 28 |
-| breaking_defense | 0 | 1 | 13 | 24 |
+| breaking_defense | 0 | 1 | 14 | 25 |
 | nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
@@ -2726,3 +2726,4 @@
 - **Aug 23, 12:59 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 23, 01:34 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 23, 02:09 AM** - Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027 (spacenews)
+- **Aug 23, 02:44 AM** - Space Force brings 5 companies on-board Space Data Network (breaking_defense)
