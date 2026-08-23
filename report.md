@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 27 |
-| breaking_defense | 0 | 1 | 14 | 25 |
+| spacenews | 0 | 4 | 14 | 28 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 1 | 14 | 26 |
 
 # Shown Order
@@ -2737,3 +2737,4 @@
 - **Aug 23, 07:24 AM** - SEOPS adds second Waymaker rideshare mission (spacenews)
 - **Aug 23, 07:59 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 23, 08:34 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 23, 09:09 AM** - SEOPS adds second Waymaker rideshare mission (spacenews)
