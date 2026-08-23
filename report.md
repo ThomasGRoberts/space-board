@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 3 | 14 | 27 |
+| spacenews | 0 | 3 | 13 | 27 |
 | breaking_defense | 0 | 1 | 14 | 25 |
-| nyt | 0 | 1 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -2739,3 +2739,4 @@
 - **Aug 23, 08:34 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 23, 09:09 AM** - SEOPS adds second Waymaker rideshare mission (spacenews)
 - **Aug 23, 09:44 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
+- **Aug 23, 10:19 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
