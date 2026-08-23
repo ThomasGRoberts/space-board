@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 27 |
+| spacenews | 0 | 4 | 14 | 28 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 1 | 14 | 26 |
 
@@ -2734,3 +2734,4 @@
 - **Aug 23, 05:39 AM** - The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss (spacenews)
 - **Aug 23, 06:14 AM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 23, 06:49 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 23, 07:24 AM** - SEOPS adds second Waymaker rideshare mission (spacenews)
