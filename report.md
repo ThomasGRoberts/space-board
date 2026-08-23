@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 14 | 26 |
-| nyt | 0 | 0 | 14 | 27 |
+| spacenews | 0 | 2 | 14 | 28 |
+| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2755,3 +2755,4 @@
 - **Aug 23, 05:54 PM** - Rocket Lab to test Space Force data network connection in orbit in 2027 (spacenews)
 - **Aug 23, 06:28 PM** - Japan launches second US military payload to monitor space above Indo-Pacific (breaking_defense)
 - **Aug 23, 07:04 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 23, 07:39 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
