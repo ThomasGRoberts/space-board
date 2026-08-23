@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 27 |
 | breaking_defense | 0 | 1 | 14 | 25 |
-| nyt | 0 | 1 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -2730,3 +2730,4 @@
 - **Aug 23, 03:18 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 23, 03:54 AM** - Muon Space raises $250 million to ramp up satellite production (spacenews)
 - **Aug 23, 04:28 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 23, 05:03 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
