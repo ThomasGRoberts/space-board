@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 16 | 30 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2802,3 +2802,4 @@
 - **Aug 24, 09:44 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 24, 10:19 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 24, 10:54 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
+- **Aug 24, 11:28 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
