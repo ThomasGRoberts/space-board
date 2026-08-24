@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 16 | 30 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2799,3 +2799,4 @@
 - **Aug 24, 07:59 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 24, 08:34 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 24, 09:09 PM** - Tory Bruno Named Honorary Chair Of World Space Week 2027 (spacenews)
+- **Aug 24, 09:44 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
