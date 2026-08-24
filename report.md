@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -2772,3 +2772,4 @@
 - **Aug 24, 03:54 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 24, 04:29 AM** - ULA names Peller as new CEO (spacenews)
 - **Aug 24, 05:04 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 24, 05:39 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
