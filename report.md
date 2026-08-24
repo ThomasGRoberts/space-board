@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 0 | 14 | 27 |
+| spacenews | 1 | 1 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -2783,3 +2783,4 @@
 - **Aug 24, 10:19 AM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
 - **Aug 24, 10:59 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 24, 11:39 AM** - Chinese radio-frequency intelligence startup StarRF closes new funding round (spacenews)
+- **Aug 24, 12:14 PM** - Tory Bruno Named Honorary Chair Of World Space Week 2027 (spacenews)
