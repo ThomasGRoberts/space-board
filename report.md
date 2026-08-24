@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 16 | 30 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2793,3 +2793,4 @@
 - **Aug 24, 04:29 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 24, 05:04 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
 - **Aug 24, 05:39 PM** - Aerospace demonstrates DiskSats in low-Earth orbit (spacenews)
+- **Aug 24, 06:14 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
