@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2790,3 +2790,4 @@
 - **Aug 24, 02:34 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
 - **Aug 24, 03:19 PM** - Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026 (spacenews)
 - **Aug 24, 03:54 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
+- **Aug 24, 04:29 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
