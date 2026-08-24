@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 16 | 29 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2789,3 +2789,4 @@
 - **Aug 24, 02:00 PM** - The space industry’s next challenge: supply chain resilience (spacenews)
 - **Aug 24, 02:34 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
 - **Aug 24, 03:19 PM** - Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026 (spacenews)
+- **Aug 24, 03:54 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
