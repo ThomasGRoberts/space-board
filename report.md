@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 16 | 29 |
+| spacenews | 4 | 4 | 17 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2792,3 +2792,4 @@
 - **Aug 24, 03:54 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
 - **Aug 24, 04:29 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 24, 05:04 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
+- **Aug 24, 05:39 PM** - Aerospace demonstrates DiskSats in low-Earth orbit (spacenews)

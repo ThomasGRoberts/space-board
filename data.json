@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-24T00:05:01.491916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bd748abda945c2a314cb00429fc77782",
+    "trigger_count": 0,
+    "current_item_id": "4f637a8b24b43ba046b7ef234bab1e8d",
     "data": [
         {
             "id": "d264e32b7427a9228125067af091acd7",
@@ -8319,6 +8319,18 @@
             "fetched_datetime": "2026-08-24T15:19:30.940044Z",
             "shown_at": [
                 "2026-08-24T15:19:31.672836Z"
+            ]
+        },
+        {
+            "id": "4f637a8b24b43ba046b7ef234bab1e8d",
+            "source": "spacenews",
+            "text": "Aerospace demonstrates DiskSats in low-Earth orbit",
+            "source_link": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-24T17:39:22.474490Z",
+            "shown_at": [
+                "2026-08-24T17:39:23.443464Z"
             ]
         }
     ]
