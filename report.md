@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -2778,3 +2778,4 @@
 - **Aug 24, 07:24 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 24, 07:59 AM** - Vantor names new head of U.S. government business (spacenews)
 - **Aug 24, 08:34 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 24, 09:09 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
