@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-24T00:05:01.491916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bd748abda945c2a314cb00429fc77782",
+    "trigger_count": 0,
+    "current_item_id": "f7a68fede69f2d4ef1a16f88063f2cc9",
     "data": [
         {
             "id": "d264e32b7427a9228125067af091acd7",
@@ -8304,6 +8304,18 @@
             "fetched_datetime": "2026-08-24T14:34:36.394316Z",
             "shown_at": [
                 "2026-08-24T14:34:37.114636Z"
+            ]
+        },
+        {
+            "id": "f7a68fede69f2d4ef1a16f88063f2cc9",
+            "source": "spacenews",
+            "text": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
+            "source_link": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-24T15:19:30.940044Z",
+            "shown_at": [
+                "2026-08-24T15:19:31.672836Z"
             ]
         }
     ]

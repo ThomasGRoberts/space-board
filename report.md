@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 15 | 29 |
+| spacenews | 3 | 3 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2788,3 +2788,4 @@
 - **Aug 24, 01:24 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 24, 02:00 PM** - The space industry’s next challenge: supply chain resilience (spacenews)
 - **Aug 24, 02:34 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
+- **Aug 24, 03:19 PM** - Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026 (spacenews)
