@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-24T00:05:01.491916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "670632667abe3a084c6a5aa0e1efa5ad",
+    "trigger_count": 0,
+    "current_item_id": "bd748abda945c2a314cb00429fc77782",
     "data": [
         {
             "id": "d264e32b7427a9228125067af091acd7",
@@ -8292,6 +8292,18 @@
             "fetched_datetime": "2026-08-24T12:14:41.684748Z",
             "shown_at": [
                 "2026-08-24T12:14:42.702659Z"
+            ]
+        },
+        {
+            "id": "bd748abda945c2a314cb00429fc77782",
+            "source": "spacenews",
+            "text": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
+            "source_link": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-24T14:34:36.394316Z",
+            "shown_at": [
+                "2026-08-24T14:34:37.114636Z"
             ]
         }
     ]

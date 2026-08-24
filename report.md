@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 14 | 28 |
+| spacenews | 2 | 2 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -2787,3 +2787,4 @@
 - **Aug 24, 12:49 PM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
 - **Aug 24, 01:24 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 24, 02:00 PM** - The space industry’s next challenge: supply chain resilience (spacenews)
+- **Aug 24, 02:34 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
