@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2768,3 +2768,4 @@
 - **Aug 24, 01:34 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 24, 02:09 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 24, 02:44 AM** - ULA names Peller as new CEO (spacenews)
+- **Aug 24, 03:19 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
