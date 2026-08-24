@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 16 | 29 |
+| spacenews | 4 | 4 | 17 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2801,3 +2801,4 @@
 - **Aug 24, 09:09 PM** - Tory Bruno Named Honorary Chair Of World Space Week 2027 (spacenews)
 - **Aug 24, 09:44 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 24, 10:19 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 24, 10:54 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
