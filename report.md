@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 16 | 29 |
+| spacenews | 4 | 4 | 17 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2795,3 +2795,4 @@
 - **Aug 24, 05:39 PM** - Aerospace demonstrates DiskSats in low-Earth orbit (spacenews)
 - **Aug 24, 06:14 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 24, 06:49 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 24, 07:24 PM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
