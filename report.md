@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 0 | 13 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -2764,3 +2764,4 @@
 - **Aug 23, 11:14 PM** - Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027 (spacenews)
 - **Aug 23, 11:49 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 24, 12:24 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 24, 12:59 AM** - Landspace aims to refly recovered Zhuque-3 booster within six months (spacenews)
