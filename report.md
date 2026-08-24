@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 14 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -2767,3 +2767,4 @@
 - **Aug 24, 12:59 AM** - Landspace aims to refly recovered Zhuque-3 booster within six months (spacenews)
 - **Aug 24, 01:34 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 24, 02:09 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 24, 02:44 AM** - ULA names Peller as new CEO (spacenews)
