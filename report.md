@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 16 | 30 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2796,3 +2796,4 @@
 - **Aug 24, 06:14 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 24, 06:49 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 24, 07:24 PM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
+- **Aug 24, 07:59 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
