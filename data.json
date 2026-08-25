@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-25T00:04:51.050743+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c8d53a9daa276856d404fa45e9763133",
+    "trigger_count": 0,
+    "current_item_id": "4bbbb4a47ebce94caa84b9f7441f6885",
     "data": [
         {
             "id": "4f637a8b24b43ba046b7ef234bab1e8d",
@@ -8348,6 +8348,18 @@
             "fetched_datetime": "2026-08-25T14:39:22.374573Z",
             "shown_at": [
                 "2026-08-25T14:39:26.687858Z"
+            ]
+        },
+        {
+            "id": "4bbbb4a47ebce94caa84b9f7441f6885",
+            "source": "nyt",
+            "text": "SpaceX to Spend $100 Billion on New Spaceport in Louisiana",
+            "source_link": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-25T18:25:04.408179Z",
+            "shown_at": [
+                "2026-08-25T18:25:05.513198Z"
             ]
         }
     ]

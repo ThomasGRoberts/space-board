@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 13 | 29 |
 | breaking_defense | 1 | 1 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2821,3 +2821,4 @@
 - **Aug 25, 04:39 PM** - Muon Space raises $250 million to ramp up satellite production (spacenews)
 - **Aug 25, 05:14 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 25, 05:49 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 25, 06:25 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
