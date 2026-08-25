@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 13 | 29 |
 | breaking_defense | 1 | 1 | 12 | 24 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 2 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -2824,3 +2824,4 @@
 - **Aug 25, 06:25 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
 - **Aug 25, 06:59 PM** - New Novaspace forecast: 6,500+ EO satellites to launch by 2035 (spacenews)
 - **Aug 25, 07:34 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
+- **Aug 25, 08:34 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
