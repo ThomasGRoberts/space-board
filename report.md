@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2808,3 +2808,4 @@
 - **Aug 25, 07:19 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 25, 07:54 AM** - Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026 (spacenews)
 - **Aug 25, 08:29 AM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
+- **Aug 25, 09:04 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
