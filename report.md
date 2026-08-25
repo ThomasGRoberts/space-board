@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 16 | 30 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2795,3 +2795,4 @@
 - **Aug 24, 11:28 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 25, 12:04 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 25, 12:39 AM** - The COSMOSIS framework can ensure that Washington governs space with its complexity in mind. (spacenews)
+- **Aug 25, 01:14 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
