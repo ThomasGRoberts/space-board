@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 15 | 30 |
 | breaking_defense | 1 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2816,3 +2816,4 @@
 - **Aug 25, 01:29 PM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)
 - **Aug 25, 02:05 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 25, 02:39 PM** - Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans (spacenews)
+- **Aug 25, 03:14 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
