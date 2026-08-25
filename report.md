@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 15 | 29 |
+| spacenews | 4 | 5 | 16 | 30 |
 | breaking_defense | 0 | 0 | 11 | 24 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -2813,3 +2813,4 @@
 - **Aug 25, 10:14 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 25, 10:49 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 25, 12:46 PM** - Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference (spacenews)
+- **Aug 25, 01:29 PM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)

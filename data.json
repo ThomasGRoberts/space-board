@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-25T00:04:51.050743+00:00",
-    "trigger_count": 6,
-    "current_item_id": "789f1ee95f8f45b69e6b1ab6f2a4e775",
+    "trigger_count": 0,
+    "current_item_id": "e193aab4ac6342199a969b6f755ec6ef",
     "data": [
         {
             "id": "4f637a8b24b43ba046b7ef234bab1e8d",
@@ -8307,6 +8307,18 @@
             "fetched_datetime": "2026-06-10T15:04:59.371640Z",
             "shown_at": [
                 "2026-06-10T15:05:02.021264Z"
+            ]
+        },
+        {
+            "id": "e193aab4ac6342199a969b6f755ec6ef",
+            "source": "spacenews",
+            "text": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
+            "source_link": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-25T13:29:31.097141Z",
+            "shown_at": [
+                "2026-08-25T13:29:34.713035Z"
             ]
         }
     ]
