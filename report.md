@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2811,3 +2811,4 @@
 - **Aug 25, 09:04 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 25, 09:39 AM** - The space industry’s next challenge: supply chain resilience (spacenews)
 - **Aug 25, 10:14 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
+- **Aug 25, 10:49 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
