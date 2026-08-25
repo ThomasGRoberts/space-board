@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 13 | 29 |
-| breaking_defense | 1 | 1 | 11 | 23 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 2 | 2 | 12 | 24 |
 
 # Shown Order
@@ -2829,3 +2829,4 @@
 - **Aug 25, 09:44 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 25, 10:24 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 25, 11:14 PM** - Rocket Lab launches 9th satellite for iQPS (spacenews)
+- **Aug 25, 11:59 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
