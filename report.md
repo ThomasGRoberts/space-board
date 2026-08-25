@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 14 | 30 |
 | breaking_defense | 1 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2819,3 +2819,4 @@
 - **Aug 25, 03:14 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 25, 03:54 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 25, 04:39 PM** - Muon Space raises $250 million to ramp up satellite production (spacenews)
+- **Aug 25, 05:14 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
