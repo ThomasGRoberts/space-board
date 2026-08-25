@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 16 | 30 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2801,3 +2801,4 @@
 - **Aug 25, 02:59 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 25, 03:39 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 25, 04:13 AM** - New report takes closer look at the Space Force spending surge (spacenews)
+- **Aug 25, 04:49 AM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
