@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 13 | 29 |
+| spacenews | 2 | 6 | 14 | 30 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 1 | 1 | 12 | 25 |
 
@@ -2822,3 +2822,4 @@
 - **Aug 25, 05:14 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 25, 05:49 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 25, 06:25 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Aug 25, 06:59 PM** - New Novaspace forecast: 6,500+ EO satellites to launch by 2035 (spacenews)
