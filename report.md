@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 14 | 30 |
-| breaking_defense | 1 | 1 | 12 | 24 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2817,3 +2817,4 @@
 - **Aug 25, 02:05 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 25, 02:39 PM** - Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans (spacenews)
 - **Aug 25, 03:14 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 25, 03:54 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
