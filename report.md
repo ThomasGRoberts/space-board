@@ -4,14 +4,10 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
-- **Jun 10, 12:39 PM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
-- **Jun 10, 01:14 PM** - Arkadia Space to supply thrusters for Reflex Aerospace satellite (spacenews)
-- **Jun 10, 01:54 PM** - Orbital raises $5 million to join orbital data center race (spacenews)
-- **Jun 10, 02:29 PM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
 - **Jun 10, 03:05 PM** - Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members (spacenews)
 - **Jun 10, 04:05 PM** - Spire to pursue space-based missile warning in partnership with German defense firm (spacenews)
 - **Jun 10, 05:24 PM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
@@ -47,10 +43,8 @@
 - **Jun 12, 03:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 12, 04:19 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 12, 04:54 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
-- **Jun 12, 05:29 AM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
 - **Jun 12, 06:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 12, 07:14 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
-- **Jun 12, 08:59 AM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
 - **Jun 12, 10:09 AM** - In aerospace, AI isn’t replacing workers. It’s filling a shortage (spacenews)
 - **Jun 12, 10:44 AM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 12, 11:19 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
@@ -85,7 +79,6 @@
 - **Jun 13, 06:39 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 13, 07:14 PM** - House appropriators back $55.5 billion Space Force budget, omit reconciliation funds (spacenews)
 - **Jun 13, 09:04 PM** - GEO cancellations complicate space insurance recovery (spacenews)
-- **Jun 13, 10:49 PM** - Arkadia Space to supply thrusters for Reflex Aerospace satellite (spacenews)
 - **Jun 13, 11:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 14, 01:14 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 14, 02:24 AM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
@@ -111,7 +104,6 @@
 - **Jun 14, 11:19 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 14, 11:54 PM** - Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats (spacenews)
 - **Jun 15, 12:29 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
-- **Jun 15, 01:39 AM** - Orbital raises $5 million to join orbital data center race (spacenews)
 - **Jun 15, 03:24 AM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
 - **Jun 15, 03:59 AM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 15, 06:54 AM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
@@ -123,7 +115,6 @@
 - **Jun 15, 01:29 PM** - What’s the Best Way to Monetize Space Energy? (spacenews)
 - **Jun 15, 02:04 PM** - Sustained maneuver has a propulsion problem (spacenews)
 - **Jun 15, 02:39 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
-- **Jun 15, 04:26 PM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
 - **Jun 15, 05:05 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 15, 06:24 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
 - **Jun 15, 06:59 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
@@ -140,7 +131,6 @@
 - **Jun 16, 04:29 AM** - All in on AI at Astra (spacenews)
 - **Jun 16, 05:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 16, 05:39 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
-- **Jun 16, 06:15 AM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
 - **Jun 16, 06:49 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 16, 07:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 16, 07:59 AM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
@@ -2803,3 +2793,4 @@
 - **Aug 24, 10:19 PM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
 - **Aug 24, 10:54 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
 - **Aug 24, 11:28 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
+- **Aug 25, 12:04 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)

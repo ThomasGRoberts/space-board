@@ -1,9 +1,60 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-24T00:05:01.491916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "04c13a12b5422795b5b9e69ea08cfb5e",
+    "last_run_datetime": "2026-08-25T00:04:51.050743+00:00",
+    "trigger_count": 0,
+    "current_item_id": "a0edc4dd8ec057cc30915af3d386a40b",
     "data": [
+        {
+            "id": "4f637a8b24b43ba046b7ef234bab1e8d",
+            "source": "spacenews",
+            "text": "Aerospace demonstrates DiskSats in low-Earth orbit",
+            "source_link": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-24T17:39:22.474490Z",
+            "shown_at": [
+                "2026-08-24T17:39:23.443464Z"
+            ]
+        },
+        {
+            "id": "f7a68fede69f2d4ef1a16f88063f2cc9",
+            "source": "spacenews",
+            "text": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
+            "source_link": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-24T15:19:30.940044Z",
+            "shown_at": [
+                "2026-08-24T15:19:31.672836Z"
+            ]
+        },
+        {
+            "id": "bd748abda945c2a314cb00429fc77782",
+            "source": "spacenews",
+            "text": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
+            "source_link": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-24T14:34:36.394316Z",
+            "shown_at": [
+                "2026-08-24T14:34:37.114636Z",
+                "2026-08-24T17:04:41.193162Z",
+                "2026-08-24T22:54:47.795457Z"
+            ]
+        },
+        {
+            "id": "38d6c16b877a0e0d24bd9b2488716092",
+            "source": "spacenews",
+            "text": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
+            "source_link": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-24T12:14:41.684748Z",
+            "shown_at": [
+                "2026-08-24T12:14:42.702659Z",
+                "2026-08-24T21:09:26.584488Z"
+            ]
+        },
         {
             "id": "d264e32b7427a9228125067af091acd7",
             "source": "spacenews",
@@ -521,7 +572,8 @@
                 "2026-08-24T00:24:32.663057Z",
                 "2026-08-24T10:59:37.612705Z",
                 "2026-08-24T18:49:25.835556Z",
-                "2026-08-24T22:19:13.936026Z"
+                "2026-08-24T22:19:13.936026Z",
+                "2026-08-25T00:04:59.847989Z"
             ]
         },
         {
@@ -8236,111 +8288,6 @@
             "fetched_datetime": "2026-06-10T15:04:59.371640Z",
             "shown_at": [
                 "2026-06-10T15:05:02.021264Z"
-            ]
-        },
-        {
-            "id": "9f9f8584d9b85de7bbb30b231a1a32ec",
-            "source": "spacenews",
-            "text": "UK startup Applied Atomics to enter US market with focus on military space mobility",
-            "source_link": "https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T14:29:35.030023Z",
-            "shown_at": [
-                "2026-06-10T14:29:37.496321Z",
-                "2026-06-12T05:29:09.424275Z",
-                "2026-06-12T08:59:20.333078Z"
-            ]
-        },
-        {
-            "id": "565d3173d9be6f83f04a99e50723cd24",
-            "source": "spacenews",
-            "text": "Orbital raises $5 million to join orbital data center race",
-            "source_link": "https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T13:54:25.697414Z",
-            "shown_at": [
-                "2026-06-10T13:54:28.224867Z",
-                "2026-06-15T01:39:21.834229Z"
-            ]
-        },
-        {
-            "id": "8ae9e7d521b4884638e45cc0f21d25e6",
-            "source": "spacenews",
-            "text": "Arkadia Space to supply thrusters for Reflex Aerospace satellite",
-            "source_link": "https://spacenews.com/arkadia-space-to-supply-thrusters-for-reflex-aerospace-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T12:39:30.996294Z",
-            "shown_at": [
-                "2026-06-10T13:14:24.452370Z",
-                "2026-06-13T22:49:08.492414Z"
-            ]
-        },
-        {
-            "id": "59bf5f7fd63c45f6e7f98a88c8b9a261",
-            "source": "spacenews",
-            "text": "LeoLabs deploys mobile space-tracking radar in Indo-Pacific ",
-            "source_link": "https://spacenews.com/leolabs-deploys-mobile-space-tracking-radar-in-indo-pacific/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T12:39:30.996217Z",
-            "shown_at": [
-                "2026-06-10T12:39:32.934830Z",
-                "2026-06-15T16:26:18.948307Z",
-                "2026-06-16T06:15:01.580120Z"
-            ]
-        },
-        {
-            "id": "38d6c16b877a0e0d24bd9b2488716092",
-            "source": "spacenews",
-            "text": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
-            "source_link": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-24T12:14:41.684748Z",
-            "shown_at": [
-                "2026-08-24T12:14:42.702659Z",
-                "2026-08-24T21:09:26.584488Z"
-            ]
-        },
-        {
-            "id": "bd748abda945c2a314cb00429fc77782",
-            "source": "spacenews",
-            "text": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
-            "source_link": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-24T14:34:36.394316Z",
-            "shown_at": [
-                "2026-08-24T14:34:37.114636Z",
-                "2026-08-24T17:04:41.193162Z",
-                "2026-08-24T22:54:47.795457Z"
-            ]
-        },
-        {
-            "id": "f7a68fede69f2d4ef1a16f88063f2cc9",
-            "source": "spacenews",
-            "text": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
-            "source_link": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-24T15:19:30.940044Z",
-            "shown_at": [
-                "2026-08-24T15:19:31.672836Z"
-            ]
-        },
-        {
-            "id": "4f637a8b24b43ba046b7ef234bab1e8d",
-            "source": "spacenews",
-            "text": "Aerospace demonstrates DiskSats in low-Earth orbit",
-            "source_link": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-24T17:39:22.474490Z",
-            "shown_at": [
-                "2026-08-24T17:39:23.443464Z"
             ]
         }
     ]
