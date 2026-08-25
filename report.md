@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 14 | 29 |
+| spacenews | 3 | 6 | 15 | 30 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -2818,3 +2818,4 @@
 - **Aug 25, 02:39 PM** - Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans (spacenews)
 - **Aug 25, 03:14 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 25, 03:54 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
+- **Aug 25, 04:39 PM** - Muon Space raises $250 million to ramp up satellite production (spacenews)
