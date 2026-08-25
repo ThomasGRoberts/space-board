@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 13 | 29 |
-| breaking_defense | 1 | 1 | 12 | 24 |
+| breaking_defense | 1 | 1 | 13 | 25 |
 | nyt | 2 | 2 | 12 | 24 |
 
 # Shown Order
@@ -2826,3 +2826,4 @@
 - **Aug 25, 07:34 PM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 25, 08:34 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 25, 09:09 PM** - Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission (spacenews)
+- **Aug 25, 09:44 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
