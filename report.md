@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 16 | 29 |
+| spacenews | 4 | 4 | 17 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2794,3 +2794,4 @@
 - **Aug 24, 10:54 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
 - **Aug 24, 11:28 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 25, 12:04 AM** - How NASA Engineers Are Keeping the Voyagers Alive (nyt)
+- **Aug 25, 12:39 AM** - The COSMOSIS framework can ensure that Washington governs space with its complexity in mind. (spacenews)
