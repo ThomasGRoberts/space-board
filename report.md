@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 14 | 29 |
+| spacenews | 4 | 6 | 15 | 30 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -2815,3 +2815,4 @@
 - **Aug 25, 12:46 PM** - Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference (spacenews)
 - **Aug 25, 01:29 PM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)
 - **Aug 25, 02:05 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
+- **Aug 25, 02:39 PM** - Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-25T00:04:51.050743+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2b78bbb122328e234c91e40f0e36b7c9",
+    "trigger_count": 0,
+    "current_item_id": "b519df71eea3b434ada4afe0d5c506c0",
     "data": [
         {
             "id": "4f637a8b24b43ba046b7ef234bab1e8d",
@@ -8331,6 +8331,18 @@
             "fetched_datetime": "2026-08-25T14:05:12.724578Z",
             "shown_at": [
                 "2026-08-25T14:05:13.923205Z"
+            ]
+        },
+        {
+            "id": "b519df71eea3b434ada4afe0d5c506c0",
+            "source": "spacenews",
+            "text": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
+            "source_link": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-25T14:39:22.374573Z",
+            "shown_at": [
+                "2026-08-25T14:39:26.687858Z"
             ]
         }
     ]
