@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2805,3 +2805,4 @@
 - **Aug 25, 05:24 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 25, 06:09 AM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
 - **Aug 25, 06:44 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
+- **Aug 25, 07:19 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
