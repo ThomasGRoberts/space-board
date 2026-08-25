@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 16 | 29 |
+| spacenews | 4 | 4 | 17 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2806,3 +2806,4 @@
 - **Aug 25, 06:09 AM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
 - **Aug 25, 06:44 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 25, 07:19 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 25, 07:54 AM** - Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026 (spacenews)
