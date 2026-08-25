@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 16 | 29 |
+| spacenews | 4 | 4 | 17 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2803,3 +2803,4 @@
 - **Aug 25, 04:13 AM** - New report takes closer look at the Space Force spending surge (spacenews)
 - **Aug 25, 04:49 AM** - DoD expands R&D on clearing expired satellites from orbit (breaking_defense)
 - **Aug 25, 05:24 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 25, 06:09 AM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
