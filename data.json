@@ -1,9 +1,69 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-25T00:04:51.050743+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-08-26T00:04:55.045540+00:00",
+    "trigger_count": 1,
     "current_item_id": "c8d53a9daa276856d404fa45e9763133",
     "data": [
+        {
+            "id": "8519e3d1d8fa366f26c84b3d7d25c870",
+            "source": "nyt",
+            "text": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
+            "source_link": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-25T20:34:25.278140Z",
+            "shown_at": [
+                "2026-08-25T20:34:25.881381Z"
+            ]
+        },
+        {
+            "id": "4bbbb4a47ebce94caa84b9f7441f6885",
+            "source": "nyt",
+            "text": "SpaceX to Spend $100 Billion on New Spaceport in Louisiana",
+            "source_link": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-25T18:25:04.408179Z",
+            "shown_at": [
+                "2026-08-25T18:25:05.513198Z"
+            ]
+        },
+        {
+            "id": "b519df71eea3b434ada4afe0d5c506c0",
+            "source": "spacenews",
+            "text": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
+            "source_link": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-25T14:39:22.374573Z",
+            "shown_at": [
+                "2026-08-25T14:39:26.687858Z"
+            ]
+        },
+        {
+            "id": "2b78bbb122328e234c91e40f0e36b7c9",
+            "source": "breaking_defense",
+            "text": "Hypersonics, rocket startup Ursa Major to go public in $2.3B deal",
+            "source_link": "https://breakingdefense.com/2026/08/hypersonics-rocket-startup-ursa-major-to-go-public-in-2-3b-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-25T14:05:12.724578Z",
+            "shown_at": [
+                "2026-08-25T14:05:13.923205Z"
+            ]
+        },
+        {
+            "id": "e193aab4ac6342199a969b6f755ec6ef",
+            "source": "spacenews",
+            "text": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
+            "source_link": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-25T13:29:31.097141Z",
+            "shown_at": [
+                "2026-08-25T13:29:34.713035Z"
+            ]
+        },
         {
             "id": "4f637a8b24b43ba046b7ef234bab1e8d",
             "source": "spacenews",
@@ -8214,171 +8274,6 @@
                 "2026-06-10T19:49:33.437010Z",
                 "2026-06-13T19:14:20.114687Z",
                 "2026-06-14T20:19:32.044614Z"
-            ]
-        },
-        {
-            "id": "e582b3de4daaf9ecf6d02b796297c771",
-            "source": "breaking_defense",
-            "text": "ICEYE, Rheinmetall form German joint venture for space-based ISR",
-            "source_link": "https://breakingdefense.com/2026/06/iceye-rhenmetall-form-german-joint-venture-for-space-based-isr/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T17:59:17.735130Z",
-            "shown_at": [
-                "2026-06-10T17:59:20.277016Z",
-                "2026-06-10T22:14:08.642161Z",
-                "2026-06-11T01:44:27.405784Z",
-                "2026-06-11T03:28:38.972729Z",
-                "2026-06-11T08:49:41.895883Z",
-                "2026-06-11T15:54:33.699531Z",
-                "2026-06-11T20:39:27.687578Z",
-                "2026-06-11T22:59:14.570756Z",
-                "2026-06-12T02:29:01.567633Z",
-                "2026-06-12T04:19:33.502283Z",
-                "2026-06-12T19:39:23.782551Z",
-                "2026-06-13T05:34:43.798339Z",
-                "2026-06-13T16:54:26.648583Z",
-                "2026-06-13T18:39:08.090702Z",
-                "2026-06-13T23:59:25.691375Z",
-                "2026-06-14T08:59:19.357550Z",
-                "2026-06-14T16:05:11.056462Z",
-                "2026-06-14T17:54:16.289828Z",
-                "2026-06-14T19:44:29.314349Z",
-                "2026-06-15T08:05:12.998597Z",
-                "2026-06-16T03:14:24.404167Z",
-                "2026-06-16T06:49:36.511516Z",
-                "2026-06-16T13:59:50.259834Z",
-                "2026-06-16T16:54:39.904067Z",
-                "2026-06-16T19:14:29.280129Z",
-                "2026-06-16T23:19:31.644421Z",
-                "2026-06-17T04:49:24.156201Z",
-                "2026-06-17T06:34:38.089896Z",
-                "2026-06-17T08:19:45.600449Z",
-                "2026-06-17T10:05:15.040554Z",
-                "2026-06-17T15:58:50.346833Z"
-            ]
-        },
-        {
-            "id": "3a4377be6e2c4e8b2fe63ce8161a4507",
-            "source": "nyt",
-            "text": "Artemis Astronauts to Wear Prada Spacesuits",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/prada-axiom-lcvg-artemis-iii.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T17:24:19.843086Z",
-            "shown_at": [
-                "2026-06-10T18:34:37.862941Z",
-                "2026-06-12T10:44:35.256101Z",
-                "2026-06-12T19:05:01.225477Z",
-                "2026-06-13T18:04:57.048619Z",
-                "2026-06-14T13:39:19.275821Z",
-                "2026-06-15T03:59:31.055816Z",
-                "2026-06-16T23:59:31.675643Z"
-            ]
-        },
-        {
-            "id": "e66fd9100d021c9fb7147b7b6c936f5c",
-            "source": "nyt",
-            "text": "NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station",
-            "source_link": "https://www.nytimes.com/2026/06/10/science/jessica-meir-aurora-southern-lights-space-video.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T17:24:19.842530Z",
-            "shown_at": [
-                "2026-06-10T17:24:22.436888Z",
-                "2026-06-12T04:54:17.456240Z",
-                "2026-06-14T01:14:24.481788Z",
-                "2026-06-16T02:04:50.278429Z",
-                "2026-06-16T22:09:36.258818Z",
-                "2026-06-17T02:29:24.360506Z",
-                "2026-06-17T07:44:06.846815Z"
-            ]
-        },
-        {
-            "id": "ab20abc86b064b717fb4344e5317de51",
-            "source": "spacenews",
-            "text": "Spire to pursue space-based missile warning in partnership with German defense firm",
-            "source_link": "https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T15:04:59.371700Z",
-            "shown_at": [
-                "2026-06-10T16:05:04.122762Z",
-                "2026-06-14T07:44:40.842625Z",
-                "2026-06-15T12:19:52.774366Z",
-                "2026-06-16T00:54:30.719234Z"
-            ]
-        },
-        {
-            "id": "7764cce6075c466a294fe0b41ce64e2d",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-space-supply-chain-members/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T15:04:59.371640Z",
-            "shown_at": [
-                "2026-06-10T15:05:02.021264Z"
-            ]
-        },
-        {
-            "id": "e193aab4ac6342199a969b6f755ec6ef",
-            "source": "spacenews",
-            "text": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
-            "source_link": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-25T13:29:31.097141Z",
-            "shown_at": [
-                "2026-08-25T13:29:34.713035Z"
-            ]
-        },
-        {
-            "id": "2b78bbb122328e234c91e40f0e36b7c9",
-            "source": "breaking_defense",
-            "text": "Hypersonics, rocket startup Ursa Major to go public in $2.3B deal",
-            "source_link": "https://breakingdefense.com/2026/08/hypersonics-rocket-startup-ursa-major-to-go-public-in-2-3b-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-25T14:05:12.724578Z",
-            "shown_at": [
-                "2026-08-25T14:05:13.923205Z"
-            ]
-        },
-        {
-            "id": "b519df71eea3b434ada4afe0d5c506c0",
-            "source": "spacenews",
-            "text": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
-            "source_link": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-25T14:39:22.374573Z",
-            "shown_at": [
-                "2026-08-25T14:39:26.687858Z"
-            ]
-        },
-        {
-            "id": "4bbbb4a47ebce94caa84b9f7441f6885",
-            "source": "nyt",
-            "text": "SpaceX to Spend $100 Billion on New Spaceport in Louisiana",
-            "source_link": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-25T18:25:04.408179Z",
-            "shown_at": [
-                "2026-08-25T18:25:05.513198Z"
-            ]
-        },
-        {
-            "id": "8519e3d1d8fa366f26c84b3d7d25c870",
-            "source": "nyt",
-            "text": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
-            "source_link": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-25T20:34:25.278140Z",
-            "shown_at": [
-                "2026-08-25T20:34:25.881381Z"
             ]
         }
     ]
