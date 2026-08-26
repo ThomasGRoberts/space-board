@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 13 | 24 |
-| spacenews | 1 | 5 | 12 | 27 |
+| spacenews | 1 | 4 | 13 | 27 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2802,3 +2802,4 @@
 - **Aug 26, 12:39 PM** - Tory Bruno Named Honorary Chair Of World Space Week 2027 (spacenews)
 - **Aug 26, 01:24 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 26, 01:59 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
+- **Aug 26, 02:34 PM** - China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch (spacenews)
