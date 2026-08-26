@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 12 | 24 |
 | spacenews | 2 | 5 | 13 | 28 |
-| breaking_defense | 1 | 1 | 12 | 23 |
+| breaking_defense | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2800,3 +2800,4 @@
 - **Aug 26, 11:15 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 26, 11:59 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 26, 12:39 PM** - Tory Bruno Named Honorary Chair Of World Space Week 2027 (spacenews)
+- **Aug 26, 01:24 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
