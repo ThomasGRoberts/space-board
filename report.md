@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 12 | 24 |
 | spacenews | 1 | 3 | 12 | 25 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2812,3 +2812,4 @@
 - **Aug 26, 07:34 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 26, 08:09 PM** - Muon Space raises $250 million to ramp up satellite production (spacenews)
 - **Aug 26, 08:49 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 26, 09:24 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
