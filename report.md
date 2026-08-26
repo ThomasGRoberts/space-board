@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 24 |
 | spacenews | 2 | 6 | 13 | 29 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 
@@ -2780,3 +2780,4 @@
 - **Aug 25, 10:24 PM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 25, 11:14 PM** - Rocket Lab launches 9th satellite for iQPS (spacenews)
 - **Aug 25, 11:59 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 26, 12:34 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
