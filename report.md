@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 12 | 24 |
 | spacenews | 2 | 6 | 13 | 29 |
-| breaking_defense | 1 | 1 | 11 | 23 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2788,3 +2788,4 @@
 - **Aug 26, 03:29 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 26, 04:04 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 26, 04:39 AM** - Rocket Lab launches 9th satellite for iQPS (spacenews)
+- **Aug 26, 05:14 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
