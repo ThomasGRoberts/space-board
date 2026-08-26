@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 24 |
 | spacenews | 2 | 6 | 12 | 28 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 
@@ -2792,3 +2792,4 @@
 - **Aug 26, 05:49 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 26, 06:54 AM** - New Novaspace forecast: 6,500+ EO satellites to launch by 2035 (spacenews)
 - **Aug 26, 07:29 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
+- **Aug 26, 08:09 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
