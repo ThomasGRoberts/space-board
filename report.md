@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 12 | 24 |
-| spacenews | 1 | 3 | 12 | 25 |
+| spacenews | 1 | 3 | 13 | 26 |
 | breaking_defense | 0 | 1 | 13 | 24 |
 
 # Shown Order
@@ -2816,3 +2816,4 @@
 - **Aug 26, 09:58 PM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)
 - **Aug 26, 10:34 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 26, 11:09 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
+- **Aug 26, 11:44 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
