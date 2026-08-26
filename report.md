@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 11 | 23 |
 | spacenews | 2 | 6 | 13 | 29 |
-| breaking_defense | 1 | 1 | 11 | 23 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2791,3 +2791,4 @@
 - **Aug 26, 05:14 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 26, 05:49 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 26, 06:54 AM** - New Novaspace forecast: 6,500+ EO satellites to launch by 2035 (spacenews)
+- **Aug 26, 07:29 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
