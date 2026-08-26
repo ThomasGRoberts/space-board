@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 24 |
 | spacenews | 2 | 6 | 13 | 29 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 
@@ -2786,3 +2786,4 @@
 - **Aug 26, 02:19 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 26, 02:54 AM** - Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission (spacenews)
 - **Aug 26, 03:29 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
+- **Aug 26, 04:04 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
