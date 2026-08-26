@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 24 |
 | spacenews | 2 | 6 | 13 | 28 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 
@@ -2798,3 +2798,4 @@
 - **Aug 26, 09:59 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
 - **Aug 26, 10:38 AM** - China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch (spacenews)
 - **Aug 26, 11:15 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
+- **Aug 26, 11:59 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
