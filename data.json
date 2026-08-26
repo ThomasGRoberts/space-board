@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-26T00:04:55.045540+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2b78bbb122328e234c91e40f0e36b7c9",
+    "trigger_count": 0,
+    "current_item_id": "ae27b912510d7bcc9d52801cad9f12cc",
     "data": [
         {
             "id": "8519e3d1d8fa366f26c84b3d7d25c870",
@@ -8298,6 +8298,18 @@
                 "2026-06-10T19:49:33.437010Z",
                 "2026-06-13T19:14:20.114687Z",
                 "2026-06-14T20:19:32.044614Z"
+            ]
+        },
+        {
+            "id": "ae27b912510d7bcc9d52801cad9f12cc",
+            "source": "spacenews",
+            "text": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
+            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-26T16:35:18.282842Z",
+            "shown_at": [
+                "2026-08-26T16:35:20.375636Z"
             ]
         }
     ]
