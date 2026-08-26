@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 12 | 24 |
 | spacenews | 1 | 3 | 12 | 25 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 12 | 25 |
 
 # Shown Order
 
@@ -2809,3 +2809,4 @@
 - **Aug 26, 05:49 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 26, 06:24 PM** - The COSMOSIS framework can ensure that Washington governs space with its complexity in mind. (spacenews)
 - **Aug 26, 06:59 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 26, 07:34 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
