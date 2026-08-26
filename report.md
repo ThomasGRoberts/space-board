@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 24 |
 | spacenews | 2 | 6 | 13 | 29 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 
@@ -2783,3 +2783,4 @@
 - **Aug 26, 12:34 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
 - **Aug 26, 01:09 AM** - Space nuclear programs face near- and long-term challenges (spacenews)
 - **Aug 26, 01:44 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 26, 02:19 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
