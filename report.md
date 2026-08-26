@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 12 | 24 |
-| spacenews | 2 | 6 | 12 | 28 |
+| spacenews | 2 | 6 | 13 | 29 |
 | breaking_defense | 1 | 1 | 11 | 23 |
 
 # Shown Order
@@ -2796,3 +2796,4 @@
 - **Aug 26, 08:44 AM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
 - **Aug 26, 09:19 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 26, 09:59 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Aug 26, 10:38 AM** - China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch (spacenews)
