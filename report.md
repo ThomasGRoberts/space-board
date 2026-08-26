@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 12 | 24 |
-| spacenews | 2 | 6 | 12 | 28 |
-| breaking_defense | 1 | 1 | 12 | 24 |
+| spacenews | 2 | 6 | 13 | 29 |
+| breaking_defense | 1 | 1 | 11 | 23 |
 
 # Shown Order
 
@@ -2790,3 +2790,4 @@
 - **Aug 26, 04:39 AM** - Rocket Lab launches 9th satellite for iQPS (spacenews)
 - **Aug 26, 05:14 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 26, 05:49 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
+- **Aug 26, 06:54 AM** - New Novaspace forecast: 6,500+ EO satellites to launch by 2035 (spacenews)
