@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 12 | 24 |
-| spacenews | 2 | 5 | 13 | 27 |
+| spacenews | 2 | 5 | 14 | 28 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2799,3 +2799,4 @@
 - **Aug 26, 10:38 AM** - China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch (spacenews)
 - **Aug 26, 11:15 AM** - Pentagon rebuffed repeated requests for Golden Dome brief: CBO (breaking_defense)
 - **Aug 26, 11:59 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
+- **Aug 26, 12:39 PM** - Tory Bruno Named Honorary Chair Of World Space Week 2027 (spacenews)
