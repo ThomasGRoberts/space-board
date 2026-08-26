@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 12 | 23 |
+| nyt | 2 | 2 | 13 | 24 |
 | spacenews | 1 | 5 | 12 | 28 |
 | breaking_defense | 1 | 1 | 13 | 24 |
 
@@ -2801,3 +2801,4 @@
 - **Aug 26, 11:59 AM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 26, 12:39 PM** - Tory Bruno Named Honorary Chair Of World Space Week 2027 (spacenews)
 - **Aug 26, 01:24 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
+- **Aug 26, 01:59 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
