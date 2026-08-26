@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 24 |
 | spacenews | 2 | 6 | 13 | 29 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 
@@ -2789,3 +2789,4 @@
 - **Aug 26, 04:04 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
 - **Aug 26, 04:39 AM** - Rocket Lab launches 9th satellite for iQPS (spacenews)
 - **Aug 26, 05:14 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 26, 05:49 AM** - Chinese Start-Up Lands Reusable Rocket for the First Time (nyt)
