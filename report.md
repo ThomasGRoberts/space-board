@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 12 | 24 |
 | spacenews | 0 | 3 | 12 | 26 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2803,3 +2803,4 @@
 - **Aug 26, 01:24 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 26, 01:59 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 26, 02:34 PM** - China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch (spacenews)
+- **Aug 26, 03:54 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
