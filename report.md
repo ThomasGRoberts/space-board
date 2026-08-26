@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 11 | 23 |
+| nyt | 0 | 2 | 12 | 24 |
 | spacenews | 1 | 3 | 13 | 26 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
@@ -2814,3 +2814,4 @@
 - **Aug 26, 08:49 PM** - NASA’s Attempt to Save the Swift Telescope Has Failed (nyt)
 - **Aug 26, 09:24 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 26, 09:58 PM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)
+- **Aug 26, 10:34 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
