@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 12 | 24 |
 | spacenews | 2 | 6 | 13 | 29 |
-| breaking_defense | 1 | 1 | 11 | 23 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2785,3 +2785,4 @@
 - **Aug 26, 01:44 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 26, 02:19 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 26, 02:54 AM** - Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission (spacenews)
+- **Aug 26, 03:29 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
