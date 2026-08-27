@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 26 |
-| nyt | 0 | 2 | 13 | 25 |
+| nyt | 0 | 2 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2842,3 +2842,4 @@
 - **Aug 27, 02:59 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 27, 03:39 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 27, 04:14 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
+- **Aug 27, 04:49 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
