@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 13 | 26 |
+| spacenews | 2 | 4 | 14 | 27 |
 | nyt | 0 | 2 | 12 | 23 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
@@ -2820,3 +2820,4 @@
 - **Aug 27, 02:09 AM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
 - **Aug 27, 02:44 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
 - **Aug 27, 03:19 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 27, 03:54 AM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
