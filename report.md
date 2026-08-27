@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 27 |
+| spacenews | 2 | 4 | 15 | 28 |
 | nyt | 0 | 2 | 12 | 24 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 
@@ -2835,3 +2835,4 @@
 - **Aug 27, 10:54 AM** - Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026 (spacenews)
 - **Aug 27, 11:29 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 27, 12:04 PM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
+- **Aug 27, 12:39 PM** - Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium  (spacenews)
