@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-27T00:04:40.765771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bd748abda945c2a314cb00429fc77782",
+    "trigger_count": 0,
+    "current_item_id": "308ace01a30c2cd199d8e414251250d3",
     "data": [
         {
             "id": "ae27b912510d7bcc9d52801cad9f12cc",
@@ -8311,6 +8311,18 @@
                 "2026-06-17T14:15:17.649274Z",
                 "2026-06-17T17:49:45.237132Z",
                 "2026-06-17T20:14:29.017765Z"
+            ]
+        },
+        {
+            "id": "308ace01a30c2cd199d8e414251250d3",
+            "source": "spacenews",
+            "text": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
+            "source_link": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-27T02:09:17.589429Z",
+            "shown_at": [
+                "2026-08-27T02:09:18.274482Z"
             ]
         }
     ]
