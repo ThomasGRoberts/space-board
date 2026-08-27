@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 13 | 26 |
+| spacenews | 2 | 4 | 14 | 27 |
 | nyt | 0 | 2 | 12 | 23 |
 | breaking_defense | 0 | 1 | 13 | 24 |
 
@@ -2826,3 +2826,4 @@
 - **Aug 27, 05:39 AM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
 - **Aug 27, 06:14 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 27, 06:49 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
+- **Aug 27, 07:24 AM** - Chinese radio-frequency intelligence startup StarRF closes new funding round (spacenews)
