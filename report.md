@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 26 |
 | nyt | 0 | 2 | 12 | 24 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2831,3 +2831,4 @@
 - **Aug 27, 08:34 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 27, 09:09 AM** - LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation (spacenews)
 - **Aug 27, 09:44 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
+- **Aug 27, 10:18 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
