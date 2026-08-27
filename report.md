@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 26 |
 | nyt | 0 | 1 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2846,3 +2846,4 @@
 - **Aug 27, 05:24 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 27, 05:59 PM** - Aerospace demonstrates DiskSats in low-Earth orbit (spacenews)
 - **Aug 27, 06:34 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
+- **Aug 27, 07:14 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
