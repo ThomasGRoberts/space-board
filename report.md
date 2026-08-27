@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 26 |
+| spacenews | 1 | 2 | 15 | 27 |
 | nyt | 0 | 2 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2844,3 +2844,4 @@
 - **Aug 27, 04:14 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
 - **Aug 27, 04:49 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 27, 05:24 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
+- **Aug 27, 05:59 PM** - Aerospace demonstrates DiskSats in low-Earth orbit (spacenews)
