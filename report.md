@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 26 |
 | nyt | 0 | 2 | 12 | 24 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2828,3 +2828,4 @@
 - **Aug 27, 06:49 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 27, 07:24 AM** - Chinese radio-frequency intelligence startup StarRF closes new funding round (spacenews)
 - **Aug 27, 07:59 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
+- **Aug 27, 08:34 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
