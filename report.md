@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 27 |
-| nyt | 0 | 2 | 11 | 23 |
+| spacenews | 2 | 4 | 14 | 26 |
+| nyt | 0 | 2 | 12 | 24 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2824,3 +2824,4 @@
 - **Aug 27, 04:29 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 27, 05:04 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
 - **Aug 27, 05:39 AM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
+- **Aug 27, 06:14 AM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
