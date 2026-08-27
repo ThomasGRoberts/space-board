@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2854,3 +2854,4 @@
 - **Aug 27, 10:14 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 27, 10:48 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 27, 11:24 PM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
+- **Aug 27, 11:58 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
