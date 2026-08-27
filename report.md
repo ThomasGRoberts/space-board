@@ -2,13 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 12 | 24 |
 | spacenews | 1 | 3 | 13 | 26 |
-| breaking_defense | 0 | 1 | 13 | 24 |
+| nyt | 0 | 2 | 12 | 24 |
+| breaking_defense | 0 | 1 | 12 | 24 |
 
 # Shown Order
 
-- **Jun 10, 07:49 PM** - House appropriators back $55.5 billion Space Force budget, omit reconciliation funds (spacenews)
 - **Jun 10, 08:29 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 10, 10:49 PM** - Artemis 3 commander confident crew will be ready for 2027 mission (spacenews)
 - **Jun 10, 11:59 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
@@ -55,7 +54,6 @@
 - **Jun 13, 01:24 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 13, 03:44 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 13, 05:29 PM** - Revised Artemis lunar lander plans take shape (spacenews)
-- **Jun 13, 07:14 PM** - House appropriators back $55.5 billion Space Force budget, omit reconciliation funds (spacenews)
 - **Jun 13, 09:04 PM** - GEO cancellations complicate space insurance recovery (spacenews)
 - **Jun 14, 02:24 AM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
 - **Jun 14, 04:14 AM** - Missile production push runs into solid rocket motor bottleneck (spacenews)
@@ -68,7 +66,6 @@
 - **Jun 14, 02:54 PM** - H3 successfully returns to flight (spacenews)
 - **Jun 14, 03:29 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 14, 06:29 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
-- **Jun 14, 08:19 PM** - House appropriators back $55.5 billion Space Force budget, omit reconciliation funds (spacenews)
 - **Jun 14, 09:29 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 14, 10:04 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 14, 11:19 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)

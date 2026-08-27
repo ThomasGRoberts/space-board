@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-26T00:04:55.045540+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-08-27T00:04:40.765771+00:00",
+    "trigger_count": 4,
     "current_item_id": "073a55ac06132fd8d08011518d8e5e9c",
     "data": [
+        {
+            "id": "ae27b912510d7bcc9d52801cad9f12cc",
+            "source": "spacenews",
+            "text": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
+            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-26T16:35:18.282842Z",
+            "shown_at": [
+                "2026-08-26T16:35:20.375636Z"
+            ]
+        },
         {
             "id": "8519e3d1d8fa366f26c84b3d7d25c870",
             "source": "nyt",
@@ -8296,32 +8308,6 @@
                 "2026-06-17T14:15:17.649274Z",
                 "2026-06-17T17:49:45.237132Z",
                 "2026-06-17T20:14:29.017765Z"
-            ]
-        },
-        {
-            "id": "a2229327eb7abb69084921a9830d58bb",
-            "source": "spacenews",
-            "text": "House appropriators back $55.5 billion Space Force budget, omit reconciliation funds",
-            "source_link": "https://spacenews.com/house-appropriators-back-55-5-billion-space-force-budget-omit-reconciliation-funds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T19:49:30.712285Z",
-            "shown_at": [
-                "2026-06-10T19:49:33.437010Z",
-                "2026-06-13T19:14:20.114687Z",
-                "2026-06-14T20:19:32.044614Z"
-            ]
-        },
-        {
-            "id": "ae27b912510d7bcc9d52801cad9f12cc",
-            "source": "spacenews",
-            "text": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
-            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-26T16:35:18.282842Z",
-            "shown_at": [
-                "2026-08-26T16:35:20.375636Z"
             ]
         }
     ]
