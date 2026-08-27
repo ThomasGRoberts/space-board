@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2849,3 +2849,4 @@
 - **Aug 27, 07:14 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 27, 07:49 PM** - Tory Bruno Named Honorary Chair Of World Space Week 2027 (spacenews)
 - **Aug 27, 08:24 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
+- **Aug 27, 09:04 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
