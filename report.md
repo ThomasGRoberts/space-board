@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 12 | 25 |
+| spacenews | 1 | 3 | 13 | 26 |
 | nyt | 0 | 2 | 12 | 24 |
 | breaking_defense | 0 | 1 | 13 | 24 |
 
@@ -2816,3 +2816,4 @@
 - **Aug 26, 11:44 PM** - Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova (spacenews)
 - **Aug 27, 12:18 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 27, 12:54 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 27, 01:29 AM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
