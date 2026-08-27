@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2851,3 +2851,4 @@
 - **Aug 27, 08:24 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 27, 09:04 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 27, 09:39 PM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
+- **Aug 27, 10:14 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
