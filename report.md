@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 13 | 26 |
 | nyt | 0 | 2 | 12 | 24 |
-| breaking_defense | 0 | 1 | 12 | 23 |
+| breaking_defense | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2822,3 +2822,4 @@
 - **Aug 27, 03:19 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 27, 03:54 AM** - Elve qualifies millimeter-wave amplifiers for spaceflight (spacenews)
 - **Aug 27, 04:29 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
+- **Aug 27, 05:04 AM** - New White House strategy clarifies military tech priorities: undersea, outer space and AI (breaking_defense)
