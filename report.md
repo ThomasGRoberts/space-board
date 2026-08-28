@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 13 | 28 |
 | nyt | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2861,3 +2861,4 @@
 - **Aug 28, 06:19 PM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 28, 06:54 PM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
 - **Aug 28, 07:29 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Aug 28, 08:05 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
