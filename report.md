@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2843,3 +2843,4 @@
 - **Aug 28, 07:44 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 28, 08:19 AM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)
 - **Aug 28, 08:54 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
+- **Aug 28, 09:29 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
