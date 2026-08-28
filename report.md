@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 27 |
+| spacenews | 0 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -2841,3 +2841,4 @@
 - **Aug 28, 06:34 AM** - Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026 (spacenews)
 - **Aug 28, 07:09 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
 - **Aug 28, 07:44 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
+- **Aug 28, 08:19 AM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)
