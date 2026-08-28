@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 26 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2830,3 +2830,4 @@
 - **Aug 27, 11:58 PM** - Trump Announces a New Policy for a ‘Golden Age of Space Transportation’ (nyt)
 - **Aug 28, 12:39 AM** - Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops (breaking_defense)
 - **Aug 28, 01:14 AM** - RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler (spacenews)
+- **Aug 28, 01:49 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
