@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 27 |
+| spacenews | 0 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -2850,3 +2850,4 @@
 - **Aug 28, 11:49 AM** - RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler (spacenews)
 - **Aug 28, 12:24 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 28, 12:59 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
+- **Aug 28, 01:34 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
