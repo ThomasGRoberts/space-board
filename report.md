@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 0 | 14 | 27 |
+| spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -2882,3 +2882,4 @@
 - **Aug 29, 06:39 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 29, 07:14 AM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
 - **Aug 29, 07:49 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
+- **Aug 29, 08:24 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
