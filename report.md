@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 13 | 28 |
 | nyt | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2870,3 +2870,4 @@
 - **Aug 28, 11:34 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 29, 12:09 AM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)
 - **Aug 29, 12:44 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Aug 29, 01:19 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
