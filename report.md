@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 0 | 13 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -2907,3 +2907,4 @@
 - **Aug 29, 09:24 PM** - The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. (spacenews)
 - **Aug 29, 09:59 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 29, 10:34 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
+- **Aug 29, 11:09 PM** - Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026 (spacenews)
