@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
+| nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -2943,3 +2943,4 @@
 - **Aug 30, 06:34 PM** - RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler (spacenews)
 - **Aug 30, 07:09 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 30, 07:44 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
+- **Aug 30, 08:19 PM** - Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans (spacenews)
