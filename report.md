@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -2927,3 +2927,4 @@
 - **Aug 30, 09:14 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 30, 09:49 AM** - Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026 (spacenews)
 - **Aug 30, 10:24 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Aug 30, 10:59 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
