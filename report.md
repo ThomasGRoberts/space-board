@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2938,3 +2938,4 @@
 - **Aug 30, 03:39 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
 - **Aug 30, 04:14 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 30, 04:49 PM** - Aerospace demonstrates DiskSats in low-Earth orbit (spacenews)
+- **Aug 30, 05:24 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
