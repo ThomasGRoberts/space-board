@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -2912,3 +2912,4 @@
 - **Aug 30, 12:24 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 30, 12:59 AM** - Tory Bruno Named Honorary Chair Of World Space Week 2027 (spacenews)
 - **Aug 30, 01:34 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
+- **Aug 30, 02:09 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
