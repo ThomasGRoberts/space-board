@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 1 | 1 | 13 | 27 |
 
@@ -2978,3 +2978,4 @@
 - **Aug 31, 03:14 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Aug 31, 03:49 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Aug 31, 04:29 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Aug 31, 05:04 PM** - Speed to Field Starts Below the Prime (spacenews)
