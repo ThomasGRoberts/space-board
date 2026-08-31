@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 1 | 1 | 13 | 27 |
 
@@ -2984,3 +2984,4 @@
 - **Aug 31, 06:49 PM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
 - **Aug 31, 07:24 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Aug 31, 07:59 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
+- **Aug 31, 08:34 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
