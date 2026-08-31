@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-31T00:04:26.393048+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87bd61cd8ae15a03c92e2ec9fdbd8cbd",
+    "trigger_count": 0,
+    "current_item_id": "acaab34f848b1976379836adbb1ee651",
     "data": [
         {
             "id": "308ace01a30c2cd199d8e414251250d3",
@@ -8478,6 +8478,18 @@
             "fetched_datetime": "2026-08-31T13:24:21.423148Z",
             "shown_at": [
                 "2026-08-31T13:24:22.271069Z"
+            ]
+        },
+        {
+            "id": "acaab34f848b1976379836adbb1ee651",
+            "source": "spacenews",
+            "text": "Speed to Field Starts Below the Prime",
+            "source_link": "https://spacenews.com/speed-to-field-starts-below-the-prime/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-31T13:59:09.575588Z",
+            "shown_at": [
+                "2026-08-31T13:59:10.406919Z"
             ]
         }
     ]
