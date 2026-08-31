@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-08-31T00:04:26.393048+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8519e3d1d8fa366f26c84b3d7d25c870",
+    "trigger_count": 0,
+    "current_item_id": "e3b48ede700792eb61a5fb17b7fe344a",
     "data": [
         {
             "id": "308ace01a30c2cd199d8e414251250d3",
@@ -8491,6 +8491,18 @@
             "fetched_datetime": "2026-08-31T13:59:09.575588Z",
             "shown_at": [
                 "2026-08-31T13:59:10.406919Z"
+            ]
+        },
+        {
+            "id": "e3b48ede700792eb61a5fb17b7fe344a",
+            "source": "spacenews",
+            "text": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
+            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-31T15:14:20.985492Z",
+            "shown_at": [
+                "2026-08-31T15:14:21.936138Z"
             ]
         }
     ]
