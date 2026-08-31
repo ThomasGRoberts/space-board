@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 1 | 1 | 13 | 27 |
 
@@ -2981,3 +2981,4 @@
 - **Aug 31, 05:04 PM** - Speed to Field Starts Below the Prime (spacenews)
 - **Aug 31, 05:38 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 31, 06:14 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
+- **Aug 31, 06:49 PM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
