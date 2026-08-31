@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 1 | 1 | 13 | 26 |
+| breaking_defense | 1 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -2988,3 +2988,4 @@
 - **Aug 31, 09:09 PM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 31, 09:44 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Aug 31, 10:19 PM** - RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler (spacenews)
+- **Aug 31, 10:54 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
