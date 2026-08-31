@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 1 | 1 | 14 | 28 |
 
 # Shown Order
 
@@ -2972,3 +2972,4 @@
 - **Aug 31, 11:39 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Aug 31, 12:14 PM** - Aerospace demonstrates DiskSats in low-Earth orbit (spacenews)
 - **Aug 31, 12:49 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Aug 31, 01:24 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
