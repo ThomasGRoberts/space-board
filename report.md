@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
-| breaking_defense | 1 | 1 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
+| breaking_defense | 1 | 1 | 13 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3002,3 +3002,4 @@
 - **Sep 01, 09:19 AM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 01, 09:54 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Sep 01, 10:29 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Sep 01, 11:04 AM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)
