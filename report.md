@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -2996,3 +2996,4 @@
 - **Sep 01, 05:48 AM** - Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans (spacenews)
 - **Sep 01, 06:24 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
 - **Sep 01, 06:59 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Sep 01, 07:34 AM** - Speed to Field Starts Below the Prime (spacenews)
