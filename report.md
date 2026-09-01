@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 28 |
-| breaking_defense | 1 | 1 | 13 | 26 |
+| breaking_defense | 1 | 1 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2985,3 +2985,4 @@
 - **Aug 31, 10:54 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Aug 31, 11:29 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
 - **Sep 01, 12:05 AM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)
+- **Sep 01, 12:39 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
