@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 14 | 28 |
-| breaking_defense | 1 | 1 | 13 | 26 |
+| spacenews | 2 | 2 | 14 | 27 |
+| breaking_defense | 1 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -3000,3 +3000,4 @@
 - **Sep 01, 08:09 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 01, 08:44 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Sep 01, 09:19 AM** - Speed to Field Starts Below the Prime (spacenews)
+- **Sep 01, 09:54 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
