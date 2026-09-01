@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 27 |
-| breaking_defense | 0 | 1 | 12 | 26 |
+| breaking_defense | 0 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -3006,3 +3006,4 @@
 - **Sep 01, 11:39 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 01, 12:19 PM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
 - **Sep 01, 12:59 PM** - Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans (spacenews)
+- **Sep 01, 01:34 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
