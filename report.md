@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 1 | 13 | 26 |
-| nyt | 2 | 2 | 14 | 27 |
+| nyt | 2 | 2 | 14 | 28 |
 
 # Shown Order
 
@@ -3011,3 +3011,4 @@
 - **Sep 01, 02:44 PM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
 - **Sep 01, 03:19 PM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
 - **Sep 01, 03:54 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
+- **Sep 01, 04:29 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
