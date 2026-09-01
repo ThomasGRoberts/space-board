@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-01T00:04:54.949783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "13386d7b9704ee5a8d5b1dcbdba9a1a0",
+    "trigger_count": 0,
+    "current_item_id": "c09ed16e054593c11d4016ac859ca276",
     "data": [
         {
             "id": "e3b48ede700792eb61a5fb17b7fe344a",
@@ -8520,9 +8520,12 @@
             "source": "nyt",
             "text": "How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be",
             "source_link": "https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-09-01T14:09:06.975284Z"
+            "fetched_datetime": "2026-09-01T14:09:06.975284Z",
+            "shown_at": [
+                "2026-09-01T14:44:20.292803Z"
+            ]
         }
     ]
 }
