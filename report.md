@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 13 | 27 |
 | breaking_defense | 1 | 1 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2998,3 +2998,4 @@
 - **Sep 01, 06:59 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
 - **Sep 01, 07:34 AM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 01, 08:09 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
+- **Sep 01, 08:44 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
