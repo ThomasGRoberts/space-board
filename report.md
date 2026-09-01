@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 1 | 1 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -2989,3 +2989,4 @@
 - **Sep 01, 01:14 AM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
 - **Sep 01, 01:49 AM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)
 - **Sep 01, 02:24 AM** - Hypersonics, rocket startup Ursa Major to go public in $2.3B deal (breaking_defense)
+- **Sep 01, 02:59 AM** - SpaceX to Spend $100 Billion on Spaceport in Louisiana (nyt)
