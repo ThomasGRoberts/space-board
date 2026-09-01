@@ -2,15 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
-- **Jun 10, 10:49 PM** - Artemis 3 commander confident crew will be ready for 2027 mission (spacenews)
-- **Jun 11, 11:14 AM** - Missile defense in the age of saturation warfare (spacenews)
-- **Jun 11, 11:49 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
 - **Jun 11, 12:24 PM** - Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats (spacenews)
 - **Jun 11, 12:59 PM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
 - **Jun 11, 01:34 PM** - GEO cancellations complicate space insurance recovery (spacenews)
@@ -24,11 +21,9 @@
 - **Jun 11, 11:34 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 12, 12:09 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 12, 03:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
-- **Jun 12, 07:14 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
 - **Jun 12, 10:09 AM** - In aerospace, AI isn’t replacing workers. It’s filling a shortage (spacenews)
 - **Jun 12, 12:34 PM** - H3 successfully returns to flight (spacenews)
 - **Jun 12, 01:08 PM** - All in on AI at Astra (spacenews)
-- **Jun 12, 04:39 PM** - Artemis 3 commander confident crew will be ready for 2027 mission (spacenews)
 - **Jun 12, 06:29 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 12, 08:14 PM** - Astronomers fear orbital data centers will interfere with observations (spacenews)
 - **Jun 12, 08:50 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
@@ -126,7 +121,6 @@
 - **Jun 18, 05:34 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 18, 06:14 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 18, 06:49 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
-- **Jun 18, 07:24 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
 - **Jun 18, 07:59 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 18, 08:34 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 18, 09:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
@@ -2990,3 +2984,4 @@
 - **Aug 31, 10:19 PM** - RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler (spacenews)
 - **Aug 31, 10:54 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Aug 31, 11:29 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Sep 01, 12:05 AM** - Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat (spacenews)

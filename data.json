@@ -1,9 +1,50 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-08-31T00:04:26.393048+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4bbbb4a47ebce94caa84b9f7441f6885",
+    "last_run_datetime": "2026-09-01T00:04:54.949783+00:00",
+    "trigger_count": 0,
+    "current_item_id": "e193aab4ac6342199a969b6f755ec6ef",
     "data": [
+        {
+            "id": "e3b48ede700792eb61a5fb17b7fe344a",
+            "source": "spacenews",
+            "text": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
+            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-31T15:14:20.985492Z",
+            "shown_at": [
+                "2026-08-31T15:14:21.936138Z",
+                "2026-08-31T20:34:36.444813Z"
+            ]
+        },
+        {
+            "id": "acaab34f848b1976379836adbb1ee651",
+            "source": "spacenews",
+            "text": "Speed to Field Starts Below the Prime",
+            "source_link": "https://spacenews.com/speed-to-field-starts-below-the-prime/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-31T13:59:09.575588Z",
+            "shown_at": [
+                "2026-08-31T13:59:10.406919Z",
+                "2026-08-31T17:04:51.942526Z"
+            ]
+        },
+        {
+            "id": "87bd61cd8ae15a03c92e2ec9fdbd8cbd",
+            "source": "breaking_defense",
+            "text": "Space Force struggling to integrate commercial space data: Officials",
+            "source_link": "https://breakingdefense.com/2026/08/space-force-struggling-to-integrate-commercial-space-data-officials/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-08-31T13:24:21.423148Z",
+            "shown_at": [
+                "2026-08-31T13:24:22.271069Z",
+                "2026-08-31T15:49:10.224195Z",
+                "2026-08-31T19:24:28.296859Z",
+                "2026-08-31T22:54:29.978293Z"
+            ]
+        },
         {
             "id": "308ace01a30c2cd199d8e414251250d3",
             "source": "spacenews",
@@ -239,7 +280,8 @@
                 "2026-08-29T00:09:05.468920Z",
                 "2026-08-29T17:54:48.446931Z",
                 "2026-08-29T19:39:17.758592Z",
-                "2026-08-30T11:34:33.433943Z"
+                "2026-08-30T11:34:33.433943Z",
+                "2026-09-01T00:05:01.967912Z"
             ]
         },
         {
@@ -8437,86 +8479,6 @@
                 "2026-06-11T12:24:36.948049Z",
                 "2026-06-14T23:54:33.394687Z",
                 "2026-06-15T23:09:23.666491Z"
-            ]
-        },
-        {
-            "id": "ca67165fa48654adb1e8f2ba71c2ba4a",
-            "source": "spacenews",
-            "text": "ESA awards contract for next-generation radar imaging satellites",
-            "source_link": "https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T11:49:25.676433Z",
-            "shown_at": [
-                "2026-06-11T11:49:26.752915Z",
-                "2026-06-12T07:14:33.392376Z",
-                "2026-06-18T07:24:38.037196Z"
-            ]
-        },
-        {
-            "id": "00c7c537ca2964def6b8963f1eebb81a",
-            "source": "spacenews",
-            "text": "Missile defense in the age of saturation warfare",
-            "source_link": "https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T11:14:11.639702Z",
-            "shown_at": [
-                "2026-06-11T11:14:14.079116Z"
-            ]
-        },
-        {
-            "id": "0804cd2018bc38ea634a55819244e325",
-            "source": "spacenews",
-            "text": "Artemis 3 commander confident crew will be ready for 2027 mission",
-            "source_link": "https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T22:49:21.050381Z",
-            "shown_at": [
-                "2026-06-10T22:49:22.330687Z",
-                "2026-06-12T16:39:31.390097Z"
-            ]
-        },
-        {
-            "id": "87bd61cd8ae15a03c92e2ec9fdbd8cbd",
-            "source": "breaking_defense",
-            "text": "Space Force struggling to integrate commercial space data: Officials",
-            "source_link": "https://breakingdefense.com/2026/08/space-force-struggling-to-integrate-commercial-space-data-officials/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-31T13:24:21.423148Z",
-            "shown_at": [
-                "2026-08-31T13:24:22.271069Z",
-                "2026-08-31T15:49:10.224195Z",
-                "2026-08-31T19:24:28.296859Z",
-                "2026-08-31T22:54:29.978293Z"
-            ]
-        },
-        {
-            "id": "acaab34f848b1976379836adbb1ee651",
-            "source": "spacenews",
-            "text": "Speed to Field Starts Below the Prime",
-            "source_link": "https://spacenews.com/speed-to-field-starts-below-the-prime/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-31T13:59:09.575588Z",
-            "shown_at": [
-                "2026-08-31T13:59:10.406919Z",
-                "2026-08-31T17:04:51.942526Z"
-            ]
-        },
-        {
-            "id": "e3b48ede700792eb61a5fb17b7fe344a",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-08-31T15:14:20.985492Z",
-            "shown_at": [
-                "2026-08-31T15:14:21.936138Z",
-                "2026-08-31T20:34:36.444813Z"
             ]
         }
     ]
