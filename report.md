@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 26 |
+| spacenews | 0 | 2 | 14 | 27 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 2 | 2 | 14 | 28 |
 
@@ -3015,3 +3015,4 @@
 - **Sep 01, 05:04 PM** - RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler (spacenews)
 - **Sep 01, 05:39 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 01, 06:14 PM** - SpaceX to Spend $100 Billion on New Spaceport in Louisiana (nyt)
+- **Sep 01, 06:49 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
