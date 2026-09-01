@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 1 | 13 | 26 |
+| breaking_defense | 0 | 1 | 13 | 27 |
 | nyt | 2 | 2 | 14 | 27 |
 
 # Shown Order
@@ -3022,3 +3022,4 @@
 - **Sep 01, 09:14 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 01, 09:49 PM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
 - **Sep 01, 10:24 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
+- **Sep 01, 10:59 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
