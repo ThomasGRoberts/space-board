@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-01T00:04:54.949783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87bd61cd8ae15a03c92e2ec9fdbd8cbd",
+    "trigger_count": 0,
+    "current_item_id": "13386d7b9704ee5a8d5b1dcbdba9a1a0",
     "data": [
         {
             "id": "e3b48ede700792eb61a5fb17b7fe344a",
@@ -8502,6 +8502,27 @@
                 "2026-06-14T23:54:33.394687Z",
                 "2026-06-15T23:09:23.666491Z"
             ]
+        },
+        {
+            "id": "13386d7b9704ee5a8d5b1dcbdba9a1a0",
+            "source": "nyt",
+            "text": "NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration",
+            "source_link": "https://www.nytimes.com/2026/08/28/science/nasa-nancy-grace-roman-space-telescope.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-01T14:09:06.975234Z",
+            "shown_at": [
+                "2026-09-01T14:09:07.762991Z"
+            ]
+        },
+        {
+            "id": "c09ed16e054593c11d4016ac859ca276",
+            "source": "nyt",
+            "text": "How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be",
+            "source_link": "https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-09-01T14:09:06.975284Z"
         }
     ]
 }
