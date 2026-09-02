@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 14 | 28 |
-| spacenews | 0 | 2 | 13 | 26 |
+| nyt | 2 | 2 | 14 | 27 |
+| spacenews | 0 | 2 | 14 | 27 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 
 # Shown Order
@@ -3037,3 +3037,4 @@
 - **Sep 02, 09:09 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Sep 02, 09:49 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 02, 10:29 AM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
+- **Sep 02, 11:04 AM** - RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler (spacenews)
