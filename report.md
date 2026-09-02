@@ -2,14 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| nyt | 2 | 2 | 14 | 28 |
 | spacenews | 0 | 2 | 13 | 26 |
 | breaking_defense | 0 | 1 | 13 | 26 |
-| nyt | 2 | 2 | 14 | 28 |
 
 # Shown Order
 
-- **Jun 11, 12:24 PM** - Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats (spacenews)
-- **Jun 11, 12:59 PM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
 - **Jun 11, 01:34 PM** - GEO cancellations complicate space insurance recovery (spacenews)
 - **Jun 11, 02:09 PM** - K2 Space, Rocket Lab win key supplier roles in Space Force satcom program (spacenews)
 - **Jun 11, 03:19 PM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
@@ -50,9 +48,7 @@
 - **Jun 14, 03:29 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 14, 06:29 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 14, 10:04 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
-- **Jun 14, 11:54 PM** - Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats (spacenews)
 - **Jun 15, 12:29 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
-- **Jun 15, 03:24 AM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
 - **Jun 15, 06:54 AM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 15, 09:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 15, 01:29 PM** - What’s the Best Way to Monetize Space Energy? (spacenews)
@@ -62,7 +58,6 @@
 - **Jun 15, 08:09 PM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
 - **Jun 15, 08:44 PM** - Space Force orders two more GPS satellites from Lockheed Martin for $514 million (spacenews)
 - **Jun 15, 09:19 PM** - Gilat to buy Comtech satcoms business six years after failed merger (spacenews)
-- **Jun 15, 11:09 PM** - Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats (spacenews)
 - **Jun 16, 04:29 AM** - All in on AI at Astra (spacenews)
 - **Jun 16, 05:39 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 16, 07:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)

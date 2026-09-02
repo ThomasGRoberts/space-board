@@ -1,9 +1,35 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-01T00:04:54.949783+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-09-02T00:04:45.537709+00:00",
+    "trigger_count": 6,
     "current_item_id": "13386d7b9704ee5a8d5b1dcbdba9a1a0",
     "data": [
+        {
+            "id": "c09ed16e054593c11d4016ac859ca276",
+            "source": "nyt",
+            "text": "How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be",
+            "source_link": "https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-01T14:09:06.975284Z",
+            "shown_at": [
+                "2026-09-01T14:44:20.292803Z"
+            ]
+        },
+        {
+            "id": "13386d7b9704ee5a8d5b1dcbdba9a1a0",
+            "source": "nyt",
+            "text": "NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration",
+            "source_link": "https://www.nytimes.com/2026/08/28/science/nasa-nancy-grace-roman-space-telescope.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-01T14:09:06.975234Z",
+            "shown_at": [
+                "2026-09-01T14:09:07.762991Z",
+                "2026-09-01T21:49:31.374089Z",
+                "2026-09-01T23:34:51.574010Z"
+            ]
+        },
         {
             "id": "e3b48ede700792eb61a5fb17b7fe344a",
             "source": "spacenews",
@@ -8487,59 +8513,6 @@
                 "2026-06-11T13:34:52.567551Z",
                 "2026-06-13T21:04:59.732232Z",
                 "2026-06-17T17:14:48.489379Z"
-            ]
-        },
-        {
-            "id": "0d751c3b109e532b67dccd88c96aa4ed",
-            "source": "spacenews",
-            "text": "Open Cosmos seeks deadline extension for broadband constellation",
-            "source_link": "https://spacenews.com/open-cosmos-seeks-deadline-extension-for-broadband-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T12:59:14.667404Z",
-            "shown_at": [
-                "2026-06-11T12:59:15.494381Z",
-                "2026-06-15T03:24:10.518390Z"
-            ]
-        },
-        {
-            "id": "57501ca1fc22988ad77234f68739922f",
-            "source": "spacenews",
-            "text": "Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats",
-            "source_link": "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T11:49:25.676496Z",
-            "shown_at": [
-                "2026-06-11T12:24:36.948049Z",
-                "2026-06-14T23:54:33.394687Z",
-                "2026-06-15T23:09:23.666491Z"
-            ]
-        },
-        {
-            "id": "13386d7b9704ee5a8d5b1dcbdba9a1a0",
-            "source": "nyt",
-            "text": "NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration",
-            "source_link": "https://www.nytimes.com/2026/08/28/science/nasa-nancy-grace-roman-space-telescope.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-01T14:09:06.975234Z",
-            "shown_at": [
-                "2026-09-01T14:09:07.762991Z",
-                "2026-09-01T21:49:31.374089Z",
-                "2026-09-01T23:34:51.574010Z"
-            ]
-        },
-        {
-            "id": "c09ed16e054593c11d4016ac859ca276",
-            "source": "nyt",
-            "text": "How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be",
-            "source_link": "https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-01T14:09:06.975284Z",
-            "shown_at": [
-                "2026-09-01T14:44:20.292803Z"
             ]
         }
     ]
