@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 27 |
 | spacenews | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 1 | 13 | 26 |
+| breaking_defense | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -3029,3 +3029,4 @@
 - **Sep 02, 04:19 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 02, 04:54 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
 - **Sep 02, 05:29 AM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
+- **Sep 02, 06:04 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
