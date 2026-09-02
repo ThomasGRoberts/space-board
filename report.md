@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 27 |
 | spacenews | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 1 | 12 | 26 |
+| breaking_defense | 0 | 1 | 13 | 27 |
 
 # Shown Order
 
@@ -3026,3 +3026,4 @@
 - **Sep 02, 02:28 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 02, 03:05 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
 - **Sep 02, 03:39 AM** - RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler (spacenews)
+- **Sep 02, 04:19 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
