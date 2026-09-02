@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-02T00:04:45.537709+00:00",
-    "trigger_count": 6,
-    "current_item_id": "13386d7b9704ee5a8d5b1dcbdba9a1a0",
+    "trigger_count": 0,
+    "current_item_id": "31e9aaa9b1403c199a05cee72e7a8c51",
     "data": [
         {
             "id": "c09ed16e054593c11d4016ac859ca276",
@@ -8549,6 +8549,18 @@
             "shown_at": [
                 "2026-09-02T12:14:36.115204Z",
                 "2026-09-02T13:59:10.628207Z"
+            ]
+        },
+        {
+            "id": "31e9aaa9b1403c199a05cee72e7a8c51",
+            "source": "nyt",
+            "text": "Scientists Hunting Dark Matter Found Something Strange",
+            "source_link": "https://www.nytimes.com/2026/09/01/science/dark-matter.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-02T15:19:23.332079Z",
+            "shown_at": [
+                "2026-09-02T15:19:24.098880Z"
             ]
         }
     ]
