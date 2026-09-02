@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 27 |
 | spacenews | 1 | 3 | 13 | 27 |
-| breaking_defense | 0 | 1 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -3041,3 +3041,4 @@
 - **Sep 02, 11:39 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 02, 12:14 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
 - **Sep 02, 12:49 PM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
+- **Sep 02, 01:24 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
