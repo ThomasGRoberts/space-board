@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 | spacenews | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 
@@ -3030,3 +3030,4 @@
 - **Sep 02, 04:54 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
 - **Sep 02, 05:29 AM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
 - **Sep 02, 06:04 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
+- **Sep 02, 06:39 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
