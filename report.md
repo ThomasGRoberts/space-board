@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 13 | 27 |
+| nyt | 1 | 3 | 14 | 28 |
 | spacenews | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -3053,3 +3053,4 @@
 - **Sep 02, 07:09 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 02, 07:44 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 02, 08:19 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
+- **Sep 02, 08:54 PM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
