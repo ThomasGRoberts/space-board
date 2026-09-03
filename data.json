@@ -1,9 +1,39 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-02T00:04:45.537709+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-09-03T00:04:51.105264+00:00",
+    "trigger_count": 2,
     "current_item_id": "82a2e3885bc98dd0c11828a0bff815b3",
     "data": [
+        {
+            "id": "31e9aaa9b1403c199a05cee72e7a8c51",
+            "source": "nyt",
+            "text": "Scientists Hunting Dark Matter Found Something Strange",
+            "source_link": "https://www.nytimes.com/2026/09/01/science/dark-matter.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-02T15:19:23.332079Z",
+            "shown_at": [
+                "2026-09-02T15:19:24.098880Z",
+                "2026-09-02T19:09:21.046858Z"
+            ]
+        },
+        {
+            "id": "82a2e3885bc98dd0c11828a0bff815b3",
+            "source": "spacenews",
+            "text": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
+            "source_link": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-02T12:14:35.302694Z",
+            "shown_at": [
+                "2026-09-02T12:14:36.115204Z",
+                "2026-09-02T13:59:10.628207Z",
+                "2026-09-02T18:34:55.216742Z",
+                "2026-09-02T20:19:36.118406Z",
+                "2026-09-02T22:04:51.196909Z",
+                "2026-09-02T23:54:27.234060Z"
+            ]
+        },
         {
             "id": "c09ed16e054593c11d4016ac859ca276",
             "source": "nyt",
@@ -8518,63 +8548,6 @@
                 "2026-06-11T15:19:43.464969Z",
                 "2026-06-13T04:59:17.499343Z",
                 "2026-06-13T08:34:37.603178Z"
-            ]
-        },
-        {
-            "id": "a12517b6ea00a6695cc92516b7a91c82",
-            "source": "spacenews",
-            "text": "K2 Space, Rocket Lab win key supplier roles in Space Force satcom program",
-            "source_link": "https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T14:09:09.386937Z",
-            "shown_at": [
-                "2026-06-11T14:09:10.435210Z",
-                "2026-06-18T09:44:24.919456Z"
-            ]
-        },
-        {
-            "id": "dd72eee580a0684457bcd82ade633045",
-            "source": "spacenews",
-            "text": "GEO cancellations complicate space insurance recovery",
-            "source_link": "https://spacenews.com/geo-cancellations-complicate-space-insurance-recovery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T13:34:51.566128Z",
-            "shown_at": [
-                "2026-06-11T13:34:52.567551Z",
-                "2026-06-13T21:04:59.732232Z",
-                "2026-06-17T17:14:48.489379Z"
-            ]
-        },
-        {
-            "id": "82a2e3885bc98dd0c11828a0bff815b3",
-            "source": "spacenews",
-            "text": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
-            "source_link": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-02T12:14:35.302694Z",
-            "shown_at": [
-                "2026-09-02T12:14:36.115204Z",
-                "2026-09-02T13:59:10.628207Z",
-                "2026-09-02T18:34:55.216742Z",
-                "2026-09-02T20:19:36.118406Z",
-                "2026-09-02T22:04:51.196909Z",
-                "2026-09-02T23:54:27.234060Z"
-            ]
-        },
-        {
-            "id": "31e9aaa9b1403c199a05cee72e7a8c51",
-            "source": "nyt",
-            "text": "Scientists Hunting Dark Matter Found Something Strange",
-            "source_link": "https://www.nytimes.com/2026/09/01/science/dark-matter.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-02T15:19:23.332079Z",
-            "shown_at": [
-                "2026-09-02T15:19:24.098880Z",
-                "2026-09-02T19:09:21.046858Z"
             ]
         }
     ]

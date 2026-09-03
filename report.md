@@ -8,8 +8,6 @@
 
 # Shown Order
 
-- **Jun 11, 01:34 PM** - GEO cancellations complicate space insurance recovery (spacenews)
-- **Jun 11, 02:09 PM** - K2 Space, Rocket Lab win key supplier roles in Space Force satcom program (spacenews)
 - **Jun 11, 03:19 PM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
 - **Jun 11, 05:05 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 11, 05:44 PM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
@@ -37,7 +35,6 @@
 - **Jun 13, 12:14 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
 - **Jun 13, 03:44 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 13, 05:29 PM** - Revised Artemis lunar lander plans take shape (spacenews)
-- **Jun 13, 09:04 PM** - GEO cancellations complicate space insurance recovery (spacenews)
 - **Jun 14, 02:24 AM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
 - **Jun 14, 04:14 AM** - Missile production push runs into solid rocket motor bottleneck (spacenews)
 - **Jun 14, 08:19 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
@@ -94,7 +91,6 @@
 - **Jun 17, 02:50 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 17, 03:24 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 17, 04:39 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 17, 05:14 PM** - GEO cancellations complicate space insurance recovery (spacenews)
 - **Jun 17, 06:24 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 17, 07:05 PM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 17, 07:39 PM** - Upgraded Ariane 6 launches Amazon Leo satellites (spacenews)
@@ -119,7 +115,6 @@
 - **Jun 18, 07:59 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 18, 08:34 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 18, 09:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 18, 09:44 AM** - K2 Space, Rocket Lab win key supplier roles in Space Force satcom program (spacenews)
 - **Jun 18, 10:19 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 18, 10:54 AM** - Gilat to buy Comtech satcoms business six years after failed merger (spacenews)
 - **Jun 18, 11:29 AM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
