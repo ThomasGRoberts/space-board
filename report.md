@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 13 | 27 |
+| nyt | 1 | 3 | 14 | 28 |
 | spacenews | 1 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3076,3 +3076,4 @@
 - **Sep 03, 11:44 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 03, 12:20 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
 - **Sep 03, 01:05 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
+- **Sep 03, 01:39 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
