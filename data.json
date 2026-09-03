@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-03T00:04:51.105264+00:00",
-    "trigger_count": 6,
-    "current_item_id": "82a2e3885bc98dd0c11828a0bff815b3",
+    "trigger_count": 0,
+    "current_item_id": "adfc96eb5179e108e93e97129b3627be",
     "data": [
         {
             "id": "31e9aaa9b1403c199a05cee72e7a8c51",
@@ -8569,6 +8569,18 @@
                 "2026-06-11T15:19:43.464969Z",
                 "2026-06-13T04:59:17.499343Z",
                 "2026-06-13T08:34:37.603178Z"
+            ]
+        },
+        {
+            "id": "adfc96eb5179e108e93e97129b3627be",
+            "source": "spacenews",
+            "text": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+            "source_link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-03T13:05:02.257534Z",
+            "shown_at": [
+                "2026-09-03T13:05:03.770361Z"
             ]
         }
     ]
