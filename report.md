@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 27 |
-| spacenews | 2 | 3 | 14 | 27 |
+| spacenews | 2 | 3 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -3092,3 +3092,4 @@
 - **Sep 03, 09:29 PM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 03, 10:04 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 03, 10:39 PM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
+- **Sep 03, 11:15 PM** - Speed to Field Starts Below the Prime (spacenews)
