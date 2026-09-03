@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 13 | 27 |
+| nyt | 1 | 3 | 14 | 28 |
 | spacenews | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -3057,3 +3057,4 @@
 - **Sep 03, 12:29 AM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
 - **Sep 03, 01:06 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 03, 01:44 AM** - LatConnect 60 and Phi Earth Partner to Connect Space and Soil (spacenews)
+- **Sep 03, 02:19 AM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
