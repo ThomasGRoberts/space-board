@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 26 |
 | spacenews | 2 | 3 | 15 | 28 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3093,3 +3093,4 @@
 - **Sep 03, 10:04 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 03, 10:39 PM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
 - **Sep 03, 11:15 PM** - Speed to Field Starts Below the Prime (spacenews)
+- **Sep 03, 11:49 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
