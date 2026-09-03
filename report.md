@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 14 | 28 |
-| spacenews | 1 | 1 | 13 | 26 |
+| nyt | 1 | 3 | 14 | 27 |
+| spacenews | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3074,3 +3074,4 @@
 - **Sep 03, 10:34 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Sep 03, 11:08 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 03, 11:44 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
+- **Sep 03, 12:20 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
