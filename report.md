@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 14 | 28 |
 | spacenews | 1 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3064,3 +3064,4 @@
 - **Sep 03, 04:39 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 03, 05:14 AM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 03, 05:49 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
+- **Sep 03, 06:24 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
