@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-03T00:04:51.105264+00:00",
-    "trigger_count": 6,
-    "current_item_id": "13386d7b9704ee5a8d5b1dcbdba9a1a0",
+    "trigger_count": 0,
+    "current_item_id": "2a86fe0648b76859b9a6bb919b5301c1",
     "data": [
         {
             "id": "31e9aaa9b1403c199a05cee72e7a8c51",
@@ -8594,6 +8594,18 @@
             "shown_at": [
                 "2026-09-03T13:05:03.770361Z",
                 "2026-09-03T18:34:30.435359Z"
+            ]
+        },
+        {
+            "id": "2a86fe0648b76859b9a6bb919b5301c1",
+            "source": "spacenews",
+            "text": "Schiess takes command of Space Force as the service prepares for expansion",
+            "source_link": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-03T21:29:18.886871Z",
+            "shown_at": [
+                "2026-09-03T21:29:19.863945Z"
             ]
         }
     ]
