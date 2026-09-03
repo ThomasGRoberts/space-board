@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 14 | 28 |
 | spacenews | 1 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3061,3 +3061,4 @@
 - **Sep 03, 02:54 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 03, 03:29 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Sep 03, 04:04 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
+- **Sep 03, 04:39 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
