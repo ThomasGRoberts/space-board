@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 13 | 28 |
-| spacenews | 1 | 1 | 13 | 26 |
+| nyt | 1 | 3 | 13 | 27 |
+| spacenews | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3065,3 +3065,4 @@
 - **Sep 03, 05:14 AM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 03, 05:49 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 03, 06:24 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
+- **Sep 03, 06:59 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
