@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 14 | 27 |
+| spacenews | 2 | 3 | 15 | 28 |
 | nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -3104,3 +3104,4 @@
 - **Sep 04, 09:54 AM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 04, 10:34 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 04, 11:14 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
+- **Sep 04, 11:49 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
