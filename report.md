@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 27 |
+| spacenews | 1 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 
@@ -3119,3 +3119,4 @@
 - **Sep 04, 07:34 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
 - **Sep 04, 08:09 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 04, 08:49 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
+- **Sep 04, 09:24 PM** - Speed to Field Starts Below the Prime (spacenews)
