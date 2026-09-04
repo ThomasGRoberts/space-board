@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 15 | 28 |
 | nyt | 0 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3093,3 +3093,4 @@
 - **Sep 04, 03:19 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 04, 03:55 AM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
 - **Sep 04, 04:29 AM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
+- **Sep 04, 05:04 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
