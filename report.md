@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 27 |
+| spacenews | 1 | 2 | 14 | 28 |
 | nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -3107,3 +3107,4 @@
 - **Sep 04, 11:49 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
 - **Sep 04, 12:30 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 04, 01:04 PM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
+- **Sep 04, 01:39 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
