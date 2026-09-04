@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 1 | 1 | 12 | 25 |
+| breaking_defense | 1 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -3117,3 +3117,4 @@
 - **Sep 04, 06:24 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 04, 06:59 PM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
 - **Sep 04, 07:34 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
+- **Sep 04, 08:09 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
