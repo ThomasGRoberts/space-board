@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 1 | 1 | 13 | 25 |
+| breaking_defense | 1 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -3123,3 +3123,4 @@
 - **Sep 04, 09:59 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 04, 10:34 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 04, 11:09 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
+- **Sep 04, 11:44 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
