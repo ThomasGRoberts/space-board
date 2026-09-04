@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 14 | 27 |
+| spacenews | 2 | 3 | 15 | 28 |
 | nyt | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3101,3 +3101,4 @@
 - **Sep 04, 08:05 AM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 04, 08:44 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 04, 09:19 AM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
+- **Sep 04, 09:54 AM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
