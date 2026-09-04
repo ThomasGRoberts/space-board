@@ -1,9 +1,34 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-03T00:04:51.105264+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-09-04T00:04:41.743733+00:00",
+    "trigger_count": 3,
     "current_item_id": "87bd61cd8ae15a03c92e2ec9fdbd8cbd",
     "data": [
+        {
+            "id": "2a86fe0648b76859b9a6bb919b5301c1",
+            "source": "spacenews",
+            "text": "Schiess takes command of Space Force as the service prepares for expansion",
+            "source_link": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-03T21:29:18.886871Z",
+            "shown_at": [
+                "2026-09-03T21:29:19.863945Z"
+            ]
+        },
+        {
+            "id": "adfc96eb5179e108e93e97129b3627be",
+            "source": "spacenews",
+            "text": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+            "source_link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-03T13:05:02.257534Z",
+            "shown_at": [
+                "2026-09-03T13:05:03.770361Z",
+                "2026-09-03T18:34:30.435359Z"
+            ]
+        },
         {
             "id": "31e9aaa9b1403c199a05cee72e7a8c51",
             "source": "nyt",
@@ -8554,62 +8579,6 @@
                 "2026-06-11T17:44:28.430488Z",
                 "2026-06-14T02:24:37.967833Z",
                 "2026-06-15T20:09:24.123127Z"
-            ]
-        },
-        {
-            "id": "57a8327f2176ae03b6adc03ec7ee751c",
-            "source": "spacenews",
-            "text": "HyImpulse signs letter of intent with Oman’s spaceport",
-            "source_link": "https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T17:05:17.903463Z",
-            "shown_at": [
-                "2026-06-11T17:05:20.344704Z",
-                "2026-06-14T18:29:29.169700Z",
-                "2026-06-14T22:04:58.939074Z",
-                "2026-06-16T20:24:42.595413Z",
-                "2026-06-17T15:24:49.132525Z",
-                "2026-06-17T21:59:28.340833Z"
-            ]
-        },
-        {
-            "id": "82fa43dd47f98c99301a0693d013de49",
-            "source": "spacenews",
-            "text": "Tilebox Launches Verifiable AI Workflows for Satellite Data",
-            "source_link": "https://spacenews.com/tilebox-launches-verifiable-ai-workflows-for-satellite-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T15:19:42.554248Z",
-            "shown_at": [
-                "2026-06-11T15:19:43.464969Z",
-                "2026-06-13T04:59:17.499343Z",
-                "2026-06-13T08:34:37.603178Z"
-            ]
-        },
-        {
-            "id": "adfc96eb5179e108e93e97129b3627be",
-            "source": "spacenews",
-            "text": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
-            "source_link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-03T13:05:02.257534Z",
-            "shown_at": [
-                "2026-09-03T13:05:03.770361Z",
-                "2026-09-03T18:34:30.435359Z"
-            ]
-        },
-        {
-            "id": "2a86fe0648b76859b9a6bb919b5301c1",
-            "source": "spacenews",
-            "text": "Schiess takes command of Space Force as the service prepares for expansion",
-            "source_link": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-03T21:29:18.886871Z",
-            "shown_at": [
-                "2026-09-03T21:29:19.863945Z"
             ]
         }
     ]

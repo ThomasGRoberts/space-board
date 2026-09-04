@@ -2,14 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 26 |
 | spacenews | 2 | 3 | 14 | 28 |
+| nyt | 0 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
-- **Jun 11, 03:19 PM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
-- **Jun 11, 05:05 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 11, 05:44 PM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
 - **Jun 11, 06:54 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 11, 08:04 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
@@ -27,9 +25,7 @@
 - **Jun 12, 09:59 PM** - SpaceX shares rise nearly 20% in historic IPO (spacenews)
 - **Jun 13, 12:54 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 13, 02:39 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
-- **Jun 13, 04:59 AM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
 - **Jun 13, 07:59 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
-- **Jun 13, 08:34 AM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
 - **Jun 13, 09:09 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 13, 11:04 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 13, 12:14 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
@@ -43,8 +39,6 @@
 - **Jun 14, 01:05 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 14, 02:54 PM** - H3 successfully returns to flight (spacenews)
 - **Jun 14, 03:29 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
-- **Jun 14, 06:29 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
-- **Jun 14, 10:04 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 15, 12:29 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 15, 06:54 AM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 15, 09:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
@@ -70,7 +64,6 @@
 - **Jun 16, 05:29 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 16, 06:04 PM** - Space Force orders two more GPS satellites from Lockheed Martin for $514 million (spacenews)
 - **Jun 16, 06:39 PM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
-- **Jun 16, 08:24 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 16, 08:59 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
 - **Jun 16, 10:44 PM** - Geospatial industry launches maritime initiative (spacenews)
 - **Jun 17, 12:34 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
@@ -89,14 +82,12 @@
 - **Jun 17, 12:59 PM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
 - **Jun 17, 01:39 PM** - America’s next economic frontier is 240,000 miles away (spacenews)
 - **Jun 17, 02:50 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
-- **Jun 17, 03:24 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 17, 04:39 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 17, 06:24 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 17, 07:05 PM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 17, 07:39 PM** - Upgraded Ariane 6 launches Amazon Leo satellites (spacenews)
 - **Jun 17, 08:49 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
 - **Jun 17, 09:24 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
-- **Jun 17, 09:59 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 17, 10:34 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 17, 11:09 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 17, 11:44 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
