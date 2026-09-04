@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-04T00:04:41.743733+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2a86fe0648b76859b9a6bb919b5301c1",
+    "trigger_count": 0,
+    "current_item_id": "8c29f78b419f11dcb3067986d1bc9ee8",
     "data": [
         {
             "id": "2a86fe0648b76859b9a6bb919b5301c1",
@@ -8605,6 +8605,18 @@
                 "2026-06-11T17:44:28.430488Z",
                 "2026-06-14T02:24:37.967833Z",
                 "2026-06-15T20:09:24.123127Z"
+            ]
+        },
+        {
+            "id": "8c29f78b419f11dcb3067986d1bc9ee8",
+            "source": "breaking_defense",
+            "text": "Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities",
+            "source_link": "https://breakingdefense.com/2026/09/wet-tees-on-sat-links-armys-desert-trial-reveals-commercial-tech-challenges-opportunities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-04T16:29:37.932963Z",
+            "shown_at": [
+                "2026-09-04T16:29:38.560000Z"
             ]
         }
     ]
