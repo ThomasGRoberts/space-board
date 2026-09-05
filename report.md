@@ -2,13 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 0 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 1 | 1 | 13 | 26 |
 
 # Shown Order
 
-- **Jun 11, 05:44 PM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
 - **Jun 11, 06:54 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 11, 08:04 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
 - **Jun 11, 09:49 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
@@ -31,7 +30,6 @@
 - **Jun 13, 12:14 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
 - **Jun 13, 03:44 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 13, 05:29 PM** - Revised Artemis lunar lander plans take shape (spacenews)
-- **Jun 14, 02:24 AM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
 - **Jun 14, 04:14 AM** - Missile production push runs into solid rocket motor bottleneck (spacenews)
 - **Jun 14, 08:19 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 14, 09:34 AM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
@@ -46,7 +44,6 @@
 - **Jun 15, 02:04 PM** - Sustained maneuver has a propulsion problem (spacenews)
 - **Jun 15, 02:39 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 15, 06:24 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
-- **Jun 15, 08:09 PM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
 - **Jun 15, 08:44 PM** - Space Force orders two more GPS satellites from Lockheed Martin for $514 million (spacenews)
 - **Jun 15, 09:19 PM** - Gilat to buy Comtech satcoms business six years after failed merger (spacenews)
 - **Jun 16, 04:29 AM** - All in on AI at Astra (spacenews)

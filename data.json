@@ -1,9 +1,23 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-04T00:04:41.743733+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-09-05T00:04:52.558150+00:00",
+    "trigger_count": 4,
     "current_item_id": "87bd61cd8ae15a03c92e2ec9fdbd8cbd",
     "data": [
+        {
+            "id": "8c29f78b419f11dcb3067986d1bc9ee8",
+            "source": "breaking_defense",
+            "text": "Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities",
+            "source_link": "https://breakingdefense.com/2026/09/wet-tees-on-sat-links-armys-desert-trial-reveals-commercial-tech-challenges-opportunities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-04T16:29:37.932963Z",
+            "shown_at": [
+                "2026-09-04T16:29:38.560000Z",
+                "2026-09-04T18:24:19.143480Z",
+                "2026-09-04T21:59:22.155116Z"
+            ]
+        },
         {
             "id": "2a86fe0648b76859b9a6bb919b5301c1",
             "source": "spacenews",
@@ -8601,34 +8615,6 @@
                 "2026-06-11T18:54:35.771327Z",
                 "2026-06-14T13:05:04.587050Z",
                 "2026-06-15T06:54:31.226889Z"
-            ]
-        },
-        {
-            "id": "98e82a1f7882bf6cd2f1863c39cfd137",
-            "source": "spacenews",
-            "text": "ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles",
-            "source_link": "https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T17:44:25.625460Z",
-            "shown_at": [
-                "2026-06-11T17:44:28.430488Z",
-                "2026-06-14T02:24:37.967833Z",
-                "2026-06-15T20:09:24.123127Z"
-            ]
-        },
-        {
-            "id": "8c29f78b419f11dcb3067986d1bc9ee8",
-            "source": "breaking_defense",
-            "text": "Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities",
-            "source_link": "https://breakingdefense.com/2026/09/wet-tees-on-sat-links-armys-desert-trial-reveals-commercial-tech-challenges-opportunities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-04T16:29:37.932963Z",
-            "shown_at": [
-                "2026-09-04T16:29:38.560000Z",
-                "2026-09-04T18:24:19.143480Z",
-                "2026-09-04T21:59:22.155116Z"
             ]
         }
     ]
