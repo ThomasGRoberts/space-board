@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-05T00:04:52.558150+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87bd61cd8ae15a03c92e2ec9fdbd8cbd",
+    "trigger_count": 0,
+    "current_item_id": "679ed51721e4359305e0db5c98cfd538",
     "data": [
         {
             "id": "8c29f78b419f11dcb3067986d1bc9ee8",
@@ -8630,6 +8630,18 @@
                 "2026-06-11T18:54:35.771327Z",
                 "2026-06-14T13:05:04.587050Z",
                 "2026-06-15T06:54:31.226889Z"
+            ]
+        },
+        {
+            "id": "679ed51721e4359305e0db5c98cfd538",
+            "source": "nyt",
+            "text": "Is There Alien Debris on the Moon? Some Scientists Plan to Find Out.",
+            "source_link": "https://www.nytimes.com/2026/09/05/science/space/is-there-alien-debris-on-the-moon-some-scientists-plan-to-find-out.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-05T09:14:00.963246Z",
+            "shown_at": [
+                "2026-09-05T09:14:01.841046Z"
             ]
         }
     ]

@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 0 | 2 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -3136,3 +3136,4 @@
 - **Sep 05, 07:29 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
 - **Sep 05, 08:04 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
 - **Sep 05, 08:39 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
+- **Sep 05, 09:14 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
