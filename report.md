@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 13 | 25 |
+| breaking_defense | 1 | 1 | 14 | 26 |
 | spacenews | 0 | 2 | 13 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3123,3 +3123,4 @@
 - **Sep 04, 11:44 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 05, 12:19 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 05, 12:58 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
+- **Sep 05, 01:34 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
