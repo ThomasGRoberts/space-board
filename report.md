@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 26 |
+| breaking_defense | 0 | 1 | 14 | 27 |
 | spacenews | 0 | 1 | 14 | 27 |
 | nyt | 1 | 1 | 13 | 26 |
 
@@ -3153,3 +3153,4 @@
 - **Sep 05, 05:39 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 05, 06:13 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 05, 06:49 PM** - Speed to Field Starts Below the Prime (spacenews)
+- **Sep 05, 07:24 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
