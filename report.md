@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
-| spacenews | 0 | 2 | 13 | 27 |
+| spacenews | 0 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3134,3 +3134,4 @@
 - **Sep 05, 06:19 AM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
 - **Sep 05, 06:54 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 05, 07:29 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
+- **Sep 05, 08:04 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
