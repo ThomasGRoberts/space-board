@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 0 | 2 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3121,3 +3121,4 @@
 - **Sep 04, 10:34 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 04, 11:09 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
 - **Sep 04, 11:44 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
+- **Sep 05, 12:19 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
