@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 0 | 2 | 13 | 27 |
-| nyt | 1 | 1 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -3139,3 +3139,4 @@
 - **Sep 05, 09:14 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 05, 09:49 AM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 05, 10:24 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
+- **Sep 05, 11:04 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
