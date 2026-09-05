@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 14 | 26 |
 | spacenews | 0 | 1 | 13 | 27 |
-| nyt | 1 | 1 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -3154,3 +3154,4 @@
 - **Sep 05, 06:13 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 05, 06:49 PM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 05, 07:24 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
+- **Sep 05, 07:59 PM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
