@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 0 | 2 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3124,3 +3124,4 @@
 - **Sep 05, 12:19 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 05, 12:58 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
 - **Sep 05, 01:34 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
+- **Sep 05, 02:14 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
