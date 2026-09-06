@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 1 | 13 | 26 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3164,3 +3164,4 @@
 - **Sep 06, 01:53 AM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 06, 02:29 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 06, 03:04 AM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
+- **Sep 06, 03:39 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
