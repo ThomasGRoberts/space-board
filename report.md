@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -3198,3 +3198,4 @@
 - **Sep 06, 10:09 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 06, 10:44 PM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
 - **Sep 06, 11:19 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
+- **Sep 06, 11:58 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
