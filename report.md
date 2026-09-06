@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 1 | 13 | 26 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3170,3 +3170,4 @@
 - **Sep 06, 05:24 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
 - **Sep 06, 05:59 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 06, 06:34 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
+- **Sep 06, 07:14 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
