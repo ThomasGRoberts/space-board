@@ -2,13 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 | spacenews | 0 | 0 | 13 | 26 |
-| nyt | 1 | 1 | 14 | 27 |
 
 # Shown Order
 
-- **Jun 11, 06:54 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 11, 08:04 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
 - **Jun 11, 09:49 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 11, 11:34 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
@@ -34,11 +33,9 @@
 - **Jun 14, 08:19 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 14, 09:34 AM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
 - **Jun 14, 11:54 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
-- **Jun 14, 01:05 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 14, 02:54 PM** - H3 successfully returns to flight (spacenews)
 - **Jun 14, 03:29 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 15, 12:29 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
-- **Jun 15, 06:54 AM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 15, 09:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 15, 01:29 PM** - What’s the Best Way to Monetize Space Energy? (spacenews)
 - **Jun 15, 02:04 PM** - Sustained maneuver has a propulsion problem (spacenews)
