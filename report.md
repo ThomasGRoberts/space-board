@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 1 | 14 | 27 |
 | spacenews | 0 | 0 | 13 | 26 |
 
@@ -3172,3 +3172,4 @@
 - **Sep 06, 06:34 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 06, 07:14 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
 - **Sep 06, 07:53 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
+- **Sep 06, 08:29 AM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
