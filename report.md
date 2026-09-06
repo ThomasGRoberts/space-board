@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 1 | 14 | 27 |
 | spacenews | 0 | 0 | 13 | 26 |
 
@@ -3175,3 +3175,4 @@
 - **Sep 06, 08:29 AM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
 - **Sep 06, 09:05 AM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 06, 09:43 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
+- **Sep 06, 10:24 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
