@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3188,3 +3188,4 @@
 - **Sep 06, 04:19 PM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 06, 04:54 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 06, 05:29 PM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
+- **Sep 06, 06:04 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
