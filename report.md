@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 1 | 13 | 26 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3176,3 +3176,4 @@
 - **Sep 06, 09:05 AM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 06, 09:43 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 06, 10:24 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 06, 11:04 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
