@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3197,3 +3197,4 @@
 - **Sep 06, 09:34 PM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 06, 10:09 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 06, 10:44 PM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
+- **Sep 06, 11:19 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
