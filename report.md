@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 1 | 14 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
 
@@ -3184,3 +3184,4 @@
 - **Sep 06, 01:59 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 06, 02:34 PM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 06, 03:08 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
+- **Sep 06, 03:44 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
