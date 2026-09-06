@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 1 | 13 | 26 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3167,3 +3167,4 @@
 - **Sep 06, 03:39 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Sep 06, 04:14 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 06, 04:49 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 06, 05:24 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
