@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -3201,3 +3201,4 @@
 - **Sep 06, 11:58 PM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
 - **Sep 07, 12:34 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 07, 01:11 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
+- **Sep 07, 02:35 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
