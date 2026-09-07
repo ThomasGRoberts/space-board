@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -3204,3 +3204,4 @@
 - **Sep 07, 02:35 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 07, 03:19 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
 - **Sep 07, 03:53 AM** - Speed to Field Starts Below the Prime (spacenews)
+- **Sep 07, 04:29 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
