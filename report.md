@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
-| spacenews | 0 | 0 | 12 | 25 |
+| spacenews | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3227,3 +3227,4 @@
 - **Sep 07, 05:54 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
 - **Sep 07, 06:29 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 07, 07:04 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 07, 07:39 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
