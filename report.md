@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 0 | 0 | 12 | 26 |
+| spacenews | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3203,3 +3203,4 @@
 - **Sep 07, 01:11 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Sep 07, 02:35 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 07, 03:19 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
+- **Sep 07, 03:53 AM** - Speed to Field Starts Below the Prime (spacenews)
