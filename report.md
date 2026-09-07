@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 12 | 26 |
+| nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 13 | 26 |
 
@@ -3205,3 +3205,4 @@
 - **Sep 07, 03:19 AM** - How the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be (nyt)
 - **Sep 07, 03:53 AM** - Speed to Field Starts Below the Prime (spacenews)
 - **Sep 07, 04:29 AM** - Space Force struggling to integrate commercial space data: Officials (breaking_defense)
+- **Sep 07, 05:04 AM** - NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration (nyt)
