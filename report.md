@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| spacenews | 0 | 0 | 13 | 25 |
+| spacenews | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -3260,3 +3260,4 @@
 - **Sep 08, 01:29 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
 - **Sep 08, 02:05 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 08, 02:39 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
+- **Sep 08, 03:24 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
