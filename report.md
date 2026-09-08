@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 0 | 0 | 13 | 25 |
 
@@ -3265,3 +3265,4 @@
 - **Sep 08, 04:39 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 08, 05:19 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 08, 05:59 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
+- **Sep 08, 06:34 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
