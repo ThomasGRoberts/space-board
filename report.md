@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 25 |
-| breaking_defense | 1 | 1 | 13 | 26 |
+| breaking_defense | 2 | 2 | 14 | 26 |
 | spacenews | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -3268,3 +3268,4 @@
 - **Sep 08, 06:34 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 08, 07:09 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 08, 07:49 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
+- **Sep 08, 08:24 PM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
