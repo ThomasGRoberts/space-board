@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
-| spacenews | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 12 | 25 |
+| spacenews | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3239,3 +3239,4 @@
 - **Sep 08, 12:54 AM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 08, 01:29 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 08, 02:04 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
+- **Sep 08, 02:39 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
