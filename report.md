@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 25 |
 | breaking_defense | 2 | 2 | 14 | 26 |
-| spacenews | 0 | 0 | 12 | 24 |
+| spacenews | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3270,3 +3270,4 @@
 - **Sep 08, 07:49 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
 - **Sep 08, 08:24 PM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 08, 08:59 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
+- **Sep 08, 09:39 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
