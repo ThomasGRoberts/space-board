@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-08T00:04:49.054796+00:00",
-    "trigger_count": 6,
-    "current_item_id": "31e9aaa9b1403c199a05cee72e7a8c51",
+    "trigger_count": 0,
+    "current_item_id": "a99a78ae1aa787487eea252eb9a2f244",
     "data": [
         {
             "id": "679ed51721e4359305e0db5c98cfd538",
@@ -8757,6 +8757,18 @@
                 "2026-06-11T20:04:48.645018Z",
                 "2026-06-15T18:24:42.675852Z",
                 "2026-06-18T01:29:17.060822Z"
+            ]
+        },
+        {
+            "id": "a99a78ae1aa787487eea252eb9a2f244",
+            "source": "breaking_defense",
+            "text": "White House has lofty space launch ambitions, but experts question price tag",
+            "source_link": "https://breakingdefense.com/2026/09/white-house-has-lofty-space-launch-ambitions-but-experts-question-price-tag/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-08T17:19:08.245695Z",
+            "shown_at": [
+                "2026-09-08T17:19:09.110637Z"
             ]
         }
     ]
