@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 25 |
 | breaking_defense | 1 | 1 | 14 | 26 |
-| spacenews | 0 | 0 | 13 | 25 |
+| spacenews | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3264,3 +3264,4 @@
 - **Sep 08, 03:59 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 08, 04:39 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 08, 05:19 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
+- **Sep 08, 05:59 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
