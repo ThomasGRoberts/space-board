@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| spacenews | 0 | 0 | 13 | 25 |
+| spacenews | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -3257,3 +3257,4 @@
 - **Sep 08, 11:39 AM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 08, 12:14 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 08, 12:54 PM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
+- **Sep 08, 01:29 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
