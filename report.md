@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
-| spacenews | 0 | 0 | 12 | 24 |
+| spacenews | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3296,3 +3296,4 @@
 - **Sep 09, 07:39 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
 - **Sep 09, 08:14 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 09, 08:49 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 09, 09:33 PM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
