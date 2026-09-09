@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
-| spacenews | 0 | 0 | 12 | 25 |
+| spacenews | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3290,3 +3290,4 @@
 - **Sep 09, 02:54 PM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 09, 03:43 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 09, 04:25 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 09, 05:14 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
