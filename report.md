@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 14 | 26 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 | spacenews | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -3265,3 +3265,4 @@
 - **Sep 08, 10:49 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 08, 11:29 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
 - **Sep 09, 12:05 AM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
+- **Sep 09, 12:39 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
