@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 | spacenews | 0 | 0 | 12 | 25 |
 
@@ -3300,3 +3300,4 @@
 - **Sep 09, 10:09 PM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 09, 10:44 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 09, 11:24 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
+- **Sep 09, 11:59 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
