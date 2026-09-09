@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 13 | 26 |
+| breaking_defense | 2 | 2 | 14 | 27 |
 | nyt | 0 | 0 | 12 | 26 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -3285,3 +3285,4 @@
 - **Sep 09, 11:19 AM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 09, 11:59 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 09, 12:39 PM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
+- **Sep 09, 01:30 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
