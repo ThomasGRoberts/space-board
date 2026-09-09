@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
-| spacenews | 0 | 0 | 12 | 25 |
+| spacenews | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3275,3 +3275,4 @@
 - **Sep 09, 04:43 AM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 09, 05:18 AM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 09, 05:54 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 09, 06:39 AM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
