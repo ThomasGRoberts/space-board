@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
-| spacenews | 0 | 0 | 12 | 26 |
+| spacenews | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3281,3 +3281,4 @@
 - **Sep 09, 08:39 AM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 09, 09:24 AM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 09, 09:59 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 09, 10:44 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
