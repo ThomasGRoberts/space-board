@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 12 | 26 |
+| breaking_defense | 1 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 12 | 25 |
 | spacenews | 0 | 0 | 12 | 25 |
 
@@ -3291,3 +3291,4 @@
 - **Sep 09, 03:43 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 09, 04:25 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 09, 05:14 PM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
+- **Sep 09, 06:24 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
