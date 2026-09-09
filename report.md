@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
-| spacenews | 0 | 0 | 12 | 25 |
+| spacenews | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3284,3 +3284,4 @@
 - **Sep 09, 10:44 AM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
 - **Sep 09, 11:19 AM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 09, 11:59 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
+- **Sep 09, 12:39 PM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
