@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 13 | 26 |
+| breaking_defense | 2 | 2 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 25 |
 | spacenews | 0 | 0 | 13 | 26 |
 
@@ -3270,3 +3270,4 @@
 - **Sep 09, 01:49 AM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 09, 02:24 AM** - Scientists Hunting Dark Matter Found Something Strange (nyt)
 - **Sep 09, 02:59 AM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
+- **Sep 09, 03:34 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
