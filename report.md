@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 12 | 26 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 | spacenews | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3298,3 +3298,4 @@
 - **Sep 09, 08:49 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 09, 09:33 PM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 09, 10:09 PM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
+- **Sep 09, 10:44 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
