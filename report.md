@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 14 | 27 |
+| breaking_defense | 2 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
-| spacenews | 0 | 0 | 12 | 26 |
+| spacenews | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3278,3 +3278,4 @@
 - **Sep 09, 06:39 AM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
 - **Sep 09, 07:24 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 09, 07:59 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 09, 08:39 AM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
