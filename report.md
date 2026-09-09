@@ -2,15 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| breaking_defense | 2 | 2 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
-| breaking_defense | 2 | 2 | 13 | 25 |
 | spacenews | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
-- **Jun 11, 08:04 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
-- **Jun 11, 09:49 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
-- **Jun 11, 11:34 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 12, 12:09 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 12, 03:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 12, 10:09 AM** - In aerospace, AI isn’t replacing workers. It’s filling a shortage (spacenews)
@@ -34,17 +31,14 @@
 - **Jun 14, 09:34 AM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
 - **Jun 14, 11:54 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 14, 02:54 PM** - H3 successfully returns to flight (spacenews)
-- **Jun 14, 03:29 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 15, 12:29 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 15, 09:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 15, 01:29 PM** - What’s the Best Way to Monetize Space Energy? (spacenews)
 - **Jun 15, 02:04 PM** - Sustained maneuver has a propulsion problem (spacenews)
 - **Jun 15, 02:39 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
-- **Jun 15, 06:24 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
 - **Jun 15, 08:44 PM** - Space Force orders two more GPS satellites from Lockheed Martin for $514 million (spacenews)
 - **Jun 15, 09:19 PM** - Gilat to buy Comtech satcoms business six years after failed merger (spacenews)
 - **Jun 16, 04:29 AM** - All in on AI at Astra (spacenews)
-- **Jun 16, 05:39 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 16, 07:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 16, 07:59 AM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 16, 09:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
@@ -86,18 +80,14 @@
 - **Jun 17, 11:09 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 17, 11:44 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 18, 12:19 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
-- **Jun 18, 12:54 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
-- **Jun 18, 01:29 AM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
 - **Jun 18, 02:05 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 18, 02:39 AM** - All in on AI at Astra (spacenews)
 - **Jun 18, 03:14 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 18, 03:49 AM** - A UN agency that works for US space (spacenews)
-- **Jun 18, 04:24 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 18, 04:59 AM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 18, 05:34 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 18, 06:14 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 18, 06:49 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
-- **Jun 18, 07:59 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 18, 08:34 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 18, 09:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 18, 10:19 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
@@ -3274,3 +3264,4 @@
 - **Sep 08, 10:14 PM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 08, 10:49 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 08, 11:29 PM** - Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting (spacenews)
+- **Sep 09, 12:05 AM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
