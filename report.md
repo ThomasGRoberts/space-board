@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 13 | 26 |
+| breaking_defense | 2 | 2 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 25 |
 | spacenews | 0 | 0 | 13 | 25 |
 
@@ -3267,3 +3267,4 @@
 - **Sep 09, 12:05 AM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 09, 12:39 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 09, 01:14 AM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
+- **Sep 09, 01:49 AM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
