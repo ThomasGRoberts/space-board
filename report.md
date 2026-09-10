@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 12 | 25 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 | spacenews | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -3325,3 +3325,4 @@
 - **Sep 10, 01:49 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 10, 03:25 PM** - Schiess takes command of Space Force as the service prepares for expansion (spacenews)
 - **Sep 10, 03:59 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
+- **Sep 10, 04:49 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
