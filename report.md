@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 | spacenews | 0 | 0 | 12 | 25 |
 
@@ -3303,3 +3303,4 @@
 - **Sep 09, 11:59 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 10, 12:38 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 10, 01:13 AM** - Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager (spacenews)
+- **Sep 10, 01:49 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
