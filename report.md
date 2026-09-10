@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 | spacenews | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -3336,3 +3336,4 @@
 - **Sep 10, 09:34 PM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 10, 10:09 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 10, 10:44 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
+- **Sep 10, 11:19 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
