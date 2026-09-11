@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 14 | 26 |
+| breaking_defense | 0 | 0 | 15 | 27 |
 | nyt | 0 | 0 | 14 | 26 |
-| spacenews | 1 | 1 | 9 | 21 |
+| spacenews | 1 | 1 | 8 | 21 |
 
 # Shown Order
 
@@ -3357,3 +3357,4 @@
 - **Sep 11, 10:39 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 11, 11:14 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 11, 11:49 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
+- **Sep 11, 12:24 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
