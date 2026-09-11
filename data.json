@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-11T00:04:35.226394+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f37093e69fcbe9440888a29237887f41",
+    "trigger_count": 0,
+    "current_item_id": "a4d6a74c9d48905996400b40dada32cd",
     "data": [
         {
             "id": "0a262a38681572437660801981837d20",
@@ -8866,6 +8866,27 @@
                 "2026-09-11T11:49:03.263095Z",
                 "2026-09-11T13:50:20.728128Z"
             ]
+        },
+        {
+            "id": "a4d6a74c9d48905996400b40dada32cd",
+            "source": "breaking_defense",
+            "text": "Space Force picks Texas as US home for trinational DARC space radar network",
+            "source_link": "https://breakingdefense.com/2026/09/space-force-picks-texas-as-us-home-for-trinational-darc-space-radar-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-11T14:31:09.086983Z",
+            "shown_at": [
+                "2026-09-11T14:31:09.802342Z"
+            ]
+        },
+        {
+            "id": "2828677b813f85170c24996601074406",
+            "source": "breaking_defense",
+            "text": "Why propulsion could be the critical piece in Golden Dome’s architecture",
+            "source_link": "https://breakingdefense.com/2026/09/why-propulsion-could-be-the-critical-piece-in-golden-domes-architecture/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-09-11T14:31:09.087041Z"
         }
     ]
 }
