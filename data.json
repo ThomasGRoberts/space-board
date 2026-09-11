@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-11T00:04:35.226394+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2828677b813f85170c24996601074406",
+    "trigger_count": 0,
+    "current_item_id": "37dbe783f2b27178ead0a23534b5df03",
     "data": [
         {
             "id": "0a262a38681572437660801981837d20",
@@ -8889,6 +8889,18 @@
             "fetched_datetime": "2026-09-11T14:31:09.087041Z",
             "shown_at": [
                 "2026-09-11T15:09:43.182280Z"
+            ]
+        },
+        {
+            "id": "37dbe783f2b27178ead0a23534b5df03",
+            "source": "nyt",
+            "text": "Mercury Is Shrinking, and Faster Than We Thought",
+            "source_link": "https://www.nytimes.com/2026/09/11/science/space/mercury-shrinking-wrinkles.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-11T15:54:35.169494Z",
+            "shown_at": [
+                "2026-09-11T15:54:36.006260Z"
             ]
         }
     ]

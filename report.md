@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 16 | 27 |
-| nyt | 0 | 0 | 14 | 26 |
+| nyt | 1 | 1 | 15 | 27 |
 | spacenews | 1 | 1 | 8 | 20 |
 
 # Shown Order
@@ -3362,3 +3362,4 @@
 - **Sep 11, 01:50 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 11, 02:31 PM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
 - **Sep 11, 03:09 PM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
+- **Sep 11, 03:54 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
