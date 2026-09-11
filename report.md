@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | spacenews | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -3338,3 +3338,4 @@
 - **Sep 10, 10:44 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 10, 11:19 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 10, 11:54 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
+- **Sep 11, 12:29 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
