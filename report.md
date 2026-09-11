@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 15 | 27 |
+| breaking_defense | 2 | 2 | 16 | 28 |
 | nyt | 1 | 1 | 14 | 27 |
 | spacenews | 1 | 1 | 9 | 21 |
 
@@ -3373,3 +3373,4 @@
 - **Sep 11, 08:34 PM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
 - **Sep 11, 09:09 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 11, 09:44 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
+- **Sep 11, 10:19 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
