@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 14 | 27 |
-| spacenews | 1 | 1 | 8 | 20 |
+| spacenews | 1 | 1 | 9 | 21 |
 
 # Shown Order
 
@@ -3350,3 +3350,4 @@
 - **Sep 11, 05:44 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 11, 06:20 AM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 11, 07:14 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 11, 07:54 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
