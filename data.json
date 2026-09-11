@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-11T00:04:35.226394+00:00",
-    "trigger_count": 6,
-    "current_item_id": "679ed51721e4359305e0db5c98cfd538",
+    "trigger_count": 0,
+    "current_item_id": "f37093e69fcbe9440888a29237887f41",
     "data": [
         {
             "id": "0a262a38681572437660801981837d20",
@@ -8841,6 +8841,18 @@
                 "2026-06-17T00:34:38.967506Z",
                 "2026-06-17T05:24:19.262632Z",
                 "2026-06-17T23:09:21.445487Z"
+            ]
+        },
+        {
+            "id": "f37093e69fcbe9440888a29237887f41",
+            "source": "spacenews",
+            "text": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+            "source_link": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-11T05:44:43.639655Z",
+            "shown_at": [
+                "2026-09-11T05:44:44.423776Z"
             ]
         }
     ]

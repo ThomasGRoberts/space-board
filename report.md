@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 15 | 27 |
-| spacenews | 0 | 0 | 8 | 20 |
+| spacenews | 1 | 1 | 9 | 21 |
 
 # Shown Order
 
@@ -3347,3 +3347,4 @@
 - **Sep 11, 03:59 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 11, 04:34 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 11, 05:08 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 11, 05:44 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
