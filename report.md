@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 15 | 28 |
 | nyt | 1 | 1 | 15 | 27 |
-| spacenews | 1 | 1 | 8 | 20 |
+| spacenews | 1 | 1 | 9 | 21 |
 
 # Shown Order
 
@@ -3366,3 +3366,4 @@
 - **Sep 11, 04:29 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 11, 05:04 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 11, 05:39 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 11, 06:14 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
