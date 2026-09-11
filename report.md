@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 15 | 27 |
+| breaking_defense | 2 | 2 | 16 | 28 |
 | nyt | 1 | 1 | 14 | 27 |
 | spacenews | 1 | 1 | 9 | 21 |
 
@@ -3367,3 +3367,4 @@
 - **Sep 11, 05:04 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 11, 05:39 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 11, 06:14 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
+- **Sep 11, 06:49 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
