@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 14 | 26 |
+| breaking_defense | 0 | 0 | 15 | 27 |
 | nyt | 0 | 0 | 14 | 26 |
 | spacenews | 0 | 0 | 9 | 21 |
 
@@ -3343,3 +3343,4 @@
 - **Sep 11, 01:38 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 11, 02:14 AM** - Wet tees on Starlink: Army’s desert trial reveals commercial tech challenges, opportunities (breaking_defense)
 - **Sep 11, 02:49 AM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
+- **Sep 11, 03:24 AM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
