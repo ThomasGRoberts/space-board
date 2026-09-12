@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 28 |
 | breaking_defense | 0 | 2 | 13 | 29 |
-| spacenews | 0 | 1 | 13 | 22 |
+| spacenews | 0 | 1 | 14 | 23 |
 
 # Shown Order
 
@@ -3398,3 +3398,4 @@
 - **Sep 12, 08:54 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 12, 09:29 PM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 12, 10:09 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
+- **Sep 12, 10:44 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
