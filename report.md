@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 13 | 27 |
+| nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 2 | 2 | 15 | 28 |
 | spacenews | 1 | 1 | 10 | 21 |
 
@@ -3361,3 +3361,4 @@
 - **Sep 11, 10:54 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 11, 11:29 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 12, 12:04 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
+- **Sep 12, 12:39 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
