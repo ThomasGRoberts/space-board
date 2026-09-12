@@ -2,18 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 14 | 27 |
 | nyt | 1 | 1 | 14 | 27 |
+| breaking_defense | 2 | 2 | 15 | 28 |
 | spacenews | 1 | 1 | 10 | 21 |
 
 # Shown Order
 
-- **Jun 12, 12:09 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
-- **Jun 12, 03:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
-- **Jun 12, 10:09 AM** - In aerospace, AI isn’t replacing workers. It’s filling a shortage (spacenews)
-- **Jun 12, 12:34 PM** - H3 successfully returns to flight (spacenews)
-- **Jun 12, 01:08 PM** - All in on AI at Astra (spacenews)
-- **Jun 12, 06:29 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 12, 08:14 PM** - Astronomers fear orbital data centers will interfere with observations (spacenews)
 - **Jun 12, 08:50 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
 - **Jun 12, 09:24 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
@@ -24,13 +18,11 @@
 - **Jun 13, 09:09 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 13, 11:04 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 13, 12:14 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
-- **Jun 13, 03:44 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 13, 05:29 PM** - Revised Artemis lunar lander plans take shape (spacenews)
 - **Jun 14, 04:14 AM** - Missile production push runs into solid rocket motor bottleneck (spacenews)
 - **Jun 14, 08:19 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 14, 09:34 AM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
 - **Jun 14, 11:54 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
-- **Jun 14, 02:54 PM** - H3 successfully returns to flight (spacenews)
 - **Jun 15, 12:29 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 15, 09:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 15, 01:29 PM** - What’s the Best Way to Monetize Space Energy? (spacenews)
@@ -38,10 +30,8 @@
 - **Jun 15, 02:39 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 15, 08:44 PM** - Space Force orders two more GPS satellites from Lockheed Martin for $514 million (spacenews)
 - **Jun 15, 09:19 PM** - Gilat to buy Comtech satcoms business six years after failed merger (spacenews)
-- **Jun 16, 04:29 AM** - All in on AI at Astra (spacenews)
 - **Jun 16, 07:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 16, 07:59 AM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
-- **Jun 16, 09:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 16, 10:54 AM** - Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  (spacenews)
 - **Jun 16, 11:29 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 16, 12:05 PM** - Geospatial industry launches maritime initiative (spacenews)
@@ -54,16 +44,12 @@
 - **Jun 16, 06:39 PM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
 - **Jun 16, 08:59 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
 - **Jun 16, 10:44 PM** - Geospatial industry launches maritime initiative (spacenews)
-- **Jun 17, 12:34 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 17, 01:49 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 17, 03:39 AM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
 - **Jun 17, 04:14 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
-- **Jun 17, 05:24 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 17, 05:59 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 17, 07:09 AM** - Geospatial industry launches maritime initiative (spacenews)
-- **Jun 17, 08:54 AM** - H3 successfully returns to flight (spacenews)
 - **Jun 17, 09:29 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
-- **Jun 17, 10:39 AM** - H3 successfully returns to flight (spacenews)
 - **Jun 17, 11:14 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 17, 11:49 AM** - Dawn Aerospace raises $25 million (spacenews)
 - **Jun 17, 12:24 PM** - Look Up and Skynopy partner on automated satellite collision avoidance service (spacenews)
@@ -77,11 +63,9 @@
 - **Jun 17, 08:49 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
 - **Jun 17, 09:24 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 17, 10:34 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
-- **Jun 17, 11:09 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 17, 11:44 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 18, 12:19 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 18, 02:05 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
-- **Jun 18, 02:39 AM** - All in on AI at Astra (spacenews)
 - **Jun 18, 03:14 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 18, 03:49 AM** - A UN agency that works for US space (spacenews)
 - **Jun 18, 04:59 AM** - The SpaceNews space unicorn tracker (spacenews)
@@ -3376,3 +3360,4 @@
 - **Sep 11, 10:19 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 11, 10:54 PM** - Is There Alien Debris on the Moon? Some Scientists Plan to Find Out. (nyt)
 - **Sep 11, 11:29 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
+- **Sep 12, 12:04 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)

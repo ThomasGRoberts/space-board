@@ -1,9 +1,70 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-11T00:04:35.226394+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f37093e69fcbe9440888a29237887f41",
+    "last_run_datetime": "2026-09-12T00:04:38.723067+00:00",
+    "trigger_count": 0,
+    "current_item_id": "2828677b813f85170c24996601074406",
     "data": [
+        {
+            "id": "37dbe783f2b27178ead0a23534b5df03",
+            "source": "nyt",
+            "text": "Mercury Is Shrinking, and Faster Than We Thought",
+            "source_link": "https://www.nytimes.com/2026/09/11/science/space/mercury-shrinking-wrinkles.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-11T15:54:35.169494Z",
+            "shown_at": [
+                "2026-09-11T15:54:36.006260Z",
+                "2026-09-11T19:24:25.004373Z",
+                "2026-09-11T21:09:17.182040Z"
+            ]
+        },
+        {
+            "id": "2828677b813f85170c24996601074406",
+            "source": "breaking_defense",
+            "text": "Why propulsion could be the critical piece in Golden Dome’s architecture",
+            "source_link": "https://breakingdefense.com/2026/09/why-propulsion-could-be-the-critical-piece-in-golden-domes-architecture/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-11T14:31:09.087041Z",
+            "shown_at": [
+                "2026-09-11T15:09:43.182280Z",
+                "2026-09-11T20:34:38.391630Z",
+                "2026-09-12T00:04:44.522956Z"
+            ]
+        },
+        {
+            "id": "a4d6a74c9d48905996400b40dada32cd",
+            "source": "breaking_defense",
+            "text": "Space Force picks Texas as US home for trinational DARC space radar network",
+            "source_link": "https://breakingdefense.com/2026/09/space-force-picks-texas-as-us-home-for-trinational-darc-space-radar-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-11T14:31:09.086983Z",
+            "shown_at": [
+                "2026-09-11T14:31:09.802342Z"
+            ]
+        },
+        {
+            "id": "f37093e69fcbe9440888a29237887f41",
+            "source": "spacenews",
+            "text": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+            "source_link": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-11T05:44:43.639655Z",
+            "shown_at": [
+                "2026-09-11T05:44:44.423776Z",
+                "2026-09-11T07:54:36.633119Z",
+                "2026-09-11T09:59:27.831977Z",
+                "2026-09-11T11:49:03.263095Z",
+                "2026-09-11T13:50:20.728128Z",
+                "2026-09-11T16:29:17.559848Z",
+                "2026-09-11T18:14:28.446980Z",
+                "2026-09-11T19:59:12.980054Z",
+                "2026-09-11T21:44:32.937277Z",
+                "2026-09-11T23:29:16.010252Z"
+            ]
+        },
         {
             "id": "0a262a38681572437660801981837d20",
             "source": "breaking_defense",
@@ -8794,126 +8855,6 @@
             "fetched_datetime": "2026-06-12T20:14:35.435209Z",
             "shown_at": [
                 "2026-06-12T20:14:37.978285Z"
-            ]
-        },
-        {
-            "id": "05e200e471efa213cf1ee4c4e40fd252",
-            "source": "spacenews",
-            "text": "All in on AI at Astra",
-            "source_link": "https://spacenews.com/all-in-on-ai-at-astra/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T13:08:49.364137Z",
-            "shown_at": [
-                "2026-06-12T13:08:52.373834Z",
-                "2026-06-16T04:29:29.483491Z",
-                "2026-06-18T02:39:11.725202Z"
-            ]
-        },
-        {
-            "id": "62550232a5a860f1507bcaa0ff247ed9",
-            "source": "spacenews",
-            "text": "H3 successfully returns to flight",
-            "source_link": "https://spacenews.com/h3-successfully-returns-to-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T12:34:35.573381Z",
-            "shown_at": [
-                "2026-06-12T12:34:36.617060Z",
-                "2026-06-14T14:54:17.390950Z",
-                "2026-06-17T08:54:31.121481Z",
-                "2026-06-17T10:39:23.801446Z"
-            ]
-        },
-        {
-            "id": "0768829973127e74667c1bf29171a92b",
-            "source": "spacenews",
-            "text": "In aerospace, AI isn’t replacing workers. It’s filling a shortage",
-            "source_link": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T10:09:08.572282Z",
-            "shown_at": [
-                "2026-06-12T10:09:11.734282Z"
-            ]
-        },
-        {
-            "id": "85fa85d7ed2cc1507b4c8c33836bc818",
-            "source": "spacenews",
-            "text": "AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation",
-            "source_link": "https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T00:09:22.350522Z",
-            "shown_at": [
-                "2026-06-12T00:09:24.268712Z",
-                "2026-06-12T03:44:19.220691Z",
-                "2026-06-12T18:29:15.538304Z",
-                "2026-06-13T15:44:33.440851Z",
-                "2026-06-16T09:44:27.702753Z",
-                "2026-06-17T00:34:38.967506Z",
-                "2026-06-17T05:24:19.262632Z",
-                "2026-06-17T23:09:21.445487Z"
-            ]
-        },
-        {
-            "id": "f37093e69fcbe9440888a29237887f41",
-            "source": "spacenews",
-            "text": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
-            "source_link": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-11T05:44:43.639655Z",
-            "shown_at": [
-                "2026-09-11T05:44:44.423776Z",
-                "2026-09-11T07:54:36.633119Z",
-                "2026-09-11T09:59:27.831977Z",
-                "2026-09-11T11:49:03.263095Z",
-                "2026-09-11T13:50:20.728128Z",
-                "2026-09-11T16:29:17.559848Z",
-                "2026-09-11T18:14:28.446980Z",
-                "2026-09-11T19:59:12.980054Z",
-                "2026-09-11T21:44:32.937277Z",
-                "2026-09-11T23:29:16.010252Z"
-            ]
-        },
-        {
-            "id": "a4d6a74c9d48905996400b40dada32cd",
-            "source": "breaking_defense",
-            "text": "Space Force picks Texas as US home for trinational DARC space radar network",
-            "source_link": "https://breakingdefense.com/2026/09/space-force-picks-texas-as-us-home-for-trinational-darc-space-radar-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-11T14:31:09.086983Z",
-            "shown_at": [
-                "2026-09-11T14:31:09.802342Z"
-            ]
-        },
-        {
-            "id": "2828677b813f85170c24996601074406",
-            "source": "breaking_defense",
-            "text": "Why propulsion could be the critical piece in Golden Dome’s architecture",
-            "source_link": "https://breakingdefense.com/2026/09/why-propulsion-could-be-the-critical-piece-in-golden-domes-architecture/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-11T14:31:09.087041Z",
-            "shown_at": [
-                "2026-09-11T15:09:43.182280Z",
-                "2026-09-11T20:34:38.391630Z"
-            ]
-        },
-        {
-            "id": "37dbe783f2b27178ead0a23534b5df03",
-            "source": "nyt",
-            "text": "Mercury Is Shrinking, and Faster Than We Thought",
-            "source_link": "https://www.nytimes.com/2026/09/11/science/space/mercury-shrinking-wrinkles.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-11T15:54:35.169494Z",
-            "shown_at": [
-                "2026-09-11T15:54:36.006260Z",
-                "2026-09-11T19:24:25.004373Z",
-                "2026-09-11T21:09:17.182040Z"
             ]
         }
     ]
