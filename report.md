@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 12 | 27 |
+| nyt | 1 | 1 | 13 | 27 |
 | breaking_defense | 2 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 21 |
 
@@ -3376,3 +3376,4 @@
 - **Sep 12, 07:44 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 12, 08:19 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 12, 08:59 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
+- **Sep 12, 09:34 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
