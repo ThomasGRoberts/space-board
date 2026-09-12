@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 27 |
-| breaking_defense | 2 | 2 | 13 | 28 |
+| breaking_defense | 2 | 2 | 14 | 28 |
 | spacenews | 1 | 1 | 12 | 21 |
 
 # Shown Order
@@ -3366,3 +3366,4 @@
 - **Sep 12, 01:48 AM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 12, 02:24 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 12, 02:59 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
+- **Sep 12, 03:35 AM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
