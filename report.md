@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 0 | 0 | 12 | 26 |
+| spacenews | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3452,3 +3452,4 @@
 - **Sep 14, 06:24 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 14, 06:59 AM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
 - **Sep 14, 07:34 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
+- **Sep 14, 08:14 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
