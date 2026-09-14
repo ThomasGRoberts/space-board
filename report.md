@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 0 | 0 | 12 | 26 |
+| spacenews | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3440,3 +3440,4 @@
 - **Sep 13, 11:04 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 13, 11:39 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 14, 12:14 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
+- **Sep 14, 12:48 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
