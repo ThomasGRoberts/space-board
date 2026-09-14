@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 25 |
-| breaking_defense | 2 | 2 | 13 | 26 |
+| breaking_defense | 3 | 3 | 14 | 27 |
 | spacenews | 2 | 2 | 13 | 26 |
 
 # Shown Order
@@ -3475,3 +3475,4 @@
 - **Sep 14, 08:29 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 14, 09:04 PM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 14, 09:44 PM** - Space’s growing billion-dollar club (spacenews)
+- **Sep 14, 10:19 PM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)

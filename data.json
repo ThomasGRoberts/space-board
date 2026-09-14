@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-14T00:04:31.955953+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87152f2932d942f1c20f59b8c90af153",
+    "trigger_count": 0,
+    "current_item_id": "5fdba8ad569ab056a3a68374ff4d33e3",
     "data": [
         {
             "id": "37dbe783f2b27178ead0a23534b5df03",
@@ -9024,6 +9024,18 @@
             "fetched_datetime": "2026-09-14T21:04:54.949924Z",
             "shown_at": [
                 "2026-09-14T21:04:55.678691Z"
+            ]
+        },
+        {
+            "id": "5fdba8ad569ab056a3a68374ff4d33e3",
+            "source": "breaking_defense",
+            "text": "Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
+            "source_link": "https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-14T22:19:29.683078Z",
+            "shown_at": [
+                "2026-09-14T22:19:30.611159Z"
             ]
         }
     ]
