@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 13 | 25 |
+| nyt | 1 | 1 | 14 | 26 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 2 | 2 | 13 | 26 |
 
@@ -3472,3 +3472,4 @@
 - **Sep 14, 06:44 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 14, 07:19 PM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 14, 07:54 PM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
+- **Sep 14, 08:29 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
