@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 26 |
-| breaking_defense | 1 | 1 | 13 | 26 |
+| breaking_defense | 2 | 2 | 14 | 27 |
 | spacenews | 2 | 2 | 13 | 25 |
 
 # Shown Order
@@ -3473,3 +3473,4 @@
 - **Sep 14, 07:19 PM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 14, 07:54 PM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
 - **Sep 14, 08:29 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
+- **Sep 14, 09:04 PM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
