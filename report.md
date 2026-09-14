@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3444,3 +3444,4 @@
 - **Sep 14, 01:25 AM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
 - **Sep 14, 02:04 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 14, 02:39 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
+- **Sep 14, 03:14 AM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
