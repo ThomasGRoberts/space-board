@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-14T00:04:31.955953+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87152f2932d942f1c20f59b8c90af153",
+    "trigger_count": 0,
+    "current_item_id": "b2da7a1e35e6282040aa4671d6b7bab0",
     "data": [
         {
             "id": "37dbe783f2b27178ead0a23534b5df03",
@@ -8981,6 +8981,18 @@
             "fetched_datetime": "2026-09-14T15:49:52.977384Z",
             "shown_at": [
                 "2026-09-14T15:49:53.957328Z"
+            ]
+        },
+        {
+            "id": "b2da7a1e35e6282040aa4671d6b7bab0",
+            "source": "breaking_defense",
+            "text": "Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals",
+            "source_link": "https://breakingdefense.com/2026/09/space-force-has-space-control-weapons-on-orbit-air-force-secretary-says/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-14T16:24:13.215633Z",
+            "shown_at": [
+                "2026-09-14T16:24:14.337100Z"
             ]
         }
     ]
