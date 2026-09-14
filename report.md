@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 0 | 0 | 13 | 25 |
+| spacenews | 1 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -3464,3 +3464,4 @@
 - **Sep 14, 01:49 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 14, 02:36 PM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 14, 03:15 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
+- **Sep 14, 03:49 PM** - Space’s growing billion-dollar club (spacenews)
