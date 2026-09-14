@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 26 |
 | breaking_defense | 3 | 3 | 14 | 26 |
-| spacenews | 2 | 2 | 12 | 25 |
+| spacenews | 2 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -3477,3 +3477,4 @@
 - **Sep 14, 09:44 PM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 14, 10:19 PM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 14, 10:54 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
+- **Sep 14, 11:29 PM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
