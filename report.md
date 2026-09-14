@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 13 | 25 |
+| nyt | 1 | 1 | 14 | 26 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 2 | 2 | 13 | 26 |
 
@@ -3469,3 +3469,4 @@
 - **Sep 14, 04:59 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 14, 05:34 PM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
 - **Sep 14, 06:09 PM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
+- **Sep 14, 06:44 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
