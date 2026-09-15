@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 12 | 26 |
+| breaking_defense | 2 | 4 | 13 | 27 |
 | spacenews | 2 | 4 | 13 | 25 |
 | nyt | 2 | 3 | 13 | 26 |
 
@@ -3467,3 +3467,4 @@
 - **Sep 15, 07:38 PM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
 - **Sep 15, 08:14 PM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 15, 08:49 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
+- **Sep 15, 09:24 PM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
