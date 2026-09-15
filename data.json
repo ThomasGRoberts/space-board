@@ -1,9 +1,88 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-14T00:04:31.955953+00:00",
-    "trigger_count": 6,
-    "current_item_id": "286d1162f71c61989a1f884f475bc5c9",
+    "last_run_datetime": "2026-09-15T00:04:36.179419+00:00",
+    "trigger_count": 0,
+    "current_item_id": "b2da7a1e35e6282040aa4671d6b7bab0",
     "data": [
+        {
+            "id": "5fdba8ad569ab056a3a68374ff4d33e3",
+            "source": "breaking_defense",
+            "text": "Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
+            "source_link": "https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-14T22:19:29.683078Z",
+            "shown_at": [
+                "2026-09-14T22:19:30.611159Z"
+            ]
+        },
+        {
+            "id": "5b1f5a281aa58319ebba246b825e661c",
+            "source": "breaking_defense",
+            "text": "Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
+            "source_link": "https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-14T21:04:54.949924Z",
+            "shown_at": [
+                "2026-09-14T21:04:55.678691Z"
+            ]
+        },
+        {
+            "id": "286d1162f71c61989a1f884f475bc5c9",
+            "source": "spacenews",
+            "text": "Sept. 21: What Comes Next for On-Orbit Servicing?",
+            "source_link": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-14T17:34:48.993133Z",
+            "shown_at": [
+                "2026-09-14T17:34:49.703320Z",
+                "2026-09-14T23:29:18.139537Z"
+            ]
+        },
+        {
+            "id": "b2da7a1e35e6282040aa4671d6b7bab0",
+            "source": "breaking_defense",
+            "text": "Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals",
+            "source_link": "https://breakingdefense.com/2026/09/space-force-has-space-control-weapons-on-orbit-air-force-secretary-says/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-14T16:24:13.215633Z",
+            "shown_at": [
+                "2026-09-14T16:24:14.337100Z",
+                "2026-09-15T00:04:43.293574Z"
+            ]
+        },
+        {
+            "id": "87152f2932d942f1c20f59b8c90af153",
+            "source": "spacenews",
+            "text": "Space’s growing billion-dollar club",
+            "source_link": "https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-14T15:49:52.977384Z",
+            "shown_at": [
+                "2026-09-14T15:49:53.957328Z",
+                "2026-09-14T19:19:28.907378Z",
+                "2026-09-14T21:44:09.631587Z"
+            ]
+        },
+        {
+            "id": "39b2ab05d37718b2136f0fbae9a27492",
+            "source": "nyt",
+            "text": "Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect.",
+            "source_link": "https://www.nytimes.com/2026/09/14/business/dealbook/open-cosmos-space-start-ups-spacex.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-14T15:15:03.787300Z",
+            "shown_at": [
+                "2026-09-14T15:15:05.147567Z",
+                "2026-09-14T16:59:20.337196Z",
+                "2026-09-14T18:44:14.719808Z",
+                "2026-09-14T22:54:17.714253Z"
+            ]
+        },
         {
             "id": "37dbe783f2b27178ead0a23534b5df03",
             "source": "nyt",
@@ -8849,195 +8928,6 @@
             "fetched_datetime": "2026-06-14T04:14:35.587079Z",
             "shown_at": [
                 "2026-06-14T04:14:36.341347Z"
-            ]
-        },
-        {
-            "id": "50ace9687686a6eded3747cb2b84d01d",
-            "source": "spacenews",
-            "text": "Revised Artemis lunar lander plans take shape",
-            "source_link": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-13T17:29:17.873374Z",
-            "shown_at": [
-                "2026-06-13T17:29:18.671532Z"
-            ]
-        },
-        {
-            "id": "8dd96aaae554966b2f7cbc5f69ff0bc2",
-            "source": "nyt",
-            "text": "Can the Artemis III Mission Go on as Planned?",
-            "source_link": "https://www.nytimes.com/video/science/space/100000010943451/can-the-artemis-iii-mission-go-on-as-planned.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-13T09:09:19.996746Z",
-            "shown_at": [
-                "2026-06-13T09:09:20.646282Z",
-                "2026-06-13T11:04:29.892501Z",
-                "2026-06-14T11:54:09.271658Z",
-                "2026-06-16T17:29:28.502533Z",
-                "2026-06-17T04:14:24.051529Z",
-                "2026-06-17T18:24:44.688603Z",
-                "2026-06-17T21:24:32.408667Z",
-                "2026-06-17T22:34:48.211158Z",
-                "2026-06-18T03:14:39.349182Z",
-                "2026-06-18T05:34:36.524414Z",
-                "2026-06-18T06:49:29.884893Z",
-                "2026-06-18T20:50:17.008025Z",
-                "2026-06-18T23:29:35.229046Z",
-                "2026-06-19T13:44:36.912491Z",
-                "2026-06-19T21:59:30.787107Z",
-                "2026-06-20T03:19:29.046867Z",
-                "2026-06-20T06:59:11.220712Z",
-                "2026-06-20T08:49:24.238877Z"
-            ]
-        },
-        {
-            "id": "ffd2bd0b03221dd465a32fa80d5e2c7b",
-            "source": "spacenews",
-            "text": "SpaceX shares rise nearly 20% in historic IPO",
-            "source_link": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T21:59:14.784499Z",
-            "shown_at": [
-                "2026-06-12T21:59:16.129354Z"
-            ]
-        },
-        {
-            "id": "9705103f84e392d78f2095bf7b77a4ea",
-            "source": "nyt",
-            "text": "SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut",
-            "source_link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T21:24:31.926306Z",
-            "shown_at": [
-                "2026-06-12T21:24:33.016870Z",
-                "2026-06-13T00:54:27.531712Z",
-                "2026-06-13T02:39:02.448848Z",
-                "2026-06-13T07:59:25.711748Z",
-                "2026-06-14T08:19:26.670600Z",
-                "2026-06-15T00:29:22.457790Z",
-                "2026-06-15T09:24:39.319768Z",
-                "2026-06-16T07:24:37.412210Z",
-                "2026-06-17T05:59:35.656707Z",
-                "2026-06-17T09:29:32.891611Z",
-                "2026-06-17T11:14:47.069935Z",
-                "2026-06-17T14:50:00.564340Z",
-                "2026-06-17T23:44:28.387430Z",
-                "2026-06-18T02:05:02.364174Z",
-                "2026-06-18T10:19:23.050708Z",
-                "2026-06-18T15:39:55.276238Z",
-                "2026-06-19T01:14:30.557424Z",
-                "2026-06-19T02:58:56.463612Z",
-                "2026-06-19T06:29:24.977900Z",
-                "2026-06-19T08:19:27.260766Z",
-                "2026-06-19T16:39:11.024625Z"
-            ]
-        },
-        {
-            "id": "ac08ad550d3d6d0af5fbed4d2a73460a",
-            "source": "spacenews",
-            "text": "Avanti trims GEO exposure with Hylas-3 sale",
-            "source_link": "https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T20:50:00.174599Z",
-            "shown_at": [
-                "2026-06-12T20:50:01.935100Z",
-                "2026-06-13T12:14:17.091409Z",
-                "2026-06-14T09:34:45.985333Z"
-            ]
-        },
-        {
-            "id": "a9588b8aeb020bedb267cbe1525ab678",
-            "source": "spacenews",
-            "text": "Astronomers fear orbital data centers will interfere with observations",
-            "source_link": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T20:14:35.435209Z",
-            "shown_at": [
-                "2026-06-12T20:14:37.978285Z"
-            ]
-        },
-        {
-            "id": "39b2ab05d37718b2136f0fbae9a27492",
-            "source": "nyt",
-            "text": "Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect.",
-            "source_link": "https://www.nytimes.com/2026/09/14/business/dealbook/open-cosmos-space-start-ups-spacex.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-14T15:15:03.787300Z",
-            "shown_at": [
-                "2026-09-14T15:15:05.147567Z",
-                "2026-09-14T16:59:20.337196Z",
-                "2026-09-14T18:44:14.719808Z",
-                "2026-09-14T22:54:17.714253Z"
-            ]
-        },
-        {
-            "id": "87152f2932d942f1c20f59b8c90af153",
-            "source": "spacenews",
-            "text": "Space’s growing billion-dollar club",
-            "source_link": "https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-14T15:49:52.977384Z",
-            "shown_at": [
-                "2026-09-14T15:49:53.957328Z",
-                "2026-09-14T19:19:28.907378Z",
-                "2026-09-14T21:44:09.631587Z"
-            ]
-        },
-        {
-            "id": "b2da7a1e35e6282040aa4671d6b7bab0",
-            "source": "breaking_defense",
-            "text": "Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals",
-            "source_link": "https://breakingdefense.com/2026/09/space-force-has-space-control-weapons-on-orbit-air-force-secretary-says/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-14T16:24:13.215633Z",
-            "shown_at": [
-                "2026-09-14T16:24:14.337100Z"
-            ]
-        },
-        {
-            "id": "286d1162f71c61989a1f884f475bc5c9",
-            "source": "spacenews",
-            "text": "Sept. 21: What Comes Next for On-Orbit Servicing?",
-            "source_link": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-14T17:34:48.993133Z",
-            "shown_at": [
-                "2026-09-14T17:34:49.703320Z",
-                "2026-09-14T23:29:18.139537Z"
-            ]
-        },
-        {
-            "id": "5b1f5a281aa58319ebba246b825e661c",
-            "source": "breaking_defense",
-            "text": "Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
-            "source_link": "https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-14T21:04:54.949924Z",
-            "shown_at": [
-                "2026-09-14T21:04:55.678691Z"
-            ]
-        },
-        {
-            "id": "5fdba8ad569ab056a3a68374ff4d33e3",
-            "source": "breaking_defense",
-            "text": "Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
-            "source_link": "https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-14T22:19:29.683078Z",
-            "shown_at": [
-                "2026-09-14T22:19:30.611159Z"
             ]
         }
     ]
