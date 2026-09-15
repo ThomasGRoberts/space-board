@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-15T00:04:36.179419+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f37093e69fcbe9440888a29237887f41",
+    "trigger_count": 0,
+    "current_item_id": "a028f9328a6ead95fa7dc87bf6764d31",
     "data": [
         {
             "id": "5fdba8ad569ab056a3a68374ff4d33e3",
@@ -8985,6 +8985,18 @@
             "fetched_datetime": "2026-09-15T13:59:22.241875Z",
             "shown_at": [
                 "2026-09-15T13:59:23.345922Z"
+            ]
+        },
+        {
+            "id": "a028f9328a6ead95fa7dc87bf6764d31",
+            "source": "breaking_defense",
+            "text": "Budget impasse imperils 1 in 10 Space Force programs, new chief says",
+            "source_link": "https://breakingdefense.com/2026/09/budget-impasse-imperils-1-in-10-space-force-programs-new-chief-says/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-15T16:05:24.943834Z",
+            "shown_at": [
+                "2026-09-15T16:05:25.724332Z"
             ]
         }
     ]

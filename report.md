@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 13 | 26 |
-| spacenews | 2 | 3 | 12 | 26 |
+| breaking_defense | 4 | 4 | 14 | 27 |
+| spacenews | 2 | 3 | 12 | 25 |
 | nyt | 2 | 3 | 13 | 26 |
 
 # Shown Order
@@ -3458,3 +3458,4 @@
 - **Sep 15, 01:19 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 15, 01:59 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 15, 03:29 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
+- **Sep 15, 04:05 PM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
