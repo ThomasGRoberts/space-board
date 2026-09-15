@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-15T00:04:36.179419+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a028f9328a6ead95fa7dc87bf6764d31",
+    "trigger_count": 0,
+    "current_item_id": "5f034ec386a223ed31c7543cc69b9d1f",
     "data": [
         {
             "id": "5fdba8ad569ab056a3a68374ff4d33e3",
@@ -8997,6 +8997,18 @@
             "fetched_datetime": "2026-09-15T16:05:24.943834Z",
             "shown_at": [
                 "2026-09-15T16:05:25.724332Z"
+            ]
+        },
+        {
+            "id": "5f034ec386a223ed31c7543cc69b9d1f",
+            "source": "spacenews",
+            "text": "More satellites watch the battlefield, putting a premium on making sense of the data",
+            "source_link": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-15T16:44:32.907950Z",
+            "shown_at": [
+                "2026-09-15T16:44:33.650353Z"
             ]
         }
     ]
