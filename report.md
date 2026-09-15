@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 14 | 27 |
 | spacenews | 3 | 3 | 13 | 26 |
-| nyt | 2 | 2 | 13 | 26 |
+| nyt | 2 | 2 | 13 | 27 |
 
 # Shown Order
 
@@ -3455,3 +3455,4 @@
 - **Sep 15, 11:29 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 15, 12:05 PM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
 - **Sep 15, 12:44 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
+- **Sep 15, 01:19 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
