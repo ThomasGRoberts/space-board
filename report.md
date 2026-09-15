@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 13 | 27 |
+| breaking_defense | 3 | 3 | 14 | 28 |
 | spacenews | 3 | 3 | 13 | 26 |
 | nyt | 2 | 2 | 13 | 26 |
 
@@ -3451,3 +3451,4 @@
 - **Sep 15, 08:54 AM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 15, 09:34 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 15, 10:14 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
+- **Sep 15, 10:49 AM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
