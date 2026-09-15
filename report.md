@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 13 | 26 |
+| breaking_defense | 3 | 3 | 14 | 27 |
 | spacenews | 3 | 3 | 13 | 26 |
 | nyt | 2 | 2 | 13 | 26 |
 
@@ -3448,3 +3448,4 @@
 - **Sep 15, 07:05 AM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
 - **Sep 15, 07:39 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 15, 08:19 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
+- **Sep 15, 08:54 AM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
