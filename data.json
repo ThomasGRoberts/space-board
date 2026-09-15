@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-15T00:04:36.179419+00:00",
-    "trigger_count": 6,
-    "current_item_id": "39b2ab05d37718b2136f0fbae9a27492",
+    "trigger_count": 0,
+    "current_item_id": "89bb870bc27b791dc436c895f2149884",
     "data": [
         {
             "id": "5fdba8ad569ab056a3a68374ff4d33e3",
@@ -8938,6 +8938,18 @@
             "fetched_datetime": "2026-06-14T04:14:35.587079Z",
             "shown_at": [
                 "2026-06-14T04:14:36.341347Z"
+            ]
+        },
+        {
+            "id": "89bb870bc27b791dc436c895f2149884",
+            "source": "spacenews",
+            "text": "Iceye’s global presence expands to address sovereign demand",
+            "source_link": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-15T06:29:28.764617Z",
+            "shown_at": [
+                "2026-09-15T06:29:29.597313Z"
             ]
         }
     ]
