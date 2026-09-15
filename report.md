@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 13 | 26 |
-| spacenews | 3 | 3 | 12 | 25 |
-| nyt | 2 | 3 | 13 | 27 |
+| spacenews | 3 | 3 | 13 | 26 |
+| nyt | 2 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -3457,3 +3457,4 @@
 - **Sep 15, 12:44 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
 - **Sep 15, 01:19 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 15, 01:59 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 15, 03:29 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
