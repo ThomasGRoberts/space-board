@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 4 | 13 | 26 |
-| spacenews | 2 | 4 | 12 | 26 |
+| breaking_defense | 3 | 4 | 14 | 27 |
+| spacenews | 2 | 4 | 12 | 25 |
 | nyt | 2 | 3 | 13 | 26 |
 
 # Shown Order
@@ -3464,3 +3464,4 @@
 - **Sep 15, 05:54 PM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 15, 06:29 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 15, 07:05 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 15, 07:38 PM** - Defense a key focus for new UK $10.6B, 4-year space spending plan (breaking_defense)
