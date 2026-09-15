@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 13 | 26 |
 | spacenews | 2 | 4 | 13 | 26 |
-| nyt | 2 | 3 | 12 | 26 |
+| nyt | 2 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -3463,3 +3463,4 @@
 - **Sep 15, 05:19 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 15, 05:54 PM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 15, 06:29 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
+- **Sep 15, 07:05 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
