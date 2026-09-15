@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 14 | 27 |
 | spacenews | 3 | 3 | 13 | 26 |
-| nyt | 2 | 2 | 12 | 26 |
+| nyt | 2 | 2 | 13 | 27 |
 
 # Shown Order
 
@@ -3452,3 +3452,4 @@
 - **Sep 15, 09:34 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 15, 10:14 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
 - **Sep 15, 10:49 AM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
+- **Sep 15, 11:29 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
