@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 12 | 26 |
-| spacenews | 2 | 4 | 13 | 26 |
+| breaking_defense | 1 | 4 | 13 | 27 |
+| spacenews | 2 | 4 | 13 | 25 |
 | nyt | 2 | 3 | 13 | 26 |
 
 # Shown Order
@@ -3470,3 +3470,4 @@
 - **Sep 15, 09:24 PM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 15, 09:58 PM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 15, 10:34 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
+- **Sep 15, 11:09 PM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
