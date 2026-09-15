@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 13 | 26 |
 | spacenews | 3 | 4 | 13 | 26 |
-| nyt | 2 | 3 | 12 | 26 |
+| nyt | 2 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -3460,3 +3460,4 @@
 - **Sep 15, 03:29 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 15, 04:05 PM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 15, 04:44 PM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
+- **Sep 15, 05:19 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
