@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 13 | 26 |
+| breaking_defense | 3 | 3 | 14 | 27 |
 | spacenews | 2 | 2 | 13 | 26 |
 | nyt | 1 | 1 | 13 | 25 |
 
@@ -3436,3 +3436,4 @@
 - **Sep 15, 12:04 AM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
 - **Sep 15, 12:39 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 15, 01:14 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
+- **Sep 15, 01:49 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
