@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 14 | 27 |
 | spacenews | 3 | 3 | 13 | 26 |
-| nyt | 1 | 1 | 13 | 25 |
+| nyt | 2 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -3446,3 +3446,4 @@
 - **Sep 15, 05:54 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 15, 06:29 AM** - Iceye’s global presence expands to address sovereign demand (spacenews)
 - **Sep 15, 07:05 AM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
+- **Sep 15, 07:39 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
