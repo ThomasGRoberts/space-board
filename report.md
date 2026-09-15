@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 12 | 26 |
 | spacenews | 2 | 4 | 13 | 26 |
-| nyt | 2 | 3 | 13 | 26 |
+| nyt | 2 | 3 | 14 | 26 |
 
 # Shown Order
 
@@ -3469,3 +3469,4 @@
 - **Sep 15, 08:49 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 15, 09:24 PM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 15, 09:58 PM** - Space’s growing billion-dollar club (spacenews)
+- **Sep 15, 10:34 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
