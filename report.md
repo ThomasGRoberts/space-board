@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 13 | 27 |
+| breaking_defense | 3 | 3 | 14 | 28 |
 | spacenews | 3 | 3 | 13 | 26 |
 | nyt | 2 | 2 | 13 | 26 |
 
@@ -3454,3 +3454,4 @@
 - **Sep 15, 10:49 AM** - White House has lofty space launch ambitions, but experts question price tag (breaking_defense)
 - **Sep 15, 11:29 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 15, 12:05 PM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
+- **Sep 15, 12:44 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
