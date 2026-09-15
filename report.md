@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 14 | 27 |
 | spacenews | 2 | 2 | 13 | 25 |
-| nyt | 1 | 1 | 12 | 25 |
+| nyt | 1 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -3440,3 +3440,4 @@
 - **Sep 15, 02:23 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 15, 02:59 AM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 15, 03:34 AM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
+- **Sep 15, 04:09 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
