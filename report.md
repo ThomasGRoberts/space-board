@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 13 | 25 |
-| breaking_defense | 2 | 5 | 13 | 27 |
+| breaking_defense | 3 | 6 | 14 | 28 |
 | nyt | 0 | 3 | 12 | 26 |
 
 # Shown Order
@@ -3483,3 +3483,4 @@
 - **Sep 16, 12:34 PM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 16, 01:09 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 16, 01:44 PM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
+- **Sep 16, 02:19 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
