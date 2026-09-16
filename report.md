@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 13 | 25 |
+| spacenews | 1 | 4 | 14 | 26 |
 | breaking_defense | 3 | 6 | 14 | 27 |
 | nyt | 0 | 3 | 12 | 26 |
 
@@ -3484,3 +3484,4 @@
 - **Sep 16, 01:09 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 16, 01:44 PM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
 - **Sep 16, 02:19 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
+- **Sep 16, 02:53 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
