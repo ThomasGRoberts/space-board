@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 13 | 26 |
-| breaking_defense | 2 | 5 | 12 | 26 |
+| breaking_defense | 2 | 5 | 13 | 27 |
 | nyt | 1 | 3 | 13 | 26 |
 
 # Shown Order
@@ -3479,3 +3479,4 @@
 - **Sep 16, 09:59 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 16, 10:49 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 16, 11:24 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
+- **Sep 16, 11:59 AM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
