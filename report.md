@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 13 | 26 |
 | breaking_defense | 2 | 5 | 14 | 27 |
-| nyt | 0 | 2 | 13 | 25 |
+| nyt | 0 | 2 | 14 | 26 |
 
 # Shown Order
 
@@ -3488,3 +3488,4 @@
 - **Sep 16, 03:29 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 16, 04:05 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
 - **Sep 16, 04:38 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
+- **Sep 16, 05:14 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
