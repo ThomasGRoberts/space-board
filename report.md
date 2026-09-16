@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 12 | 25 |
+| spacenews | 2 | 4 | 13 | 26 |
 | breaking_defense | 2 | 5 | 13 | 26 |
 | nyt | 2 | 3 | 13 | 26 |
 
@@ -3462,3 +3462,4 @@
 - **Sep 15, 11:43 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 16, 12:19 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 16, 12:54 AM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
+- **Sep 16, 01:34 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
