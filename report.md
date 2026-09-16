@@ -2,19 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 13 | 26 |
 | spacenews | 2 | 4 | 13 | 26 |
+| breaking_defense | 1 | 4 | 12 | 26 |
 | nyt | 2 | 3 | 13 | 26 |
 
 # Shown Order
 
-- **Jun 14, 04:14 AM** - Missile production push runs into solid rocket motor bottleneck (spacenews)
-- **Jun 15, 01:29 PM** - What’s the Best Way to Monetize Space Energy? (spacenews)
-- **Jun 15, 02:04 PM** - Sustained maneuver has a propulsion problem (spacenews)
-- **Jun 15, 02:39 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
-- **Jun 15, 08:44 PM** - Space Force orders two more GPS satellites from Lockheed Martin for $514 million (spacenews)
 - **Jun 15, 09:19 PM** - Gilat to buy Comtech satcoms business six years after failed merger (spacenews)
-- **Jun 16, 07:59 AM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 16, 10:54 AM** - Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  (spacenews)
 - **Jun 16, 11:29 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 16, 12:05 PM** - Geospatial industry launches maritime initiative (spacenews)
@@ -22,7 +16,6 @@
 - **Jun 16, 02:34 PM** - PiLogic partners with Air Force lab to test satellite fault-prediction software (spacenews)
 - **Jun 16, 03:44 PM** - Katalyst Space raises $12 million for GEO servicing demo mission (spacenews)
 - **Jun 16, 04:19 PM** - The SpaceNews space unicorn tracker (spacenews)
-- **Jun 16, 06:04 PM** - Space Force orders two more GPS satellites from Lockheed Martin for $514 million (spacenews)
 - **Jun 16, 06:39 PM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
 - **Jun 16, 08:59 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
 - **Jun 16, 10:44 PM** - Geospatial industry launches maritime initiative (spacenews)
@@ -81,13 +74,11 @@
 - **Jun 19, 03:29 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 04:04 PM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
 - **Jun 19, 05:14 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 19, 05:49 PM** - Sustained maneuver has a propulsion problem (spacenews)
 - **Jun 19, 06:24 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 19, 06:59 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 07:38 PM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
 - **Jun 19, 08:14 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 19, 08:49 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 19, 09:24 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 19, 10:34 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 11:09 PM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 19, 11:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
@@ -102,7 +93,6 @@
 - **Jun 20, 05:39 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 06:14 AM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
 - **Jun 20, 07:34 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 20, 08:14 AM** - Sustained maneuver has a propulsion problem (spacenews)
 - **Jun 20, 09:25 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 10:09 AM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
 - **Jun 20, 10:44 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
@@ -113,7 +103,6 @@
 - **Jun 20, 01:44 PM** - Swift reboost mission ready for launch (spacenews)
 - **Jun 20, 02:20 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 02:54 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 20, 03:29 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 20, 04:04 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 04:39 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 05:14 PM** - Dawn Aerospace raises $25 million (spacenews)
@@ -175,7 +164,6 @@
 - **Jun 22, 02:19 AM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
 - **Jun 22, 02:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 03:35 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 22, 04:11 AM** - What’s the Best Way to Monetize Space Energy? (spacenews)
 - **Jun 22, 04:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 05:29 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 22, 06:05 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)

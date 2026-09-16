@@ -1,9 +1,74 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-15T00:04:36.179419+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-09-16T00:04:44.706716+00:00",
+    "trigger_count": 4,
     "current_item_id": "f37093e69fcbe9440888a29237887f41",
     "data": [
+        {
+            "id": "5f034ec386a223ed31c7543cc69b9d1f",
+            "source": "spacenews",
+            "text": "More satellites watch the battlefield, putting a premium on making sense of the data",
+            "source_link": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-15T16:44:32.907950Z",
+            "shown_at": [
+                "2026-09-15T16:44:33.650353Z",
+                "2026-09-15T20:14:16.315575Z"
+            ]
+        },
+        {
+            "id": "a028f9328a6ead95fa7dc87bf6764d31",
+            "source": "breaking_defense",
+            "text": "Budget impasse imperils 1 in 10 Space Force programs, new chief says",
+            "source_link": "https://breakingdefense.com/2026/09/budget-impasse-imperils-1-in-10-space-force-programs-new-chief-says/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-15T16:05:24.943834Z",
+            "shown_at": [
+                "2026-09-15T16:05:25.724332Z",
+                "2026-09-15T21:24:14.906948Z"
+            ]
+        },
+        {
+            "id": "0fdccb0f0678f36b8a758e2aed60fe24",
+            "source": "nyt",
+            "text": "Exoplanets Offer Clues to What Lies Beyond Our Solar System",
+            "source_link": "https://www.nytimes.com/2026/09/15/science/exoplanets.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-15T13:59:22.241875Z",
+            "shown_at": [
+                "2026-09-15T13:59:23.345922Z",
+                "2026-09-15T17:19:09.335385Z"
+            ]
+        },
+        {
+            "id": "830345ce328208788433298dc1dbd0c1",
+            "source": "nyt",
+            "text": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
+            "source_link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-15T07:39:27.951413Z",
+            "shown_at": [
+                "2026-09-15T07:39:28.633279Z",
+                "2026-09-15T13:19:33.400459Z",
+                "2026-09-15T19:05:00.254388Z"
+            ]
+        },
+        {
+            "id": "89bb870bc27b791dc436c895f2149884",
+            "source": "spacenews",
+            "text": "Iceye’s global presence expands to address sovereign demand",
+            "source_link": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-15T06:29:28.764617Z",
+            "shown_at": [
+                "2026-09-15T06:29:29.597313Z"
+            ]
+        },
         {
             "id": "5fdba8ad569ab056a3a68374ff4d33e3",
             "source": "breaking_defense",
@@ -8889,138 +8954,6 @@
             "shown_at": [
                 "2026-06-15T21:19:35.772616Z",
                 "2026-06-18T10:54:31.297646Z"
-            ]
-        },
-        {
-            "id": "fc91a847a1522daef6ad7e0d8c3862a4",
-            "source": "spacenews",
-            "text": "Space Force orders two more GPS satellites from Lockheed Martin for $514 million",
-            "source_link": "https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-15T20:44:41.382892Z",
-            "shown_at": [
-                "2026-06-15T20:44:46.650916Z",
-                "2026-06-16T18:04:59.858760Z"
-            ]
-        },
-        {
-            "id": "3ee509a64b4269cac42fe41d0351be1b",
-            "source": "spacenews",
-            "text": "DARPA to explore ways to rapidly rebuild satellite networks if attacked",
-            "source_link": "https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-15T14:39:27.952335Z",
-            "shown_at": [
-                "2026-06-15T14:39:28.699968Z",
-                "2026-06-16T07:59:18.520110Z",
-                "2026-06-19T21:24:24.290496Z",
-                "2026-06-20T15:29:31.061453Z"
-            ]
-        },
-        {
-            "id": "9c56c78ed7fcc2a5494e855bf26a96a2",
-            "source": "spacenews",
-            "text": "Sustained maneuver has a propulsion problem",
-            "source_link": "https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-15T13:29:24.343722Z",
-            "shown_at": [
-                "2026-06-15T14:04:59.814040Z",
-                "2026-06-19T17:49:32.659046Z",
-                "2026-06-20T08:14:40.652983Z"
-            ]
-        },
-        {
-            "id": "8e5db043a666e791651f57d3e0ee5fee",
-            "source": "spacenews",
-            "text": "What’s the Best Way to Monetize Space Energy?",
-            "source_link": "https://spacenews.com/whats-the-best-way-to-monetize-space-energy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-15T13:29:24.343664Z",
-            "shown_at": [
-                "2026-06-15T13:29:25.150189Z",
-                "2026-06-22T04:11:19.069299Z"
-            ]
-        },
-        {
-            "id": "48c1c8d026698f2ab5655a335fc6cf08",
-            "source": "spacenews",
-            "text": "Missile production push runs into solid rocket motor bottleneck",
-            "source_link": "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-14T04:14:35.587079Z",
-            "shown_at": [
-                "2026-06-14T04:14:36.341347Z"
-            ]
-        },
-        {
-            "id": "89bb870bc27b791dc436c895f2149884",
-            "source": "spacenews",
-            "text": "Iceye’s global presence expands to address sovereign demand",
-            "source_link": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-15T06:29:28.764617Z",
-            "shown_at": [
-                "2026-09-15T06:29:29.597313Z"
-            ]
-        },
-        {
-            "id": "830345ce328208788433298dc1dbd0c1",
-            "source": "nyt",
-            "text": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
-            "source_link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-15T07:39:27.951413Z",
-            "shown_at": [
-                "2026-09-15T07:39:28.633279Z",
-                "2026-09-15T13:19:33.400459Z",
-                "2026-09-15T19:05:00.254388Z"
-            ]
-        },
-        {
-            "id": "0fdccb0f0678f36b8a758e2aed60fe24",
-            "source": "nyt",
-            "text": "Exoplanets Offer Clues to What Lies Beyond Our Solar System",
-            "source_link": "https://www.nytimes.com/2026/09/15/science/exoplanets.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-15T13:59:22.241875Z",
-            "shown_at": [
-                "2026-09-15T13:59:23.345922Z",
-                "2026-09-15T17:19:09.335385Z"
-            ]
-        },
-        {
-            "id": "a028f9328a6ead95fa7dc87bf6764d31",
-            "source": "breaking_defense",
-            "text": "Budget impasse imperils 1 in 10 Space Force programs, new chief says",
-            "source_link": "https://breakingdefense.com/2026/09/budget-impasse-imperils-1-in-10-space-force-programs-new-chief-says/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-15T16:05:24.943834Z",
-            "shown_at": [
-                "2026-09-15T16:05:25.724332Z",
-                "2026-09-15T21:24:14.906948Z"
-            ]
-        },
-        {
-            "id": "5f034ec386a223ed31c7543cc69b9d1f",
-            "source": "spacenews",
-            "text": "More satellites watch the battlefield, putting a premium on making sense of the data",
-            "source_link": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-15T16:44:32.907950Z",
-            "shown_at": [
-                "2026-09-15T16:44:33.650353Z",
-                "2026-09-15T20:14:16.315575Z"
             ]
         }
     ]
