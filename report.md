@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 12 | 25 |
 | breaking_defense | 4 | 5 | 15 | 28 |
-| nyt | 0 | 2 | 12 | 25 |
+| nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -3499,3 +3499,4 @@
 - **Sep 16, 09:59 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 16, 10:34 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 16, 11:14 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
+- **Sep 16, 11:49 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
