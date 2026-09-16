@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 25 |
+| spacenews | 1 | 3 | 14 | 26 |
 | breaking_defense | 2 | 5 | 14 | 27 |
 | nyt | 0 | 2 | 13 | 26 |
 
@@ -3487,3 +3487,4 @@
 - **Sep 16, 02:53 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
 - **Sep 16, 03:29 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 16, 04:05 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
+- **Sep 16, 04:38 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
