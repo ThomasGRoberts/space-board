@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 13 | 26 |
 | breaking_defense | 2 | 5 | 12 | 26 |
-| nyt | 1 | 3 | 13 | 26 |
+| nyt | 1 | 3 | 14 | 27 |
 
 # Shown Order
 
@@ -3475,3 +3475,4 @@
 - **Sep 16, 07:24 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 16, 07:59 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
 - **Sep 16, 08:34 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
+- **Sep 16, 09:08 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
