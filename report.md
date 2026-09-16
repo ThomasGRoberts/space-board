@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 13 | 26 |
 | breaking_defense | 1 | 4 | 12 | 26 |
-| nyt | 2 | 3 | 13 | 26 |
+| nyt | 2 | 3 | 14 | 26 |
 
 # Shown Order
 
@@ -3460,3 +3460,4 @@
 - **Sep 15, 10:34 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 15, 11:09 PM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 15, 11:43 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
+- **Sep 16, 12:19 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
