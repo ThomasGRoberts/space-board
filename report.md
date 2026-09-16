@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 12 | 25 |
-| breaking_defense | 4 | 6 | 16 | 28 |
+| spacenews | 0 | 2 | 13 | 26 |
+| breaking_defense | 4 | 6 | 15 | 28 |
 | nyt | 0 | 2 | 12 | 25 |
 
 # Shown Order
@@ -3495,3 +3495,4 @@
 - **Sep 16, 07:39 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
 - **Sep 16, 08:14 PM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
 - **Sep 16, 08:49 PM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
+- **Sep 16, 09:24 PM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
