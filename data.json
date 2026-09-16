@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-16T00:04:44.706716+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b2da7a1e35e6282040aa4671d6b7bab0",
+    "trigger_count": 0,
+    "current_item_id": "10cc26004471c32f796af8ee6cc75d24",
     "data": [
         {
             "id": "5f034ec386a223ed31c7543cc69b9d1f",
@@ -9009,6 +9009,18 @@
             "fetched_datetime": "2026-09-16T14:19:29.548791Z",
             "shown_at": [
                 "2026-09-16T14:19:30.463416Z"
+            ]
+        },
+        {
+            "id": "10cc26004471c32f796af8ee6cc75d24",
+            "source": "breaking_defense",
+            "text": "SPACECOM needs more capabilities to target space adversaries: Whiting",
+            "source_link": "https://breakingdefense.com/2026/09/spacecom-needs-more-capabilities-to-target-space-adversaries-whiting/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-16T20:14:48.317716Z",
+            "shown_at": [
+                "2026-09-16T20:14:49.168791Z"
             ]
         }
     ]

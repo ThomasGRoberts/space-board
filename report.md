@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 25 |
-| breaking_defense | 2 | 5 | 14 | 27 |
+| spacenews | 0 | 2 | 12 | 25 |
+| breaking_defense | 3 | 6 | 15 | 28 |
 | nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
@@ -3493,3 +3493,4 @@
 - **Sep 16, 06:29 PM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 16, 07:04 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 16, 07:39 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
+- **Sep 16, 08:14 PM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
