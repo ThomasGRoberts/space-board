@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 13 | 26 |
-| breaking_defense | 2 | 5 | 12 | 26 |
+| breaking_defense | 2 | 5 | 13 | 27 |
 | nyt | 2 | 3 | 13 | 26 |
 
 # Shown Order
@@ -3470,3 +3470,4 @@
 - **Sep 16, 04:28 AM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 16, 05:04 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 16, 05:39 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 16, 06:14 AM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
