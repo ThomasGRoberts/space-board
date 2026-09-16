@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 13 | 25 |
-| breaking_defense | 3 | 6 | 14 | 27 |
+| breaking_defense | 3 | 6 | 15 | 28 |
 | nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
@@ -3486,3 +3486,4 @@
 - **Sep 16, 02:19 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 16, 02:53 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
 - **Sep 16, 03:29 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 16, 04:05 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
