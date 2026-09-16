@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 26 |
 | breaking_defense | 3 | 6 | 14 | 27 |
-| nyt | 0 | 2 | 12 | 25 |
+| nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -3485,3 +3485,4 @@
 - **Sep 16, 01:44 PM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
 - **Sep 16, 02:19 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 16, 02:53 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
+- **Sep 16, 03:29 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
