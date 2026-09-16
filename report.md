@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 13 | 26 |
-| breaking_defense | 2 | 5 | 12 | 26 |
+| breaking_defense | 2 | 5 | 13 | 27 |
 | nyt | 1 | 3 | 13 | 26 |
 
 # Shown Order
@@ -3476,3 +3476,4 @@
 - **Sep 16, 07:59 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
 - **Sep 16, 08:34 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 16, 09:08 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 16, 09:59 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
