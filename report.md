@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 13 | 26 |
 | breaking_defense | 2 | 5 | 12 | 26 |
-| nyt | 1 | 3 | 13 | 26 |
+| nyt | 1 | 3 | 14 | 27 |
 
 # Shown Order
 
@@ -3481,3 +3481,4 @@
 - **Sep 16, 11:24 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 16, 11:59 AM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 16, 12:34 PM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
+- **Sep 16, 01:09 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
