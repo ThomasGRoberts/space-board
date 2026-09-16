@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 13 | 26 |
 | breaking_defense | 2 | 5 | 12 | 26 |
-| nyt | 2 | 3 | 13 | 26 |
+| nyt | 2 | 3 | 14 | 27 |
 
 # Shown Order
 
@@ -3472,3 +3472,4 @@
 - **Sep 16, 05:39 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 16, 06:14 AM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 16, 06:48 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
+- **Sep 16, 07:24 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
