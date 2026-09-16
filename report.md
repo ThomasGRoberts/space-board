@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 12 | 25 |
-| breaking_defense | 4 | 5 | 15 | 27 |
+| breaking_defense | 4 | 5 | 16 | 28 |
 | nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
@@ -3497,3 +3497,4 @@
 - **Sep 16, 08:49 PM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
 - **Sep 16, 09:24 PM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
 - **Sep 16, 09:59 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
+- **Sep 16, 10:34 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
