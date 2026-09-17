@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 4 | 13 | 28 |
 | spacenews | 4 | 4 | 15 | 27 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3526,3 +3526,4 @@
 - **Sep 17, 10:14 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 17, 10:49 PM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
 - **Sep 17, 11:24 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
+- **Sep 17, 11:59 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
