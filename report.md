@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 15 | 27 |
+| breaking_defense | 3 | 5 | 16 | 28 |
 | spacenews | 0 | 2 | 12 | 25 |
-| nyt | 0 | 2 | 13 | 26 |
+| nyt | 0 | 2 | 12 | 26 |
 
 # Shown Order
 
@@ -3495,3 +3495,4 @@
 - **Sep 17, 03:54 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 17, 04:29 AM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 17, 05:04 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
+- **Sep 17, 05:39 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
