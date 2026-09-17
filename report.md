@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 15 | 27 |
+| breaking_defense | 3 | 5 | 16 | 28 |
 | spacenews | 0 | 1 | 12 | 25 |
-| nyt | 0 | 2 | 13 | 26 |
+| nyt | 0 | 2 | 12 | 26 |
 
 # Shown Order
 
@@ -3498,3 +3498,4 @@
 - **Sep 17, 05:39 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
 - **Sep 17, 06:19 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 17, 06:54 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 17, 07:29 AM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
