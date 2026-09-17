@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 15 | 28 |
 | spacenews | 0 | 2 | 13 | 25 |
-| nyt | 0 | 2 | 12 | 25 |
+| nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -3494,3 +3494,4 @@
 - **Sep 17, 03:19 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 17, 03:54 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 17, 04:29 AM** - Space’s growing billion-dollar club (spacenews)
+- **Sep 17, 05:04 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
