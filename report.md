@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 14 | 28 |
-| spacenews | 2 | 3 | 13 | 27 |
+| spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -3511,3 +3511,4 @@
 - **Sep 17, 01:19 PM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
 - **Sep 17, 01:54 PM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
 - **Sep 17, 02:29 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 17, 03:04 PM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)

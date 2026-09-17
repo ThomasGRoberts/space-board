@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-17T00:04:18.159383+00:00",
-    "trigger_count": 6,
-    "current_item_id": "830345ce328208788433298dc1dbd0c1",
+    "trigger_count": 0,
+    "current_item_id": "57e95b295d78142169728bebb100219f",
     "data": [
         {
             "id": "262de0d6123bf31f80bdbedc8306d449",
@@ -9027,6 +9027,18 @@
             "fetched_datetime": "2026-09-17T13:19:18.185808Z",
             "shown_at": [
                 "2026-09-17T13:54:33.125698Z"
+            ]
+        },
+        {
+            "id": "57e95b295d78142169728bebb100219f",
+            "source": "spacenews",
+            "text": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
+            "source_link": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-17T15:04:54.924465Z",
+            "shown_at": [
+                "2026-09-17T15:04:55.643144Z"
             ]
         }
     ]
