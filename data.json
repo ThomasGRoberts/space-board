@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-17T00:04:18.159383+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0c68cfaa2115b37d527f3d10648e6c2b",
+    "trigger_count": 0,
+    "current_item_id": "078ffb91b483e1f09d41dd1672a85671",
     "data": [
         {
             "id": "262de0d6123bf31f80bdbedc8306d449",
@@ -9003,6 +9003,27 @@
                 "2026-06-18T03:49:26.013968Z",
                 "2026-06-22T15:09:39.038540Z"
             ]
+        },
+        {
+            "id": "078ffb91b483e1f09d41dd1672a85671",
+            "source": "spacenews",
+            "text": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
+            "source_link": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-17T13:19:18.185734Z",
+            "shown_at": [
+                "2026-09-17T13:19:19.561948Z"
+            ]
+        },
+        {
+            "id": "5cc01b9193aa4cd5a635a27f2736a6b7",
+            "source": "spacenews",
+            "text": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+            "source_link": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-09-17T13:19:18.185808Z"
         }
     ]
 }

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 16 | 28 |
-| spacenews | 0 | 1 | 12 | 25 |
+| spacenews | 2 | 3 | 13 | 26 |
 | nyt | 0 | 1 | 12 | 26 |
 
 # Shown Order
@@ -3508,3 +3508,4 @@
 - **Sep 17, 11:34 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 17, 12:09 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 17, 12:44 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
+- **Sep 17, 01:19 PM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
