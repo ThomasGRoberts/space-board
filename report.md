@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 14 | 28 |
 | spacenews | 2 | 3 | 14 | 27 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3510,3 +3510,4 @@
 - **Sep 17, 12:44 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
 - **Sep 17, 01:19 PM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
 - **Sep 17, 01:54 PM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
+- **Sep 17, 02:29 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
