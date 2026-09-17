@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-17T00:04:18.159383+00:00",
-    "trigger_count": 6,
-    "current_item_id": "078ffb91b483e1f09d41dd1672a85671",
+    "trigger_count": 0,
+    "current_item_id": "5cc01b9193aa4cd5a635a27f2736a6b7",
     "data": [
         {
             "id": "262de0d6123bf31f80bdbedc8306d449",
@@ -9021,9 +9021,12 @@
             "source": "spacenews",
             "text": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
             "source_link": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-09-17T13:19:18.185808Z"
+            "fetched_datetime": "2026-09-17T13:19:18.185808Z",
+            "shown_at": [
+                "2026-09-17T13:54:33.125698Z"
+            ]
         }
     ]
 }

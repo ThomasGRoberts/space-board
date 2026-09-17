@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 15 | 28 |
-| spacenews | 2 | 3 | 13 | 26 |
+| spacenews | 2 | 3 | 14 | 27 |
 | nyt | 0 | 1 | 12 | 25 |
 
 # Shown Order
@@ -3509,3 +3509,4 @@
 - **Sep 17, 12:09 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 17, 12:44 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
 - **Sep 17, 01:19 PM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
+- **Sep 17, 01:54 PM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
