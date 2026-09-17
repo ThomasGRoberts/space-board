@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 15 | 27 |
+| breaking_defense | 3 | 5 | 16 | 28 |
 | spacenews | 0 | 2 | 12 | 25 |
 | nyt | 0 | 2 | 13 | 26 |
 
@@ -3489,3 +3489,4 @@
 - **Sep 17, 12:24 AM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
 - **Sep 17, 12:59 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 17, 01:34 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
+- **Sep 17, 02:09 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
