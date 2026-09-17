@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 15 | 28 |
-| spacenews | 0 | 1 | 12 | 25 |
+| spacenews | 0 | 1 | 13 | 26 |
 | nyt | 0 | 1 | 12 | 25 |
 
 # Shown Order
@@ -3499,3 +3499,4 @@
 - **Sep 17, 06:19 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 17, 06:54 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 17, 07:29 AM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
+- **Sep 17, 08:04 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
