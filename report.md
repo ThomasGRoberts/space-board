@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 4 | 12 | 27 |
+| breaking_defense | 0 | 4 | 13 | 28 |
 | spacenews | 4 | 4 | 15 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -3525,3 +3525,4 @@
 - **Sep 17, 09:39 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
 - **Sep 17, 10:14 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 17, 10:49 PM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
+- **Sep 17, 11:24 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
