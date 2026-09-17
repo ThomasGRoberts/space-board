@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 16 | 28 |
-| spacenews | 0 | 2 | 12 | 25 |
+| breaking_defense | 3 | 5 | 15 | 28 |
+| spacenews | 0 | 2 | 13 | 26 |
 | nyt | 0 | 2 | 12 | 25 |
 
 # Shown Order
@@ -3493,3 +3493,4 @@
 - **Sep 17, 02:44 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
 - **Sep 17, 03:19 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 17, 03:54 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
+- **Sep 17, 04:29 AM** - Space’s growing billion-dollar club (spacenews)
