@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 15 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
-| nyt | 0 | 1 | 12 | 25 |
+| spacenews | 0 | 1 | 13 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -3506,3 +3506,4 @@
 - **Sep 17, 10:24 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 17, 10:58 AM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 17, 11:34 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
+- **Sep 17, 12:09 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
