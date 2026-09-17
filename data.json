@@ -1,9 +1,59 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-16T00:04:44.706716+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-09-17T00:04:18.159383+00:00",
+    "trigger_count": 3,
     "current_item_id": "37dbe783f2b27178ead0a23534b5df03",
     "data": [
+        {
+            "id": "262de0d6123bf31f80bdbedc8306d449",
+            "source": "breaking_defense",
+            "text": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
+            "source_link": "https://breakingdefense.com/2026/09/space-forces-gmti-program-gets-a-name-with-northrop-as-prime-general/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-16T20:49:18.544484Z",
+            "shown_at": [
+                "2026-09-16T20:49:19.665392Z"
+            ]
+        },
+        {
+            "id": "10cc26004471c32f796af8ee6cc75d24",
+            "source": "breaking_defense",
+            "text": "SPACECOM needs more capabilities to target space adversaries: Whiting",
+            "source_link": "https://breakingdefense.com/2026/09/spacecom-needs-more-capabilities-to-target-space-adversaries-whiting/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-16T20:14:48.317716Z",
+            "shown_at": [
+                "2026-09-16T20:14:49.168791Z"
+            ]
+        },
+        {
+            "id": "05c900dad35fcb13afe1457737d06651",
+            "source": "breaking_defense",
+            "text": "SDA misses self-imposed deadline on orbital mesh network",
+            "source_link": "https://breakingdefense.com/2026/09/sda-misses-self-imposed-deadline-on-orbital-mesh-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-16T14:19:29.548791Z",
+            "shown_at": [
+                "2026-09-16T14:19:30.463416Z",
+                "2026-09-16T22:34:25.406446Z"
+            ]
+        },
+        {
+            "id": "0c68cfaa2115b37d527f3d10648e6c2b",
+            "source": "breaking_defense",
+            "text": "Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies",
+            "source_link": "https://breakingdefense.com/2026/09/shifting-market-sands-leolabs-moves-to-sell-new-mobile-space-radar-directly-to-allies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-16T00:54:36.082132Z",
+            "shown_at": [
+                "2026-09-16T00:54:37.141977Z",
+                "2026-09-16T17:54:39.838051Z"
+            ]
+        },
         {
             "id": "5f034ec386a223ed31c7543cc69b9d1f",
             "source": "spacenews",
@@ -8930,114 +8980,6 @@
                 "2026-06-16T13:19:36.117554Z",
                 "2026-06-18T03:49:26.013968Z",
                 "2026-06-22T15:09:39.038540Z"
-            ]
-        },
-        {
-            "id": "893c9b77926d51f519cb24c0ac9f92c7",
-            "source": "spacenews",
-            "text": "Geospatial industry launches maritime initiative",
-            "source_link": "https://spacenews.com/geospatial-industry-launches-maritime-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T12:05:07.444458Z",
-            "shown_at": [
-                "2026-06-16T12:05:10.082954Z",
-                "2026-06-16T22:44:44.974892Z",
-                "2026-06-17T07:09:18.133032Z",
-                "2026-06-21T04:59:02.438823Z"
-            ]
-        },
-        {
-            "id": "8752c2b12f05e318a9e2355023f0e44d",
-            "source": "spacenews",
-            "text": "Deep Space Network antenna mishap blamed on poor training and procedures",
-            "source_link": "https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T11:29:38.228582Z",
-            "shown_at": [
-                "2026-06-16T11:29:39.229552Z",
-                "2026-06-18T00:19:35.804646Z",
-                "2026-06-18T06:14:44.030416Z",
-                "2026-06-22T06:05:09.112741Z"
-            ]
-        },
-        {
-            "id": "f03d639dd9810550a2d61bef080312d4",
-            "source": "spacenews",
-            "text": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking ",
-            "source_link": "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T10:54:40.044946Z",
-            "shown_at": [
-                "2026-06-16T10:54:41.020721Z",
-                "2026-06-20T11:54:23.578053Z",
-                "2026-06-21T03:09:26.223816Z",
-                "2026-06-21T22:49:29.407502Z"
-            ]
-        },
-        {
-            "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
-            "source": "spacenews",
-            "text": "Gilat to buy Comtech satcoms business six years after failed merger",
-            "source_link": "https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-15T21:19:34.831564Z",
-            "shown_at": [
-                "2026-06-15T21:19:35.772616Z",
-                "2026-06-18T10:54:31.297646Z"
-            ]
-        },
-        {
-            "id": "0c68cfaa2115b37d527f3d10648e6c2b",
-            "source": "breaking_defense",
-            "text": "Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies",
-            "source_link": "https://breakingdefense.com/2026/09/shifting-market-sands-leolabs-moves-to-sell-new-mobile-space-radar-directly-to-allies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-16T00:54:36.082132Z",
-            "shown_at": [
-                "2026-09-16T00:54:37.141977Z",
-                "2026-09-16T17:54:39.838051Z"
-            ]
-        },
-        {
-            "id": "05c900dad35fcb13afe1457737d06651",
-            "source": "breaking_defense",
-            "text": "SDA misses self-imposed deadline on orbital mesh network",
-            "source_link": "https://breakingdefense.com/2026/09/sda-misses-self-imposed-deadline-on-orbital-mesh-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-16T14:19:29.548791Z",
-            "shown_at": [
-                "2026-09-16T14:19:30.463416Z",
-                "2026-09-16T22:34:25.406446Z"
-            ]
-        },
-        {
-            "id": "10cc26004471c32f796af8ee6cc75d24",
-            "source": "breaking_defense",
-            "text": "SPACECOM needs more capabilities to target space adversaries: Whiting",
-            "source_link": "https://breakingdefense.com/2026/09/spacecom-needs-more-capabilities-to-target-space-adversaries-whiting/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-16T20:14:48.317716Z",
-            "shown_at": [
-                "2026-09-16T20:14:49.168791Z"
-            ]
-        },
-        {
-            "id": "262de0d6123bf31f80bdbedc8306d449",
-            "source": "breaking_defense",
-            "text": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
-            "source_link": "https://breakingdefense.com/2026/09/space-forces-gmti-program-gets-a-name-with-northrop-as-prime-general/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-16T20:49:18.544484Z",
-            "shown_at": [
-                "2026-09-16T20:49:19.665392Z"
             ]
         }
     ]

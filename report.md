@@ -2,26 +2,20 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 12 | 25 |
 | breaking_defense | 4 | 5 | 15 | 28 |
+| spacenews | 0 | 2 | 12 | 25 |
 | nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
-- **Jun 15, 09:19 PM** - Gilat to buy Comtech satcoms business six years after failed merger (spacenews)
-- **Jun 16, 10:54 AM** - Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  (spacenews)
-- **Jun 16, 11:29 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
-- **Jun 16, 12:05 PM** - Geospatial industry launches maritime initiative (spacenews)
 - **Jun 16, 01:19 PM** - A UN agency that works for US space (spacenews)
 - **Jun 16, 02:34 PM** - PiLogic partners with Air Force lab to test satellite fault-prediction software (spacenews)
 - **Jun 16, 03:44 PM** - Katalyst Space raises $12 million for GEO servicing demo mission (spacenews)
 - **Jun 16, 04:19 PM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 16, 06:39 PM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
 - **Jun 16, 08:59 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
-- **Jun 16, 10:44 PM** - Geospatial industry launches maritime initiative (spacenews)
 - **Jun 17, 01:49 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 17, 03:39 AM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
-- **Jun 17, 07:09 AM** - Geospatial industry launches maritime initiative (spacenews)
 - **Jun 17, 11:49 AM** - Dawn Aerospace raises $25 million (spacenews)
 - **Jun 17, 12:24 PM** - Look Up and Skynopy partner on automated satellite collision avoidance service (spacenews)
 - **Jun 17, 12:59 PM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
@@ -30,13 +24,10 @@
 - **Jun 17, 07:05 PM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 17, 07:39 PM** - Upgraded Ariane 6 launches Amazon Leo satellites (spacenews)
 - **Jun 17, 08:49 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
-- **Jun 18, 12:19 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 18, 03:49 AM** - A UN agency that works for US space (spacenews)
 - **Jun 18, 04:59 AM** - The SpaceNews space unicorn tracker (spacenews)
-- **Jun 18, 06:14 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 18, 08:34 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 18, 09:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 18, 10:54 AM** - Gilat to buy Comtech satcoms business six years after failed merger (spacenews)
 - **Jun 18, 11:29 AM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
 - **Jun 18, 12:05 PM** - Quantum Space wins Pentagon contract to develop orbital refueling spacecraft (spacenews)
 - **Jun 18, 12:39 PM** - Boeing demonstrates quantum protocol in payload set for 2027 launch (spacenews)
@@ -97,7 +88,6 @@
 - **Jun 20, 10:09 AM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
 - **Jun 20, 10:44 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 11:19 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 20, 11:54 AM** - Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  (spacenews)
 - **Jun 20, 12:34 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 01:09 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 01:44 PM** - Swift reboost mission ready for launch (spacenews)
@@ -122,10 +112,8 @@
 - **Jun 21, 01:24 AM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
 - **Jun 21, 01:59 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 02:34 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 21, 03:09 AM** - Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  (spacenews)
 - **Jun 21, 03:44 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 04:19 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 21, 04:59 AM** - Geospatial industry launches maritime initiative (spacenews)
 - **Jun 21, 05:34 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 06:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 21, 06:44 AM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
@@ -155,7 +143,6 @@
 - **Jun 21, 09:04 PM** - What the satellite servicing economy can borrow from carbon credits (spacenews)
 - **Jun 21, 09:39 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 10:14 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 21, 10:49 PM** - Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  (spacenews)
 - **Jun 21, 11:24 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 11:59 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 22, 12:34 AM** - America’s next economic frontier is 240,000 miles away (spacenews)
@@ -166,7 +153,6 @@
 - **Jun 22, 03:35 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 22, 04:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 05:29 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 22, 06:05 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 22, 06:39 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 07:14 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 22, 07:49 AM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
