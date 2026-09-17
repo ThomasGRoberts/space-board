@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 13 | 28 |
 | spacenews | 4 | 4 | 15 | 27 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3520,3 +3520,4 @@
 - **Sep 17, 06:34 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 17, 07:08 PM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
 - **Sep 17, 07:49 PM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
+- **Sep 17, 08:29 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
