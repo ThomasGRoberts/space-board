@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 5 | 15 | 27 |
+| breaking_defense | 4 | 5 | 16 | 28 |
 | spacenews | 0 | 2 | 12 | 25 |
 | nyt | 0 | 2 | 12 | 26 |
 
@@ -3486,3 +3486,4 @@
 - **Sep 16, 10:34 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 16, 11:14 PM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 16, 11:49 PM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
+- **Sep 17, 12:24 AM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
