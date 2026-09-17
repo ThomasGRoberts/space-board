@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 4 | 13 | 28 |
 | spacenews | 4 | 4 | 15 | 27 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3523,3 +3523,4 @@
 - **Sep 17, 08:29 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 17, 09:04 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
 - **Sep 17, 09:39 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
+- **Sep 17, 10:14 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
