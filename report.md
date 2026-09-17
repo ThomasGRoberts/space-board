@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 15 | 28 |
 | spacenews | 0 | 1 | 13 | 25 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -3503,3 +3503,4 @@
 - **Sep 17, 08:39 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 17, 09:14 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
 - **Sep 17, 09:49 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
+- **Sep 17, 10:24 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
