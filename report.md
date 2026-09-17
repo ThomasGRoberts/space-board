@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 15 | 27 |
+| breaking_defense | 3 | 5 | 16 | 28 |
 | spacenews | 0 | 1 | 12 | 25 |
 | nyt | 0 | 1 | 13 | 26 |
 
@@ -3504,3 +3504,4 @@
 - **Sep 17, 09:14 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
 - **Sep 17, 09:49 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
 - **Sep 17, 10:24 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
+- **Sep 17, 10:58 AM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
