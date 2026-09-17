@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-17T00:04:18.159383+00:00",
-    "trigger_count": 6,
-    "current_item_id": "57e95b295d78142169728bebb100219f",
+    "trigger_count": 0,
+    "current_item_id": "31a097291253a08f2dca2a289dab1af1",
     "data": [
         {
             "id": "262de0d6123bf31f80bdbedc8306d449",
@@ -9039,6 +9039,18 @@
             "fetched_datetime": "2026-09-17T15:04:54.924465Z",
             "shown_at": [
                 "2026-09-17T15:04:55.643144Z"
+            ]
+        },
+        {
+            "id": "31a097291253a08f2dca2a289dab1af1",
+            "source": "spacenews",
+            "text": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
+            "source_link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-17T15:39:28.112607Z",
+            "shown_at": [
+                "2026-09-17T15:39:28.777357Z"
             ]
         }
     ]

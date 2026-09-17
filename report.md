@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 14 | 28 |
-| spacenews | 3 | 4 | 14 | 27 |
+| spacenews | 4 | 5 | 15 | 28 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3512,3 +3512,4 @@
 - **Sep 17, 01:54 PM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
 - **Sep 17, 02:29 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 17, 03:04 PM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
+- **Sep 17, 03:39 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
