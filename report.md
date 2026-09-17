@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 13 | 27 |
+| breaking_defense | 2 | 4 | 14 | 28 |
 | spacenews | 4 | 4 | 15 | 28 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3519,3 +3519,4 @@
 - **Sep 17, 05:59 PM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 17, 06:34 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 17, 07:08 PM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
+- **Sep 17, 07:49 PM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
