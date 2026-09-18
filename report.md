@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 14 | 29 |
+| spacenews | 1 | 5 | 14 | 30 |
 | breaking_defense | 1 | 1 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3550,3 +3550,4 @@
 - **Sep 18, 07:24 PM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 18, 07:59 PM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 18, 08:34 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 18, 09:08 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
