@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 15 | 28 |
 | breaking_defense | 0 | 3 | 13 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3535,3 +3535,4 @@
 - **Sep 18, 10:39 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 18, 11:14 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 18, 11:49 AM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
+- **Sep 18, 12:24 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
