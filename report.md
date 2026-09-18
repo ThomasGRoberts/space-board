@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 15 | 27 |
 | breaking_defense | 0 | 3 | 13 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3520,3 +3520,4 @@
 - **Sep 18, 01:44 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 18, 02:20 AM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
 - **Sep 18, 02:54 AM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
+- **Sep 18, 03:28 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
