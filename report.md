@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 15 | 28 |
-| breaking_defense | 0 | 3 | 12 | 28 |
+| breaking_defense | 0 | 3 | 13 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -3531,3 +3531,4 @@
 - **Sep 18, 08:08 AM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
 - **Sep 18, 08:49 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 18, 09:28 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
+- **Sep 18, 10:04 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
