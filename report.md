@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 15 | 27 |
 | breaking_defense | 0 | 3 | 13 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3523,3 +3523,4 @@
 - **Sep 18, 03:28 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 18, 04:04 AM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
 - **Sep 18, 04:39 AM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
+- **Sep 18, 05:14 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
