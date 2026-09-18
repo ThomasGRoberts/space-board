@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 14 | 29 |
 | breaking_defense | 0 | 2 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -3542,3 +3542,4 @@
 - **Sep 18, 02:43 PM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 18, 03:19 PM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
 - **Sep 18, 03:54 PM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
+- **Sep 18, 04:29 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
