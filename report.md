@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 15 | 27 |
+| spacenews | 4 | 4 | 16 | 28 |
 | breaking_defense | 0 | 3 | 12 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3536,3 +3536,4 @@
 - **Sep 18, 11:14 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 18, 11:49 AM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
 - **Sep 18, 12:24 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 18, 12:59 PM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
