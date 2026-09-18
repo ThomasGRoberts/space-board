@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 13 | 28 |
+| spacenews | 1 | 5 | 14 | 29 |
 | breaking_defense | 2 | 2 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3554,3 +3554,4 @@
 - **Sep 18, 09:44 PM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
 - **Sep 18, 10:19 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 18, 10:54 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
+- **Sep 18, 11:29 PM** - Space’s growing billion-dollar club (spacenews)
