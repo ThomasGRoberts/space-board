@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-18T00:04:42.786707+00:00",
-    "trigger_count": 6,
-    "current_item_id": "39b2ab05d37718b2136f0fbae9a27492",
+    "trigger_count": 0,
+    "current_item_id": "3acc7c2a897c4c73c0ce85fa091a1366",
     "data": [
         {
             "id": "31a097291253a08f2dca2a289dab1af1",
@@ -9069,6 +9069,18 @@
             "fetched_datetime": "2026-09-18T18:14:23.739320Z",
             "shown_at": [
                 "2026-09-18T18:14:24.534330Z"
+            ]
+        },
+        {
+            "id": "3acc7c2a897c4c73c0ce85fa091a1366",
+            "source": "breaking_defense",
+            "text": "Space Force to prototype new software to fuse commercial, military space tracking data",
+            "source_link": "https://breakingdefense.com/2026/09/space-force-to-prototype-new-software-to-fuse-commercial-military-space-tracking-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-18T22:54:18.646456Z",
+            "shown_at": [
+                "2026-09-18T22:54:19.291181Z"
             ]
         }
     ]
