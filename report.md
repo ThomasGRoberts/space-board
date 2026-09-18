@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 14 | 29 |
 | breaking_defense | 1 | 2 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3549,3 +3549,4 @@
 - **Sep 18, 06:49 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 18, 07:24 PM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 18, 07:59 PM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
+- **Sep 18, 08:34 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
