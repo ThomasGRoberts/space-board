@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 14 | 29 |
 | breaking_defense | 1 | 1 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3552,3 +3552,4 @@
 - **Sep 18, 08:34 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 18, 09:08 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
 - **Sep 18, 09:44 PM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
+- **Sep 18, 10:19 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
