@@ -2,16 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 4 | 13 | 28 |
 | spacenews | 4 | 4 | 15 | 27 |
+| breaking_defense | 0 | 4 | 13 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
-- **Jun 16, 01:19 PM** - A UN agency that works for US space (spacenews)
-- **Jun 16, 02:34 PM** - PiLogic partners with Air Force lab to test satellite fault-prediction software (spacenews)
-- **Jun 16, 03:44 PM** - Katalyst Space raises $12 million for GEO servicing demo mission (spacenews)
-- **Jun 16, 04:19 PM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 16, 06:39 PM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
 - **Jun 16, 08:59 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
 - **Jun 17, 01:49 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
@@ -21,11 +17,8 @@
 - **Jun 17, 12:59 PM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
 - **Jun 17, 01:39 PM** - America’s next economic frontier is 240,000 miles away (spacenews)
 - **Jun 17, 04:39 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 17, 07:05 PM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 17, 07:39 PM** - Upgraded Ariane 6 launches Amazon Leo satellites (spacenews)
 - **Jun 17, 08:49 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
-- **Jun 18, 03:49 AM** - A UN agency that works for US space (spacenews)
-- **Jun 18, 04:59 AM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 18, 08:34 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 18, 09:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 18, 11:29 AM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
@@ -49,7 +42,6 @@
 - **Jun 19, 04:09 AM** - Chinese startup Spark Space tests engine, raises funds for electric-pump rocket (spacenews)
 - **Jun 19, 04:44 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 19, 05:19 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 19, 05:54 AM** - Katalyst Space raises $12 million for GEO servicing demo mission (spacenews)
 - **Jun 19, 07:04 AM** - Austrian propulsion startup joins sovereign space funding surge (spacenews)
 - **Jun 19, 07:44 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 08:54 AM** - Austrian propulsion startup joins sovereign space funding surge (spacenews)
@@ -77,7 +69,6 @@
 - **Jun 20, 12:54 AM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
 - **Jun 20, 01:29 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 02:05 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 20, 02:44 AM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 20, 03:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 04:29 AM** - Look Up and Skynopy partner on automated satellite collision avoidance service (spacenews)
 - **Jun 20, 05:04 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
@@ -137,7 +128,6 @@
 - **Jun 21, 05:19 PM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 21, 05:54 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 06:39 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 21, 07:14 PM** - PiLogic partners with Air Force lab to test satellite fault-prediction software (spacenews)
 - **Jun 21, 07:49 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 08:29 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 21, 09:04 PM** - What the satellite servicing economy can borrow from carbon credits (spacenews)
@@ -167,7 +157,6 @@
 - **Jun 22, 01:09 PM** - America is about to cede Africa’s space industry to China, and nobody’s talking about it. (spacenews)
 - **Jun 22, 01:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 22, 02:19 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 22, 03:09 PM** - A UN agency that works for US space (spacenews)
 - **Jun 22, 03:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 22, 04:19 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 04:54 PM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
@@ -185,7 +174,6 @@
 - **Jun 22, 11:54 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
 - **Jun 23, 12:28 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 23, 01:05 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 23, 01:39 AM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 23, 02:14 AM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
 - **Jun 23, 02:49 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 23, 03:24 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)

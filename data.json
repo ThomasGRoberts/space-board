@@ -1,9 +1,61 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-17T00:04:18.159383+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-09-18T00:04:42.786707+00:00",
+    "trigger_count": 1,
     "current_item_id": "39b2ab05d37718b2136f0fbae9a27492",
     "data": [
+        {
+            "id": "31a097291253a08f2dca2a289dab1af1",
+            "source": "spacenews",
+            "text": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
+            "source_link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-17T15:39:28.112607Z",
+            "shown_at": [
+                "2026-09-17T15:39:28.777357Z",
+                "2026-09-17T21:04:55.223256Z"
+            ]
+        },
+        {
+            "id": "57e95b295d78142169728bebb100219f",
+            "source": "spacenews",
+            "text": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
+            "source_link": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-17T15:04:54.924465Z",
+            "shown_at": [
+                "2026-09-17T15:04:55.643144Z",
+                "2026-09-17T17:24:10.812680Z",
+                "2026-09-17T19:08:48.243869Z"
+            ]
+        },
+        {
+            "id": "5cc01b9193aa4cd5a635a27f2736a6b7",
+            "source": "spacenews",
+            "text": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+            "source_link": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-17T13:19:18.185808Z",
+            "shown_at": [
+                "2026-09-17T13:54:33.125698Z",
+                "2026-09-17T22:49:27.666584Z"
+            ]
+        },
+        {
+            "id": "078ffb91b483e1f09d41dd1672a85671",
+            "source": "spacenews",
+            "text": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
+            "source_link": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-17T13:19:18.185734Z",
+            "shown_at": [
+                "2026-09-17T13:19:19.561948Z"
+            ]
+        },
         {
             "id": "262de0d6123bf31f80bdbedc8306d449",
             "source": "breaking_defense",
@@ -8957,114 +9009,6 @@
                 "2026-06-16T18:39:30.565600Z",
                 "2026-06-22T02:19:33.591470Z",
                 "2026-06-22T11:24:41.635823Z"
-            ]
-        },
-        {
-            "id": "6c978a8feaaf4a75935a067e58df8ca9",
-            "source": "spacenews",
-            "text": "The SpaceNews space unicorn tracker",
-            "source_link": "https://spacenews.com/space-unicorns-spacenews-billion-valuation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T16:19:46.540515Z",
-            "shown_at": [
-                "2026-06-16T16:19:47.516376Z",
-                "2026-06-17T19:05:10.102993Z",
-                "2026-06-18T04:59:27.905824Z",
-                "2026-06-20T02:44:24.175194Z",
-                "2026-06-23T01:39:35.196150Z"
-            ]
-        },
-        {
-            "id": "acbcd7d7dbf7d6c305ef7e6972616107",
-            "source": "spacenews",
-            "text": "Katalyst Space raises $12 million for GEO servicing demo mission",
-            "source_link": "https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T15:44:40.670275Z",
-            "shown_at": [
-                "2026-06-16T15:44:43.743806Z",
-                "2026-06-19T05:54:31.046663Z"
-            ]
-        },
-        {
-            "id": "decbb71aa5ac4c3ddb6db52ac65ecbe0",
-            "source": "spacenews",
-            "text": "PiLogic partners with Air Force lab to test satellite fault-prediction software",
-            "source_link": "https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T14:34:50.905068Z",
-            "shown_at": [
-                "2026-06-16T14:34:52.238283Z",
-                "2026-06-21T19:14:40.631641Z"
-            ]
-        },
-        {
-            "id": "6dacf7508927e782106e0c905f7b4596",
-            "source": "spacenews",
-            "text": "A UN agency that works for US space",
-            "source_link": "https://spacenews.com/a-un-agency-that-works-for-us-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T13:19:35.251557Z",
-            "shown_at": [
-                "2026-06-16T13:19:36.117554Z",
-                "2026-06-18T03:49:26.013968Z",
-                "2026-06-22T15:09:39.038540Z"
-            ]
-        },
-        {
-            "id": "078ffb91b483e1f09d41dd1672a85671",
-            "source": "spacenews",
-            "text": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
-            "source_link": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-17T13:19:18.185734Z",
-            "shown_at": [
-                "2026-09-17T13:19:19.561948Z"
-            ]
-        },
-        {
-            "id": "5cc01b9193aa4cd5a635a27f2736a6b7",
-            "source": "spacenews",
-            "text": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
-            "source_link": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-17T13:19:18.185808Z",
-            "shown_at": [
-                "2026-09-17T13:54:33.125698Z",
-                "2026-09-17T22:49:27.666584Z"
-            ]
-        },
-        {
-            "id": "57e95b295d78142169728bebb100219f",
-            "source": "spacenews",
-            "text": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
-            "source_link": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-17T15:04:54.924465Z",
-            "shown_at": [
-                "2026-09-17T15:04:55.643144Z",
-                "2026-09-17T17:24:10.812680Z",
-                "2026-09-17T19:08:48.243869Z"
-            ]
-        },
-        {
-            "id": "31a097291253a08f2dca2a289dab1af1",
-            "source": "spacenews",
-            "text": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
-            "source_link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-17T15:39:28.112607Z",
-            "shown_at": [
-                "2026-09-17T15:39:28.777357Z",
-                "2026-09-17T21:04:55.223256Z"
             ]
         }
     ]
