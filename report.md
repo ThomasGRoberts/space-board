@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 28 |
+| spacenews | 2 | 4 | 15 | 29 |
 | breaking_defense | 0 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3539,3 +3539,4 @@
 - **Sep 18, 12:59 PM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
 - **Sep 18, 01:34 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
 - **Sep 18, 02:08 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 18, 02:43 PM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
