@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 14 | 29 |
-| breaking_defense | 0 | 2 | 13 | 27 |
+| breaking_defense | 1 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -3545,3 +3545,4 @@
 - **Sep 18, 04:29 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 18, 05:04 PM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
 - **Sep 18, 05:39 PM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
+- **Sep 18, 06:14 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)

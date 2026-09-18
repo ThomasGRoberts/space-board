@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-18T00:04:42.786707+00:00",
-    "trigger_count": 6,
-    "current_item_id": "262de0d6123bf31f80bdbedc8306d449",
+    "trigger_count": 0,
+    "current_item_id": "95371be3ada8ff3e8726b2f9c6157089",
     "data": [
         {
             "id": "31a097291253a08f2dca2a289dab1af1",
@@ -9050,6 +9050,18 @@
             "fetched_datetime": "2026-09-18T15:19:31.413450Z",
             "shown_at": [
                 "2026-09-18T15:19:32.309105Z"
+            ]
+        },
+        {
+            "id": "95371be3ada8ff3e8726b2f9c6157089",
+            "source": "breaking_defense",
+            "text": "Europe’s space tracking program sees growing support, interest",
+            "source_link": "https://breakingdefense.com/2026/09/europes-space-tracking-program-sees-growing-support-interest/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-18T18:14:23.739320Z",
+            "shown_at": [
+                "2026-09-18T18:14:24.534330Z"
             ]
         }
     ]
