@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 14 | 28 |
 | breaking_defense | 1 | 3 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3546,3 +3546,4 @@
 - **Sep 18, 05:04 PM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
 - **Sep 18, 05:39 PM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
 - **Sep 18, 06:14 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
+- **Sep 18, 06:49 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
