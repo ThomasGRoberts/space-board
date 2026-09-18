@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 15 | 28 |
 | breaking_defense | 0 | 3 | 13 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3532,3 +3532,4 @@
 - **Sep 18, 08:49 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
 - **Sep 18, 09:28 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
 - **Sep 18, 10:04 AM** - Why propulsion could be the critical piece in Golden Dome’s architecture (breaking_defense)
+- **Sep 18, 10:39 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
