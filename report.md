@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 15 | 27 |
+| spacenews | 4 | 4 | 16 | 28 |
 | breaking_defense | 0 | 3 | 12 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -3521,3 +3521,4 @@
 - **Sep 18, 02:20 AM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
 - **Sep 18, 02:54 AM** - Space Force picks Texas as US home for trinational DARC space radar network (breaking_defense)
 - **Sep 18, 03:28 AM** - Mercury Is Shrinking, and Faster Than We Thought (nyt)
+- **Sep 18, 04:04 AM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
