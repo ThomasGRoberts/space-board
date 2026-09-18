@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 15 | 27 |
+| spacenews | 4 | 4 | 16 | 28 |
 | breaking_defense | 0 | 3 | 12 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -3518,3 +3518,4 @@
 - **Sep 18, 12:34 AM** - LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership (spacenews)
 - **Sep 18, 01:09 AM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
 - **Sep 18, 01:44 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 18, 02:20 AM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
