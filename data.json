@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-18T00:04:42.786707+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5f034ec386a223ed31c7543cc69b9d1f",
+    "trigger_count": 0,
+    "current_item_id": "d3aa3e541f9aadcf2f98a1fcf0f5cea4",
     "data": [
         {
             "id": "31a097291253a08f2dca2a289dab1af1",
@@ -9034,6 +9034,18 @@
                 "2026-06-16T18:39:30.565600Z",
                 "2026-06-22T02:19:33.591470Z",
                 "2026-06-22T11:24:41.635823Z"
+            ]
+        },
+        {
+            "id": "d3aa3e541f9aadcf2f98a1fcf0f5cea4",
+            "source": "spacenews",
+            "text": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
+            "source_link": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-18T15:19:31.413450Z",
+            "shown_at": [
+                "2026-09-18T15:19:32.309105Z"
             ]
         }
     ]
