@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 15 | 27 |
-| spacenews | 1 | 5 | 13 | 28 |
+| breaking_defense | 2 | 2 | 14 | 27 |
+| spacenews | 1 | 5 | 14 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3561,3 +3561,4 @@
 - **Sep 19, 08:18 AM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
 - **Sep 19, 08:54 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 19, 09:29 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
+- **Sep 19, 10:05 AM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
