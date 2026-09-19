@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 14 | 27 |
 | spacenews | 1 | 5 | 14 | 29 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3556,3 +3556,4 @@
 - **Sep 19, 05:24 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 19, 05:59 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
 - **Sep 19, 06:34 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
+- **Sep 19, 07:09 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
