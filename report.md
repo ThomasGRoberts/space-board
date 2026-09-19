@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 14 | 26 |
+| breaking_defense | 2 | 2 | 15 | 27 |
 | spacenews | 1 | 5 | 13 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3566,3 +3566,4 @@
 - **Sep 19, 11:19 AM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 19, 11:54 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
 - **Sep 19, 12:34 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
+- **Sep 19, 01:09 PM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
