@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 13 | 27 |
+| breaking_defense | 1 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3581,3 +3581,4 @@
 - **Sep 19, 08:09 PM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 19, 08:44 PM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 19, 09:18 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 19, 09:54 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
