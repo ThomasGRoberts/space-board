@@ -2,16 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 14 | 29 |
 | breaking_defense | 2 | 2 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 25 |
+| spacenews | 1 | 5 | 14 | 29 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
-- **Jun 16, 06:39 PM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
-- **Jun 16, 08:59 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
-- **Jun 17, 01:49 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
-- **Jun 17, 03:39 AM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
 - **Jun 17, 11:49 AM** - Dawn Aerospace raises $25 million (spacenews)
 - **Jun 17, 12:24 PM** - Look Up and Skynopy partner on automated satellite collision avoidance service (spacenews)
 - **Jun 17, 12:59 PM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
@@ -19,7 +15,6 @@
 - **Jun 17, 04:39 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 17, 07:39 PM** - Upgraded Ariane 6 launches Amazon Leo satellites (spacenews)
 - **Jun 17, 08:49 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
-- **Jun 18, 08:34 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 18, 09:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 18, 11:29 AM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
 - **Jun 18, 12:05 PM** - Quantum Space wins Pentagon contract to develop orbital refueling spacecraft (spacenews)
@@ -63,7 +58,6 @@
 - **Jun 19, 08:14 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 19, 08:49 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 10:34 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 19, 11:09 PM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 19, 11:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 12:19 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 12:54 AM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
@@ -125,7 +119,6 @@
 - **Jun 21, 03:34 PM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
 - **Jun 21, 04:09 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 04:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 21, 05:19 PM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 21, 05:54 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 06:39 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 21, 07:49 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
@@ -138,20 +131,17 @@
 - **Jun 22, 12:34 AM** - America’s next economic frontier is 240,000 miles away (spacenews)
 - **Jun 22, 01:09 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 01:44 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 22, 02:19 AM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
 - **Jun 22, 02:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 03:35 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 22, 04:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 05:29 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 22, 06:39 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 07:14 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 22, 07:49 AM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
 - **Jun 22, 08:29 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 09:05 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 22, 09:39 AM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
 - **Jun 22, 10:14 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 10:49 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 22, 11:24 AM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
 - **Jun 22, 11:59 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 12:34 PM** - Astroscale raises funding to support growth strategy (spacenews)
 - **Jun 22, 01:09 PM** - America is about to cede Africa’s space industry to China, and nobody’s talking about it. (spacenews)
@@ -196,7 +186,6 @@
 - **Jun 23, 01:35 PM** - Loft Orbital to test AI models on spacecraft for Earth observation (spacenews)
 - **Jun 23, 02:14 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 23, 02:49 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 23, 03:29 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
 - **Jun 23, 04:05 PM** - Sophia selects Apex bus for on-orbit computing demonstration (spacenews)
 - **Jun 23, 04:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 23, 05:24 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
@@ -3555,3 +3544,4 @@
 - **Sep 18, 10:19 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 18, 10:54 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 18, 11:29 PM** - Space’s growing billion-dollar club (spacenews)
+- **Sep 19, 12:04 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)

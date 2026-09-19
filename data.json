@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-18T00:04:42.786707+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87152f2932d942f1c20f59b8c90af153",
+    "last_run_datetime": "2026-09-19T00:04:47.979776+00:00",
+    "trigger_count": 0,
+    "current_item_id": "39b2ab05d37718b2136f0fbae9a27492",
     "data": [
+        {
+            "id": "3acc7c2a897c4c73c0ce85fa091a1366",
+            "source": "breaking_defense",
+            "text": "Space Force to prototype new software to fuse commercial, military space tracking data",
+            "source_link": "https://breakingdefense.com/2026/09/space-force-to-prototype-new-software-to-fuse-commercial-military-space-tracking-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-18T22:54:18.646456Z",
+            "shown_at": [
+                "2026-09-18T22:54:19.291181Z"
+            ]
+        },
+        {
+            "id": "95371be3ada8ff3e8726b2f9c6157089",
+            "source": "breaking_defense",
+            "text": "Europe’s space tracking program sees growing support, interest",
+            "source_link": "https://breakingdefense.com/2026/09/europes-space-tracking-program-sees-growing-support-interest/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-18T18:14:23.739320Z",
+            "shown_at": [
+                "2026-09-18T18:14:24.534330Z"
+            ]
+        },
+        {
+            "id": "d3aa3e541f9aadcf2f98a1fcf0f5cea4",
+            "source": "spacenews",
+            "text": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
+            "source_link": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-18T15:19:31.413450Z",
+            "shown_at": [
+                "2026-09-18T15:19:32.309105Z"
+            ]
+        },
         {
             "id": "31a097291253a08f2dca2a289dab1af1",
             "source": "spacenews",
@@ -348,7 +384,8 @@
                 "2026-09-17T23:59:10.597097Z",
                 "2026-09-18T16:29:32.482594Z",
                 "2026-09-18T18:49:19.376210Z",
-                "2026-09-18T22:19:03.684642Z"
+                "2026-09-18T22:19:03.684642Z",
+                "2026-09-19T00:04:53.467099Z"
             ]
         },
         {
@@ -9002,86 +9039,6 @@
                 "2026-06-17T11:49:36.493049Z",
                 "2026-06-20T17:14:43.727694Z",
                 "2026-06-21T12:04:51.977930Z"
-            ]
-        },
-        {
-            "id": "d6061fd8532a6c942c2653461e64bfb4",
-            "source": "spacenews",
-            "text": "June 25:  Golden Dome: How Could Sensors Protect the United States?",
-            "source_link": "https://spacenews.com/golden-dome-sensors-event-june-25/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T01:49:35.651688Z",
-            "shown_at": [
-                "2026-06-17T01:49:36.558142Z",
-                "2026-06-18T08:34:46.149754Z",
-                "2026-06-19T23:09:27.687898Z",
-                "2026-06-21T17:19:21.386390Z"
-            ]
-        },
-        {
-            "id": "19433d25ec75e42f21ae4848cdc7bfdb",
-            "source": "spacenews",
-            "text": "Astrobotic unveils Griffin-1 lunar lander",
-            "source_link": "https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T20:59:26.593320Z",
-            "shown_at": [
-                "2026-06-16T20:59:29.969438Z",
-                "2026-06-17T03:39:16.634875Z",
-                "2026-06-22T07:49:26.692174Z",
-                "2026-06-23T15:29:28.528780Z"
-            ]
-        },
-        {
-            "id": "7951d3e64c7c70da49789e01bceb796e",
-            "source": "spacenews",
-            "text": "Swiss decision to not contribute to Copernicus tests program’s value model",
-            "source_link": "https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T18:39:29.702373Z",
-            "shown_at": [
-                "2026-06-16T18:39:30.565600Z",
-                "2026-06-22T02:19:33.591470Z",
-                "2026-06-22T11:24:41.635823Z"
-            ]
-        },
-        {
-            "id": "d3aa3e541f9aadcf2f98a1fcf0f5cea4",
-            "source": "spacenews",
-            "text": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
-            "source_link": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-18T15:19:31.413450Z",
-            "shown_at": [
-                "2026-09-18T15:19:32.309105Z"
-            ]
-        },
-        {
-            "id": "95371be3ada8ff3e8726b2f9c6157089",
-            "source": "breaking_defense",
-            "text": "Europe’s space tracking program sees growing support, interest",
-            "source_link": "https://breakingdefense.com/2026/09/europes-space-tracking-program-sees-growing-support-interest/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-18T18:14:23.739320Z",
-            "shown_at": [
-                "2026-09-18T18:14:24.534330Z"
-            ]
-        },
-        {
-            "id": "3acc7c2a897c4c73c0ce85fa091a1366",
-            "source": "breaking_defense",
-            "text": "Space Force to prototype new software to fuse commercial, military space tracking data",
-            "source_link": "https://breakingdefense.com/2026/09/space-force-to-prototype-new-software-to-fuse-commercial-military-space-tracking-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-18T22:54:18.646456Z",
-            "shown_at": [
-                "2026-09-18T22:54:19.291181Z"
             ]
         }
     ]
