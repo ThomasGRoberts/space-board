@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3574,3 +3574,4 @@
 - **Sep 19, 04:04 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 19, 04:39 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
 - **Sep 19, 05:14 PM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
+- **Sep 19, 05:49 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
