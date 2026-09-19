@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 14 | 28 |
-| spacenews | 0 | 1 | 13 | 27 |
+| spacenews | 0 | 1 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3582,3 +3582,4 @@
 - **Sep 19, 08:44 PM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 19, 09:18 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 19, 09:54 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
+- **Sep 19, 10:29 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
