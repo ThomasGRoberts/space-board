@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 14 | 27 |
 | spacenews | 1 | 5 | 14 | 29 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3550,3 +3550,4 @@
 - **Sep 19, 01:48 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 19, 02:24 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 19, 02:58 AM** - Iceye’s global presence expands to address sovereign demand (spacenews)
+- **Sep 19, 03:34 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
