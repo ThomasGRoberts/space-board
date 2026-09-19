@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3577,3 +3577,4 @@
 - **Sep 19, 05:49 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 19, 06:24 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
 - **Sep 19, 06:59 PM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
+- **Sep 19, 07:34 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
