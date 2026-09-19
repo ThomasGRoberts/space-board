@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 14 | 26 |
+| breaking_defense | 2 | 2 | 15 | 27 |
 | spacenews | 1 | 5 | 13 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3554,3 +3554,4 @@
 - **Sep 19, 04:08 AM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
 - **Sep 19, 04:49 AM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 19, 05:24 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 19, 05:59 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
