@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 15 | 28 |
-| spacenews | 0 | 2 | 12 | 27 |
+| spacenews | 0 | 2 | 13 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3570,3 +3570,4 @@
 - **Sep 19, 01:44 PM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
 - **Sep 19, 02:19 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 19, 02:54 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
+- **Sep 19, 03:29 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
