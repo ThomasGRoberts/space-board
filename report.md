@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 14 | 26 |
-| spacenews | 1 | 5 | 14 | 29 |
+| breaking_defense | 2 | 2 | 15 | 27 |
+| spacenews | 1 | 5 | 13 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3548,3 +3548,4 @@
 - **Sep 19, 12:39 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
 - **Sep 19, 01:13 AM** - Iceye’s global presence expands to address sovereign demand (spacenews)
 - **Sep 19, 01:48 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 19, 02:24 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
