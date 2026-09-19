@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 14 | 27 |
+| breaking_defense | 2 | 2 | 15 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -3572,3 +3572,4 @@
 - **Sep 19, 02:54 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 19, 03:29 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
 - **Sep 19, 04:04 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 19, 04:39 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
