@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 15 | 27 |
-| spacenews | 1 | 5 | 13 | 28 |
+| breaking_defense | 2 | 2 | 14 | 27 |
+| spacenews | 1 | 5 | 14 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3546,3 +3546,4 @@
 - **Sep 18, 11:29 PM** - Space’s growing billion-dollar club (spacenews)
 - **Sep 19, 12:04 AM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 19, 12:39 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
+- **Sep 19, 01:13 AM** - Iceye’s global presence expands to address sovereign demand (spacenews)
