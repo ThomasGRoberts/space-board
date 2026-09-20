@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 13 | 27 |
+| breaking_defense | 0 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3602,3 +3602,4 @@
 - **Sep 20, 08:34 AM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 20, 09:09 AM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
 - **Sep 20, 09:44 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 20, 10:19 AM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
