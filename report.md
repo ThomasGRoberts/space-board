@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 14 | 28 |
-| spacenews | 0 | 1 | 13 | 27 |
+| spacenews | 0 | 1 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3588,3 +3588,4 @@
 - **Sep 20, 12:14 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
 - **Sep 20, 12:49 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 20, 01:29 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
+- **Sep 20, 02:09 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
