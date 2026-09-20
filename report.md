@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 14 | 28 |
-| spacenews | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 14 | 27 |
+| spacenews | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3618,3 +3618,4 @@
 - **Sep 20, 05:54 PM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
 - **Sep 20, 06:29 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 20, 07:04 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
+- **Sep 20, 07:39 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
