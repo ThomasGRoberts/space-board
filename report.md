@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -3619,3 +3619,4 @@
 - **Sep 20, 06:29 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 20, 07:04 PM** - Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals (breaking_defense)
 - **Sep 20, 07:39 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
+- **Sep 20, 08:14 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
