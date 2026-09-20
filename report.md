@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 13 | 28 |
 | spacenews | 0 | 1 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3589,3 +3589,4 @@
 - **Sep 20, 12:49 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 20, 01:29 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
 - **Sep 20, 02:09 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
+- **Sep 20, 02:44 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
