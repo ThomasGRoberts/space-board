@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 13 | 28 |
 | spacenews | 0 | 1 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3592,3 +3592,4 @@
 - **Sep 20, 02:44 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 20, 03:19 AM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 20, 03:54 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
+- **Sep 20, 04:29 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
