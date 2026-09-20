@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 13 | 27 |
+| breaking_defense | 0 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3593,3 +3593,4 @@
 - **Sep 20, 03:19 AM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 20, 03:54 AM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 20, 04:29 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 20, 05:05 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
