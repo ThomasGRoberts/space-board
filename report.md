@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 13 | 28 |
-| spacenews | 0 | 0 | 14 | 26 |
+| breaking_defense | 0 | 2 | 14 | 29 |
+| spacenews | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -3611,3 +3611,4 @@
 - **Sep 20, 01:49 PM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
 - **Sep 20, 02:24 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
 - **Sep 20, 02:59 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 20, 03:34 PM** - Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
