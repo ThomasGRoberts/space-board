@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 27 |
-| spacenews | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 1 | 14 | 28 |
+| spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -3623,3 +3623,4 @@
 - **Sep 20, 08:49 PM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
 - **Sep 20, 09:23 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
 - **Sep 20, 09:58 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 20, 10:33 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
