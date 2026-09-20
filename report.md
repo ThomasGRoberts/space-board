@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 13 | 27 |
+| breaking_defense | 0 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3596,3 +3596,4 @@
 - **Sep 20, 05:05 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
 - **Sep 20, 05:39 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
 - **Sep 20, 06:13 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 20, 06:49 AM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
