@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 14 | 28 |
-| spacenews | 0 | 1 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 26 |
+| spacenews | 0 | 1 | 14 | 28 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3609,3 +3609,4 @@
 - **Sep 20, 12:38 PM** - More satellites watch the battlefield, putting a premium on making sense of the data (spacenews)
 - **Sep 20, 01:14 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 20, 01:49 PM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
+- **Sep 20, 02:24 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
