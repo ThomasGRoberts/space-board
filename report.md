@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 13 | 28 |
 | spacenews | 0 | 1 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3598,3 +3598,4 @@
 - **Sep 20, 06:13 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 20, 06:49 AM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
 - **Sep 20, 07:24 AM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
+- **Sep 20, 07:59 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
