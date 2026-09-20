@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 13 | 28 |
 | spacenews | 0 | 1 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3595,3 +3595,4 @@
 - **Sep 20, 04:29 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 20, 05:05 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
 - **Sep 20, 05:39 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
+- **Sep 20, 06:13 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
