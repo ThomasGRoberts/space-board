@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 1 | 1 | 14 | 27 |
 | nyt | 1 | 1 | 14 | 28 |
 
@@ -3652,3 +3652,4 @@
 - **Sep 21, 01:49 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
 - **Sep 21, 02:29 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 21, 03:14 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
+- **Sep 21, 03:49 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
