@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 1 | 1 | 13 | 27 |
-| nyt | 1 | 1 | 14 | 27 |
+| nyt | 1 | 1 | 15 | 28 |
 
 # Shown Order
 
@@ -3659,3 +3659,4 @@
 - **Sep 21, 06:09 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 21, 06:49 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
 - **Sep 21, 07:23 PM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
+- **Sep 21, 07:59 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
