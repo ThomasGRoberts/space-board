@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 1 | 1 | 13 | 27 |
+| spacenews | 1 | 1 | 14 | 28 |
 | nyt | 1 | 1 | 14 | 28 |
 
 # Shown Order
@@ -3657,3 +3657,4 @@
 - **Sep 21, 04:59 PM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
 - **Sep 21, 05:34 PM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
 - **Sep 21, 06:09 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 21, 06:49 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
