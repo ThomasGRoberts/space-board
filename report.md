@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 13 | 27 |
+| spacenews | 0 | 0 | 14 | 27 |
 | nyt | 1 | 1 | 14 | 28 |
 
 # Shown Order
@@ -3649,3 +3649,4 @@
 - **Sep 21, 12:04 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
 - **Sep 21, 12:38 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
 - **Sep 21, 01:14 PM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
+- **Sep 21, 01:49 PM** - Iceye’s global presence expands to address sovereign demand (spacenews)
