@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 1 | 1 | 14 | 27 |
 | nyt | 1 | 1 | 14 | 28 |
 
@@ -3661,3 +3661,4 @@
 - **Sep 21, 07:23 PM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
 - **Sep 21, 07:59 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 21, 08:34 PM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
+- **Sep 21, 09:09 PM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
