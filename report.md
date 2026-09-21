@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
+| spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -3626,3 +3626,4 @@
 - **Sep 20, 10:33 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 20, 11:09 PM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
 - **Sep 20, 11:44 PM** - Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect. (nyt)
+- **Sep 21, 12:19 AM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
