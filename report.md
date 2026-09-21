@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 1 | 1 | 13 | 27 |
-| nyt | 1 | 1 | 14 | 27 |
+| nyt | 1 | 1 | 15 | 28 |
 
 # Shown Order
 
@@ -3653,3 +3653,4 @@
 - **Sep 21, 02:29 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 21, 03:14 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 21, 03:49 PM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
+- **Sep 21, 04:24 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
