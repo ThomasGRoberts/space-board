@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 1 | 1 | 13 | 27 |
-| nyt | 1 | 1 | 14 | 27 |
+| nyt | 1 | 1 | 15 | 28 |
 
 # Shown Order
 
@@ -3656,3 +3656,4 @@
 - **Sep 21, 04:24 PM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 21, 04:59 PM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
 - **Sep 21, 05:34 PM** - Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort (breaking_defense)
+- **Sep 21, 06:09 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
