@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| nyt | 1 | 1 | 14 | 27 |
+| nyt | 1 | 1 | 15 | 28 |
 
 # Shown Order
 
@@ -3644,3 +3644,4 @@
 - **Sep 21, 09:09 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 21, 09:44 AM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
 - **Sep 21, 10:19 AM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
+- **Sep 21, 10:54 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
