@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 | spacenews | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3629,3 +3629,4 @@
 - **Sep 21, 12:19 AM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 21, 12:54 AM** - Sept. 21: What Comes Next for On-Orbit Servicing? (spacenews)
 - **Sep 21, 01:29 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
+- **Sep 21, 02:04 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
