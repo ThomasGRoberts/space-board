@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 14 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -3634,3 +3634,4 @@
 - **Sep 21, 03:14 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 21, 03:49 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
 - **Sep 21, 04:24 AM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
+- **Sep 21, 04:59 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
