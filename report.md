@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 1 | 1 | 13 | 27 |
-| nyt | 1 | 1 | 14 | 27 |
+| nyt | 1 | 1 | 15 | 28 |
 
 # Shown Order
 
@@ -3665,3 +3665,4 @@
 - **Sep 21, 09:44 PM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
 - **Sep 21, 10:19 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
 - **Sep 21, 10:54 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
+- **Sep 21, 11:29 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
