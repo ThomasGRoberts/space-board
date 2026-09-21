@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 | spacenews | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3635,3 +3635,4 @@
 - **Sep 21, 03:49 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
 - **Sep 21, 04:24 AM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
 - **Sep 21, 04:59 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 21, 05:34 AM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
