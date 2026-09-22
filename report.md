@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 14 | 27 |
 | nyt | 1 | 1 | 14 | 28 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3665,3 +3665,4 @@
 - **Sep 22, 12:39 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 22, 01:18 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 22, 01:53 AM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
+- **Sep 22, 02:29 AM** - Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies (breaking_defense)
