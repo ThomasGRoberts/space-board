@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 13 | 27 |
+| spacenews | 1 | 1 | 14 | 28 |
 | nyt | 1 | 1 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -3676,3 +3676,4 @@
 - **Sep 22, 07:10 AM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
 - **Sep 22, 07:49 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
 - **Sep 22, 08:24 AM** - Exoplanets Offer Clues to What Lies Beyond Our Solar System (nyt)
+- **Sep 22, 09:04 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
