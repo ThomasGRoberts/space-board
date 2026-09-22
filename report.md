@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 14 | 27 |
 | nyt | 1 | 1 | 14 | 28 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3671,3 +3671,4 @@
 - **Sep 22, 04:14 AM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 22, 04:49 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 22, 05:24 AM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
+- **Sep 22, 05:59 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
