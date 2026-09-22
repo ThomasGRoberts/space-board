@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 14 | 27 |
 | nyt | 1 | 1 | 14 | 28 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3674,3 +3674,4 @@
 - **Sep 22, 05:59 AM** - Budget impasse imperils 1 in 10 Space Force programs, new chief says (breaking_defense)
 - **Sep 22, 06:34 AM** - U.S. Has Deployed Weapons in Space, Air Force Secretary Says (nyt)
 - **Sep 22, 07:10 AM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
+- **Sep 22, 07:49 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
