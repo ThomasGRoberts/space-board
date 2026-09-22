@@ -2,14 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 1 | 1 | 13 | 27 |
+| spacenews | 1 | 1 | 14 | 28 |
 | nyt | 1 | 1 | 14 | 28 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
-- **Jun 17, 11:49 AM** - Dawn Aerospace raises $25 million (spacenews)
-- **Jun 17, 12:24 PM** - Look Up and Skynopy partner on automated satellite collision avoidance service (spacenews)
 - **Jun 17, 12:59 PM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
 - **Jun 17, 01:39 PM** - America’s next economic frontier is 240,000 miles away (spacenews)
 - **Jun 17, 04:39 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
@@ -64,7 +62,6 @@
 - **Jun 20, 01:29 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 02:05 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 03:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 20, 04:29 AM** - Look Up and Skynopy partner on automated satellite collision avoidance service (spacenews)
 - **Jun 20, 05:04 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 05:39 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 06:14 AM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
@@ -80,7 +77,6 @@
 - **Jun 20, 02:54 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 04:04 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 04:39 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 20, 05:14 PM** - Dawn Aerospace raises $25 million (spacenews)
 - **Jun 20, 05:49 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 06:24 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 06:59 PM** - Upgraded Ariane 6 launches Amazon Leo satellites (spacenews)
@@ -110,7 +106,6 @@
 - **Jun 21, 10:19 AM** - Chinese startup Spark Space tests engine, raises funds for electric-pump rocket (spacenews)
 - **Jun 21, 10:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 11:29 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
-- **Jun 21, 12:04 PM** - Dawn Aerospace raises $25 million (spacenews)
 - **Jun 21, 12:39 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 01:14 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 21, 01:49 PM** - Upgraded Ariane 6 launches Amazon Leo satellites (spacenews)
@@ -3666,3 +3661,4 @@
 - **Sep 21, 10:19 PM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
 - **Sep 21, 10:54 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 21, 11:29 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 22, 12:04 AM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)

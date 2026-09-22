@@ -1,9 +1,34 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-21T00:04:38.818185+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2abb14fb74b3e3b845d26fd903cf71c3",
+    "last_run_datetime": "2026-09-22T00:04:19.723307+00:00",
+    "trigger_count": 0,
+    "current_item_id": "31a097291253a08f2dca2a289dab1af1",
     "data": [
+        {
+            "id": "423b9187fd78bdbe2d6f7598f9bfc83a",
+            "source": "spacenews",
+            "text": "Commercial Space Federation (CSF) Welcomes Two New Members",
+            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-21T15:14:25.408763Z",
+            "shown_at": [
+                "2026-09-21T15:14:26.386939Z"
+            ]
+        },
+        {
+            "id": "2abb14fb74b3e3b845d26fd903cf71c3",
+            "source": "nyt",
+            "text": "What a Massive New Crater Means for Future Moon Bases",
+            "source_link": "https://www.nytimes.com/2026/09/21/science/space/what-a-massive-new-crater-means-for-future-moon-bases.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-21T09:09:30.557446Z",
+            "shown_at": [
+                "2026-09-21T09:09:31.123514Z",
+                "2026-09-21T23:29:07.423405Z"
+            ]
+        },
         {
             "id": "3acc7c2a897c4c73c0ce85fa091a1366",
             "source": "breaking_defense",
@@ -72,7 +97,8 @@
                 "2026-09-20T19:39:11.119639Z",
                 "2026-09-20T21:23:49.269118Z",
                 "2026-09-21T12:04:49.361722Z",
-                "2026-09-21T22:19:21.075599Z"
+                "2026-09-21T22:19:21.075599Z",
+                "2026-09-22T00:04:25.854584Z"
             ]
         },
         {
@@ -9130,58 +9156,6 @@
                 "2026-06-17T12:59:04.225791Z",
                 "2026-06-19T02:24:27.524367Z",
                 "2026-06-20T00:54:33.852414Z"
-            ]
-        },
-        {
-            "id": "be0ee1efd18fc7b28115eb8e15df7db8",
-            "source": "spacenews",
-            "text": "Look Up and Skynopy partner on automated satellite collision avoidance service",
-            "source_link": "https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T11:49:35.556692Z",
-            "shown_at": [
-                "2026-06-17T12:24:51.303233Z",
-                "2026-06-20T04:29:31.322463Z"
-            ]
-        },
-        {
-            "id": "e3f2326433cdeff40e1577dd912e9fd9",
-            "source": "spacenews",
-            "text": "Dawn Aerospace raises $25 million",
-            "source_link": "https://spacenews.com/dawn-aerospace-raises-25-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T11:49:35.556614Z",
-            "shown_at": [
-                "2026-06-17T11:49:36.493049Z",
-                "2026-06-20T17:14:43.727694Z",
-                "2026-06-21T12:04:51.977930Z"
-            ]
-        },
-        {
-            "id": "2abb14fb74b3e3b845d26fd903cf71c3",
-            "source": "nyt",
-            "text": "What a Massive New Crater Means for Future Moon Bases",
-            "source_link": "https://www.nytimes.com/2026/09/21/science/space/what-a-massive-new-crater-means-for-future-moon-bases.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-21T09:09:30.557446Z",
-            "shown_at": [
-                "2026-09-21T09:09:31.123514Z",
-                "2026-09-21T23:29:07.423405Z"
-            ]
-        },
-        {
-            "id": "423b9187fd78bdbe2d6f7598f9bfc83a",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes Two New Members",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-21T15:14:25.408763Z",
-            "shown_at": [
-                "2026-09-21T15:14:26.386939Z"
             ]
         }
     ]
