@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 11 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
-| breaking_defense | 0 | 0 | 10 | 23 |
+| breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -3713,3 +3713,4 @@
 - **Sep 23, 09:59 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
 - **Sep 23, 10:34 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 23, 11:08 AM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
+- **Sep 23, 11:43 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
