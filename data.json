@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-23T00:05:01.371815+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5cc01b9193aa4cd5a635a27f2736a6b7",
+    "trigger_count": 0,
+    "current_item_id": "0b2f3bb18a80dbc8f68734829bd25338",
     "data": [
         {
             "id": "423b9187fd78bdbe2d6f7598f9bfc83a",
@@ -9251,6 +9251,18 @@
             "fetched_datetime": "2026-09-23T16:54:26.305331Z",
             "shown_at": [
                 "2026-09-23T16:54:27.134410Z"
+            ]
+        },
+        {
+            "id": "0b2f3bb18a80dbc8f68734829bd25338",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say",
+            "source_link": "https://breakingdefense.com/2026/09/exclusive-spacex-given-unique-access-to-classified-dod-space-tracking-data-sources-say/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-23T18:39:15.904549Z",
+            "shown_at": [
+                "2026-09-23T18:39:16.833314Z"
             ]
         }
     ]

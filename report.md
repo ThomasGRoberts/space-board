@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
-| breaking_defense | 2 | 2 | 14 | 25 |
+| breaking_defense | 3 | 3 | 15 | 26 |
 
 # Shown Order
 
@@ -3724,3 +3724,4 @@
 - **Sep 23, 04:54 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 23, 05:29 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 23, 06:04 PM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
+- **Sep 23, 06:39 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
