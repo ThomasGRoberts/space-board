@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 12 | 23 |
+| spacenews | 1 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 24 |
-| breaking_defense | 3 | 3 | 15 | 25 |
+| breaking_defense | 3 | 3 | 14 | 25 |
 
 # Shown Order
 
@@ -3732,3 +3732,4 @@
 - **Sep 23, 09:34 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 23, 10:09 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 23, 10:44 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 23, 11:20 PM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
