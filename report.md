@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 10 | 24 |
+| spacenews | 0 | 1 | 11 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -3709,3 +3709,4 @@
 - **Sep 23, 07:39 AM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
 - **Sep 23, 08:14 AM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 23, 08:49 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 23, 09:24 AM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
