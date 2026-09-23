@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 24 |
-| breaking_defense | 1 | 1 | 12 | 24 |
+| breaking_defense | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -3720,3 +3720,4 @@
 - **Sep 23, 02:14 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 23, 02:48 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 23, 03:35 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
+- **Sep 23, 04:14 PM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
