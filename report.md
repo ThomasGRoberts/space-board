@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 11 | 24 |
 | nyt | 0 | 1 | 11 | 25 |
-| breaking_defense | 0 | 0 | 10 | 23 |
+| breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -3698,3 +3698,4 @@
 - **Sep 23, 01:14 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
 - **Sep 23, 01:49 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 23, 02:24 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
+- **Sep 23, 02:59 AM** - SPACECOM needs more capabilities to target space adversaries: Whiting (breaking_defense)
