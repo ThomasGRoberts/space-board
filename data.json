@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-23T00:05:01.371815+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2abb14fb74b3e3b845d26fd903cf71c3",
+    "trigger_count": 0,
+    "current_item_id": "6bd944424fb2fbe436ca4c1bc9705ac0",
     "data": [
         {
             "id": "423b9187fd78bdbe2d6f7598f9bfc83a",
@@ -9224,6 +9224,18 @@
             "fetched_datetime": "2026-09-23T14:14:39.192854Z",
             "shown_at": [
                 "2026-09-23T14:14:40.841869Z"
+            ]
+        },
+        {
+            "id": "6bd944424fb2fbe436ca4c1bc9705ac0",
+            "source": "spacenews",
+            "text": "Ethereal Space Awarded NOAA SBEM Task Order 1",
+            "source_link": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-23T15:35:44.682331Z",
+            "shown_at": [
+                "2026-09-23T15:35:45.589272Z"
             ]
         }
     ]

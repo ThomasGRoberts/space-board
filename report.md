@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 0 | 11 | 23 |
+| spacenews | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 
@@ -3719,3 +3719,4 @@
 - **Sep 23, 01:39 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 23, 02:14 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 23, 02:48 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 23, 03:35 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
