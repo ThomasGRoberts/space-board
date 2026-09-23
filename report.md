@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 10 | 23 |
+| nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 
 # Shown Order
@@ -3718,3 +3718,4 @@
 - **Sep 23, 12:59 PM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
 - **Sep 23, 01:39 PM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
 - **Sep 23, 02:14 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
+- **Sep 23, 02:48 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
