@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 10 | 24 |
+| spacenews | 0 | 1 | 11 | 25 |
 | nyt | 0 | 1 | 11 | 25 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
@@ -3697,3 +3697,4 @@
 - **Sep 23, 12:34 AM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
 - **Sep 23, 01:14 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
 - **Sep 23, 01:49 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 23, 02:24 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
