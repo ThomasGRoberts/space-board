@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-23T00:05:01.371815+00:00",
-    "trigger_count": 6,
-    "current_item_id": "05c900dad35fcb13afe1457737d06651",
+    "trigger_count": 0,
+    "current_item_id": "085eca2b28175394a81d1f7f0498f0e6",
     "data": [
         {
             "id": "423b9187fd78bdbe2d6f7598f9bfc83a",
@@ -9211,6 +9211,18 @@
                 "2026-06-17T12:59:04.225791Z",
                 "2026-06-19T02:24:27.524367Z",
                 "2026-06-20T00:54:33.852414Z"
+            ]
+        },
+        {
+            "id": "085eca2b28175394a81d1f7f0498f0e6",
+            "source": "breaking_defense",
+            "text": "Air, Space Forces pick up research pace for orbital cargo delivery",
+            "source_link": "https://breakingdefense.com/2026/09/air-space-forces-pick-up-research-pace-for-orbital-cargo-delivery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-23T14:14:39.192854Z",
+            "shown_at": [
+                "2026-09-23T14:14:40.841869Z"
             ]
         }
     ]
