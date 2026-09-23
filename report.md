@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 10 | 24 |
+| spacenews | 0 | 1 | 11 | 25 |
 | nyt | 0 | 1 | 11 | 25 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
@@ -3706,3 +3706,4 @@
 - **Sep 23, 05:53 AM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
 - **Sep 23, 06:29 AM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
 - **Sep 23, 07:05 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 23, 07:39 AM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
