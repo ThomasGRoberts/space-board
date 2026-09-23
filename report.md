@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 12 | 23 |
+| spacenews | 1 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 | breaking_defense | 2 | 2 | 14 | 25 |
 
@@ -3723,3 +3723,4 @@
 - **Sep 23, 04:14 PM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
 - **Sep 23, 04:54 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 23, 05:29 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 23, 06:04 PM** - Icarus Robotics tests Joy in Canada ahead of ISS flight (spacenews)
