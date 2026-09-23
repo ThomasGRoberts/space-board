@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 13 | 23 |
-| breaking_defense | 3 | 3 | 14 | 25 |
+| nyt | 0 | 0 | 12 | 23 |
+| breaking_defense | 3 | 3 | 15 | 26 |
 
 # Shown Order
 
@@ -3727,3 +3727,4 @@
 - **Sep 23, 06:39 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 23, 07:13 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 23, 07:49 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
+- **Sep 23, 08:24 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
