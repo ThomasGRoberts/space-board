@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 10 | 24 |
+| nyt | 0 | 0 | 11 | 25 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -3711,3 +3711,4 @@
 - **Sep 23, 08:49 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 23, 09:24 AM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
 - **Sep 23, 09:59 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
+- **Sep 23, 10:34 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
