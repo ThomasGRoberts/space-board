@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 11 | 24 |
 | nyt | 0 | 1 | 11 | 25 |
-| breaking_defense | 0 | 0 | 10 | 23 |
+| breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -3707,3 +3707,4 @@
 - **Sep 23, 06:29 AM** - Space Force’s GMTI program gets a name, with Northrop as prime: General (breaking_defense)
 - **Sep 23, 07:05 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 23, 07:39 AM** - Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation (spacenews)
+- **Sep 23, 08:14 AM** - SDA misses self-imposed deadline on orbital mesh network (breaking_defense)
