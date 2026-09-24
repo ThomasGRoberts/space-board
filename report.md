@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 15 | 25 |
-| spacenews | 1 | 1 | 12 | 23 |
+| spacenews | 1 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
@@ -3668,3 +3668,4 @@
 - **Sep 24, 01:04 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
 - **Sep 24, 01:39 AM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 24, 02:14 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 24, 02:49 AM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
