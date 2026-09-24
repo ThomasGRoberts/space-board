@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 15 | 26 |
 | spacenews | 1 | 1 | 13 | 23 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -3676,3 +3676,4 @@
 - **Sep 24, 05:44 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 06:24 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 24, 06:59 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
+- **Sep 24, 07:34 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
