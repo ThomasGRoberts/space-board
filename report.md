@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 13 | 27 |
+| breaking_defense | 1 | 3 | 14 | 28 |
 | spacenews | 1 | 2 | 13 | 26 |
 | nyt | 1 | 1 | 14 | 26 |
 
@@ -3694,3 +3694,4 @@
 - **Sep 24, 04:24 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 24, 04:58 PM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
 - **Sep 24, 05:34 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 24, 06:14 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
