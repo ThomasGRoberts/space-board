@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 15 | 26 |
 | spacenews | 1 | 1 | 13 | 23 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -3682,3 +3682,4 @@
 - **Sep 24, 09:18 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 09:54 AM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
 - **Sep 24, 10:29 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
+- **Sep 24, 11:04 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
