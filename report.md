@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 3 | 13 | 27 |
+| breaking_defense | 0 | 3 | 14 | 28 |
 | spacenews | 1 | 2 | 13 | 26 |
 | nyt | 1 | 1 | 14 | 27 |
 
@@ -3697,3 +3697,4 @@
 - **Sep 24, 06:14 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 24, 06:54 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 24, 07:29 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 24, 08:04 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
