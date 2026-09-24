@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 14 | 25 |
-| spacenews | 1 | 1 | 12 | 23 |
+| spacenews | 1 | 1 | 13 | 24 |
 | nyt | 1 | 1 | 14 | 24 |
 
 # Shown Order
@@ -3687,3 +3687,4 @@
 - **Sep 24, 12:14 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
 - **Sep 24, 12:49 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 01:25 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Sep 24, 01:59 PM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
