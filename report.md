@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 26 |
-| spacenews | 1 | 1 | 13 | 24 |
+| spacenews | 2 | 2 | 14 | 25 |
 | nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
@@ -3689,3 +3689,4 @@
 - **Sep 24, 01:25 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Sep 24, 01:59 PM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
 - **Sep 24, 02:39 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
+- **Sep 24, 03:14 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)

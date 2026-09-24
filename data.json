@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-24T00:04:52.910435+00:00",
-    "trigger_count": 6,
-    "current_item_id": "95371be3ada8ff3e8726b2f9c6157089",
+    "trigger_count": 0,
+    "current_item_id": "036067beeb0e8a834d918e6c60be1ccf",
     "data": [
         {
             "id": "0b2f3bb18a80dbc8f68734829bd25338",
@@ -9194,6 +9194,18 @@
             "fetched_datetime": "2026-09-24T13:25:01.970216Z",
             "shown_at": [
                 "2026-09-24T13:25:02.899686Z"
+            ]
+        },
+        {
+            "id": "036067beeb0e8a834d918e6c60be1ccf",
+            "source": "spacenews",
+            "text": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
+            "source_link": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-24T15:14:32.280661Z",
+            "shown_at": [
+                "2026-09-24T15:14:33.208676Z"
             ]
         }
     ]
