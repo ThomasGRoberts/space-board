@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 26 |
+| breaking_defense | 2 | 3 | 14 | 27 |
 | spacenews | 1 | 2 | 13 | 25 |
 | nyt | 1 | 1 | 14 | 25 |
 
@@ -3691,3 +3691,4 @@
 - **Sep 24, 02:39 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
 - **Sep 24, 03:14 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Sep 24, 03:49 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Sep 24, 04:24 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
