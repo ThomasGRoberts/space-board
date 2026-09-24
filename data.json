@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-24T00:04:52.910435+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2abb14fb74b3e3b845d26fd903cf71c3",
+    "trigger_count": 0,
+    "current_item_id": "5ac72fec779d595c7d863aa018f744ed",
     "data": [
         {
             "id": "0b2f3bb18a80dbc8f68734829bd25338",
@@ -9180,6 +9180,18 @@
                 "2026-06-17T20:49:26.924179Z",
                 "2026-06-22T23:54:31.331700Z",
                 "2026-06-24T07:05:57.556657Z"
+            ]
+        },
+        {
+            "id": "5ac72fec779d595c7d863aa018f744ed",
+            "source": "nyt",
+            "text": "Google Is Sending an A.I. Data Center to Outer Space",
+            "source_link": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-24T13:25:01.970216Z",
+            "shown_at": [
+                "2026-09-24T13:25:02.899686Z"
             ]
         }
     ]
