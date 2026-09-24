@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 15 | 26 |
 | spacenews | 1 | 1 | 13 | 23 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -3673,3 +3673,4 @@
 - **Sep 24, 03:59 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 04:34 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 24, 05:09 AM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
+- **Sep 24, 05:44 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
