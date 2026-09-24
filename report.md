@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 15 | 25 |
-| spacenews | 1 | 1 | 12 | 23 |
+| spacenews | 1 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
@@ -3665,3 +3665,4 @@
 - **Sep 23, 11:20 PM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
 - **Sep 23, 11:54 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
 - **Sep 24, 12:29 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 24, 01:04 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
