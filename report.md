@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 15 | 25 |
-| spacenews | 1 | 1 | 12 | 23 |
+| spacenews | 1 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
@@ -3680,3 +3680,4 @@
 - **Sep 24, 08:09 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 24, 08:44 AM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 24, 09:18 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 24, 09:54 AM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
