@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 13 | 28 |
 | spacenews | 1 | 2 | 14 | 26 |
-| nyt | 1 | 1 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -3702,3 +3702,4 @@
 - **Sep 24, 09:14 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Sep 24, 09:49 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 24, 10:24 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
+- **Sep 24, 10:59 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
