@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 13 | 28 |
 | spacenews | 1 | 2 | 14 | 26 |
-| nyt | 1 | 1 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -3699,3 +3699,4 @@
 - **Sep 24, 07:29 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 08:04 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
 - **Sep 24, 08:39 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
+- **Sep 24, 09:14 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
