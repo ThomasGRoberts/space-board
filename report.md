@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 15 | 26 |
 | spacenews | 1 | 1 | 13 | 23 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -3667,3 +3667,4 @@
 - **Sep 24, 12:29 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 01:04 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
 - **Sep 24, 01:39 AM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
+- **Sep 24, 02:14 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
