@@ -1,9 +1,59 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-23T00:05:01.371815+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-09-24T00:04:52.910435+00:00",
+    "trigger_count": 2,
     "current_item_id": "95371be3ada8ff3e8726b2f9c6157089",
     "data": [
+        {
+            "id": "0b2f3bb18a80dbc8f68734829bd25338",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say",
+            "source_link": "https://breakingdefense.com/2026/09/exclusive-spacex-given-unique-access-to-classified-dod-space-tracking-data-sources-say/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-23T18:39:15.904549Z",
+            "shown_at": [
+                "2026-09-23T18:39:16.833314Z"
+            ]
+        },
+        {
+            "id": "2a0bca5bf0150800bcdf47512b735eaf",
+            "source": "breaking_defense",
+            "text": "UK launches first space squadron to ‘degrade and deny’ enemies",
+            "source_link": "https://breakingdefense.com/2026/09/uk-launches-first-space-squadron-to-degrade-and-deny-enemies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-23T16:54:26.305331Z",
+            "shown_at": [
+                "2026-09-23T16:54:27.134410Z",
+                "2026-09-23T20:24:23.621608Z"
+            ]
+        },
+        {
+            "id": "6bd944424fb2fbe436ca4c1bc9705ac0",
+            "source": "spacenews",
+            "text": "Ethereal Space Awarded NOAA SBEM Task Order 1",
+            "source_link": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-23T15:35:44.682331Z",
+            "shown_at": [
+                "2026-09-23T15:35:45.589272Z",
+                "2026-09-23T21:34:12.492022Z"
+            ]
+        },
+        {
+            "id": "085eca2b28175394a81d1f7f0498f0e6",
+            "source": "breaking_defense",
+            "text": "Air, Space Forces pick up research pace for orbital cargo delivery",
+            "source_link": "https://breakingdefense.com/2026/09/air-space-forces-pick-up-research-pace-for-orbital-cargo-delivery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-23T14:14:39.192854Z",
+            "shown_at": [
+                "2026-09-23T14:14:40.841869Z"
+            ]
+        },
         {
             "id": "423b9187fd78bdbe2d6f7598f9bfc83a",
             "source": "spacenews",
@@ -9108,170 +9158,6 @@
                 "2026-06-17T20:49:26.924179Z",
                 "2026-06-22T23:54:31.331700Z",
                 "2026-06-24T07:05:57.556657Z"
-            ]
-        },
-        {
-            "id": "f7c7c185cbb77ca9535d2f6e591a4466",
-            "source": "spacenews",
-            "text": "Upgraded Ariane 6 launches Amazon Leo satellites",
-            "source_link": "https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T19:39:29.910194Z",
-            "shown_at": [
-                "2026-06-17T19:39:32.674231Z",
-                "2026-06-20T18:59:17.078447Z",
-                "2026-06-21T13:49:35.257078Z"
-            ]
-        },
-        {
-            "id": "205a4ffa2ab95bf05386588a54941a7f",
-            "source": "nyt",
-            "text": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla",
-            "source_link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T16:39:37.170601Z",
-            "shown_at": [
-                "2026-06-17T16:39:38.189841Z",
-                "2026-06-18T09:09:43.135337Z",
-                "2026-06-18T14:24:38.594444Z",
-                "2026-06-19T04:44:39.676974Z",
-                "2026-06-19T10:09:21.819199Z",
-                "2026-06-19T18:24:44.508176Z",
-                "2026-06-19T20:14:29.352816Z",
-                "2026-06-19T23:44:24.035626Z",
-                "2026-06-20T01:29:20.991899Z",
-                "2026-06-20T05:04:58.236313Z",
-                "2026-06-20T10:44:30.630384Z",
-                "2026-06-20T12:34:50.427071Z",
-                "2026-06-20T14:20:01.084271Z",
-                "2026-06-20T16:04:57.426057Z",
-                "2026-06-20T17:49:35.773716Z",
-                "2026-06-20T19:34:48.574366Z",
-                "2026-06-20T21:19:29.624293Z",
-                "2026-06-20T23:04:46.175784Z",
-                "2026-06-21T00:49:21.691451Z",
-                "2026-06-21T02:34:34.714546Z",
-                "2026-06-21T04:19:44.378827Z",
-                "2026-06-21T06:09:18.251051Z",
-                "2026-06-21T07:59:19.462352Z",
-                "2026-06-21T09:44:31.793990Z",
-                "2026-06-21T11:29:19.227285Z",
-                "2026-06-21T13:14:42.908166Z",
-                "2026-06-21T14:59:18.022995Z",
-                "2026-06-21T16:44:28.183297Z",
-                "2026-06-21T18:39:13.656534Z",
-                "2026-06-21T20:29:32.650789Z",
-                "2026-06-21T22:14:56.870944Z",
-                "2026-06-21T23:59:27.428903Z",
-                "2026-06-22T01:44:31.997457Z",
-                "2026-06-22T03:35:01.222449Z",
-                "2026-06-22T05:29:20.477941Z",
-                "2026-06-22T07:14:32.588652Z",
-                "2026-06-22T09:05:15.075824Z",
-                "2026-06-22T10:49:37.953264Z",
-                "2026-06-22T13:44:50.329579Z",
-                "2026-06-22T15:44:54.883454Z",
-                "2026-06-22T17:29:23.949602Z",
-                "2026-06-22T19:14:34.741895Z",
-                "2026-06-22T21:34:51.637989Z",
-                "2026-06-22T23:19:28.997212Z",
-                "2026-06-23T01:05:09.195698Z",
-                "2026-06-23T03:24:34.198457Z",
-                "2026-06-23T05:14:50.999894Z",
-                "2026-06-23T07:04:42.303525Z",
-                "2026-06-23T08:49:44.715348Z",
-                "2026-06-23T11:49:09.686738Z",
-                "2026-06-23T14:14:36.632176Z",
-                "2026-06-23T16:44:41.954165Z",
-                "2026-06-23T18:34:53.363627Z",
-                "2026-06-23T20:24:37.886208Z",
-                "2026-06-23T23:19:46.255542Z",
-                "2026-06-24T01:04:56.926156Z",
-                "2026-06-24T02:49:19.549395Z",
-                "2026-06-24T04:35:01.726871Z",
-                "2026-06-24T06:26:27.795076Z",
-                "2026-06-24T08:24:43.078027Z",
-                "2026-06-24T10:49:34.531046Z",
-                "2026-06-24T16:14:39.221264Z"
-            ]
-        },
-        {
-            "id": "264c3176d16c6b6de55bb9e45f465216",
-            "source": "spacenews",
-            "text": "America’s next economic frontier is 240,000 miles away",
-            "source_link": "https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T13:39:36.120976Z",
-            "shown_at": [
-                "2026-06-17T13:39:37.937638Z",
-                "2026-06-22T00:34:54.584700Z"
-            ]
-        },
-        {
-            "id": "3d3d99614287b1f57144c1c3130d704e",
-            "source": "spacenews",
-            "text": "China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch",
-            "source_link": "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T12:59:01.885049Z",
-            "shown_at": [
-                "2026-06-17T12:59:04.225791Z",
-                "2026-06-19T02:24:27.524367Z",
-                "2026-06-20T00:54:33.852414Z"
-            ]
-        },
-        {
-            "id": "085eca2b28175394a81d1f7f0498f0e6",
-            "source": "breaking_defense",
-            "text": "Air, Space Forces pick up research pace for orbital cargo delivery",
-            "source_link": "https://breakingdefense.com/2026/09/air-space-forces-pick-up-research-pace-for-orbital-cargo-delivery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-23T14:14:39.192854Z",
-            "shown_at": [
-                "2026-09-23T14:14:40.841869Z"
-            ]
-        },
-        {
-            "id": "6bd944424fb2fbe436ca4c1bc9705ac0",
-            "source": "spacenews",
-            "text": "Ethereal Space Awarded NOAA SBEM Task Order 1",
-            "source_link": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-23T15:35:44.682331Z",
-            "shown_at": [
-                "2026-09-23T15:35:45.589272Z",
-                "2026-09-23T21:34:12.492022Z"
-            ]
-        },
-        {
-            "id": "2a0bca5bf0150800bcdf47512b735eaf",
-            "source": "breaking_defense",
-            "text": "UK launches first space squadron to ‘degrade and deny’ enemies",
-            "source_link": "https://breakingdefense.com/2026/09/uk-launches-first-space-squadron-to-degrade-and-deny-enemies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-23T16:54:26.305331Z",
-            "shown_at": [
-                "2026-09-23T16:54:27.134410Z",
-                "2026-09-23T20:24:23.621608Z"
-            ]
-        },
-        {
-            "id": "0b2f3bb18a80dbc8f68734829bd25338",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say",
-            "source_link": "https://breakingdefense.com/2026/09/exclusive-spacex-given-unique-access-to-classified-dod-space-tracking-data-sources-say/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-23T18:39:15.904549Z",
-            "shown_at": [
-                "2026-09-23T18:39:16.833314Z"
             ]
         }
     ]
