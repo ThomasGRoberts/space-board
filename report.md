@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 13 | 28 |
-| spacenews | 1 | 2 | 13 | 26 |
+| spacenews | 1 | 2 | 14 | 27 |
 | nyt | 1 | 1 | 14 | 26 |
 
 # Shown Order
@@ -3701,3 +3701,4 @@
 - **Sep 24, 08:39 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 24, 09:14 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Sep 24, 09:49 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
+- **Sep 24, 10:24 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
