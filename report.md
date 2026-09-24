@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 14 | 25 |
+| breaking_defense | 3 | 3 | 15 | 26 |
 | spacenews | 1 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 23 |
 
@@ -3681,3 +3681,4 @@
 - **Sep 24, 08:44 AM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 24, 09:18 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 09:54 AM** - Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges (spacenews)
+- **Sep 24, 10:29 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
