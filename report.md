@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 14 | 25 |
+| breaking_defense | 3 | 3 | 15 | 26 |
 | spacenews | 1 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 23 |
 
@@ -3684,3 +3684,4 @@
 - **Sep 24, 10:29 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 24, 11:04 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 11:39 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
+- **Sep 24, 12:14 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
