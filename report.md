@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 13 | 27 |
 | spacenews | 1 | 2 | 14 | 26 |
-| nyt | 1 | 1 | 13 | 25 |
+| nyt | 1 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -3693,3 +3693,4 @@
 - **Sep 24, 03:49 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Sep 24, 04:24 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 24, 04:58 PM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
+- **Sep 24, 05:34 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
