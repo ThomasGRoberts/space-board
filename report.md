@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 15 | 26 |
 | spacenews | 1 | 1 | 13 | 23 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -3685,3 +3685,4 @@
 - **Sep 24, 11:04 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 11:39 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 24, 12:14 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
+- **Sep 24, 12:49 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
