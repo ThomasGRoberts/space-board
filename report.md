@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 15 | 26 |
 | spacenews | 1 | 1 | 13 | 23 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -3670,3 +3670,4 @@
 - **Sep 24, 02:14 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 02:49 AM** - Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A (spacenews)
 - **Sep 24, 03:24 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
+- **Sep 24, 03:59 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
