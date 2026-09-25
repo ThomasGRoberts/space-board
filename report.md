@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 26 |
-| nyt | 2 | 2 | 15 | 28 |
-| breaking_defense | 0 | 3 | 12 | 27 |
+| nyt | 2 | 2 | 15 | 27 |
+| breaking_defense | 0 | 3 | 13 | 28 |
 
 # Shown Order
 
@@ -3709,3 +3709,4 @@
 - **Sep 25, 05:24 AM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
 - **Sep 25, 05:59 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
 - **Sep 25, 06:34 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 25, 07:09 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
