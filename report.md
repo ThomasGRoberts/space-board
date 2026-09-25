@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 13 | 27 |
-| nyt | 1 | 2 | 14 | 28 |
+| nyt | 1 | 2 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3735,3 +3735,4 @@
 - **Sep 25, 08:49 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 25, 09:24 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 25, 09:59 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
+- **Sep 25, 10:34 PM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
