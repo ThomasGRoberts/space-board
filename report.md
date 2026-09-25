@@ -2,21 +2,18 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 3 | 13 | 28 |
 | spacenews | 1 | 2 | 13 | 26 |
 | nyt | 1 | 1 | 14 | 26 |
+| breaking_defense | 0 | 3 | 13 | 28 |
 
 # Shown Order
 
-- **Jun 17, 08:49 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
-- **Jun 18, 11:29 AM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
 - **Jun 18, 12:05 PM** - Quantum Space wins Pentagon contract to develop orbital refueling spacecraft (spacenews)
 - **Jun 18, 12:39 PM** - Boeing demonstrates quantum protocol in payload set for 2027 launch (spacenews)
 - **Jun 18, 01:14 PM** - Swift reboost mission ready for launch (spacenews)
 - **Jun 18, 01:49 PM** - What the satellite servicing economy can borrow from carbon credits (spacenews)
 - **Jun 18, 02:59 PM** - Chinese startup Spark Space tests engine, raises funds for electric-pump rocket (spacenews)
 - **Jun 18, 04:38 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 18, 05:34 PM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
 - **Jun 18, 06:37 PM** - Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center (spacenews)
 - **Jun 18, 07:45 PM** - EQT to acquire Exolaunch (spacenews)
 - **Jun 18, 09:39 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
@@ -104,7 +101,6 @@
 - **Jun 22, 08:59 PM** - Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise (spacenews)
 - **Jun 22, 10:09 PM** - Trump executive order directs NASA to plan quantum space applications (spacenews)
 - **Jun 22, 10:44 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 22, 11:54 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
 - **Jun 23, 12:28 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 23, 02:14 AM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
 - **Jun 23, 02:49 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
@@ -139,9 +135,7 @@
 - **Jun 24, 03:59 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 24, 05:09 AM** - Chinese spaceplane releases object into orbit, according to commercial space surveillance (spacenews)
 - **Jun 24, 05:44 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 24, 07:05 AM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
 - **Jun 24, 07:44 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
-- **Jun 24, 08:59 AM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
 - **Jun 24, 09:34 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 24, 10:09 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
 - **Jun 24, 11:25 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
@@ -163,7 +157,6 @@
 - **Jun 24, 09:29 PM** - Space Force seeks fresh bidders for satellite-control antennas (spacenews)
 - **Jun 24, 10:04 PM** - Shield Space and ClearSpace partner to defend satellites from orbital threats (spacenews)
 - **Jun 24, 10:44 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 24, 11:19 PM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
 - **Jun 24, 11:59 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 25, 12:35 AM** - Boeing demonstrates quantum protocol in payload set for 2027 launch (spacenews)
 - **Jun 25, 01:09 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)

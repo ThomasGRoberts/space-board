@@ -1,9 +1,35 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-24T00:04:52.910435+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-09-25T00:04:47.799711+00:00",
+    "trigger_count": 6,
     "current_item_id": "3acc7c2a897c4c73c0ce85fa091a1366",
     "data": [
+        {
+            "id": "036067beeb0e8a834d918e6c60be1ccf",
+            "source": "spacenews",
+            "text": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
+            "source_link": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-24T15:14:32.280661Z",
+            "shown_at": [
+                "2026-09-24T15:14:33.208676Z"
+            ]
+        },
+        {
+            "id": "5ac72fec779d595c7d863aa018f744ed",
+            "source": "nyt",
+            "text": "Google Is Sending an A.I. Data Center to Outer Space",
+            "source_link": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-24T13:25:01.970216Z",
+            "shown_at": [
+                "2026-09-24T13:25:02.899686Z",
+                "2026-09-24T15:49:17.875802Z",
+                "2026-09-24T21:14:12.745017Z"
+            ]
+        },
         {
             "id": "0b2f3bb18a80dbc8f68734829bd25338",
             "source": "breaking_defense",
@@ -9165,61 +9191,6 @@
             "fetched_datetime": "2026-06-18T11:29:33.146889Z",
             "shown_at": [
                 "2026-06-18T12:05:13.584362Z"
-            ]
-        },
-        {
-            "id": "67377a4d4e29de38fc926f6a74d100b2",
-            "source": "spacenews",
-            "text": "Blue Origin begins rebuilding New Glenn pad",
-            "source_link": "https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T11:29:33.146827Z",
-            "shown_at": [
-                "2026-06-18T11:29:33.964963Z",
-                "2026-06-18T17:34:56.086750Z",
-                "2026-06-24T08:59:04.484795Z",
-                "2026-06-24T23:19:47.769228Z"
-            ]
-        },
-        {
-            "id": "bb4e8a977d2c744b64552028ee50d3c1",
-            "source": "spacenews",
-            "text": "Relativity Space to privately develop Mars orbiter mission",
-            "source_link": "https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T20:49:25.923693Z",
-            "shown_at": [
-                "2026-06-17T20:49:26.924179Z",
-                "2026-06-22T23:54:31.331700Z",
-                "2026-06-24T07:05:57.556657Z"
-            ]
-        },
-        {
-            "id": "5ac72fec779d595c7d863aa018f744ed",
-            "source": "nyt",
-            "text": "Google Is Sending an A.I. Data Center to Outer Space",
-            "source_link": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-24T13:25:01.970216Z",
-            "shown_at": [
-                "2026-09-24T13:25:02.899686Z",
-                "2026-09-24T15:49:17.875802Z",
-                "2026-09-24T21:14:12.745017Z"
-            ]
-        },
-        {
-            "id": "036067beeb0e8a834d918e6c60be1ccf",
-            "source": "spacenews",
-            "text": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
-            "source_link": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-24T15:14:32.280661Z",
-            "shown_at": [
-                "2026-09-24T15:14:33.208676Z"
             ]
         }
     ]
