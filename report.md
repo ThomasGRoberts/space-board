@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 26 |
+| spacenews | 1 | 2 | 14 | 27 |
 | nyt | 1 | 1 | 14 | 26 |
 | breaking_defense | 0 | 3 | 13 | 28 |
 
@@ -3697,3 +3697,4 @@
 - **Sep 24, 10:24 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 24, 10:59 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 24, 11:34 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
+- **Sep 25, 12:09 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
