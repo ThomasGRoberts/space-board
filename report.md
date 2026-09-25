@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 26 |
+| spacenews | 1 | 2 | 14 | 26 |
 | nyt | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 3 | 13 | 28 |
 
@@ -3701,3 +3701,4 @@
 - **Sep 25, 12:44 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 25, 01:19 AM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
 - **Sep 25, 01:54 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
+- **Sep 25, 02:29 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
