@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 13 | 27 |
 | nyt | 1 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3730,3 +3730,4 @@
 - **Sep 25, 05:49 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 25, 06:24 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Sep 25, 06:59 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 25, 07:39 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
