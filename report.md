@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 13 | 27 |
 | nyt | 1 | 2 | 14 | 28 |
-| breaking_defense | 0 | 1 | 13 | 26 |
+| breaking_defense | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -3727,3 +3727,4 @@
 - **Sep 25, 04:04 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 25, 04:39 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 25, 05:14 PM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
+- **Sep 25, 05:49 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
