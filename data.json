@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-25T00:04:47.799711+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2abb14fb74b3e3b845d26fd903cf71c3",
+    "trigger_count": 0,
+    "current_item_id": "2296efdd93d528f96b5e71f157d7ed2b",
     "data": [
         {
             "id": "036067beeb0e8a834d918e6c60be1ccf",
@@ -9193,6 +9193,18 @@
             "fetched_datetime": "2026-06-18T11:29:33.146889Z",
             "shown_at": [
                 "2026-06-18T12:05:13.584362Z"
+            ]
+        },
+        {
+            "id": "2296efdd93d528f96b5e71f157d7ed2b",
+            "source": "nyt",
+            "text": "Can Tech Companies Like Google Really Put Data Centers in Space?",
+            "source_link": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-25T01:19:40.633770Z",
+            "shown_at": [
+                "2026-09-25T01:19:41.228638Z"
             ]
         }
     ]

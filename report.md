@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 26 |
-| nyt | 1 | 1 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 | breaking_defense | 0 | 3 | 13 | 27 |
 
 # Shown Order
@@ -3699,3 +3699,4 @@
 - **Sep 24, 11:34 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 25, 12:09 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 25, 12:44 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 25, 01:19 AM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
