@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 13 | 27 |
 | nyt | 1 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3736,3 +3736,4 @@
 - **Sep 25, 09:24 PM** - Space Force to prototype new software to fuse commercial, military space tracking data (breaking_defense)
 - **Sep 25, 09:59 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Sep 25, 10:34 PM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
+- **Sep 25, 11:09 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
