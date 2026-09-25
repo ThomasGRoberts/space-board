@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 26 |
-| nyt | 2 | 2 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 | breaking_defense | 0 | 3 | 13 | 27 |
 
 # Shown Order
@@ -3717,3 +3717,4 @@
 - **Sep 25, 10:14 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 25, 10:49 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 25, 11:24 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
+- **Sep 25, 11:59 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
