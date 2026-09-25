@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 26 |
 | nyt | 2 | 2 | 15 | 27 |
-| breaking_defense | 0 | 3 | 12 | 27 |
+| breaking_defense | 0 | 3 | 13 | 28 |
 
 # Shown Order
 
@@ -3718,3 +3718,4 @@
 - **Sep 25, 10:49 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 25, 11:24 AM** - Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs (spacenews)
 - **Sep 25, 11:59 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Sep 25, 12:33 PM** - Europe’s space tracking program sees growing support, interest (breaking_defense)
