@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 | nyt | 1 | 2 | 14 | 28 |
 | breaking_defense | 0 | 1 | 13 | 27 |
 
@@ -3728,3 +3728,4 @@
 - **Sep 25, 04:39 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 25, 05:14 PM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
 - **Sep 25, 05:49 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
+- **Sep 25, 06:24 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
