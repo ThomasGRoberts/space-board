@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 14 | 28 |
-| spacenews | 0 | 0 | 13 | 26 |
+| nyt | 0 | 1 | 13 | 28 |
+| spacenews | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -3772,3 +3772,4 @@
 - **Sep 26, 07:04 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 26, 07:39 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Sep 26, 08:14 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
+- **Sep 26, 08:49 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
