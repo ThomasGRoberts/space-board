@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3753,3 +3753,4 @@
 - **Sep 26, 07:54 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 26, 08:29 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 26, 09:09 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 26, 09:45 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
