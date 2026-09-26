@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 27 |
+| nyt | 0 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3767,3 +3767,4 @@
 - **Sep 26, 04:09 PM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
 - **Sep 26, 04:44 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 26, 05:18 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
+- **Sep 26, 05:54 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
