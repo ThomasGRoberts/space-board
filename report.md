@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 27 |
+| nyt | 0 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
@@ -3776,3 +3776,4 @@
 - **Sep 26, 09:23 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 26, 09:59 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 26, 10:44 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
+- **Sep 26, 11:18 PM** - What a Massive New Crater Means for Future Moon Bases (nyt)
