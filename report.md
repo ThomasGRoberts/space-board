@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3762,3 +3762,4 @@
 - **Sep 26, 01:14 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 26, 01:48 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 26, 02:24 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Sep 26, 02:58 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
