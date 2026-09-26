@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 14 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
+| nyt | 0 | 2 | 13 | 28 |
+| spacenews | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -3754,3 +3754,4 @@
 - **Sep 26, 08:29 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 26, 09:09 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 26, 09:45 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
+- **Sep 26, 10:19 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
