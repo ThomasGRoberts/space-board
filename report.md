@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 14 | 28 |
-| spacenews | 0 | 1 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 1 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3759,3 +3759,4 @@
 - **Sep 26, 11:29 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 26, 12:03 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 26, 12:39 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Sep 26, 01:14 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
