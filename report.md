@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3744,3 +3744,4 @@
 - **Sep 26, 02:39 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 26, 03:14 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 26, 03:49 AM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
+- **Sep 26, 04:23 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
