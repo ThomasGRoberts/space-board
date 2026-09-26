@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3738,3 +3738,4 @@
 - **Sep 25, 11:09 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 25, 11:44 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 26, 12:19 AM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
+- **Sep 26, 12:54 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
