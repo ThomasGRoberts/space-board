@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 13 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -3748,3 +3748,4 @@
 - **Sep 26, 04:59 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 26, 05:34 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
 - **Sep 26, 06:09 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
+- **Sep 26, 06:44 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
