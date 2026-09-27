@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 14 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -3792,3 +3792,4 @@
 - **Sep 27, 06:59 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 27, 07:34 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 27, 08:08 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Sep 27, 08:43 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
