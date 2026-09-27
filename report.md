@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 13 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -3808,3 +3808,4 @@
 - **Sep 27, 04:24 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 27, 04:59 PM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
 - **Sep 27, 05:34 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
+- **Sep 27, 06:09 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
