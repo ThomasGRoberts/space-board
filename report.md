@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 | spacenews | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
@@ -3785,3 +3785,4 @@
 - **Sep 27, 02:49 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Sep 27, 03:24 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 27, 03:58 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
+- **Sep 27, 04:39 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
