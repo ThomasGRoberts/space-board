@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 14 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -3789,3 +3789,4 @@
 - **Sep 27, 05:14 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 27, 05:49 AM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Sep 27, 06:24 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Sep 27, 06:59 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
