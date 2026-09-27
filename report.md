@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 14 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -3813,3 +3813,4 @@
 - **Sep 27, 07:24 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 27, 07:58 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Sep 27, 08:34 PM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
+- **Sep 27, 09:08 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
