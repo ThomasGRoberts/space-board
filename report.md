@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 14 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -3822,3 +3822,4 @@
 - **Sep 28, 12:49 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 28, 01:24 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 28, 01:59 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Sep 28, 02:34 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
