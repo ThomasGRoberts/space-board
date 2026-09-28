@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 4 | 14 | 27 |
+| nyt | 4 | 4 | 15 | 28 |
 | spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
@@ -3854,3 +3854,4 @@
 - **Sep 28, 07:54 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Sep 28, 08:29 PM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
 - **Sep 28, 09:05 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
+- **Sep 28, 09:39 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
