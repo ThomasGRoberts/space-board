@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 14 | 27 |
+| nyt | 4 | 4 | 15 | 28 |
 | spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
@@ -3848,3 +3848,4 @@
 - **Sep 28, 04:19 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
 - **Sep 28, 04:54 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 28, 05:29 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
+- **Sep 28, 06:04 PM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)

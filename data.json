@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-28T00:04:40.524471+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2a0bca5bf0150800bcdf47512b735eaf",
+    "trigger_count": 0,
+    "current_item_id": "54e7035647f782a2e51dde05f9340e79",
     "data": [
         {
             "id": "2296efdd93d528f96b5e71f157d7ed2b",
@@ -9397,6 +9397,18 @@
             "fetched_datetime": "2026-09-28T15:05:16.976994Z",
             "shown_at": [
                 "2026-09-28T15:05:18.306694Z"
+            ]
+        },
+        {
+            "id": "54e7035647f782a2e51dde05f9340e79",
+            "source": "nyt",
+            "text": "SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early",
+            "source_link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-28T18:04:00.556486Z",
+            "shown_at": [
+                "2026-09-28T18:04:01.333313Z"
             ]
         }
     ]
