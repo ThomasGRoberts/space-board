@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 14 | 28 |
 | spacenews | 2 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3844,3 +3844,4 @@
 - **Sep 28, 01:54 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
 - **Sep 28, 02:29 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 28, 03:05 PM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
+- **Sep 28, 03:43 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
