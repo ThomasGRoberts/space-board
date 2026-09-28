@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-28T00:04:40.524471+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e90137ac60fb8c61a1cf0f68105b9847",
+    "trigger_count": 0,
+    "current_item_id": "24df44a33bcd0689bd6b290782d5f8d5",
     "data": [
         {
             "id": "2296efdd93d528f96b5e71f157d7ed2b",
@@ -9368,6 +9368,18 @@
             "fetched_datetime": "2026-09-28T13:19:25.379548Z",
             "shown_at": [
                 "2026-09-28T13:19:26.193190Z"
+            ]
+        },
+        {
+            "id": "24df44a33bcd0689bd6b290782d5f8d5",
+            "source": "nyt",
+            "text": "SpaceX’s Starship Makes It to Orbit for the First Time",
+            "source_link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-28T13:54:26.768197Z",
+            "shown_at": [
+                "2026-09-28T13:54:27.715454Z"
             ]
         }
     ]
