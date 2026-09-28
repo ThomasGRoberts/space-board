@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 14 | 27 |
+| nyt | 1 | 1 | 15 | 28 |
 | spacenews | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3837,3 +3837,4 @@
 - **Sep 28, 09:43 AM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
 - **Sep 28, 10:19 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 28, 10:54 AM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
+- **Sep 28, 11:29 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
