@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 4 | 15 | 28 |
-| spacenews | 2 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| spacenews | 2 | 2 | 14 | 28 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3858,3 +3858,4 @@
 - **Sep 28, 10:14 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 28, 10:49 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 28, 11:24 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Sep 28, 11:59 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
