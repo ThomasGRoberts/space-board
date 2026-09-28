@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 15 | 28 |
-| spacenews | 1 | 1 | 13 | 26 |
+| spacenews | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -3842,3 +3842,4 @@
 - **Sep 28, 12:39 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 28, 01:19 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Sep 28, 01:54 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
+- **Sep 28, 02:29 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
