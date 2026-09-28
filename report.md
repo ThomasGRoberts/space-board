@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 | spacenews | 1 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3840,3 +3840,4 @@
 - **Sep 28, 11:29 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Sep 28, 12:05 PM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
 - **Sep 28, 12:39 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
+- **Sep 28, 01:19 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
