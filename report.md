@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 4 | 15 | 28 |
-| spacenews | 2 | 2 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3849,3 +3849,4 @@
 - **Sep 28, 04:54 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 28, 05:29 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 28, 06:04 PM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
+- **Sep 28, 06:39 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
