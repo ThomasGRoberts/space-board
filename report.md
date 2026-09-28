@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 14 | 27 |
+| nyt | 1 | 1 | 15 | 28 |
 | spacenews | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3828,3 +3828,4 @@
 - **Sep 28, 04:19 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Sep 28, 04:59 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 28, 05:39 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
+- **Sep 28, 06:14 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
