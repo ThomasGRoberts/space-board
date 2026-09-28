@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3829,3 +3829,4 @@
 - **Sep 28, 04:59 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 28, 05:39 AM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
 - **Sep 28, 06:14 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
+- **Sep 28, 06:49 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
