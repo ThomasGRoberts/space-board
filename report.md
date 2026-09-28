@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3832,3 +3832,4 @@
 - **Sep 28, 06:49 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 28, 07:24 AM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Sep 28, 07:59 AM** - What a Massive New Crater Means for Future Moon Bases (nyt)
+- **Sep 28, 08:34 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
