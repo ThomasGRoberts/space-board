@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 | spacenews | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
@@ -3818,3 +3818,4 @@
 - **Sep 27, 10:19 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Sep 27, 10:59 PM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 27, 11:34 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
+- **Sep 28, 12:08 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
