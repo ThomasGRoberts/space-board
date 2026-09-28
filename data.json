@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-28T00:04:40.524471+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6e9f6a3bdbf947e2ff901407f055602d",
+    "trigger_count": 0,
+    "current_item_id": "740cd9aa29c020b3b98d5a4ee20ff155",
     "data": [
         {
             "id": "2296efdd93d528f96b5e71f157d7ed2b",
@@ -9343,6 +9343,18 @@
                 "2026-09-28T04:19:19.139507Z",
                 "2026-09-28T06:14:55.006078Z",
                 "2026-09-28T11:29:24.827394Z"
+            ]
+        },
+        {
+            "id": "740cd9aa29c020b3b98d5a4ee20ff155",
+            "source": "spacenews",
+            "text": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
+            "source_link": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-28T12:05:07.921580Z",
+            "shown_at": [
+                "2026-09-28T12:05:08.909401Z"
             ]
         }
     ]
