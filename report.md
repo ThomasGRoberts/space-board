@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 4 | 14 | 28 |
 | spacenews | 2 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3853,3 +3853,4 @@
 - **Sep 28, 07:14 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 28, 07:54 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Sep 28, 08:29 PM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
+- **Sep 28, 09:05 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
