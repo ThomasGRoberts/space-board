@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 15 | 28 |
-| spacenews | 1 | 1 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3843,3 +3843,4 @@
 - **Sep 28, 01:19 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Sep 28, 01:54 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
 - **Sep 28, 02:29 PM** - Commercial Space Federation (CSF) Welcomes Two New Members (spacenews)
+- **Sep 28, 03:05 PM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)

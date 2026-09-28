@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-28T00:04:40.524471+00:00",
-    "trigger_count": 6,
-    "current_item_id": "423b9187fd78bdbe2d6f7598f9bfc83a",
+    "trigger_count": 0,
+    "current_item_id": "8c287fec0846a25fdf51a0bd68e30cc1",
     "data": [
         {
             "id": "2296efdd93d528f96b5e71f157d7ed2b",
@@ -9381,6 +9381,18 @@
             "fetched_datetime": "2026-09-28T13:54:26.768197Z",
             "shown_at": [
                 "2026-09-28T13:54:27.715454Z"
+            ]
+        },
+        {
+            "id": "8c287fec0846a25fdf51a0bd68e30cc1",
+            "source": "spacenews",
+            "text": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
+            "source_link": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-28T15:05:16.976994Z",
+            "shown_at": [
+                "2026-09-28T15:05:18.306694Z"
             ]
         }
     ]
