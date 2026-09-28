@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 13 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -3823,3 +3823,4 @@
 - **Sep 28, 01:24 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 28, 01:59 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Sep 28, 02:34 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
+- **Sep 28, 03:09 AM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
