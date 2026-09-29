@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 14 | 28 |
 | spacenews | 2 | 3 | 14 | 28 |
-| breaking_defense | 0 | 0 | 12 | 24 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3790,3 +3790,4 @@
 - **Sep 29, 10:34 AM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Sep 29, 11:09 AM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Sep 29, 11:44 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
+- **Sep 29, 12:19 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
