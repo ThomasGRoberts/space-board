@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 15 | 28 |
 | spacenews | 2 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 11 | 25 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -3771,3 +3771,4 @@
 - **Sep 28, 11:24 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Sep 28, 11:59 PM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 29, 12:33 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
+- **Sep 29, 01:09 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
