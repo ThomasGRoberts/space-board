@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-29T00:04:59.526407+00:00",
-    "trigger_count": 6,
-    "current_item_id": "740cd9aa29c020b3b98d5a4ee20ff155",
+    "trigger_count": 0,
+    "current_item_id": "cddf73d50c16f695baaf5b21cd66c585",
     "data": [
         {
             "id": "54e7035647f782a2e51dde05f9340e79",
@@ -9319,6 +9319,18 @@
             "fetched_datetime": "2026-09-29T11:09:11.766158Z",
             "shown_at": [
                 "2026-09-29T11:09:12.481850Z"
+            ]
+        },
+        {
+            "id": "cddf73d50c16f695baaf5b21cd66c585",
+            "source": "breaking_defense",
+            "text": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
+            "source_link": "https://breakingdefense.com/2026/09/diu-space-force-team-up-to-kick-start-buys-of-commercial-sats-for-monitoring-geo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-29T13:29:35.810808Z",
+            "shown_at": [
+                "2026-09-29T13:29:36.782319Z"
             ]
         }
     ]

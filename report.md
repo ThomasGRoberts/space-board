@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 6 | 13 | 28 |
+| nyt | 4 | 6 | 13 | 27 |
 | spacenews | 2 | 3 | 15 | 28 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 1 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -3792,3 +3792,4 @@
 - **Sep 29, 11:44 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Sep 29, 12:19 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 29, 12:54 PM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
+- **Sep 29, 01:29 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
