@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 5 | 14 | 28 |
-| spacenews | 2 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| spacenews | 2 | 2 | 15 | 28 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3781,3 +3781,4 @@
 - **Sep 29, 05:14 AM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Sep 29, 05:49 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Sep 29, 06:23 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
+- **Sep 29, 06:59 AM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
