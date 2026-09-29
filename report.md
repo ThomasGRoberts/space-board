@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 13 | 28 |
-| spacenews | 1 | 3 | 14 | 27 |
+| spacenews | 1 | 3 | 15 | 28 |
 | breaking_defense | 1 | 1 | 13 | 25 |
 
 # Shown Order
@@ -3797,3 +3797,4 @@
 - **Sep 29, 02:49 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Sep 29, 03:24 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 29, 04:04 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
+- **Sep 29, 04:39 PM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
