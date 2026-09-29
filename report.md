@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 5 | 14 | 29 |
+| nyt | 4 | 5 | 14 | 28 |
 | spacenews | 2 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3777,3 +3777,4 @@
 - **Sep 29, 02:53 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 29, 03:29 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 29, 04:05 AM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
+- **Sep 29, 04:39 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
