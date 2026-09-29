@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 5 | 14 | 28 |
-| spacenews | 2 | 2 | 14 | 28 |
+| nyt | 4 | 5 | 15 | 29 |
+| spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3779,3 +3779,4 @@
 - **Sep 29, 04:05 AM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
 - **Sep 29, 04:39 AM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 29, 05:14 AM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
+- **Sep 29, 05:49 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
