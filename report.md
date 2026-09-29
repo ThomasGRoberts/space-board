@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 5 | 14 | 28 |
+| nyt | 5 | 6 | 15 | 29 |
 | spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -3785,3 +3785,4 @@
 - **Sep 29, 07:34 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Sep 29, 08:14 AM** - UK launches first space squadron to ‘degrade and deny’ enemies (breaking_defense)
 - **Sep 29, 08:49 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
+- **Sep 29, 09:24 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)

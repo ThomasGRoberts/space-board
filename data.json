@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-29T00:04:59.526407+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6bd944424fb2fbe436ca4c1bc9705ac0",
+    "trigger_count": 0,
+    "current_item_id": "966dc66af780afa7e785e3716c4807e2",
     "data": [
         {
             "id": "54e7035647f782a2e51dde05f9340e79",
@@ -9290,6 +9290,18 @@
             "fetched_datetime": "2026-09-29T00:33:50.520850Z",
             "shown_at": [
                 "2026-09-29T00:33:51.633194Z"
+            ]
+        },
+        {
+            "id": "966dc66af780afa7e785e3716c4807e2",
+            "source": "nyt",
+            "text": "Radio Waves Coming From an Alien Planet May Be a Cosmic First",
+            "source_link": "https://www.nytimes.com/2026/09/29/science/space/exoplanet-magnetic-field.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-29T09:24:51.250305Z",
+            "shown_at": [
+                "2026-09-29T09:24:51.805769Z"
             ]
         }
     ]
