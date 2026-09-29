@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-29T00:04:59.526407+00:00",
-    "trigger_count": 6,
-    "current_item_id": "036067beeb0e8a834d918e6c60be1ccf",
+    "trigger_count": 0,
+    "current_item_id": "b52a54a62f9edf79aa5417ce605cde20",
     "data": [
         {
             "id": "54e7035647f782a2e51dde05f9340e79",
@@ -9304,6 +9304,18 @@
             "fetched_datetime": "2026-09-29T09:24:51.250305Z",
             "shown_at": [
                 "2026-09-29T09:24:51.805769Z"
+            ]
+        },
+        {
+            "id": "b52a54a62f9edf79aa5417ce605cde20",
+            "source": "spacenews",
+            "text": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
+            "source_link": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-29T11:09:11.766158Z",
+            "shown_at": [
+                "2026-09-29T11:09:12.481850Z"
             ]
         }
     ]

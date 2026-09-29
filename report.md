@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 14 | 28 |
-| spacenews | 2 | 2 | 14 | 28 |
+| spacenews | 3 | 3 | 15 | 28 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3788,3 +3788,4 @@
 - **Sep 29, 09:24 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Sep 29, 09:58 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 29, 10:34 AM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
+- **Sep 29, 11:09 AM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
