@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 13 | 27 |
-| spacenews | 3 | 5 | 14 | 28 |
+| spacenews | 3 | 5 | 15 | 29 |
 | breaking_defense | 1 | 1 | 13 | 25 |
 
 # Shown Order
@@ -3807,3 +3807,4 @@
 - **Sep 29, 08:53 PM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
 - **Sep 29, 09:34 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Sep 29, 10:09 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Sep 29, 10:44 PM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
