@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 12 | 27 |
+| nyt | 2 | 6 | 13 | 28 |
 | spacenews | 2 | 4 | 15 | 28 |
 | breaking_defense | 1 | 1 | 13 | 25 |
 
@@ -3803,3 +3803,4 @@
 - **Sep 29, 06:24 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
 - **Sep 29, 06:59 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Sep 29, 07:44 PM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
+- **Sep 29, 08:19 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
