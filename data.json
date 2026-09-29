@@ -1,9 +1,86 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-28T00:04:40.524471+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-09-29T00:04:59.526407+00:00",
+    "trigger_count": 1,
     "current_item_id": "6bd944424fb2fbe436ca4c1bc9705ac0",
     "data": [
+        {
+            "id": "54e7035647f782a2e51dde05f9340e79",
+            "source": "nyt",
+            "text": "SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early",
+            "source_link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-28T18:04:00.556486Z",
+            "shown_at": [
+                "2026-09-28T18:04:01.333313Z"
+            ]
+        },
+        {
+            "id": "8c287fec0846a25fdf51a0bd68e30cc1",
+            "source": "spacenews",
+            "text": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
+            "source_link": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-28T15:05:16.976994Z",
+            "shown_at": [
+                "2026-09-28T15:05:18.306694Z"
+            ]
+        },
+        {
+            "id": "24df44a33bcd0689bd6b290782d5f8d5",
+            "source": "nyt",
+            "text": "SpaceX’s Starship Makes It to Orbit for the First Time",
+            "source_link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-28T13:54:26.768197Z",
+            "shown_at": [
+                "2026-09-28T13:54:27.715454Z",
+                "2026-09-28T16:19:25.574769Z"
+            ]
+        },
+        {
+            "id": "e90137ac60fb8c61a1cf0f68105b9847",
+            "source": "nyt",
+            "text": "SpaceX’s Starship Launches on Its First Orbital Flight",
+            "source_link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-28T13:19:25.379548Z",
+            "shown_at": [
+                "2026-09-28T13:19:26.193190Z",
+                "2026-09-28T19:54:17.841398Z"
+            ]
+        },
+        {
+            "id": "740cd9aa29c020b3b98d5a4ee20ff155",
+            "source": "spacenews",
+            "text": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
+            "source_link": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-28T12:05:07.921580Z",
+            "shown_at": [
+                "2026-09-28T12:05:08.909401Z",
+                "2026-09-28T20:29:21.878128Z"
+            ]
+        },
+        {
+            "id": "6e9f6a3bdbf947e2ff901407f055602d",
+            "source": "nyt",
+            "text": "SpaceX’s Starship Is Set to Make Its First Orbital Flight",
+            "source_link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-28T04:19:18.316928Z",
+            "shown_at": [
+                "2026-09-28T04:19:19.139507Z",
+                "2026-09-28T06:14:55.006078Z",
+                "2026-09-28T11:29:24.827394Z"
+            ]
+        },
         {
             "id": "2296efdd93d528f96b5e71f157d7ed2b",
             "source": "nyt",
@@ -9187,238 +9264,6 @@
                 "2026-06-18T22:47:43.966842Z",
                 "2026-06-19T00:39:19.722097Z",
                 "2026-06-25T05:19:26.875350Z"
-            ]
-        },
-        {
-            "id": "35a538ddb0aedde63053ddcdef9add55",
-            "source": "spacenews",
-            "text": "Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center",
-            "source_link": "https://spacenews.com/space-forces-rapid-acquisition-office-director-moves-to-air-force-nuclear-weapons-center/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T18:37:27.006384Z",
-            "shown_at": [
-                "2026-06-18T18:37:28.775562Z"
-            ]
-        },
-        {
-            "id": "11e111a266b6838379f7081d05f1639e",
-            "source": "breaking_defense",
-            "text": "Rheinmetall, Vantor plan joint ISR venture for Bundeswehr",
-            "source_link": "https://breakingdefense.com/2026/06/rheinmetall-vantor-plan-joint-isr-venture-for-bundeswehr/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T16:38:46.073384Z",
-            "shown_at": [
-                "2026-06-18T16:38:48.745602Z",
-                "2026-06-18T21:39:16.938904Z",
-                "2026-06-19T00:05:06.642607Z",
-                "2026-06-19T01:49:20.640480Z",
-                "2026-06-19T03:34:42.132667Z",
-                "2026-06-19T05:19:35.367380Z",
-                "2026-06-19T07:44:25.440599Z",
-                "2026-06-19T09:29:36.972497Z",
-                "2026-06-19T11:59:33.167856Z",
-                "2026-06-19T15:29:23.124327Z",
-                "2026-06-19T17:14:35.231634Z",
-                "2026-06-19T18:59:22.262872Z",
-                "2026-06-19T20:49:27.805590Z",
-                "2026-06-19T22:34:45.771764Z",
-                "2026-06-20T00:19:34.586498Z",
-                "2026-06-20T02:05:00.717583Z",
-                "2026-06-20T03:54:30.098686Z",
-                "2026-06-20T05:39:25.216756Z",
-                "2026-06-20T07:34:34.826402Z",
-                "2026-06-20T09:25:51.106951Z",
-                "2026-06-20T11:19:38.701283Z",
-                "2026-06-20T13:09:25.976293Z",
-                "2026-06-20T14:54:30.636112Z",
-                "2026-06-20T16:39:31.716880Z",
-                "2026-06-20T18:24:31.960222Z",
-                "2026-06-20T20:44:33.540850Z",
-                "2026-06-20T22:29:14.909761Z",
-                "2026-06-21T00:14:26.635079Z",
-                "2026-06-21T01:59:28.942893Z",
-                "2026-06-21T03:44:27.723890Z",
-                "2026-06-21T05:34:44.364288Z",
-                "2026-06-21T07:19:28.825900Z",
-                "2026-06-21T09:09:21.650989Z",
-                "2026-06-21T10:54:47.476768Z",
-                "2026-06-21T12:39:12.180141Z",
-                "2026-06-21T14:24:23.932114Z",
-                "2026-06-21T16:09:19.572964Z",
-                "2026-06-21T17:54:41.848540Z",
-                "2026-06-21T19:49:27.462422Z",
-                "2026-06-21T21:39:03.918198Z",
-                "2026-06-21T23:24:50.372840Z",
-                "2026-06-22T01:09:26.190746Z",
-                "2026-06-22T02:54:32.062685Z",
-                "2026-06-22T04:54:38.633098Z",
-                "2026-06-22T06:39:31.390785Z",
-                "2026-06-22T08:29:27.951387Z",
-                "2026-06-22T10:14:44.746331Z",
-                "2026-06-22T11:59:15.387641Z",
-                "2026-06-22T14:19:27.986383Z",
-                "2026-06-22T16:19:29.395675Z",
-                "2026-06-22T18:39:21.364789Z",
-                "2026-06-22T20:24:56.807190Z",
-                "2026-06-22T22:44:22.431262Z",
-                "2026-06-23T00:28:52.917448Z",
-                "2026-06-23T02:49:29.084225Z",
-                "2026-06-23T04:39:30.037880Z",
-                "2026-06-23T06:29:18.345580Z",
-                "2026-06-23T08:14:37.441606Z",
-                "2026-06-23T09:59:24.808077Z",
-                "2026-06-23T12:59:17.318561Z",
-                "2026-06-23T14:49:46.304104Z",
-                "2026-06-23T17:24:33.339315Z",
-                "2026-06-23T19:44:53.578118Z",
-                "2026-06-23T21:34:51.289306Z",
-                "2026-06-23T23:54:36.816173Z",
-                "2026-06-24T01:39:13.940350Z",
-                "2026-06-24T03:59:02.547433Z",
-                "2026-06-24T05:44:26.202588Z",
-                "2026-06-24T07:44:37.846675Z",
-                "2026-06-24T09:34:51.479664Z",
-                "2026-06-24T11:25:47.210075Z",
-                "2026-06-24T23:59:23.065976Z",
-                "2026-06-25T05:54:34.664906Z",
-                "2026-06-25T07:15:44.555895Z",
-                "2026-06-25T08:29:29.712537Z",
-                "2026-06-25T10:54:43.527077Z"
-            ]
-        },
-        {
-            "id": "131b5c677044662d9bd98521696f70de",
-            "source": "spacenews",
-            "text": "Chinese startup Spark Space tests engine, raises funds for electric-pump rocket",
-            "source_link": "https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T14:59:29.967388Z",
-            "shown_at": [
-                "2026-06-18T14:59:30.963376Z",
-                "2026-06-19T04:09:18.040152Z",
-                "2026-06-21T10:19:38.950796Z"
-            ]
-        },
-        {
-            "id": "0f43aa5ea2a97028762161befebfb731",
-            "source": "spacenews",
-            "text": "What the satellite servicing economy can borrow from carbon credits",
-            "source_link": "https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T13:49:41.616574Z",
-            "shown_at": [
-                "2026-06-18T13:49:44.561375Z",
-                "2026-06-20T23:39:19.033504Z",
-                "2026-06-21T21:04:45.998838Z"
-            ]
-        },
-        {
-            "id": "2f452bdc0ccbf26735aa3c2a5ed80206",
-            "source": "spacenews",
-            "text": "Swift reboost mission ready for launch",
-            "source_link": "https://spacenews.com/swift-reboost-mission-ready-for-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T12:39:23.248091Z",
-            "shown_at": [
-                "2026-06-18T13:14:41.519112Z",
-                "2026-06-20T13:44:33.620514Z"
-            ]
-        },
-        {
-            "id": "c9719752061a1d0f64b8e92d5eeb003e",
-            "source": "spacenews",
-            "text": "Boeing demonstrates quantum protocol in payload set for 2027 launch",
-            "source_link": "https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T12:39:23.248031Z",
-            "shown_at": [
-                "2026-06-18T12:39:25.623424Z",
-                "2026-06-22T19:49:33.483418Z",
-                "2026-06-23T20:59:22.363703Z",
-                "2026-06-25T00:35:09.831075Z"
-            ]
-        },
-        {
-            "id": "6e9f6a3bdbf947e2ff901407f055602d",
-            "source": "nyt",
-            "text": "SpaceX’s Starship Is Set to Make Its First Orbital Flight",
-            "source_link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-28T04:19:18.316928Z",
-            "shown_at": [
-                "2026-09-28T04:19:19.139507Z",
-                "2026-09-28T06:14:55.006078Z",
-                "2026-09-28T11:29:24.827394Z"
-            ]
-        },
-        {
-            "id": "740cd9aa29c020b3b98d5a4ee20ff155",
-            "source": "spacenews",
-            "text": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
-            "source_link": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-28T12:05:07.921580Z",
-            "shown_at": [
-                "2026-09-28T12:05:08.909401Z",
-                "2026-09-28T20:29:21.878128Z"
-            ]
-        },
-        {
-            "id": "e90137ac60fb8c61a1cf0f68105b9847",
-            "source": "nyt",
-            "text": "SpaceX’s Starship Launches on Its First Orbital Flight",
-            "source_link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-28T13:19:25.379548Z",
-            "shown_at": [
-                "2026-09-28T13:19:26.193190Z",
-                "2026-09-28T19:54:17.841398Z"
-            ]
-        },
-        {
-            "id": "24df44a33bcd0689bd6b290782d5f8d5",
-            "source": "nyt",
-            "text": "SpaceX’s Starship Makes It to Orbit for the First Time",
-            "source_link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-28T13:54:26.768197Z",
-            "shown_at": [
-                "2026-09-28T13:54:27.715454Z",
-                "2026-09-28T16:19:25.574769Z"
-            ]
-        },
-        {
-            "id": "8c287fec0846a25fdf51a0bd68e30cc1",
-            "source": "spacenews",
-            "text": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
-            "source_link": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-28T15:05:16.976994Z",
-            "shown_at": [
-                "2026-09-28T15:05:18.306694Z"
-            ]
-        },
-        {
-            "id": "54e7035647f782a2e51dde05f9340e79",
-            "source": "nyt",
-            "text": "SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early",
-            "source_link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-28T18:04:00.556486Z",
-            "shown_at": [
-                "2026-09-28T18:04:01.333313Z"
             ]
         }
     ]
