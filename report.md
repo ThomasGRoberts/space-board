@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 14 | 28 |
-| spacenews | 2 | 3 | 14 | 27 |
+| spacenews | 2 | 3 | 15 | 28 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3791,3 +3791,4 @@
 - **Sep 29, 11:09 AM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Sep 29, 11:44 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Sep 29, 12:19 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
+- **Sep 29, 12:54 PM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
