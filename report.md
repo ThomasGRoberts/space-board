@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 13 | 27 |
 | spacenews | 2 | 4 | 14 | 28 |
-| breaking_defense | 1 | 1 | 13 | 25 |
+| breaking_defense | 1 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -3801,3 +3801,4 @@
 - **Sep 29, 05:14 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 29, 05:49 PM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
 - **Sep 29, 06:24 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
+- **Sep 29, 06:59 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
