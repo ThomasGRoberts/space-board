@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-29T00:04:59.526407+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6bd944424fb2fbe436ca4c1bc9705ac0",
+    "trigger_count": 0,
+    "current_item_id": "3fe116f29c6d75dd5426d3346e6d2b1f",
     "data": [
         {
             "id": "54e7035647f782a2e51dde05f9340e79",
@@ -9264,6 +9264,18 @@
                 "2026-06-18T22:47:43.966842Z",
                 "2026-06-19T00:39:19.722097Z",
                 "2026-06-25T05:19:26.875350Z"
+            ]
+        },
+        {
+            "id": "3fe116f29c6d75dd5426d3346e6d2b1f",
+            "source": "nyt",
+            "text": "Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost",
+            "source_link": "https://www.nytimes.com/2026/09/28/science/space/nasa-starliner-investment.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-29T00:33:50.520850Z",
+            "shown_at": [
+                "2026-09-29T00:33:51.633194Z"
             ]
         }
     ]
