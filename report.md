@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 12 | 27 |
+| nyt | 2 | 6 | 13 | 28 |
 | spacenews | 3 | 5 | 15 | 28 |
 | breaking_defense | 1 | 1 | 13 | 25 |
 
@@ -3809,3 +3809,4 @@
 - **Sep 29, 10:09 PM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Sep 29, 10:44 PM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Sep 29, 11:23 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
+- **Sep 29, 11:59 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
