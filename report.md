@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 5 | 14 | 28 |
 | breaking_defense | 0 | 1 | 12 | 26 |
-| nyt | 0 | 3 | 12 | 25 |
+| nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -3820,3 +3820,4 @@
 - **Sep 30, 03:39 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Sep 30, 04:13 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 30, 04:49 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
+- **Sep 30, 05:24 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
