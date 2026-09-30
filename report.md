@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 14 | 28 |
+| spacenews | 3 | 5 | 15 | 29 |
 | breaking_defense | 1 | 1 | 13 | 25 |
-| nyt | 2 | 6 | 13 | 27 |
+| nyt | 1 | 6 | 12 | 27 |
 
 # Shown Order
 
@@ -3793,3 +3793,4 @@
 - **Sep 29, 10:44 PM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Sep 29, 11:23 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 29, 11:59 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
+- **Sep 30, 12:34 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
