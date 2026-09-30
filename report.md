@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 15 | 28 |
-| breaking_defense | 1 | 1 | 12 | 24 |
+| breaking_defense | 1 | 1 | 13 | 25 |
 | nyt | 1 | 6 | 12 | 27 |
 
 # Shown Order
@@ -3797,3 +3797,4 @@
 - **Sep 30, 01:34 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Sep 30, 02:09 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Sep 30, 02:44 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
+- **Sep 30, 03:24 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
