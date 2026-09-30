@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 14 | 28 |
+| spacenews | 3 | 5 | 15 | 29 |
 | breaking_defense | 1 | 1 | 13 | 25 |
 | nyt | 1 | 5 | 12 | 26 |
 
@@ -3799,3 +3799,4 @@
 - **Sep 30, 02:44 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
 - **Sep 30, 03:24 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 30, 03:59 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
+- **Sep 30, 04:34 AM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
