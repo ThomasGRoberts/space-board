@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 13 | 28 |
-| breaking_defense | 1 | 2 | 13 | 25 |
-| nyt | 0 | 2 | 13 | 26 |
+| breaking_defense | 1 | 2 | 13 | 26 |
+| nyt | 0 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -3827,3 +3827,4 @@
 - **Sep 30, 07:53 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Sep 30, 08:29 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Sep 30, 09:04 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
+- **Sep 30, 09:39 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
