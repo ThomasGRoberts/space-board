@@ -1,9 +1,84 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-29T00:04:59.526407+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-09-30T00:04:52.481597+00:00",
+    "trigger_count": 1,
     "current_item_id": "e90137ac60fb8c61a1cf0f68105b9847",
     "data": [
+        {
+            "id": "0bc0da7d5e7f2625e7649a979e49971f",
+            "source": "spacenews",
+            "text": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
+            "source_link": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-29T20:53:23.243498Z",
+            "shown_at": [
+                "2026-09-29T20:53:24.181797Z"
+            ]
+        },
+        {
+            "id": "d9a2ba4a57893e9240e6cfc3e32c2561",
+            "source": "spacenews",
+            "text": "Terran Orbital Names Jamin Brown Chief Operating Officer",
+            "source_link": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-29T17:48:59.484817Z",
+            "shown_at": [
+                "2026-09-29T17:49:00.272729Z"
+            ]
+        },
+        {
+            "id": "cddf73d50c16f695baaf5b21cd66c585",
+            "source": "breaking_defense",
+            "text": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
+            "source_link": "https://breakingdefense.com/2026/09/diu-space-force-team-up-to-kick-start-buys-of-commercial-sats-for-monitoring-geo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-29T13:29:35.810808Z",
+            "shown_at": [
+                "2026-09-29T13:29:36.782319Z",
+                "2026-09-29T18:59:23.439634Z",
+                "2026-09-29T21:34:30.107862Z"
+            ]
+        },
+        {
+            "id": "b52a54a62f9edf79aa5417ce605cde20",
+            "source": "spacenews",
+            "text": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
+            "source_link": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-29T11:09:11.766158Z",
+            "shown_at": [
+                "2026-09-29T11:09:12.481850Z",
+                "2026-09-29T22:44:17.307685Z"
+            ]
+        },
+        {
+            "id": "966dc66af780afa7e785e3716c4807e2",
+            "source": "nyt",
+            "text": "Radio Waves Coming From an Alien Planet May Be a Cosmic First",
+            "source_link": "https://www.nytimes.com/2026/09/29/science/space/exoplanet-magnetic-field.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-29T09:24:51.250305Z",
+            "shown_at": [
+                "2026-09-29T09:24:51.805769Z"
+            ]
+        },
+        {
+            "id": "3fe116f29c6d75dd5426d3346e6d2b1f",
+            "source": "nyt",
+            "text": "Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost",
+            "source_link": "https://www.nytimes.com/2026/09/28/science/space/nasa-starliner-investment.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-29T00:33:50.520850Z",
+            "shown_at": [
+                "2026-09-29T00:33:51.633194Z"
+            ]
+        },
         {
             "id": "54e7035647f782a2e51dde05f9340e79",
             "source": "nyt",
@@ -9212,164 +9287,6 @@
                 "2026-06-21T06:44:36.355021Z",
                 "2026-06-22T16:54:43.971014Z",
                 "2026-06-26T00:44:35.608553Z"
-            ]
-        },
-        {
-            "id": "46f270d29ce3c7693386ab76c083c59b",
-            "source": "spacenews",
-            "text": "The MEO durability crisis: why LEO hardware will fail the new orbital economy ",
-            "source_link": "https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T13:09:36.329032Z",
-            "shown_at": [
-                "2026-06-19T13:09:37.546025Z",
-                "2026-06-21T08:34:45.231425Z"
-            ]
-        },
-        {
-            "id": "58c381d38092523dbe5368cb0353c5de",
-            "source": "spacenews",
-            "text": "NASA selects mission to study space weather interaction with Earth’s atmosphere",
-            "source_link": "https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T12:34:35.713625Z",
-            "shown_at": [
-                "2026-06-19T12:34:36.699165Z",
-                "2026-06-20T21:54:33.305130Z",
-                "2026-06-23T05:49:27.517891Z",
-                "2026-06-26T07:49:39.148275Z"
-            ]
-        },
-        {
-            "id": "7b977566721a541413ef86a8568af750",
-            "source": "spacenews",
-            "text": "Mu-g Technologies enters the parabolic flight business",
-            "source_link": "https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T10:49:22.961170Z",
-            "shown_at": [
-                "2026-06-19T11:24:20.796618Z",
-                "2026-06-24T02:14:24.358483Z",
-                "2026-06-26T10:29:21.962480Z"
-            ]
-        },
-        {
-            "id": "04586d50fbc3b8d68456941203a18fab",
-            "source": "spacenews",
-            "text": "Chinese university-led mission to study asteroid Apophis during close encounter with Earth",
-            "source_link": "https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T10:49:22.961097Z",
-            "shown_at": [
-                "2026-06-19T10:49:23.869849Z",
-                "2026-06-24T00:29:25.290981Z"
-            ]
-        },
-        {
-            "id": "7d850f3ba85b0a965ec884ba06f435c6",
-            "source": "spacenews",
-            "text": "Austrian propulsion startup joins sovereign space funding surge",
-            "source_link": "https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T07:04:48.659041Z",
-            "shown_at": [
-                "2026-06-19T07:04:49.847172Z",
-                "2026-06-19T08:54:22.953551Z"
-            ]
-        },
-        {
-            "id": "5ce44e025c47885c5a5624044af0807e",
-            "source": "spacenews",
-            "text": "EQT to acquire Exolaunch",
-            "source_link": "https://spacenews.com/eqt-to-acquire-exolaunch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T19:45:35.171180Z",
-            "shown_at": [
-                "2026-06-18T19:45:36.121778Z",
-                "2026-06-18T22:47:43.966842Z",
-                "2026-06-19T00:39:19.722097Z",
-                "2026-06-25T05:19:26.875350Z"
-            ]
-        },
-        {
-            "id": "3fe116f29c6d75dd5426d3346e6d2b1f",
-            "source": "nyt",
-            "text": "Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost",
-            "source_link": "https://www.nytimes.com/2026/09/28/science/space/nasa-starliner-investment.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-29T00:33:50.520850Z",
-            "shown_at": [
-                "2026-09-29T00:33:51.633194Z"
-            ]
-        },
-        {
-            "id": "966dc66af780afa7e785e3716c4807e2",
-            "source": "nyt",
-            "text": "Radio Waves Coming From an Alien Planet May Be a Cosmic First",
-            "source_link": "https://www.nytimes.com/2026/09/29/science/space/exoplanet-magnetic-field.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-29T09:24:51.250305Z",
-            "shown_at": [
-                "2026-09-29T09:24:51.805769Z"
-            ]
-        },
-        {
-            "id": "b52a54a62f9edf79aa5417ce605cde20",
-            "source": "spacenews",
-            "text": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
-            "source_link": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-29T11:09:11.766158Z",
-            "shown_at": [
-                "2026-09-29T11:09:12.481850Z",
-                "2026-09-29T22:44:17.307685Z"
-            ]
-        },
-        {
-            "id": "cddf73d50c16f695baaf5b21cd66c585",
-            "source": "breaking_defense",
-            "text": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
-            "source_link": "https://breakingdefense.com/2026/09/diu-space-force-team-up-to-kick-start-buys-of-commercial-sats-for-monitoring-geo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-29T13:29:35.810808Z",
-            "shown_at": [
-                "2026-09-29T13:29:36.782319Z",
-                "2026-09-29T18:59:23.439634Z",
-                "2026-09-29T21:34:30.107862Z"
-            ]
-        },
-        {
-            "id": "d9a2ba4a57893e9240e6cfc3e32c2561",
-            "source": "spacenews",
-            "text": "Terran Orbital Names Jamin Brown Chief Operating Officer",
-            "source_link": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-29T17:48:59.484817Z",
-            "shown_at": [
-                "2026-09-29T17:49:00.272729Z"
-            ]
-        },
-        {
-            "id": "0bc0da7d5e7f2625e7649a979e49971f",
-            "source": "spacenews",
-            "text": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
-            "source_link": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-29T20:53:23.243498Z",
-            "shown_at": [
-                "2026-09-29T20:53:24.181797Z"
             ]
         }
     ]

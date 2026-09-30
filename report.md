@@ -2,21 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 13 | 28 |
-| spacenews | 3 | 5 | 15 | 28 |
+| spacenews | 3 | 5 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 25 |
+| nyt | 2 | 6 | 13 | 28 |
 
 # Shown Order
 
-- **Jun 18, 07:45 PM** - EQT to acquire Exolaunch (spacenews)
-- **Jun 18, 10:47 PM** - EQT to acquire Exolaunch (spacenews)
-- **Jun 19, 12:39 AM** - EQT to acquire Exolaunch (spacenews)
-- **Jun 19, 07:04 AM** - Austrian propulsion startup joins sovereign space funding surge (spacenews)
-- **Jun 19, 08:54 AM** - Austrian propulsion startup joins sovereign space funding surge (spacenews)
-- **Jun 19, 10:49 AM** - Chinese university-led mission to study asteroid Apophis during close encounter with Earth (spacenews)
-- **Jun 19, 11:24 AM** - Mu-g Technologies enters the parabolic flight business (spacenews)
-- **Jun 19, 12:34 PM** - NASA selects mission to study space weather interaction with Earth’s atmosphere (spacenews)
-- **Jun 19, 01:09 PM** - The MEO durability crisis: why LEO hardware will fail the new orbital economy  (spacenews)
 - **Jun 19, 02:19 PM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
 - **Jun 19, 02:54 PM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
 - **Jun 19, 04:04 PM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
@@ -24,10 +15,8 @@
 - **Jun 20, 06:14 AM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
 - **Jun 20, 10:09 AM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
 - **Jun 20, 08:09 PM** - Astrobotic says sale to Voyager will allow it to scale up (spacenews)
-- **Jun 20, 09:54 PM** - NASA selects mission to study space weather interaction with Earth’s atmosphere (spacenews)
 - **Jun 21, 01:24 AM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
 - **Jun 21, 06:44 AM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
-- **Jun 21, 08:34 AM** - The MEO durability crisis: why LEO hardware will fail the new orbital economy  (spacenews)
 - **Jun 21, 03:34 PM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
 - **Jun 22, 09:39 AM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
 - **Jun 22, 12:34 PM** - Astroscale raises funding to support growth strategy (spacenews)
@@ -38,7 +27,6 @@
 - **Jun 22, 10:09 PM** - Trump executive order directs NASA to plan quantum space applications (spacenews)
 - **Jun 23, 02:14 AM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
 - **Jun 23, 03:59 AM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
-- **Jun 23, 05:49 AM** - NASA selects mission to study space weather interaction with Earth’s atmosphere (spacenews)
 - **Jun 23, 07:39 AM** - America is about to cede Africa’s space industry to China, and nobody’s talking about it. (spacenews)
 - **Jun 23, 09:24 AM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
 - **Jun 23, 10:39 AM** - China appears to be developing 7-meter-diameter reusable rockets (spacenews)
@@ -50,8 +38,6 @@
 - **Jun 23, 07:09 PM** - Commercial Space Federation (CSF) Welcomes New Associate Member (spacenews)
 - **Jun 23, 10:09 PM** - Boeing wins $2 billion Space Force contract for communications satellites (spacenews)
 - **Jun 23, 10:44 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
-- **Jun 24, 12:29 AM** - Chinese university-led mission to study asteroid Apophis during close encounter with Earth (spacenews)
-- **Jun 24, 02:14 AM** - Mu-g Technologies enters the parabolic flight business (spacenews)
 - **Jun 24, 03:24 AM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 24, 05:09 AM** - Chinese spaceplane releases object into orbit, according to commercial space surveillance (spacenews)
 - **Jun 24, 10:09 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
@@ -80,7 +66,6 @@
 - **Jun 25, 03:29 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 04:04 AM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 25, 04:39 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
-- **Jun 25, 05:19 AM** - EQT to acquire Exolaunch (spacenews)
 - **Jun 25, 06:35 AM** - Commercial Space Federation (CSF) Welcomes New Associate Member (spacenews)
 - **Jun 25, 07:54 AM** - Commercial Space Federation (CSF) Welcomes New Associate Member (spacenews)
 - **Jun 25, 09:04 AM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
@@ -119,11 +104,9 @@
 - **Jun 26, 05:59 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 26, 06:34 AM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
 - **Jun 26, 07:09 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 26, 07:49 AM** - NASA selects mission to study space weather interaction with Earth’s atmosphere (spacenews)
 - **Jun 26, 08:34 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 26, 09:09 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 26, 09:49 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
-- **Jun 26, 10:29 AM** - Mu-g Technologies enters the parabolic flight business (spacenews)
 - **Jun 26, 11:05 AM** - Europe’s next security challenge is in orbit (spacenews)
 - **Jun 26, 11:49 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 26, 12:32 PM** - Starlink veterans launch startup to broaden megaconstellation ownership (spacenews)
