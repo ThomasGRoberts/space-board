@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 5 | 14 | 28 |
-| breaking_defense | 0 | 1 | 12 | 25 |
+| breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 0 | 3 | 12 | 26 |
 
 # Shown Order
@@ -3818,3 +3818,4 @@
 - **Sep 30, 01:59 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 30, 03:05 PM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
 - **Sep 30, 03:39 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
+- **Sep 30, 04:13 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
