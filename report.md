@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 25 |
-| nyt | 1 | 6 | 12 | 26 |
+| nyt | 1 | 6 | 13 | 27 |
 
 # Shown Order
 
@@ -3798,3 +3798,4 @@
 - **Sep 30, 02:09 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Sep 30, 02:44 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
 - **Sep 30, 03:24 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
+- **Sep 30, 03:59 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
