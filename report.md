@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 13 | 28 |
 | breaking_defense | 1 | 2 | 13 | 26 |
-| nyt | 0 | 2 | 12 | 25 |
+| nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -3826,3 +3826,4 @@
 - **Sep 30, 07:19 PM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
 - **Sep 30, 07:53 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Sep 30, 08:29 PM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
+- **Sep 30, 09:04 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
