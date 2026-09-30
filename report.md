@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 14 | 28 |
-| breaking_defense | 1 | 2 | 12 | 26 |
-| nyt | 0 | 2 | 12 | 25 |
+| breaking_defense | 1 | 2 | 12 | 25 |
+| nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -3823,3 +3823,4 @@
 - **Sep 30, 05:24 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Sep 30, 05:59 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Sep 30, 06:35 PM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
+- **Sep 30, 07:19 PM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
