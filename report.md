@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 13 | 28 |
+| spacenews | 3 | 5 | 14 | 29 |
 | breaking_defense | 1 | 2 | 13 | 26 |
 | nyt | 0 | 2 | 12 | 25 |
 
@@ -3822,3 +3822,4 @@
 - **Sep 30, 04:49 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Sep 30, 05:24 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Sep 30, 05:59 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Sep 30, 06:35 PM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
