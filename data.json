@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-30T00:04:52.481597+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6e9f6a3bdbf947e2ff901407f055602d",
+    "trigger_count": 0,
+    "current_item_id": "6cfca3f1d2e350a1c0958979b87360a8",
     "data": [
         {
             "id": "0bc0da7d5e7f2625e7649a979e49971f",
@@ -9337,6 +9337,18 @@
             "fetched_datetime": "2026-09-30T15:05:06.020536Z",
             "shown_at": [
                 "2026-09-30T15:05:06.786712Z"
+            ]
+        },
+        {
+            "id": "6cfca3f1d2e350a1c0958979b87360a8",
+            "source": "breaking_defense",
+            "text": "White House names nominees for SPACECOM, Navy No. 2",
+            "source_link": "https://breakingdefense.com/2026/09/white-house-names-nominees-for-spacecom-navy-no-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-30T17:59:14.716569Z",
+            "shown_at": [
+                "2026-09-30T17:59:15.383063Z"
             ]
         }
     ]

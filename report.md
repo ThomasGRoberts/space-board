@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 13 | 28 |
-| breaking_defense | 0 | 1 | 12 | 25 |
+| breaking_defense | 1 | 2 | 13 | 26 |
 | nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
@@ -3821,3 +3821,4 @@
 - **Sep 30, 04:13 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 30, 04:49 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Sep 30, 05:24 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
+- **Sep 30, 05:59 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
