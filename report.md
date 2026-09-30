@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 5 | 14 | 28 |
 | breaking_defense | 0 | 1 | 12 | 26 |
-| nyt | 0 | 3 | 12 | 25 |
+| nyt | 0 | 3 | 13 | 26 |
 
 # Shown Order
 
@@ -3817,3 +3817,4 @@
 - **Sep 30, 01:24 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Sep 30, 01:59 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 30, 03:05 PM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
+- **Sep 30, 03:39 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
