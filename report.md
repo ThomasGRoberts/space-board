@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 14 | 28 |
-| breaking_defense | 1 | 2 | 13 | 26 |
-| nyt | 0 | 2 | 12 | 25 |
+| spacenews | 2 | 5 | 13 | 28 |
+| breaking_defense | 1 | 2 | 13 | 25 |
+| nyt | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -3829,3 +3829,4 @@
 - **Sep 30, 09:04 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Sep 30, 09:39 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Sep 30, 10:14 PM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
+- **Sep 30, 10:49 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
