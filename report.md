@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 14 | 28 |
+| spacenews | 3 | 5 | 15 | 29 |
 | breaking_defense | 1 | 1 | 13 | 25 |
 | nyt | 0 | 5 | 12 | 26 |
 
@@ -3808,3 +3808,4 @@
 - **Sep 30, 08:03 AM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
 - **Sep 30, 08:39 AM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
 - **Sep 30, 09:19 AM** - Can Tech Companies Like Google Really Put Data Centers in Space? (nyt)
+- **Sep 30, 09:54 AM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
