@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-30T00:04:52.481597+00:00",
-    "trigger_count": 6,
-    "current_item_id": "085eca2b28175394a81d1f7f0498f0e6",
+    "trigger_count": 0,
+    "current_item_id": "3bf901a7d8c45cd5ce9970adaf77f1e7",
     "data": [
         {
             "id": "0bc0da7d5e7f2625e7649a979e49971f",
@@ -9321,6 +9321,18 @@
             "fetched_datetime": "2026-09-30T13:24:49.911119Z",
             "shown_at": [
                 "2026-09-30T13:24:50.645438Z"
+            ]
+        },
+        {
+            "id": "3bf901a7d8c45cd5ce9970adaf77f1e7",
+            "source": "spacenews",
+            "text": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+            "source_link": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-30T15:05:06.020536Z",
+            "shown_at": [
+                "2026-09-30T15:05:06.786712Z"
             ]
         }
     ]

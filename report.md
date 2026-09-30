@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 13 | 28 |
+| spacenews | 4 | 6 | 14 | 29 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 0 | 3 | 12 | 25 |
 
@@ -3816,3 +3816,4 @@
 - **Sep 30, 12:49 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Sep 30, 01:24 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Sep 30, 01:59 PM** - Air, Space Forces pick up research pace for orbital cargo delivery (breaking_defense)
+- **Sep 30, 03:05 PM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
