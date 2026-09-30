@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 13 | 28 |
+| spacenews | 2 | 5 | 14 | 29 |
 | breaking_defense | 1 | 1 | 13 | 25 |
 | nyt | 0 | 5 | 13 | 26 |
 
@@ -3811,3 +3811,4 @@
 - **Sep 30, 09:54 AM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
 - **Sep 30, 10:29 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Sep 30, 11:05 AM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
+- **Sep 30, 11:39 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
