@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 28 |
-| breaking_defense | 1 | 1 | 13 | 25 |
+| breaking_defense | 1 | 1 | 14 | 26 |
 | nyt | 0 | 5 | 12 | 26 |
 
 # Shown Order
@@ -3812,3 +3812,4 @@
 - **Sep 30, 10:29 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Sep 30, 11:05 AM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
 - **Sep 30, 11:39 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
+- **Sep 30, 12:14 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
