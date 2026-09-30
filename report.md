@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 25 |
-| nyt | 1 | 6 | 12 | 26 |
+| nyt | 1 | 6 | 13 | 27 |
 
 # Shown Order
 
@@ -3795,3 +3795,4 @@
 - **Sep 29, 11:59 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Sep 30, 12:34 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 30, 01:34 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
+- **Sep 30, 02:09 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
