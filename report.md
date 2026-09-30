@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 13 | 28 |
+| spacenews | 3 | 5 | 14 | 29 |
 | breaking_defense | 1 | 1 | 13 | 25 |
 | nyt | 0 | 4 | 13 | 26 |
 
@@ -3814,3 +3814,4 @@
 - **Sep 30, 11:39 AM** - Ethereal Space Awarded NOAA SBEM Task Order 1 (spacenews)
 - **Sep 30, 12:14 PM** - EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say (breaking_defense)
 - **Sep 30, 12:49 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
+- **Sep 30, 01:24 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-09-30T00:04:52.481597+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e90137ac60fb8c61a1cf0f68105b9847",
+    "trigger_count": 0,
+    "current_item_id": "128b554a2cfa240fb88553ae1c3550ce",
     "data": [
         {
             "id": "0bc0da7d5e7f2625e7649a979e49971f",
@@ -9308,6 +9308,18 @@
                 "2026-06-21T06:44:36.355021Z",
                 "2026-06-22T16:54:43.971014Z",
                 "2026-06-26T00:44:35.608553Z"
+            ]
+        },
+        {
+            "id": "128b554a2cfa240fb88553ae1c3550ce",
+            "source": "spacenews",
+            "text": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+            "source_link": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-30T13:24:49.911119Z",
+            "shown_at": [
+                "2026-09-30T13:24:50.645438Z"
             ]
         }
     ]
