@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 13 | 25 |
+| breaking_defense | 1 | 2 | 14 | 26 |
 | spacenews | 4 | 7 | 14 | 28 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3853,3 +3853,4 @@
 - **Oct 01, 05:44 PM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
 - **Oct 01, 06:24 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Oct 01, 06:59 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
+- **Oct 01, 07:34 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
