@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 12 | 25 |
+| breaking_defense | 1 | 2 | 13 | 26 |
 | spacenews | 3 | 6 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 25 |
 
@@ -3836,3 +3836,4 @@
 - **Oct 01, 07:19 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 01, 07:54 AM** - Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production (spacenews)
 - **Oct 01, 08:29 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Oct 01, 09:05 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
