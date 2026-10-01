@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 12 | 25 |
+| breaking_defense | 1 | 2 | 13 | 26 |
 | spacenews | 3 | 6 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -3839,3 +3839,4 @@
 - **Oct 01, 09:05 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 01, 09:39 AM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
 - **Oct 01, 10:13 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
+- **Oct 01, 10:54 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
