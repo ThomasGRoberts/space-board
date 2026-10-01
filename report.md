@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 12 | 25 |
-| spacenews | 3 | 6 | 14 | 29 |
+| breaking_defense | 1 | 2 | 13 | 26 |
+| spacenews | 3 | 6 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -3824,3 +3824,4 @@
 - **Oct 01, 12:05 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
 - **Oct 01, 12:38 AM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
 - **Oct 01, 01:14 AM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
+- **Oct 01, 01:49 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
