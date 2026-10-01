@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-01T00:05:01.026107+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6cfca3f1d2e350a1c0958979b87360a8",
+    "trigger_count": 0,
+    "current_item_id": "55c0280d8725830c712e325f0d6e35e9",
     "data": [
         {
             "id": "6cfca3f1d2e350a1c0958979b87360a8",
@@ -9388,6 +9388,18 @@
             "fetched_datetime": "2026-10-01T15:44:21.338424Z",
             "shown_at": [
                 "2026-10-01T15:44:24.258816Z"
+            ]
+        },
+        {
+            "id": "55c0280d8725830c712e325f0d6e35e9",
+            "source": "breaking_defense",
+            "text": "DoD demo contract takes a step closer to beaming solar power from space",
+            "source_link": "https://breakingdefense.com/2026/10/dod-demo-contract-takes-a-step-closer-to-beaming-solar-power-from-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-01T17:44:31.077483Z",
+            "shown_at": [
+                "2026-10-01T17:44:31.946805Z"
             ]
         }
     ]

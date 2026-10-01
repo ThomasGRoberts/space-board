@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 13 | 25 |
+| breaking_defense | 2 | 2 | 14 | 26 |
 | spacenews | 4 | 8 | 14 | 28 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3850,3 +3850,4 @@
 - **Oct 01, 03:44 PM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
 - **Oct 01, 04:29 PM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 01, 05:09 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 01, 05:44 PM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
