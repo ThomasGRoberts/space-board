@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 26 |
-| spacenews | 4 | 7 | 14 | 27 |
+| spacenews | 4 | 7 | 15 | 28 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3854,3 +3854,4 @@
 - **Oct 01, 06:24 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Oct 01, 06:59 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 01, 07:34 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
+- **Oct 01, 08:09 PM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
