@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 13 | 26 |
+| breaking_defense | 2 | 3 | 14 | 27 |
 | spacenews | 4 | 6 | 14 | 27 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3856,3 +3856,4 @@
 - **Oct 01, 07:34 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 01, 08:09 PM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
 - **Oct 01, 08:44 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
+- **Oct 01, 09:19 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
