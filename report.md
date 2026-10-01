@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 26 |
-| spacenews | 4 | 7 | 14 | 27 |
-| nyt | 0 | 0 | 12 | 25 |
+| spacenews | 4 | 7 | 15 | 28 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -3851,3 +3851,4 @@
 - **Oct 01, 04:29 PM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 01, 05:09 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 01, 05:44 PM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
+- **Oct 01, 06:24 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
