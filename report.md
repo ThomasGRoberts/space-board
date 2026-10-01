@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 26 |
-| spacenews | 3 | 6 | 14 | 28 |
+| spacenews | 3 | 6 | 15 | 29 |
 | nyt | 0 | 1 | 12 | 24 |
 
 # Shown Order
@@ -3831,3 +3831,4 @@
 - **Oct 01, 04:19 AM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
 - **Oct 01, 04:54 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Oct 01, 05:29 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 01, 06:04 AM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
