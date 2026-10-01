@@ -2,26 +2,17 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 13 | 28 |
 | breaking_defense | 1 | 2 | 13 | 26 |
+| spacenews | 2 | 5 | 14 | 28 |
 | nyt | 0 | 2 | 12 | 25 |
 
 # Shown Order
 
-- **Jun 19, 02:19 PM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
-- **Jun 19, 02:54 PM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
-- **Jun 19, 04:04 PM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
 - **Jun 19, 07:38 PM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
-- **Jun 20, 06:14 AM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
-- **Jun 20, 10:09 AM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
 - **Jun 20, 08:09 PM** - Astrobotic says sale to Voyager will allow it to scale up (spacenews)
 - **Jun 21, 01:24 AM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
-- **Jun 21, 06:44 AM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
-- **Jun 21, 03:34 PM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
-- **Jun 22, 09:39 AM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
 - **Jun 22, 12:34 PM** - Astroscale raises funding to support growth strategy (spacenews)
 - **Jun 22, 01:09 PM** - America is about to cede Africa’s space industry to China, and nobody’s talking about it. (spacenews)
-- **Jun 22, 04:54 PM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
 - **Jun 22, 06:05 PM** - Chinese spaceplane releases object into orbit, according to commercial space surveillance (spacenews)
 - **Jun 22, 08:59 PM** - Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise (spacenews)
 - **Jun 22, 10:09 PM** - Trump executive order directs NASA to plan quantum space applications (spacenews)
@@ -92,7 +83,6 @@
 - **Jun 25, 10:49 PM** - Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform (spacenews)
 - **Jun 25, 11:29 PM** - Rocket Lab wins NASA award for three Electron launches (spacenews)
 - **Jun 26, 12:04 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 26, 12:44 AM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
 - **Jun 26, 01:19 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 01:54 AM** - Ubotica raises $11 million to scale maritime-intelligence platform (spacenews)
 - **Jun 26, 02:29 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
@@ -3831,3 +3821,4 @@
 - **Sep 30, 10:14 PM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
 - **Sep 30, 10:49 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Sep 30, 11:29 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 01, 12:05 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)

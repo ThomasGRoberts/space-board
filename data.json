@@ -1,9 +1,48 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-09-30T00:04:52.481597+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6cfca3f1d2e350a1c0958979b87360a8",
+    "last_run_datetime": "2026-10-01T00:05:01.026107+00:00",
+    "trigger_count": 0,
+    "current_item_id": "0bc0da7d5e7f2625e7649a979e49971f",
     "data": [
+        {
+            "id": "6cfca3f1d2e350a1c0958979b87360a8",
+            "source": "breaking_defense",
+            "text": "White House names nominees for SPACECOM, Navy No. 2",
+            "source_link": "https://breakingdefense.com/2026/09/white-house-names-nominees-for-spacecom-navy-no-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-30T17:59:14.716569Z",
+            "shown_at": [
+                "2026-09-30T17:59:15.383063Z",
+                "2026-09-30T21:39:56.963847Z",
+                "2026-09-30T23:29:15.261725Z"
+            ]
+        },
+        {
+            "id": "3bf901a7d8c45cd5ce9970adaf77f1e7",
+            "source": "spacenews",
+            "text": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+            "source_link": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-30T15:05:06.020536Z",
+            "shown_at": [
+                "2026-09-30T15:05:06.786712Z"
+            ]
+        },
+        {
+            "id": "128b554a2cfa240fb88553ae1c3550ce",
+            "source": "spacenews",
+            "text": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+            "source_link": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-09-30T13:24:49.911119Z",
+            "shown_at": [
+                "2026-09-30T13:24:50.645438Z",
+                "2026-09-30T16:49:37.602137Z"
+            ]
+        },
         {
             "id": "0bc0da7d5e7f2625e7649a979e49971f",
             "source": "spacenews",
@@ -14,7 +53,8 @@
             "fetched_datetime": "2026-09-29T20:53:23.243498Z",
             "shown_at": [
                 "2026-09-29T20:53:24.181797Z",
-                "2026-09-30T02:44:25.508945Z"
+                "2026-09-30T02:44:25.508945Z",
+                "2026-10-01T00:05:07.276036Z"
             ]
         },
         {
@@ -9276,88 +9316,6 @@
                 "2026-06-21T01:24:19.188417Z",
                 "2026-06-23T09:24:39.380080Z",
                 "2026-06-26T06:34:54.340021Z"
-            ]
-        },
-        {
-            "id": "091d563fc5c4636dc2364cd3104b2167",
-            "source": "spacenews",
-            "text": "MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market",
-            "source_link": "https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T16:04:50.857653Z",
-            "shown_at": [
-                "2026-06-19T16:04:52.118648Z",
-                "2026-06-20T10:09:24.882144Z",
-                "2026-06-21T15:34:42.130489Z"
-            ]
-        },
-        {
-            "id": "a4de28b0c1bc91442ee95ea4be7520e1",
-            "source": "spacenews",
-            "text": "ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million",
-            "source_link": "https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T14:54:38.418047Z",
-            "shown_at": [
-                "2026-06-19T14:54:39.418488Z",
-                "2026-06-20T06:14:44.475210Z",
-                "2026-06-22T09:39:26.368888Z"
-            ]
-        },
-        {
-            "id": "154d88b8033073e1c1165a14dd58e579",
-            "source": "spacenews",
-            "text": "Northrop Grumman says industry ready to scale solid rocket production, with longer contracts",
-            "source_link": "https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T14:19:28.269140Z",
-            "shown_at": [
-                "2026-06-19T14:19:29.182892Z",
-                "2026-06-21T06:44:36.355021Z",
-                "2026-06-22T16:54:43.971014Z",
-                "2026-06-26T00:44:35.608553Z"
-            ]
-        },
-        {
-            "id": "128b554a2cfa240fb88553ae1c3550ce",
-            "source": "spacenews",
-            "text": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
-            "source_link": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-30T13:24:49.911119Z",
-            "shown_at": [
-                "2026-09-30T13:24:50.645438Z",
-                "2026-09-30T16:49:37.602137Z"
-            ]
-        },
-        {
-            "id": "3bf901a7d8c45cd5ce9970adaf77f1e7",
-            "source": "spacenews",
-            "text": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
-            "source_link": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-30T15:05:06.020536Z",
-            "shown_at": [
-                "2026-09-30T15:05:06.786712Z"
-            ]
-        },
-        {
-            "id": "6cfca3f1d2e350a1c0958979b87360a8",
-            "source": "breaking_defense",
-            "text": "White House names nominees for SPACECOM, Navy No. 2",
-            "source_link": "https://breakingdefense.com/2026/09/white-house-names-nominees-for-spacecom-navy-no-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-09-30T17:59:14.716569Z",
-            "shown_at": [
-                "2026-09-30T17:59:15.383063Z",
-                "2026-09-30T21:39:56.963847Z",
-                "2026-09-30T23:29:15.261725Z"
             ]
         }
     ]
