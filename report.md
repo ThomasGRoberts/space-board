@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 26 |
-| spacenews | 3 | 5 | 14 | 27 |
+| spacenews | 4 | 6 | 15 | 28 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3843,3 +3843,4 @@
 - **Oct 01, 11:29 AM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
 - **Oct 01, 12:04 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Oct 01, 12:39 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 01, 01:14 PM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
