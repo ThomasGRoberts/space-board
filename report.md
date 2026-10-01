@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 25 |
 | spacenews | 3 | 6 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3844,3 +3844,4 @@
 - **Oct 01, 12:04 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Oct 01, 12:39 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 01, 01:14 PM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
+- **Oct 01, 01:49 PM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
