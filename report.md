@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 26 |
 | spacenews | 4 | 7 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3855,3 +3855,4 @@
 - **Oct 01, 06:59 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 01, 07:34 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 01, 08:09 PM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
+- **Oct 01, 08:44 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
