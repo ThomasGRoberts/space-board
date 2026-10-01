@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 26 |
 | spacenews | 3 | 5 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3841,3 +3841,4 @@
 - **Oct 01, 10:13 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Oct 01, 10:54 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 01, 11:29 AM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
+- **Oct 01, 12:04 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
