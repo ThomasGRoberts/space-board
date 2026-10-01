@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 25 |
 | spacenews | 3 | 6 | 14 | 29 |
-| nyt | 0 | 1 | 12 | 24 |
+| nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -3829,3 +3829,4 @@
 - **Oct 01, 03:09 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Oct 01, 03:44 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 01, 04:19 AM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
+- **Oct 01, 04:54 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
