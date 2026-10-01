@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 25 |
-| spacenews | 3 | 7 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 25 |
+| spacenews | 4 | 8 | 15 | 29 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3847,3 +3847,4 @@
 - **Oct 01, 01:49 PM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
 - **Oct 01, 02:25 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 01, 02:59 PM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
+- **Oct 01, 03:44 PM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
