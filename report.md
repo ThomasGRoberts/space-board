@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 26 |
-| spacenews | 3 | 6 | 14 | 28 |
+| spacenews | 3 | 6 | 15 | 29 |
 | nyt | 0 | 1 | 12 | 24 |
 
 # Shown Order
@@ -3825,3 +3825,4 @@
 - **Oct 01, 12:38 AM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
 - **Oct 01, 01:14 AM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
 - **Oct 01, 01:49 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 01, 02:29 AM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
