@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 26 |
 | spacenews | 4 | 6 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3858,3 +3858,4 @@
 - **Oct 01, 08:44 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Oct 01, 09:19 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 01, 09:54 PM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
+- **Oct 01, 10:29 PM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
