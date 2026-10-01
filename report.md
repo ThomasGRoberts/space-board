@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 25 |
 | spacenews | 3 | 6 | 14 | 29 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3838,3 +3838,4 @@
 - **Oct 01, 08:29 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
 - **Oct 01, 09:05 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 01, 09:39 AM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
+- **Oct 01, 10:13 AM** - Google Is Sending an A.I. Data Center to Outer Space (nyt)
