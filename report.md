@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 26 |
-| spacenews | 2 | 5 | 13 | 28 |
+| spacenews | 3 | 6 | 14 | 29 |
 | nyt | 0 | 1 | 12 | 24 |
 
 # Shown Order
@@ -3822,3 +3822,4 @@
 - **Sep 30, 10:49 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Sep 30, 11:29 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 01, 12:05 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
+- **Oct 01, 12:38 AM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
