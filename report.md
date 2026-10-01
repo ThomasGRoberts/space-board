@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 25 |
 | spacenews | 3 | 6 | 14 | 29 |
-| nyt | 0 | 1 | 12 | 24 |
+| nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -3832,3 +3832,4 @@
 - **Oct 01, 04:54 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Oct 01, 05:29 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 01, 06:04 AM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
+- **Oct 01, 06:38 AM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
