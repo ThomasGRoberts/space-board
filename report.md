@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 25 |
 | spacenews | 3 | 6 | 14 | 29 |
-| nyt | 0 | 1 | 12 | 24 |
+| nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -3826,3 +3826,4 @@
 - **Oct 01, 01:14 AM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
 - **Oct 01, 01:49 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 01, 02:29 AM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
+- **Oct 01, 03:09 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
