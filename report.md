@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 27 |
-| spacenews | 3 | 6 | 13 | 27 |
+| spacenews | 3 | 6 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -3847,3 +3847,4 @@
 - **Oct 02, 01:24 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 02, 01:59 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 02, 02:34 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
+- **Oct 02, 03:09 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
