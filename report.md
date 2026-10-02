@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 26 |
 | spacenews | 3 | 6 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3851,3 +3851,4 @@
 - **Oct 02, 03:45 AM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
 - **Oct 02, 04:19 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 02, 04:54 AM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
+- **Oct 02, 05:29 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
