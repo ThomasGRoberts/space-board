@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 14 | 27 |
+| breaking_defense | 2 | 3 | 15 | 28 |
 | spacenews | 0 | 4 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3877,3 +3877,4 @@
 - **Oct 02, 07:04 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 02, 07:39 PM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Oct 02, 08:14 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
+- **Oct 02, 08:49 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
