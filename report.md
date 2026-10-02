@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 14 | 28 |
-| spacenews | 0 | 4 | 13 | 27 |
+| spacenews | 0 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -3878,3 +3878,4 @@
 - **Oct 02, 07:39 PM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Oct 02, 08:14 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 02, 08:49 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
+- **Oct 02, 09:24 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
