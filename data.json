@@ -1,9 +1,82 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-01T00:05:01.026107+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-10-02T00:04:38.047580+00:00",
+    "trigger_count": 5,
     "current_item_id": "3bf901a7d8c45cd5ce9970adaf77f1e7",
     "data": [
+        {
+            "id": "b335bc21e336a1be30d320cd68829436",
+            "source": "breaking_defense",
+            "text": "Can’t start, won’t start: Over 150 new military programs face delay under a CR",
+            "source_link": "https://breakingdefense.com/2026/10/cant-start-wont-start-over-150-new-military-programs-face-delay-under-a-cr/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-01T21:19:20.331450Z",
+            "shown_at": [
+                "2026-10-01T21:19:21.113308Z"
+            ]
+        },
+        {
+            "id": "55c0280d8725830c712e325f0d6e35e9",
+            "source": "breaking_defense",
+            "text": "DoD demo contract takes a step closer to beaming solar power from space",
+            "source_link": "https://breakingdefense.com/2026/10/dod-demo-contract-takes-a-step-closer-to-beaming-solar-power-from-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-01T17:44:31.077483Z",
+            "shown_at": [
+                "2026-10-01T17:44:31.946805Z"
+            ]
+        },
+        {
+            "id": "8498cc27dc555e5b59ea239c8028f8ad",
+            "source": "spacenews",
+            "text": "World Space Week 2026 Celebrates the “Rocket Revolution” ",
+            "source_link": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-01T15:44:21.338424Z",
+            "shown_at": [
+                "2026-10-01T15:44:24.258816Z",
+                "2026-10-01T21:54:21.590263Z"
+            ]
+        },
+        {
+            "id": "9477ec1c21b0ec036a28f1c4408df608",
+            "source": "spacenews",
+            "text": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
+            "source_link": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-01T14:59:20.015417Z",
+            "shown_at": [
+                "2026-10-01T14:59:20.811868Z"
+            ]
+        },
+        {
+            "id": "396c6880d745754421b4f840dd421b1e",
+            "source": "spacenews",
+            "text": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
+            "source_link": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-01T13:14:33.505777Z",
+            "shown_at": [
+                "2026-10-01T13:14:34.605758Z"
+            ]
+        },
+        {
+            "id": "27f592872baab7a5df5a5aa4cf047099",
+            "source": "spacenews",
+            "text": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+            "source_link": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-01T00:38:58.705139Z",
+            "shown_at": [
+                "2026-10-01T00:38:59.578136Z"
+            ]
+        },
         {
             "id": "6cfca3f1d2e350a1c0958979b87360a8",
             "source": "breaking_defense",
@@ -9263,164 +9336,6 @@
                 "2026-06-27T10:18:33.892531Z",
                 "2026-06-27T11:34:45.061139Z",
                 "2026-06-27T16:14:21.262707Z"
-            ]
-        },
-        {
-            "id": "62692580e6b2cc37529b36a98506758d",
-            "source": "spacenews",
-            "text": "Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise",
-            "source_link": "https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-22T20:59:34.523290Z",
-            "shown_at": [
-                "2026-06-22T20:59:35.459565Z",
-                "2026-06-27T02:59:21.596029Z",
-                "2026-06-27T12:44:35.914950Z",
-                "2026-06-28T21:54:37.217366Z"
-            ]
-        },
-        {
-            "id": "73c96ebf950e64ba615a97f21ea5d0ad",
-            "source": "spacenews",
-            "text": "Chinese spaceplane releases object into orbit, according to commercial space surveillance",
-            "source_link": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-22T18:05:09.014951Z",
-            "shown_at": [
-                "2026-06-22T18:05:11.460536Z",
-                "2026-06-24T05:09:28.646293Z",
-                "2026-06-27T01:49:41.389823Z"
-            ]
-        },
-        {
-            "id": "fb4f191b1254779751c25e34c3313139",
-            "source": "spacenews",
-            "text": "America is about to cede Africa’s space industry to China, and nobody’s talking about it.",
-            "source_link": "https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-22T13:09:40.747357Z",
-            "shown_at": [
-                "2026-06-22T13:09:41.744570Z",
-                "2026-06-23T07:39:19.215218Z",
-                "2026-06-28T12:35:00.874943Z"
-            ]
-        },
-        {
-            "id": "eed0583237f57feaed543be3ea0830df",
-            "source": "spacenews",
-            "text": "Astroscale raises funding to support growth strategy",
-            "source_link": "https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-22T12:34:53.883477Z",
-            "shown_at": [
-                "2026-06-22T12:34:54.636643Z",
-                "2026-06-27T17:24:39.948907Z",
-                "2026-06-27T20:54:48.253064Z",
-                "2026-06-28T05:14:43.163888Z"
-            ]
-        },
-        {
-            "id": "bf1b0ad794684c6eb5ab2c3b159b4ce8",
-            "source": "spacenews",
-            "text": "Astrobotic says sale to Voyager will allow it to scale up",
-            "source_link": "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-20T20:09:12.920446Z",
-            "shown_at": [
-                "2026-06-20T20:09:13.941207Z"
-            ]
-        },
-        {
-            "id": "a6b3044bdefe35ebdc650ad0e096b97e",
-            "source": "spacenews",
-            "text": "India’s Jio lays out sovereign LEO constellation plan ahead of IPO",
-            "source_link": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T19:38:52.440587Z",
-            "shown_at": [
-                "2026-06-19T19:38:54.516492Z",
-                "2026-06-21T01:24:19.188417Z",
-                "2026-06-23T09:24:39.380080Z",
-                "2026-06-26T06:34:54.340021Z"
-            ]
-        },
-        {
-            "id": "27f592872baab7a5df5a5aa4cf047099",
-            "source": "spacenews",
-            "text": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
-            "source_link": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-01T00:38:58.705139Z",
-            "shown_at": [
-                "2026-10-01T00:38:59.578136Z"
-            ]
-        },
-        {
-            "id": "396c6880d745754421b4f840dd421b1e",
-            "source": "spacenews",
-            "text": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
-            "source_link": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-01T13:14:33.505777Z",
-            "shown_at": [
-                "2026-10-01T13:14:34.605758Z"
-            ]
-        },
-        {
-            "id": "9477ec1c21b0ec036a28f1c4408df608",
-            "source": "spacenews",
-            "text": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
-            "source_link": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-01T14:59:20.015417Z",
-            "shown_at": [
-                "2026-10-01T14:59:20.811868Z"
-            ]
-        },
-        {
-            "id": "8498cc27dc555e5b59ea239c8028f8ad",
-            "source": "spacenews",
-            "text": "World Space Week 2026 Celebrates the “Rocket Revolution” ",
-            "source_link": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-01T15:44:21.338424Z",
-            "shown_at": [
-                "2026-10-01T15:44:24.258816Z",
-                "2026-10-01T21:54:21.590263Z"
-            ]
-        },
-        {
-            "id": "55c0280d8725830c712e325f0d6e35e9",
-            "source": "breaking_defense",
-            "text": "DoD demo contract takes a step closer to beaming solar power from space",
-            "source_link": "https://breakingdefense.com/2026/10/dod-demo-contract-takes-a-step-closer-to-beaming-solar-power-from-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-01T17:44:31.077483Z",
-            "shown_at": [
-                "2026-10-01T17:44:31.946805Z"
-            ]
-        },
-        {
-            "id": "b335bc21e336a1be30d320cd68829436",
-            "source": "breaking_defense",
-            "text": "Can’t start, won’t start: Over 150 new military programs face delay under a CR",
-            "source_link": "https://breakingdefense.com/2026/10/cant-start-wont-start-over-150-new-military-programs-face-delay-under-a-cr/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-01T21:19:20.331450Z",
-            "shown_at": [
-                "2026-10-01T21:19:21.113308Z"
             ]
         }
     ]
