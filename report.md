@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 26 |
 | spacenews | 4 | 6 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3842,3 +3842,4 @@
 - **Oct 01, 10:29 PM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 01, 11:04 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 01, 11:39 PM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
+- **Oct 02, 12:14 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
