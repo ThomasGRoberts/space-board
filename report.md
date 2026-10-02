@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 26 |
-| spacenews | 2 | 5 | 14 | 28 |
+| breaking_defense | 2 | 3 | 14 | 27 |
+| spacenews | 1 | 5 | 13 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3867,3 +3867,4 @@
 - **Oct 02, 01:15 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 02, 01:49 PM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Oct 02, 02:24 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
+- **Oct 02, 02:59 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
