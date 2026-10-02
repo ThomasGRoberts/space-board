@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 26 |
+| breaking_defense | 2 | 3 | 14 | 27 |
 | spacenews | 3 | 6 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -3855,3 +3855,4 @@
 - **Oct 02, 06:04 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 02, 06:39 AM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
 - **Oct 02, 07:14 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
+- **Oct 02, 07:49 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
