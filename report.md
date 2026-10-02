@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 27 |
-| spacenews | 3 | 6 | 13 | 27 |
+| spacenews | 3 | 6 | 14 | 28 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3844,3 +3844,4 @@
 - **Oct 01, 11:39 PM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
 - **Oct 02, 12:14 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Oct 02, 12:49 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
+- **Oct 02, 01:24 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
