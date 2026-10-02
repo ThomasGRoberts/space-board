@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 26 |
 | spacenews | 2 | 5 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3866,3 +3866,4 @@
 - **Oct 02, 12:34 PM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 02, 01:15 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 02, 01:49 PM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
+- **Oct 02, 02:24 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
