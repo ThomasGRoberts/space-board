@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 27 |
-| spacenews | 0 | 4 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 25 |
+| spacenews | 0 | 4 | 13 | 28 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -3873,3 +3873,4 @@
 - **Oct 02, 04:44 PM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 02, 05:19 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 02, 05:54 PM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
+- **Oct 02, 06:29 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
