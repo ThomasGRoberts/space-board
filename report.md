@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 26 |
 | spacenews | 3 | 6 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3854,3 +3854,4 @@
 - **Oct 02, 05:29 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 02, 06:04 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 02, 06:39 AM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
+- **Oct 02, 07:14 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
