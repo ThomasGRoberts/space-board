@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 26 |
+| breaking_defense | 2 | 3 | 14 | 27 |
 | spacenews | 3 | 6 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -3858,3 +3858,4 @@
 - **Oct 02, 07:49 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
 - **Oct 02, 08:29 AM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
 - **Oct 02, 09:04 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
+- **Oct 02, 09:38 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
