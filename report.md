@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 26 |
 | spacenews | 3 | 6 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3857,3 +3857,4 @@
 - **Oct 02, 07:14 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Oct 02, 07:49 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
 - **Oct 02, 08:29 AM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
+- **Oct 02, 09:04 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
