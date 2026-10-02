@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 26 |
 | spacenews | 3 | 6 | 14 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3860,3 +3860,4 @@
 - **Oct 02, 09:04 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 02, 09:38 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 02, 10:14 AM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
+- **Oct 02, 10:49 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
