@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 27 |
-| spacenews | 3 | 6 | 13 | 27 |
+| spacenews | 3 | 6 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -3862,3 +3862,4 @@
 - **Oct 02, 10:14 AM** - Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth (spacenews)
 - **Oct 02, 10:49 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 02, 11:24 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
+- **Oct 02, 11:59 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
