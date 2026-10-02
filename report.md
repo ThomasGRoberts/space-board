@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 15 | 28 |
-| spacenews | 0 | 4 | 13 | 27 |
+| breaking_defense | 2 | 3 | 14 | 28 |
+| spacenews | 0 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -3875,3 +3875,4 @@
 - **Oct 02, 05:54 PM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
 - **Oct 02, 06:29 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Oct 02, 07:04 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 02, 07:39 PM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
