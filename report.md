@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 15 | 27 |
 | spacenews | 0 | 4 | 13 | 28 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3870,3 +3870,4 @@
 - **Oct 02, 02:59 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 02, 03:33 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 02, 04:09 PM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
+- **Oct 02, 04:44 PM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
