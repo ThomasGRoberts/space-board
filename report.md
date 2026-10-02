@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 14 | 27 |
+| breaking_defense | 1 | 3 | 15 | 28 |
 | spacenews | 0 | 4 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3880,3 +3880,4 @@
 - **Oct 02, 08:49 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 02, 09:24 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Oct 02, 09:59 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
+- **Oct 02, 10:34 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
