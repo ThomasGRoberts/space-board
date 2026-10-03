@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 14 | 29 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3904,3 +3904,4 @@
 - **Oct 03, 03:09 PM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
 - **Oct 03, 03:44 PM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 03, 04:18 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 03, 04:54 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
