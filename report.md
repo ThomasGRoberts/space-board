@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 13 | 27 |
+| breaking_defense | 0 | 2 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3906,3 +3906,4 @@
 - **Oct 03, 04:18 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 03, 04:54 PM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Oct 03, 05:29 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
+- **Oct 03, 06:08 PM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
