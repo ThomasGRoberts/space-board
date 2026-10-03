@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 14 | 28 |
-| spacenews | 0 | 3 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 3 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -3884,3 +3884,4 @@
 - **Oct 03, 03:14 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 03, 03:49 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 03, 04:24 AM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
+- **Oct 03, 04:59 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
