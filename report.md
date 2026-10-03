@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 15 | 28 |
-| spacenews | 0 | 3 | 13 | 27 |
+| breaking_defense | 1 | 3 | 14 | 28 |
+| spacenews | 0 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3895,3 +3895,4 @@
 - **Oct 03, 09:44 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 03, 10:19 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Oct 03, 10:54 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
+- **Oct 03, 11:29 AM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
