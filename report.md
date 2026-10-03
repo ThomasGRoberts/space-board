@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 14 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3901,3 +3901,4 @@
 - **Oct 03, 01:13 PM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
 - **Oct 03, 01:49 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Oct 03, 02:31 PM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
+- **Oct 03, 03:09 PM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
