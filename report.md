@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 28 |
 | spacenews | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3914,3 +3914,4 @@
 - **Oct 03, 09:04 PM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 03, 09:39 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 03, 10:23 PM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
+- **Oct 03, 10:59 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
