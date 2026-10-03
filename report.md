@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 15 | 28 |
-| spacenews | 0 | 3 | 13 | 26 |
+| breaking_defense | 1 | 3 | 14 | 28 |
+| spacenews | 0 | 3 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3877,3 +3877,4 @@
 - **Oct 02, 11:08 PM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Oct 02, 11:44 PM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
 - **Oct 03, 12:19 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
+- **Oct 03, 12:54 AM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
