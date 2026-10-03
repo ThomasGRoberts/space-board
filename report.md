@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 15 | 28 |
-| spacenews | 0 | 3 | 13 | 27 |
+| breaking_defense | 1 | 3 | 14 | 28 |
+| spacenews | 0 | 3 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3886,3 +3886,4 @@
 - **Oct 03, 04:24 AM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
 - **Oct 03, 04:59 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 03, 05:33 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 03, 06:09 AM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
