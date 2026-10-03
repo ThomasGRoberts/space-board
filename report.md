@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 13 | 27 |
+| breaking_defense | 0 | 2 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3909,3 +3909,4 @@
 - **Oct 03, 06:08 PM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
 - **Oct 03, 06:44 PM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 03, 07:18 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
+- **Oct 03, 07:54 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
