@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 14 | 28 |
+| breaking_defense | 1 | 3 | 15 | 28 |
 | spacenews | 0 | 3 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3891,3 +3891,4 @@
 - **Oct 03, 07:19 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 03, 07:58 AM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
 - **Oct 03, 08:33 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
+- **Oct 03, 09:08 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
