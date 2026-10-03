@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 15 | 28 |
-| spacenews | 0 | 3 | 13 | 26 |
+| breaking_defense | 1 | 3 | 14 | 28 |
+| spacenews | 0 | 3 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3880,3 +3880,4 @@
 - **Oct 03, 12:54 AM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
 - **Oct 03, 01:29 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Oct 03, 02:04 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 03, 02:39 AM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
