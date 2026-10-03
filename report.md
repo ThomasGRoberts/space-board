@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 15 | 28 |
-| spacenews | 0 | 3 | 13 | 27 |
+| spacenews | 0 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3898,3 +3898,4 @@
 - **Oct 03, 11:29 AM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
 - **Oct 03, 12:04 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Oct 03, 12:39 PM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
+- **Oct 03, 01:13 PM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
