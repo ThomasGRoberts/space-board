@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 13 | 28 |
 | spacenews | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3911,3 +3911,4 @@
 - **Oct 03, 07:18 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
 - **Oct 03, 07:54 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 03, 08:29 PM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
+- **Oct 03, 09:04 PM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
