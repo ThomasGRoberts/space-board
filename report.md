@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 28 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 | nyt | 2 | 2 | 14 | 27 |
 
 # Shown Order
@@ -3935,3 +3935,4 @@
 - **Oct 04, 09:34 AM** - Who Owns the Moon? (nyt)
 - **Oct 04, 10:09 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 04, 10:44 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
+- **Oct 04, 11:19 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
