@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 27 |
+| breaking_defense | 0 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3930,3 +3930,4 @@
 - **Oct 04, 06:39 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 04, 07:14 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
 - **Oct 04, 07:49 AM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
+- **Oct 04, 08:24 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
