@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 27 |
+| breaking_defense | 0 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 26 |
 | nyt | 2 | 2 | 14 | 28 |
 
@@ -3934,3 +3934,4 @@
 - **Oct 04, 08:59 AM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Oct 04, 09:34 AM** - Who Owns the Moon? (nyt)
 - **Oct 04, 10:09 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 04, 10:44 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
