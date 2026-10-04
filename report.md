@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
 | nyt | 2 | 2 | 14 | 28 |
 
@@ -3943,3 +3943,4 @@
 - **Oct 04, 02:18 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 04, 02:53 PM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
 - **Oct 04, 03:29 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
+- **Oct 04, 04:04 PM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
