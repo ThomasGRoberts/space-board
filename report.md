@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 28 |
+| breaking_defense | 0 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3920,3 +3920,4 @@
 - **Oct 04, 12:48 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Oct 04, 01:24 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 04, 01:59 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
+- **Oct 04, 02:34 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
