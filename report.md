@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 27 |
+| breaking_defense | 0 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3927,3 +3927,4 @@
 - **Oct 04, 04:54 AM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 04, 05:29 AM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Oct 04, 06:05 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
+- **Oct 04, 06:39 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
