@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
-| nyt | 2 | 2 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 
 # Shown Order
 
@@ -3933,3 +3933,4 @@
 - **Oct 04, 08:24 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 04, 08:59 AM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Oct 04, 09:34 AM** - Who Owns the Moon? (nyt)
+- **Oct 04, 10:09 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
