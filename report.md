@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 27 |
+| breaking_defense | 0 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 26 |
 | nyt | 2 | 2 | 14 | 28 |
 
@@ -3937,3 +3937,4 @@
 - **Oct 04, 10:44 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
 - **Oct 04, 11:19 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
 - **Oct 04, 11:53 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
+- **Oct 04, 12:29 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
