@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 27 |
+| breaking_defense | 0 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3924,3 +3924,4 @@
 - **Oct 04, 03:08 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 04, 03:44 AM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
 - **Oct 04, 04:19 AM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
+- **Oct 04, 04:54 AM** - Berkowitz out at DoD Space Policy office (breaking_defense)
