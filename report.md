@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 | nyt | 2 | 2 | 14 | 28 |
 
 # Shown Order
@@ -3947,3 +3947,4 @@
 - **Oct 04, 04:39 PM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
 - **Oct 04, 05:14 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 04, 05:49 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
+- **Oct 04, 06:24 PM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
