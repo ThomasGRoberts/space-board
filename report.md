@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
-| nyt | 2 | 2 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 
 # Shown Order
 
@@ -3948,3 +3948,4 @@
 - **Oct 04, 05:14 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 04, 05:49 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 04, 06:24 PM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
+- **Oct 04, 06:59 PM** - SpaceX’s Starship Makes It to Orbit for the First Time (nyt)
