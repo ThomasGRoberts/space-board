@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-04T00:04:52.413491+00:00",
-    "trigger_count": 6,
-    "current_item_id": "128b554a2cfa240fb88553ae1c3550ce",
+    "trigger_count": 0,
+    "current_item_id": "e620e985f8463aab24c9be17c8ba1c4e",
     "data": [
         {
             "id": "ea8f44af9e61e1d2cbdde2ac97fa0660",
@@ -9427,6 +9427,27 @@
                 "2026-06-25T19:44:36.051361Z",
                 "2026-06-29T19:54:41.635360Z"
             ]
+        },
+        {
+            "id": "e620e985f8463aab24c9be17c8ba1c4e",
+            "source": "nyt",
+            "text": "Who Owns the Moon?",
+            "source_link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-04T09:34:41.976543Z",
+            "shown_at": [
+                "2026-10-04T09:34:42.408987Z"
+            ]
+        },
+        {
+            "id": "805e94179d847bce454ac23ebf89821b",
+            "source": "nyt",
+            "text": "Superpowers Race to Put Nuclear Reactors on the Moon",
+            "source_link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-10-04T09:34:41.976577Z"
         }
     ]
 }
