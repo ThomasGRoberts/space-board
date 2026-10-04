@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
 | nyt | 2 | 2 | 14 | 28 |
 
@@ -3952,3 +3952,4 @@
 - **Oct 04, 07:35 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 04, 08:08 PM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
 - **Oct 04, 08:44 PM** - SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early (nyt)
+- **Oct 04, 09:19 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
