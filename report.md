@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
+| spacenews | 0 | 0 | 14 | 27 |
 | nyt | 2 | 2 | 14 | 28 |
 
 # Shown Order
@@ -3956,3 +3956,4 @@
 - **Oct 04, 09:54 PM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
 - **Oct 04, 10:29 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 04, 11:05 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
+- **Oct 04, 11:39 PM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
