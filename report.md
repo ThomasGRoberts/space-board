@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
-| nyt | 2 | 2 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 
 # Shown Order
 
@@ -3939,3 +3939,4 @@
 - **Oct 04, 11:53 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 04, 12:29 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 04, 01:09 PM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
+- **Oct 04, 01:44 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
