@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 28 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 | nyt | 2 | 2 | 14 | 27 |
 
 # Shown Order
@@ -3938,3 +3938,4 @@
 - **Oct 04, 11:19 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
 - **Oct 04, 11:53 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 04, 12:29 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
+- **Oct 04, 01:09 PM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
