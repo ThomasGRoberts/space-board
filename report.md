@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 13 | 27 |
-| nyt | 2 | 2 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 
 # Shown Order
 
@@ -3942,3 +3942,4 @@
 - **Oct 04, 01:44 PM** - SpaceX’s Starship Is Set to Make Its First Orbital Flight (nyt)
 - **Oct 04, 02:18 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 04, 02:53 PM** - Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando (spacenews)
+- **Oct 04, 03:29 PM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
