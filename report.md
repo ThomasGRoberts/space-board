@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 10 | 25 |
 | breaking_defense | 1 | 1 | 12 | 25 |
-| spacenews | 2 | 2 | 11 | 24 |
+| spacenews | 2 | 2 | 12 | 25 |
 
 # Shown Order
 
@@ -3980,3 +3980,4 @@
 - **Oct 05, 08:05 PM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 05, 09:29 PM** - Who Owns the Moon? (nyt)
 - **Oct 05, 10:05 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
+- **Oct 05, 10:38 PM** - Resource competition intensifies with surge in megaconstellations (spacenews)
