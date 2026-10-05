@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 12 | 26 |
-| breaking_defense | 0 | 0 | 11 | 24 |
-| spacenews | 1 | 1 | 13 | 26 |
+| breaking_defense | 0 | 0 | 12 | 25 |
+| spacenews | 1 | 1 | 12 | 26 |
 
 # Shown Order
 
@@ -3966,3 +3966,4 @@
 - **Oct 05, 08:28 AM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Oct 05, 09:05 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 05, 12:34 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
+- **Oct 05, 01:09 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
