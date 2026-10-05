@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 11 | 25 |
 | breaking_defense | 1 | 1 | 12 | 25 |
-| spacenews | 1 | 1 | 12 | 25 |
+| spacenews | 2 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -3977,3 +3977,4 @@
 - **Oct 05, 05:49 PM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 05, 06:24 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 05, 07:00 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
+- **Oct 05, 08:05 PM** - Resource competition intensifies with surge in megaconstellations (spacenews)
