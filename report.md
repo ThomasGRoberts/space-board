@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 14 | 27 |
+| spacenews | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3964,3 +3964,4 @@
 - **Oct 05, 07:13 AM** - Who Owns the Moon? (nyt)
 - **Oct 05, 07:54 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 05, 08:28 AM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
+- **Oct 05, 09:05 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
