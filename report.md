@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3957,3 +3957,4 @@
 - **Oct 05, 03:09 AM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
 - **Oct 05, 03:44 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 05, 04:19 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 05, 04:53 AM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
