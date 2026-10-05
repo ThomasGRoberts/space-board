@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 12 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| nyt | 0 | 2 | 11 | 26 |
+| breaking_defense | 1 | 1 | 13 | 26 |
 | spacenews | 1 | 1 | 12 | 25 |
 
 # Shown Order
@@ -3976,3 +3976,4 @@
 - **Oct 05, 05:14 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 05, 05:49 PM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 05, 06:24 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
+- **Oct 05, 07:00 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
