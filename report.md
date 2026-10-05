@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 14 | 27 |
+| spacenews | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3955,3 +3955,4 @@
 - **Oct 05, 01:59 AM** - SpaceX’s Starship Launches on Its First Orbital Flight (nyt)
 - **Oct 05, 02:34 AM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 05, 03:09 AM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
+- **Oct 05, 03:44 AM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
