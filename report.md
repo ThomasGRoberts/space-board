@@ -2,15 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| nyt | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| nyt | 2 | 2 | 14 | 27 |
 
 # Shown Order
 
-- **Jun 23, 02:14 AM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
-- **Jun 23, 03:59 AM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
-- **Jun 23, 10:39 AM** - China appears to be developing 7-meter-diameter reusable rockets (spacenews)
 - **Jun 23, 11:14 AM** - Report: U.S. needs framework for responding to hostile acts in space (spacenews)
 - **Jun 23, 12:23 PM** - Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation (spacenews)
 - **Jun 23, 01:35 PM** - Loft Orbital to test AI models on spacecraft for Earth observation (spacenews)
@@ -60,10 +57,8 @@
 - **Jun 25, 03:29 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 04:04 PM** - Small satellite operators confront a bottleneck to space access (spacenews)
 - **Jun 25, 04:39 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
-- **Jun 25, 05:14 PM** - China appears to be developing 7-meter-diameter reusable rockets (spacenews)
 - **Jun 25, 05:54 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 25, 07:09 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
-- **Jun 25, 07:44 PM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
 - **Jun 25, 08:24 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 08:59 PM** - Botswana signs the Artemis Accords (spacenews)
 - **Jun 25, 09:39 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
@@ -145,7 +140,6 @@
 - **Jun 28, 03:59 AM** - Europe’s next security challenge is in orbit (spacenews)
 - **Jun 28, 04:39 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 28, 05:49 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
-- **Jun 28, 06:23 AM** - China appears to be developing 7-meter-diameter reusable rockets (spacenews)
 - **Jun 28, 06:59 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 28, 07:34 AM** - Europe’s next security challenge is in orbit (spacenews)
 - **Jun 28, 08:09 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
@@ -175,7 +169,6 @@
 - **Jun 28, 11:44 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 29, 12:19 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 29, 01:05 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 29, 01:39 AM** - China appears to be developing 7-meter-diameter reusable rockets (spacenews)
 - **Jun 29, 02:14 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 29, 02:49 AM** - Weather Stream releases first light imagery from GEMS2 microwave radiometer (spacenews)
 - **Jun 29, 03:24 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
@@ -204,7 +197,6 @@
 - **Jun 29, 06:09 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 29, 06:44 PM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 29, 07:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
-- **Jun 29, 07:54 PM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
 - **Jun 29, 08:29 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 29, 09:04 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 29, 09:39 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)

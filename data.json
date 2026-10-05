@@ -1,9 +1,35 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-04T00:04:52.413491+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-10-05T00:04:44.490144+00:00",
+    "trigger_count": 5,
     "current_item_id": "9477ec1c21b0ec036a28f1c4408df608",
     "data": [
+        {
+            "id": "805e94179d847bce454ac23ebf89821b",
+            "source": "nyt",
+            "text": "Superpowers Race to Put Nuclear Reactors on the Moon",
+            "source_link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-04T09:34:41.976577Z",
+            "shown_at": [
+                "2026-10-04T10:09:25.759408Z",
+                "2026-10-04T17:14:40.281919Z",
+                "2026-10-04T22:29:28.707375Z"
+            ]
+        },
+        {
+            "id": "e620e985f8463aab24c9be17c8ba1c4e",
+            "source": "nyt",
+            "text": "Who Owns the Moon?",
+            "source_link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-04T09:34:41.976543Z",
+            "shown_at": [
+                "2026-10-04T09:34:42.408987Z"
+            ]
+        },
         {
             "id": "ea8f44af9e61e1d2cbdde2ac97fa0660",
             "source": "breaking_defense",
@@ -9417,62 +9443,6 @@
                 "2026-06-23T11:14:44.224085Z",
                 "2026-06-26T18:09:31.932935Z",
                 "2026-06-26T23:29:16.685997Z"
-            ]
-        },
-        {
-            "id": "647fd3dbae9398bc516032633e4085f6",
-            "source": "spacenews",
-            "text": "China appears to be developing 7-meter-diameter reusable rockets",
-            "source_link": "https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T10:39:19.799175Z",
-            "shown_at": [
-                "2026-06-23T10:39:20.692461Z",
-                "2026-06-25T17:14:38.969151Z",
-                "2026-06-28T06:23:57.386573Z",
-                "2026-06-29T01:39:05.562775Z"
-            ]
-        },
-        {
-            "id": "67d59b94d7e42c09a1abe28b0aaca742",
-            "source": "spacenews",
-            "text": "NASA and Boeing still uncertain about when Starliner will return to flight",
-            "source_link": "https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T02:14:41.195828Z",
-            "shown_at": [
-                "2026-06-23T02:14:42.127423Z",
-                "2026-06-23T03:59:30.640574Z",
-                "2026-06-25T19:44:36.051361Z",
-                "2026-06-29T19:54:41.635360Z"
-            ]
-        },
-        {
-            "id": "e620e985f8463aab24c9be17c8ba1c4e",
-            "source": "nyt",
-            "text": "Who Owns the Moon?",
-            "source_link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-04T09:34:41.976543Z",
-            "shown_at": [
-                "2026-10-04T09:34:42.408987Z"
-            ]
-        },
-        {
-            "id": "805e94179d847bce454ac23ebf89821b",
-            "source": "nyt",
-            "text": "Superpowers Race to Put Nuclear Reactors on the Moon",
-            "source_link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-04T09:34:41.976577Z",
-            "shown_at": [
-                "2026-10-04T10:09:25.759408Z",
-                "2026-10-04T17:14:40.281919Z",
-                "2026-10-04T22:29:28.707375Z"
             ]
         }
     ]
