@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 12 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
-| spacenews | 1 | 1 | 12 | 25 |
+| breaking_defense | 0 | 0 | 11 | 25 |
+| spacenews | 1 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -3968,3 +3968,4 @@
 - **Oct 05, 12:34 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
 - **Oct 05, 01:09 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 05, 01:43 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 05, 02:19 PM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
