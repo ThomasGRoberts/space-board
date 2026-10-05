@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 12 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
-| spacenews | 1 | 1 | 12 | 25 |
+| breaking_defense | 0 | 0 | 11 | 25 |
+| spacenews | 1 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -3974,3 +3974,4 @@
 - **Oct 05, 04:04 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
 - **Oct 05, 04:39 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 05, 05:14 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 05, 05:49 PM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
