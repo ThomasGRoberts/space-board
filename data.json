@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-05T00:04:44.490144+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e90137ac60fb8c61a1cf0f68105b9847",
+    "trigger_count": 0,
+    "current_item_id": "b9cfca6cfcb4ab38580b739f9b2272d6",
     "data": [
         {
             "id": "805e94179d847bce454ac23ebf89821b",
@@ -9459,6 +9459,18 @@
                 "2026-06-23T11:14:44.224085Z",
                 "2026-06-26T18:09:31.932935Z",
                 "2026-06-26T23:29:16.685997Z"
+            ]
+        },
+        {
+            "id": "b9cfca6cfcb4ab38580b739f9b2272d6",
+            "source": "spacenews",
+            "text": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
+            "source_link": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-05T12:34:22.985020Z",
+            "shown_at": [
+                "2026-10-05T12:34:24.166832Z"
             ]
         }
     ]
