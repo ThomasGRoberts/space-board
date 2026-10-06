@@ -2,15 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 11 | 25 |
-| breaking_defense | 1 | 1 | 12 | 25 |
 | spacenews | 2 | 2 | 11 | 25 |
+| breaking_defense | 1 | 1 | 12 | 25 |
+| nyt | 0 | 2 | 11 | 25 |
 
 # Shown Order
 
-- **Jun 23, 11:14 AM** - Report: U.S. needs framework for responding to hostile acts in space (spacenews)
-- **Jun 23, 12:23 PM** - Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation (spacenews)
-- **Jun 23, 01:35 PM** - Loft Orbital to test AI models on spacecraft for Earth observation (spacenews)
 - **Jun 23, 04:05 PM** - Sophia selects Apex bus for on-orbit computing demonstration (spacenews)
 - **Jun 23, 05:59 PM** - Ubotica raises $11 million to scale maritime-intelligence platform (spacenews)
 - **Jun 23, 07:09 PM** - Commercial Space Federation (CSF) Welcomes New Associate Member (spacenews)
@@ -39,7 +36,6 @@
 - **Jun 25, 01:09 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 25, 01:44 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 25, 02:19 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
-- **Jun 25, 02:54 AM** - Loft Orbital to test AI models on spacecraft for Earth observation (spacenews)
 - **Jun 25, 03:29 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 04:04 AM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 25, 04:39 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
@@ -89,7 +85,6 @@
 - **Jun 26, 03:49 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
 - **Jun 26, 04:24 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 26, 05:34 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 26, 06:09 PM** - Report: U.S. needs framework for responding to hostile acts in space (spacenews)
 - **Jun 26, 06:44 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 07:19 PM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
 - **Jun 26, 07:54 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
@@ -98,14 +93,12 @@
 - **Jun 26, 09:44 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 26, 10:19 PM** - Rocket Lab launches 10th Synspective satellite (spacenews)
 - **Jun 26, 10:54 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
-- **Jun 26, 11:29 PM** - Report: U.S. needs framework for responding to hostile acts in space (spacenews)
 - **Jun 27, 12:05 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 27, 12:39 AM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 27, 01:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 02:24 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 27, 03:34 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 27, 04:54 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
-- **Jun 27, 05:29 AM** - Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation (spacenews)
 - **Jun 27, 06:04 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 27, 06:39 AM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 27, 07:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
@@ -165,7 +158,6 @@
 - **Jun 28, 08:44 PM** - Weather Stream releases first light imagery from GEMS2 microwave radiometer (spacenews)
 - **Jun 28, 09:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 28, 10:29 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
-- **Jun 28, 11:04 PM** - Loft Orbital to test AI models on spacecraft for Earth observation (spacenews)
 - **Jun 28, 11:44 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 29, 12:19 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 29, 01:05 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
