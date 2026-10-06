@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 13 | 24 |
-| breaking_defense | 1 | 2 | 14 | 25 |
+| breaking_defense | 1 | 2 | 15 | 26 |
 | nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
@@ -4014,3 +4014,4 @@
 - **Oct 06, 09:59 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 06, 10:34 PM** - Who Owns the Moon? (nyt)
 - **Oct 06, 11:09 PM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
+- **Oct 06, 11:44 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
