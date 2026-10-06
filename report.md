@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 11 | 24 |
 | breaking_defense | 1 | 1 | 12 | 25 |
-| nyt | 1 | 3 | 10 | 25 |
+| nyt | 1 | 3 | 11 | 26 |
 
 # Shown Order
 
@@ -3990,3 +3990,4 @@
 - **Oct 06, 07:38 AM** - Radio Waves Coming From an Alien Planet May Be a Cosmic First (nyt)
 - **Oct 06, 08:14 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 06, 08:48 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
+- **Oct 06, 09:23 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
