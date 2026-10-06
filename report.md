@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 11 | 24 |
+| spacenews | 2 | 2 | 12 | 25 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 1 | 1 | 11 | 25 |
 
@@ -3991,3 +3991,4 @@
 - **Oct 06, 08:14 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 06, 08:48 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 06, 09:23 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 06, 09:59 AM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
