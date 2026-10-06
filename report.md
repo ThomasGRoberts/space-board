@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 25 |
-| breaking_defense | 1 | 1 | 13 | 25 |
+| breaking_defense | 1 | 1 | 14 | 26 |
 | nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -3998,3 +3998,4 @@
 - **Oct 06, 12:24 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 06, 01:04 PM** - Who Owns the Moon? (nyt)
 - **Oct 06, 01:39 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
+- **Oct 06, 02:14 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
