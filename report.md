@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 12 | 25 |
-| breaking_defense | 2 | 2 | 14 | 25 |
+| spacenews | 1 | 2 | 12 | 24 |
+| breaking_defense | 2 | 2 | 14 | 26 |
 | nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -4005,3 +4005,4 @@
 - **Oct 06, 04:35 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 06, 05:14 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 06, 05:49 PM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
+- **Oct 06, 06:24 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
