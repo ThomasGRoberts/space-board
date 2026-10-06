@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 12 | 24 |
+| spacenews | 2 | 3 | 13 | 25 |
 | breaking_defense | 1 | 2 | 13 | 26 |
 | nyt | 1 | 1 | 13 | 24 |
 
@@ -4007,3 +4007,4 @@
 - **Oct 06, 05:49 PM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
 - **Oct 06, 06:24 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 06, 06:58 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
+- **Oct 06, 07:33 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
