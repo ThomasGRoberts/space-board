@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 11 | 25 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 1 | 3 | 11 | 25 |
 
 # Shown Order
@@ -3980,3 +3980,4 @@
 - **Oct 06, 01:38 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 06, 02:14 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 06, 02:49 AM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
+- **Oct 06, 03:23 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
