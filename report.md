@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 12 | 25 |
 | breaking_defense | 1 | 1 | 13 | 25 |
-| nyt | 1 | 1 | 11 | 24 |
+| nyt | 1 | 1 | 12 | 25 |
 
 # Shown Order
 
@@ -3993,3 +3993,4 @@
 - **Oct 06, 09:23 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 06, 09:59 AM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
 - **Oct 06, 10:34 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 06, 11:09 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
