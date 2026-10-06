@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 11 | 24 |
+| spacenews | 2 | 2 | 12 | 25 |
 | breaking_defense | 1 | 1 | 11 | 25 |
 | nyt | 1 | 3 | 11 | 25 |
 
@@ -3985,3 +3985,4 @@
 - **Oct 06, 04:39 AM** - If AI cannot be trusted in a classroom, why should it be trusted in orbit? (spacenews)
 - **Oct 06, 05:14 AM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 06, 05:49 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 06, 06:24 AM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
