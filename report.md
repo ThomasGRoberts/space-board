@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 12 | 24 |
+| spacenews | 1 | 3 | 13 | 25 |
 | breaking_defense | 1 | 2 | 14 | 25 |
 | nyt | 1 | 1 | 14 | 24 |
 
@@ -4010,3 +4010,4 @@
 - **Oct 06, 07:33 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
 - **Oct 06, 08:08 PM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
 - **Oct 06, 08:43 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
+- **Oct 06, 09:23 PM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
