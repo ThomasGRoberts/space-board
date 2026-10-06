@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 12 | 24 |
 | breaking_defense | 2 | 2 | 14 | 26 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4003,3 +4003,4 @@
 - **Oct 06, 03:24 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
 - **Oct 06, 03:59 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 06, 04:35 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
+- **Oct 06, 05:14 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
