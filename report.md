@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 12 | 24 |
 | breaking_defense | 1 | 2 | 14 | 26 |
-| nyt | 1 | 1 | 13 | 24 |
+| nyt | 1 | 1 | 14 | 25 |
 
 # Shown Order
 
@@ -4009,3 +4009,4 @@
 - **Oct 06, 06:58 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 06, 07:33 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
 - **Oct 06, 08:08 PM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
+- **Oct 06, 08:43 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
