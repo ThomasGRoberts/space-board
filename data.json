@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-06T00:04:53.691122+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b335bc21e336a1be30d320cd68829436",
+    "trigger_count": 0,
+    "current_item_id": "e50392ba86d7d2bbf9498b5e54df1857",
     "data": [
         {
             "id": "882c30ef81c6f0088a6b9802e2be3660",
@@ -9507,6 +9507,18 @@
             "shown_at": [
                 "2026-10-06T02:14:36.793322Z",
                 "2026-10-06T11:09:22.343970Z"
+            ]
+        },
+        {
+            "id": "e50392ba86d7d2bbf9498b5e54df1857",
+            "source": "breaking_defense",
+            "text": "EU deepens collective space security with mutual defense pact",
+            "source_link": "https://breakingdefense.com/2026/10/eu-deepens-collective-space-security-with-mutual-defense-pact/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-06T16:34:59.626326Z",
+            "shown_at": [
+                "2026-10-06T16:35:00.327989Z"
             ]
         }
     ]
