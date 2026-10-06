@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 12 | 24 |
+| spacenews | 1 | 2 | 13 | 25 |
 | breaking_defense | 1 | 1 | 13 | 25 |
 | nyt | 1 | 1 | 13 | 25 |
 
@@ -3997,3 +3997,4 @@
 - **Oct 06, 11:44 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 06, 12:24 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 06, 01:04 PM** - Who Owns the Moon? (nyt)
+- **Oct 06, 01:39 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
