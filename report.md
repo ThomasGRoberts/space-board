@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 12 | 24 |
 | breaking_defense | 2 | 2 | 14 | 26 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4006,3 +4006,4 @@
 - **Oct 06, 05:14 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 06, 05:49 PM** - Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 (spacenews)
 - **Oct 06, 06:24 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
+- **Oct 06, 06:58 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
