@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-06T00:04:53.691122+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6b60afa648dc785e1b5f701fa3a3caed",
+    "trigger_count": 0,
+    "current_item_id": "429bd40e5d03bb9e05e6bb06235dbff8",
     "data": [
         {
             "id": "882c30ef81c6f0088a6b9802e2be3660",
@@ -9472,6 +9472,18 @@
                 "2026-06-23T16:05:24.217402Z",
                 "2026-06-24T20:54:35.815166Z",
                 "2026-06-28T14:54:43.047481Z"
+            ]
+        },
+        {
+            "id": "429bd40e5d03bb9e05e6bb06235dbff8",
+            "source": "nyt",
+            "text": "Massive Black Holes May Have Started as Little Red Dots",
+            "source_link": "https://www.nytimes.com/2026/09/16/science/little-red-dots-black-holes.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-06T02:14:36.071450Z",
+            "shown_at": [
+                "2026-10-06T02:14:36.793322Z"
             ]
         }
     ]

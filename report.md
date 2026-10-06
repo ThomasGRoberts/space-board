@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 11 | 24 |
 | breaking_defense | 1 | 1 | 12 | 25 |
-| nyt | 0 | 2 | 10 | 25 |
+| nyt | 1 | 3 | 11 | 26 |
 
 # Shown Order
 
@@ -3978,3 +3978,4 @@
 - **Oct 06, 12:29 AM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
 - **Oct 06, 01:05 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 06, 01:38 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
+- **Oct 06, 02:14 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
