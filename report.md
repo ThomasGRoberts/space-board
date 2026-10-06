@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 12 | 25 |
 | breaking_defense | 1 | 1 | 11 | 25 |
-| nyt | 0 | 2 | 10 | 24 |
+| nyt | 0 | 2 | 11 | 25 |
 
 # Shown Order
 
@@ -3976,3 +3976,4 @@
 - **Oct 05, 11:13 PM** - Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost (nyt)
 - **Oct 05, 11:54 PM** - DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO (breaking_defense)
 - **Oct 06, 12:29 AM** - Terran Orbital Names Jamin Brown Chief Operating Officer (spacenews)
+- **Oct 06, 01:05 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
