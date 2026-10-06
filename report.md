@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 13 | 24 |
 | breaking_defense | 1 | 2 | 14 | 26 |
-| nyt | 1 | 1 | 13 | 24 |
+| nyt | 1 | 1 | 14 | 24 |
 
 # Shown Order
 
@@ -4012,3 +4012,4 @@
 - **Oct 06, 08:43 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 06, 09:23 PM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
 - **Oct 06, 09:59 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
+- **Oct 06, 10:34 PM** - Who Owns the Moon? (nyt)
