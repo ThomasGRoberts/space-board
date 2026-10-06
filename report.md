@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 12 | 25 |
 | breaking_defense | 1 | 1 | 14 | 25 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -3996,3 +3996,4 @@
 - **Oct 06, 11:09 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 06, 11:44 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 06, 12:24 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
+- **Oct 06, 01:04 PM** - Who Owns the Moon? (nyt)
