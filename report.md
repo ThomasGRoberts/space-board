@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 13 | 24 |
 | breaking_defense | 1 | 2 | 14 | 26 |
-| nyt | 0 | 1 | 13 | 23 |
+| nyt | 0 | 1 | 14 | 24 |
 
 # Shown Order
 
@@ -4018,3 +4018,4 @@
 - **Oct 07, 05:43 AM** - Who Owns the Moon? (nyt)
 - **Oct 07, 06:19 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 07, 06:54 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
+- **Oct 07, 07:30 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
