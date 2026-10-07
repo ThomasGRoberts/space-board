@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 13 | 25 |
 | breaking_defense | 1 | 2 | 14 | 27 |
-| nyt | 0 | 1 | 13 | 24 |
+| nyt | 0 | 1 | 14 | 25 |
 
 # Shown Order
 
@@ -4024,3 +4024,4 @@
 - **Oct 07, 09:13 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 07, 09:54 AM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Oct 07, 10:28 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
+- **Oct 07, 11:05 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
