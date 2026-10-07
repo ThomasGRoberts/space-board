@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 12 | 24 |
+| spacenews | 1 | 3 | 13 | 25 |
 | breaking_defense | 1 | 2 | 14 | 25 |
 | nyt | 1 | 1 | 14 | 24 |
 
@@ -4007,3 +4007,4 @@
 - **Oct 06, 11:09 PM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
 - **Oct 06, 11:44 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 07, 12:19 AM** - Who Owns the Moon? (nyt)
+- **Oct 07, 12:54 AM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
