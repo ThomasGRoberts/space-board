@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 13 | 26 |
-| breaking_defense | 1 | 2 | 14 | 27 |
+| breaking_defense | 1 | 2 | 15 | 28 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -4032,3 +4032,4 @@
 - **Oct 07, 01:58 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 07, 02:34 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 07, 03:24 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 07, 03:59 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
