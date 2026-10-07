@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 13 | 25 |
-| breaking_defense | 0 | 2 | 13 | 28 |
+| spacenews | 2 | 3 | 14 | 26 |
+| breaking_defense | 0 | 2 | 13 | 27 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -4033,3 +4033,4 @@
 - **Oct 07, 02:34 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 07, 03:24 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 07, 03:59 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
+- **Oct 07, 04:44 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
