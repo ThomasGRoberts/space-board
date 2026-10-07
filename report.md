@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 24 |
+| spacenews | 1 | 3 | 14 | 25 |
 | breaking_defense | 1 | 2 | 14 | 25 |
 | nyt | 0 | 1 | 13 | 24 |
 
@@ -4016,3 +4016,4 @@
 - **Oct 07, 04:29 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 07, 05:04 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 07, 05:43 AM** - Who Owns the Moon? (nyt)
+- **Oct 07, 06:19 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
