@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 13 | 25 |
-| breaking_defense | 0 | 2 | 13 | 27 |
+| breaking_defense | 0 | 2 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -4035,3 +4035,4 @@
 - **Oct 07, 03:59 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 07, 04:44 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
 - **Oct 07, 05:34 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
+- **Oct 07, 06:21 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
