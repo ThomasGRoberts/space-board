@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 13 | 24 |
 | breaking_defense | 1 | 2 | 14 | 26 |
-| nyt | 0 | 1 | 13 | 23 |
+| nyt | 0 | 1 | 14 | 24 |
 
 # Shown Order
 
@@ -4015,3 +4015,4 @@
 - **Oct 07, 03:54 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 07, 04:29 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 07, 05:04 AM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
+- **Oct 07, 05:43 AM** - Who Owns the Moon? (nyt)
