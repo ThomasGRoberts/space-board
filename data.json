@@ -1,9 +1,48 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-06T00:04:53.691122+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-10-07T00:04:57.947549+00:00",
+    "trigger_count": 4,
     "current_item_id": "b335bc21e336a1be30d320cd68829436",
     "data": [
+        {
+            "id": "19b6e923d5bd55394b44c689cb036280",
+            "source": "spacenews",
+            "text": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format",
+            "source_link": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-06T19:33:51.309442Z",
+            "shown_at": [
+                "2026-10-06T19:33:52.243115Z"
+            ]
+        },
+        {
+            "id": "e50392ba86d7d2bbf9498b5e54df1857",
+            "source": "breaking_defense",
+            "text": "EU deepens collective space security with mutual defense pact",
+            "source_link": "https://breakingdefense.com/2026/10/eu-deepens-collective-space-security-with-mutual-defense-pact/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-06T16:34:59.626326Z",
+            "shown_at": [
+                "2026-10-06T16:35:00.327989Z"
+            ]
+        },
+        {
+            "id": "429bd40e5d03bb9e05e6bb06235dbff8",
+            "source": "nyt",
+            "text": "Massive Black Holes May Have Started as Little Red Dots",
+            "source_link": "https://www.nytimes.com/2026/09/16/science/little-red-dots-black-holes.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-06T02:14:36.071450Z",
+            "shown_at": [
+                "2026-10-06T02:14:36.793322Z",
+                "2026-10-06T11:09:22.343970Z",
+                "2026-10-06T18:58:41.308435Z",
+                "2026-10-06T20:43:34.568788Z"
+            ]
+        },
         {
             "id": "882c30ef81c6f0088a6b9802e2be3660",
             "source": "spacenews",
@@ -9461,87 +9500,6 @@
             "fetched_datetime": "2026-06-23T22:09:10.472883Z",
             "shown_at": [
                 "2026-06-23T22:09:11.360758Z"
-            ]
-        },
-        {
-            "id": "6e9eb6979633593576e03b0a01f84e57",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes New Associate Member",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T19:09:23.687711Z",
-            "shown_at": [
-                "2026-06-23T19:09:24.743644Z",
-                "2026-06-25T06:35:37.759101Z",
-                "2026-06-25T07:54:42.014725Z"
-            ]
-        },
-        {
-            "id": "d49288d55cc8cfbb84ceb9ba57481f0b",
-            "source": "spacenews",
-            "text": "Ubotica raises $11 million to scale maritime-intelligence platform",
-            "source_link": "https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T17:59:35.550383Z",
-            "shown_at": [
-                "2026-06-23T17:59:38.864782Z",
-                "2026-06-26T01:54:33.312160Z",
-                "2026-06-26T04:14:34.821068Z"
-            ]
-        },
-        {
-            "id": "07dbcfb5d1b23f2313b7707f536f5169",
-            "source": "spacenews",
-            "text": "Sophia selects Apex bus for on-orbit computing demonstration",
-            "source_link": "https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T16:05:23.120759Z",
-            "shown_at": [
-                "2026-06-23T16:05:24.217402Z",
-                "2026-06-24T20:54:35.815166Z",
-                "2026-06-28T14:54:43.047481Z"
-            ]
-        },
-        {
-            "id": "429bd40e5d03bb9e05e6bb06235dbff8",
-            "source": "nyt",
-            "text": "Massive Black Holes May Have Started as Little Red Dots",
-            "source_link": "https://www.nytimes.com/2026/09/16/science/little-red-dots-black-holes.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-06T02:14:36.071450Z",
-            "shown_at": [
-                "2026-10-06T02:14:36.793322Z",
-                "2026-10-06T11:09:22.343970Z",
-                "2026-10-06T18:58:41.308435Z",
-                "2026-10-06T20:43:34.568788Z"
-            ]
-        },
-        {
-            "id": "e50392ba86d7d2bbf9498b5e54df1857",
-            "source": "breaking_defense",
-            "text": "EU deepens collective space security with mutual defense pact",
-            "source_link": "https://breakingdefense.com/2026/10/eu-deepens-collective-space-security-with-mutual-defense-pact/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-06T16:34:59.626326Z",
-            "shown_at": [
-                "2026-10-06T16:35:00.327989Z"
-            ]
-        },
-        {
-            "id": "19b6e923d5bd55394b44c689cb036280",
-            "source": "spacenews",
-            "text": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format",
-            "source_link": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-06T19:33:51.309442Z",
-            "shown_at": [
-                "2026-10-06T19:33:52.243115Z"
             ]
         }
     ]
