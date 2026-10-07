@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-07T00:04:57.947549+00:00",
-    "trigger_count": 6,
-    "current_item_id": "429bd40e5d03bb9e05e6bb06235dbff8",
+    "trigger_count": 0,
+    "current_item_id": "8f4c32428aeb1d1d13a7e3236a9c14bb",
     "data": [
         {
             "id": "19b6e923d5bd55394b44c689cb036280",
@@ -9546,6 +9546,18 @@
             "fetched_datetime": "2026-10-07T14:34:39.202125Z",
             "shown_at": [
                 "2026-10-07T14:34:40.004742Z"
+            ]
+        },
+        {
+            "id": "8f4c32428aeb1d1d13a7e3236a9c14bb",
+            "source": "nyt",
+            "text": "Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died",
+            "source_link": "https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-07T23:09:14.796963Z",
+            "shown_at": [
+                "2026-10-07T23:09:16.112400Z"
             ]
         }
     ]

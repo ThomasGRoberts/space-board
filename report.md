@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 25 |
 | breaking_defense | 0 | 1 | 12 | 26 |
-| nyt | 0 | 1 | 12 | 26 |
+| nyt | 1 | 2 | 13 | 27 |
 
 # Shown Order
 
@@ -4041,3 +4041,4 @@
 - **Oct 07, 09:08 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 07, 09:55 PM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
 - **Oct 07, 10:34 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
+- **Oct 07, 11:09 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
