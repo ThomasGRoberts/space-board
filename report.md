@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 24 |
+| spacenews | 1 | 3 | 14 | 25 |
 | breaking_defense | 1 | 2 | 14 | 26 |
 | nyt | 0 | 1 | 13 | 24 |
 
@@ -4022,3 +4022,4 @@
 - **Oct 07, 08:04 AM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Oct 07, 08:39 AM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
 - **Oct 07, 09:13 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 07, 09:54 AM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
