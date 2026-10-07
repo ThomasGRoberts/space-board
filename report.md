@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 12 | 25 |
+| spacenews | 1 | 2 | 13 | 26 |
 | breaking_defense | 0 | 1 | 13 | 27 |
 | nyt | 0 | 1 | 12 | 25 |
 
@@ -4039,3 +4039,4 @@
 - **Oct 07, 07:28 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
 - **Oct 07, 08:12 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 07, 09:08 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
+- **Oct 07, 09:55 PM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
