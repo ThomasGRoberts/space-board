@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 26 |
 | breaking_defense | 0 | 1 | 12 | 26 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 12 | 26 |
 
 # Shown Order
 
@@ -4040,3 +4040,4 @@
 - **Oct 07, 08:12 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 07, 09:08 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 07, 09:55 PM** - Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit (spacenews)
+- **Oct 07, 10:34 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
