@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 24 |
+| spacenews | 1 | 3 | 14 | 25 |
 | breaking_defense | 1 | 2 | 14 | 25 |
 | nyt | 0 | 1 | 13 | 24 |
 
@@ -4013,3 +4013,4 @@
 - **Oct 07, 02:44 AM** - Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission (spacenews)
 - **Oct 07, 03:19 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
 - **Oct 07, 03:54 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
+- **Oct 07, 04:29 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
