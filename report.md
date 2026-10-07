@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 25 |
+| spacenews | 2 | 3 | 14 | 26 |
 | breaking_defense | 1 | 2 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 25 |
 
@@ -4030,3 +4030,4 @@
 - **Oct 07, 12:49 PM** - Who Owns the Moon? (nyt)
 - **Oct 07, 01:23 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
 - **Oct 07, 01:58 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
+- **Oct 07, 02:34 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)

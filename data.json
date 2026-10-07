@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-07T00:04:57.947549+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b335bc21e336a1be30d320cd68829436",
+    "trigger_count": 0,
+    "current_item_id": "bca03aba73db4682323a0df33d6e6fa8",
     "data": [
         {
             "id": "19b6e923d5bd55394b44c689cb036280",
@@ -9524,6 +9524,18 @@
             "fetched_datetime": "2026-06-23T22:09:10.472883Z",
             "shown_at": [
                 "2026-06-23T22:09:11.360758Z"
+            ]
+        },
+        {
+            "id": "bca03aba73db4682323a0df33d6e6fa8",
+            "source": "spacenews",
+            "text": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
+            "source_link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-07T14:34:39.202125Z",
+            "shown_at": [
+                "2026-10-07T14:34:40.004742Z"
             ]
         }
     ]
