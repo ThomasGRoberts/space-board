@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 26 |
 | breaking_defense | 0 | 2 | 13 | 27 |
-| nyt | 0 | 1 | 12 | 24 |
+| nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4034,3 +4034,4 @@
 - **Oct 07, 03:24 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 07, 03:59 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 07, 04:44 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
+- **Oct 07, 05:34 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
