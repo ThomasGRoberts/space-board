@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 25 |
 | breaking_defense | 1 | 2 | 14 | 28 |
-| nyt | 0 | 1 | 13 | 25 |
+| nyt | 0 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -4027,3 +4027,4 @@
 - **Oct 07, 11:05 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 07, 11:38 AM** - NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier (spacenews)
 - **Oct 07, 12:14 PM** - White House names nominees for SPACECOM, Navy No. 2 (breaking_defense)
+- **Oct 07, 12:49 PM** - Who Owns the Moon? (nyt)
