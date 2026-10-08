@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 13 | 26 |
-| spacenews | 1 | 2 | 12 | 25 |
+| spacenews | 1 | 2 | 13 | 26 |
 | breaking_defense | 0 | 1 | 12 | 26 |
 
 # Shown Order
@@ -4037,3 +4037,4 @@
 - **Oct 07, 10:34 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 07, 11:09 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
 - **Oct 07, 11:44 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
+- **Oct 08, 12:19 AM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
