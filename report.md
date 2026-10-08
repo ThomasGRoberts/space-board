@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 27 |
-| spacenews | 0 | 1 | 12 | 25 |
+| spacenews | 0 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -4071,3 +4071,4 @@
 - **Oct 08, 06:44 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 08, 07:19 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 08, 07:54 PM** - Who Owns the Moon? (nyt)
+- **Oct 08, 08:34 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
