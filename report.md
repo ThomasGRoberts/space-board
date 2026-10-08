@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 14 | 26 |
+| nyt | 2 | 2 | 15 | 27 |
 | spacenews | 0 | 1 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -4073,3 +4073,4 @@
 - **Oct 08, 07:54 PM** - Who Owns the Moon? (nyt)
 - **Oct 08, 08:34 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 08, 09:09 PM** - Berkowitz out at DoD Space Policy office (breaking_defense)
+- **Oct 08, 09:44 PM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
