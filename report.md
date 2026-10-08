@@ -2,14 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| nyt | 1 | 2 | 13 | 26 |
 | spacenews | 1 | 2 | 12 | 25 |
 | breaking_defense | 0 | 1 | 12 | 26 |
-| nyt | 1 | 2 | 13 | 26 |
 
 # Shown Order
 
-- **Jun 23, 10:09 PM** - Boeing wins $2 billion Space Force contract for communications satellites (spacenews)
-- **Jun 23, 10:44 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
 - **Jun 24, 03:24 AM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 24, 10:09 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
 - **Jun 24, 12:05 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
@@ -74,7 +72,6 @@
 - **Jun 26, 02:04 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 26, 02:39 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 26, 03:14 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
-- **Jun 26, 03:49 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
 - **Jun 26, 04:24 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 26, 05:34 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 06:44 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
@@ -107,9 +104,7 @@
 - **Jun 27, 03:39 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 04:49 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 27, 05:59 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 27, 06:34 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
 - **Jun 27, 07:09 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 27, 07:44 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
 - **Jun 27, 08:19 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 27, 09:29 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 10:09 PM** - Weather Stream releases first light imagery from GEMS2 microwave radiometer (spacenews)
@@ -118,7 +113,6 @@
 - **Jun 27, 11:54 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 28, 12:29 AM** - Small satellite operators confront a bottleneck to space access (spacenews)
 - **Jun 28, 01:04 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 28, 01:39 AM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
 - **Jun 28, 02:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 28, 02:49 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
 - **Jun 28, 03:24 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)

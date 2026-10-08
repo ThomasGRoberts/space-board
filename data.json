@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-07T00:04:57.947549+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-10-08T00:04:30.105063+00:00",
+    "trigger_count": 4,
     "current_item_id": "6b60afa648dc785e1b5f701fa3a3caed",
     "data": [
+        {
+            "id": "8f4c32428aeb1d1d13a7e3236a9c14bb",
+            "source": "nyt",
+            "text": "Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died",
+            "source_link": "https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-07T23:09:14.796963Z",
+            "shown_at": [
+                "2026-10-07T23:09:16.112400Z"
+            ]
+        },
+        {
+            "id": "bca03aba73db4682323a0df33d6e6fa8",
+            "source": "spacenews",
+            "text": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
+            "source_link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-07T14:34:39.202125Z",
+            "shown_at": [
+                "2026-10-07T14:34:40.004742Z"
+            ]
+        },
         {
             "id": "19b6e923d5bd55394b44c689cb036280",
             "source": "spacenews",
@@ -9507,58 +9531,6 @@
                 "2026-06-25T04:04:46.029512Z",
                 "2026-06-27T06:39:03.369297Z",
                 "2026-06-29T18:44:31.882108Z"
-            ]
-        },
-        {
-            "id": "5fe33cf1de927bca62e29f146e0e62ea",
-            "source": "spacenews",
-            "text": "NASA’s inspector general warns launch sites nearing capacity",
-            "source_link": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T22:44:25.308135Z",
-            "shown_at": [
-                "2026-06-23T22:44:26.120862Z",
-                "2026-06-26T15:49:24.018784Z",
-                "2026-06-27T18:34:48.406167Z",
-                "2026-06-27T19:44:42.468112Z",
-                "2026-06-28T01:39:37.339043Z"
-            ]
-        },
-        {
-            "id": "79d57feda83aa6c09f5a1a845ac6061d",
-            "source": "spacenews",
-            "text": "Boeing wins $2 billion Space Force contract for communications satellites",
-            "source_link": "https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T22:09:10.472883Z",
-            "shown_at": [
-                "2026-06-23T22:09:11.360758Z"
-            ]
-        },
-        {
-            "id": "bca03aba73db4682323a0df33d6e6fa8",
-            "source": "spacenews",
-            "text": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
-            "source_link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-07T14:34:39.202125Z",
-            "shown_at": [
-                "2026-10-07T14:34:40.004742Z"
-            ]
-        },
-        {
-            "id": "8f4c32428aeb1d1d13a7e3236a9c14bb",
-            "source": "nyt",
-            "text": "Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died",
-            "source_link": "https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-07T23:09:14.796963Z",
-            "shown_at": [
-                "2026-10-07T23:09:16.112400Z"
             ]
         }
     ]
