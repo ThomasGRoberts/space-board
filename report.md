@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 27 |
-| spacenews | 0 | 2 | 12 | 25 |
+| spacenews | 0 | 2 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -4068,3 +4068,4 @@
 - **Oct 08, 04:54 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 08, 05:29 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
 - **Oct 08, 06:04 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 08, 06:44 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
