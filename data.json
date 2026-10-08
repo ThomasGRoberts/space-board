@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-08T00:04:30.105063+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e50392ba86d7d2bbf9498b5e54df1857",
+    "trigger_count": 0,
+    "current_item_id": "e67ca6bdf7352f561de941b3d8b45c57",
     "data": [
         {
             "id": "8f4c32428aeb1d1d13a7e3236a9c14bb",
@@ -9558,6 +9558,18 @@
                 "2026-06-25T04:04:46.029512Z",
                 "2026-06-27T06:39:03.369297Z",
                 "2026-06-29T18:44:31.882108Z"
+            ]
+        },
+        {
+            "id": "e67ca6bdf7352f561de941b3d8b45c57",
+            "source": "nyt",
+            "text": "Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code",
+            "source_link": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-08T16:19:27.973138Z",
+            "shown_at": [
+                "2026-10-08T16:19:29.158629Z"
             ]
         }
     ]
