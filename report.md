@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 12 | 25 |
+| nyt | 1 | 1 | 13 | 26 |
 | spacenews | 1 | 2 | 13 | 26 |
 | breaking_defense | 0 | 1 | 12 | 26 |
 
@@ -4041,3 +4041,4 @@
 - **Oct 08, 12:54 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 08, 01:29 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
 - **Oct 08, 02:04 AM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
+- **Oct 08, 02:39 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
