@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 26 |
-| spacenews | 1 | 2 | 12 | 25 |
+| spacenews | 1 | 2 | 13 | 26 |
 | breaking_defense | 0 | 1 | 12 | 26 |
 
 # Shown Order
@@ -4049,3 +4049,4 @@
 - **Oct 08, 05:34 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
 - **Oct 08, 06:10 AM** - Who Owns the Moon? (nyt)
 - **Oct 08, 06:49 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
+- **Oct 08, 07:24 AM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
