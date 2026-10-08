@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 12 | 25 |
+| nyt | 1 | 1 | 13 | 26 |
 | spacenews | 1 | 2 | 13 | 26 |
 | breaking_defense | 0 | 1 | 12 | 26 |
 
@@ -4050,3 +4050,4 @@
 - **Oct 08, 06:10 AM** - Who Owns the Moon? (nyt)
 - **Oct 08, 06:49 AM** - DoD demo contract takes a step closer to beaming solar power from space (breaking_defense)
 - **Oct 08, 07:24 AM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
+- **Oct 08, 07:59 AM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
