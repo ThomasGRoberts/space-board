@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 26 |
-| spacenews | 1 | 2 | 12 | 25 |
+| spacenews | 1 | 2 | 13 | 26 |
 | breaking_defense | 0 | 1 | 12 | 26 |
 
 # Shown Order
@@ -4043,3 +4043,4 @@
 - **Oct 08, 02:04 AM** - LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia (spacenews)
 - **Oct 08, 02:39 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 08, 03:14 AM** - Berkowitz out at DoD Space Policy office (breaking_defense)
+- **Oct 08, 03:49 AM** - China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest (spacenews)
