@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 26 |
-| spacenews | 1 | 2 | 12 | 25 |
+| spacenews | 0 | 2 | 12 | 26 |
 | breaking_defense | 0 | 1 | 12 | 26 |
 
 # Shown Order
@@ -4061,3 +4061,4 @@
 - **Oct 08, 12:38 PM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 08, 01:24 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 08, 01:58 PM** - Can’t start, won’t start: Over 150 new military programs face delay under a CR (breaking_defense)
+- **Oct 08, 02:35 PM** - World Space Week 2026 Celebrates the “Rocket Revolution”  (spacenews)
