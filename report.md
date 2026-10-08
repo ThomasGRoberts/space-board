@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 26 |
 | spacenews | 1 | 2 | 12 | 25 |
-| breaking_defense | 0 | 1 | 12 | 26 |
+| breaking_defense | 0 | 1 | 13 | 27 |
 
 # Shown Order
 
@@ -4054,3 +4054,4 @@
 - **Oct 08, 08:34 AM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 08, 09:09 AM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
 - **Oct 08, 09:44 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
+- **Oct 08, 10:20 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
