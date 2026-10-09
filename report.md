@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 26 |
 | spacenews | 0 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4089,3 +4089,4 @@
 - **Oct 09, 07:44 AM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 09, 08:18 AM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
 - **Oct 09, 08:53 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
+- **Oct 09, 09:29 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
