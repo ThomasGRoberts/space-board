@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 27 |
-| spacenews | 0 | 1 | 13 | 25 |
+| spacenews | 0 | 1 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -4088,3 +4088,4 @@
 - **Oct 09, 07:08 AM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
 - **Oct 09, 07:44 AM** - Berkowitz out at DoD Space Policy office (breaking_defense)
 - **Oct 09, 08:18 AM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
+- **Oct 09, 08:53 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
