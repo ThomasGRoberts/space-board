@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 26 |
 | spacenews | 0 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4083,3 +4083,4 @@
 - **Oct 09, 04:08 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 09, 04:43 AM** - Who Owns the Moon? (nyt)
 - **Oct 09, 05:24 AM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
+- **Oct 09, 05:59 AM** - Berkowitz out at DoD Space Policy office (breaking_defense)
