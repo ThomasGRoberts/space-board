@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 13 | 28 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4110,3 +4110,4 @@
 - **Oct 09, 08:09 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 09, 08:43 PM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 09, 09:19 PM** - Resource competition intensifies with surge in megaconstellations (spacenews)
+- **Oct 09, 09:54 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
