@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 13 | 28 |
+| nyt | 0 | 2 | 14 | 29 |
 | spacenews | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -4111,3 +4111,4 @@
 - **Oct 09, 08:43 PM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 09, 09:19 PM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 09, 09:54 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
+- **Oct 09, 10:28 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
