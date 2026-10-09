@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 13 | 28 |
 | spacenews | 0 | 0 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4107,3 +4107,4 @@
 - **Oct 09, 06:24 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 09, 06:59 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 09, 07:33 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
+- **Oct 09, 08:09 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
