@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 26 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -4100,3 +4100,4 @@
 - **Oct 09, 02:13 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
 - **Oct 09, 02:54 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 09, 03:29 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
+- **Oct 09, 04:05 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
