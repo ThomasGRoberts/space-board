@@ -3,12 +3,11 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 27 |
-| spacenews | 0 | 1 | 13 | 25 |
+| spacenews | 0 | 1 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
-- **Jun 24, 03:24 AM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 24, 10:09 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
 - **Jun 24, 12:05 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 24, 12:39 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
@@ -31,7 +30,6 @@
 - **Jun 25, 01:44 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 25, 02:19 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 25, 03:29 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
-- **Jun 25, 04:04 AM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 25, 04:39 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 09:04 AM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 25, 09:44 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
@@ -89,7 +87,6 @@
 - **Jun 27, 03:34 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 27, 04:54 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 06:04 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
-- **Jun 27, 06:39 AM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 27, 07:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 07:54 AM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
 - **Jun 27, 08:29 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
@@ -172,7 +169,6 @@
 - **Jun 29, 04:59 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 29, 05:35 PM** - Europe’s next security challenge is in orbit (spacenews)
 - **Jun 29, 06:09 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
-- **Jun 29, 06:44 PM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 29, 07:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 29, 08:29 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 29, 09:04 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
@@ -4077,3 +4073,4 @@
 - **Oct 08, 10:19 PM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 08, 10:54 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 08, 11:28 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 09, 12:05 AM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
