@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 14 | 28 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4109,3 +4109,4 @@
 - **Oct 09, 07:33 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
 - **Oct 09, 08:09 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 09, 08:43 PM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
+- **Oct 09, 09:19 PM** - Resource competition intensifies with surge in megaconstellations (spacenews)
