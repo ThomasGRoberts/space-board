@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 14 | 28 |
-| spacenews | 0 | 0 | 13 | 25 |
+| spacenews | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4106,3 +4106,4 @@
 - **Oct 09, 05:49 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
 - **Oct 09, 06:24 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 09, 06:59 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 09, 07:33 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
