@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 27 |
-| spacenews | 0 | 1 | 13 | 25 |
+| spacenews | 0 | 1 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -4091,3 +4091,4 @@
 - **Oct 09, 08:53 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 09, 09:29 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 09, 10:10 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
+- **Oct 09, 10:44 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
