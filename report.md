@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4104,3 +4104,4 @@
 - **Oct 09, 04:39 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 09, 05:14 PM** - Who Owns the Moon? (nyt)
 - **Oct 09, 05:49 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
+- **Oct 09, 06:24 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
