@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 26 |
 | spacenews | 0 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4092,3 +4092,4 @@
 - **Oct 09, 09:29 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 09, 10:10 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 09, 10:44 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
+- **Oct 09, 11:19 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
