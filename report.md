@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 13 | 26 |
+| nyt | 1 | 2 | 14 | 27 |
 | spacenews | 0 | 1 | 13 | 25 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -4096,3 +4096,4 @@
 - **Oct 09, 11:53 AM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
 - **Oct 09, 12:29 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 09, 01:04 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
+- **Oct 09, 01:39 PM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
