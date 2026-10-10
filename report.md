@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4134,3 +4134,4 @@
 - **Oct 10, 10:14 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 10, 10:48 AM** - Who Owns the Moon? (nyt)
 - **Oct 10, 11:24 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
+- **Oct 10, 11:59 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
