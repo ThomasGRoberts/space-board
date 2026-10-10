@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 27 |
+| nyt | 0 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -4126,3 +4126,4 @@
 - **Oct 10, 05:28 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 10, 06:09 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 10, 06:44 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
+- **Oct 10, 07:18 AM** - Who Owns the Moon? (nyt)
