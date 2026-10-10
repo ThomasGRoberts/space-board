@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4122,3 +4122,4 @@
 - **Oct 10, 03:09 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 10, 03:44 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 10, 04:19 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
+- **Oct 10, 04:53 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
