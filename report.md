@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 28 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -4136,3 +4136,4 @@
 - **Oct 10, 11:24 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 10, 11:59 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 10, 12:34 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
+- **Oct 10, 01:09 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
