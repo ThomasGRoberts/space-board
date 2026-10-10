@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4119,3 +4119,4 @@
 - **Oct 10, 01:24 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 10, 01:58 AM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 10, 02:33 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
+- **Oct 10, 03:09 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
