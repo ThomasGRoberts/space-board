@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
+| spacenews | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -4150,3 +4150,4 @@
 - **Oct 10, 07:39 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 10, 08:14 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 10, 08:49 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
+- **Oct 10, 09:24 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
