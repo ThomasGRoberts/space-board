@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4116,3 +4116,4 @@
 - **Oct 09, 11:39 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 10, 12:14 AM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
 - **Oct 10, 12:49 AM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
+- **Oct 10, 01:24 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
