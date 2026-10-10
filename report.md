@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
+| spacenews | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -4144,3 +4144,4 @@
 - **Oct 10, 04:05 PM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 10, 04:44 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
 - **Oct 10, 05:19 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
+- **Oct 10, 05:54 PM** - Who Owns the Moon? (nyt)
