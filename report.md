@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 27 |
+| nyt | 0 | 1 | 14 | 28 |
 | spacenews | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -4129,3 +4129,4 @@
 - **Oct 10, 07:18 AM** - Who Owns the Moon? (nyt)
 - **Oct 10, 07:54 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 10, 08:29 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
+- **Oct 10, 09:04 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
