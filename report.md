@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4152,3 +4152,4 @@
 - **Oct 10, 08:49 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 10, 09:24 PM** - Superpowers Race to Put Nuclear Reactors on the Moon (nyt)
 - **Oct 10, 09:59 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
+- **Oct 10, 10:33 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
