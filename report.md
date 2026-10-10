@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4140,3 +4140,4 @@
 - **Oct 10, 01:44 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 10, 02:19 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
 - **Oct 10, 02:53 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
+- **Oct 10, 03:28 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
