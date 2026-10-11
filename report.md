@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 14 | 28 |
+| nyt | 0 | 0 | 14 | 28 |
+| spacenews | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4183,3 +4183,4 @@
 - **Oct 11, 02:59 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 11, 03:34 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 11, 04:09 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
+- **Oct 11, 04:44 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
