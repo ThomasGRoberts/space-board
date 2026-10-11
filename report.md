@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4188,3 +4188,4 @@
 - **Oct 11, 05:54 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 11, 06:29 PM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 11, 07:05 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
+- **Oct 11, 07:39 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
