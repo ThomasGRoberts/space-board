@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-11T00:04:52.410953+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6b60afa648dc785e1b5f701fa3a3caed",
+    "trigger_count": 0,
+    "current_item_id": "f99423ed1afa44f4be03ddc529f37cb7",
     "data": [
         {
             "id": "e67ca6bdf7352f561de941b3d8b45c57",
@@ -9680,6 +9680,18 @@
             "shown_at": [
                 "2026-06-24T10:09:45.310130Z",
                 "2026-06-28T02:49:25.302346Z"
+            ]
+        },
+        {
+            "id": "f99423ed1afa44f4be03ddc529f37cb7",
+            "source": "nyt",
+            "text": "The Times’s New Space Editor Has Her Eye on the Cosmos",
+            "source_link": "https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-11T18:29:28.569993Z",
+            "shown_at": [
+                "2026-10-11T18:29:29.388776Z"
             ]
         }
     ]
