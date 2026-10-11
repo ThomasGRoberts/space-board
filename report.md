@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -4193,3 +4193,4 @@
 - **Oct 11, 08:48 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 11, 09:34 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 11, 10:09 PM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
+- **Oct 11, 10:44 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
