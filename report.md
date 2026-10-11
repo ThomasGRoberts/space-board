@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4164,3 +4164,4 @@
 - **Oct 11, 03:54 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 11, 04:29 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 11, 05:04 AM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
+- **Oct 11, 05:39 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
