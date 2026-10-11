@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4158,3 +4158,4 @@
 - **Oct 11, 12:18 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 11, 12:59 AM** - Who Owns the Moon? (nyt)
 - **Oct 11, 01:34 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
+- **Oct 11, 02:09 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
