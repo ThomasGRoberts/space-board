@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -4157,3 +4157,4 @@
 - **Oct 10, 11:44 PM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
 - **Oct 11, 12:18 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 11, 12:59 AM** - Who Owns the Moon? (nyt)
+- **Oct 11, 01:34 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
