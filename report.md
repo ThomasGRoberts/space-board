@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 14 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -4175,3 +4175,4 @@
 - **Oct 11, 10:19 AM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
 - **Oct 11, 10:54 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 11, 11:29 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
+- **Oct 11, 12:05 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
