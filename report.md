@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4170,3 +4170,4 @@
 - **Oct 11, 07:23 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 11, 07:58 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 11, 08:34 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
+- **Oct 11, 09:09 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
