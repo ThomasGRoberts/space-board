@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4173,3 +4173,4 @@
 - **Oct 11, 09:09 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 11, 09:44 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 11, 10:19 AM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
+- **Oct 11, 10:54 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
