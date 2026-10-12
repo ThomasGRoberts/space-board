@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 27 |
-| spacenews | 1 | 1 | 14 | 27 |
+| spacenews | 1 | 1 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -4222,3 +4222,4 @@
 - **Oct 12, 03:19 PM** - Resource competition intensifies with surge in megaconstellations (spacenews)
 - **Oct 12, 03:53 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 12, 04:29 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
+- **Oct 12, 05:05 PM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
