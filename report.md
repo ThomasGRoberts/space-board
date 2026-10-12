@@ -8,7 +8,6 @@
 
 # Shown Order
 
-- **Jun 24, 10:09 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
 - **Jun 24, 12:05 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 24, 12:39 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 24, 01:14 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
@@ -111,7 +110,6 @@
 - **Jun 28, 12:29 AM** - Small satellite operators confront a bottleneck to space access (spacenews)
 - **Jun 28, 01:04 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 28, 02:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
-- **Jun 28, 02:49 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
 - **Jun 28, 03:24 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 28, 03:59 AM** - Europe’s next security challenge is in orbit (spacenews)
 - **Jun 28, 04:39 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)

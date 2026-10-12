@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-11T00:04:52.410953+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-10-12T00:04:52.638193+00:00",
+    "trigger_count": 2,
     "current_item_id": "8f4c32428aeb1d1d13a7e3236a9c14bb",
     "data": [
+        {
+            "id": "f99423ed1afa44f4be03ddc529f37cb7",
+            "source": "nyt",
+            "text": "The Times’s New Space Editor Has Her Eye on the Cosmos",
+            "source_link": "https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-11T18:29:28.569993Z",
+            "shown_at": [
+                "2026-10-11T18:29:29.388776Z"
+            ]
+        },
         {
             "id": "e67ca6bdf7352f561de941b3d8b45c57",
             "source": "nyt",
@@ -9676,31 +9688,6 @@
                 "2026-06-27T15:05:02.402520Z",
                 "2026-06-28T16:04:55.452818Z",
                 "2026-06-30T07:49:40.114168Z"
-            ]
-        },
-        {
-            "id": "61aa996ab297f9d9560d11637b5c119f",
-            "source": "spacenews",
-            "text": "NGSO trade association launches without industry giant SpaceX",
-            "source_link": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T10:09:43.561205Z",
-            "shown_at": [
-                "2026-06-24T10:09:45.310130Z",
-                "2026-06-28T02:49:25.302346Z"
-            ]
-        },
-        {
-            "id": "f99423ed1afa44f4be03ddc529f37cb7",
-            "source": "nyt",
-            "text": "The Times’s New Space Editor Has Her Eye on the Cosmos",
-            "source_link": "https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-11T18:29:28.569993Z",
-            "shown_at": [
-                "2026-10-11T18:29:29.388776Z"
             ]
         }
     ]
