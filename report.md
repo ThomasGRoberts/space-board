@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 14 | 27 |
+| nyt | 1 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4204,3 +4204,4 @@
 - **Oct 12, 04:34 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 12, 05:09 AM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
 - **Oct 12, 05:44 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
+- **Oct 12, 06:19 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
