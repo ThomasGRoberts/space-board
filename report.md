@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4207,3 +4207,4 @@
 - **Oct 12, 06:19 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 12, 06:54 AM** - Massive Black Holes May Have Started as Little Red Dots (nyt)
 - **Oct 12, 07:28 AM** - Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth (spacenews)
+- **Oct 12, 08:07 AM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
