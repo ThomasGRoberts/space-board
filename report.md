@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -4194,3 +4194,4 @@
 - **Oct 11, 10:44 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 11, 11:18 PM** - Can Golden Dome truly succeed without logistics and sustainment in space? (breaking_defense)
 - **Oct 11, 11:54 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
+- **Oct 12, 12:29 AM** - Resource competition intensifies with surge in megaconstellations (spacenews)
