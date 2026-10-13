@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 13 | 27 |
+| spacenews | 0 | 1 | 14 | 28 |
 | nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -4256,3 +4256,4 @@
 - **Oct 13, 02:44 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 13, 03:19 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 13, 03:54 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
+- **Oct 13, 04:29 PM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
