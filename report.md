@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 14 | 28 |
-| nyt | 0 | 1 | 13 | 26 |
+| spacenews | 1 | 1 | 14 | 27 |
+| nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -4237,3 +4237,4 @@
 - **Oct 13, 03:14 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 13, 03:49 AM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 13, 04:29 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
+- **Oct 13, 05:05 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
