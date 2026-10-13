@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 14 | 28 |
+| spacenews | 0 | 1 | 14 | 29 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -4260,3 +4260,4 @@
 - **Oct 13, 05:06 PM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 13, 05:44 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
 - **Oct 13, 06:19 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
+- **Oct 13, 06:54 PM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
