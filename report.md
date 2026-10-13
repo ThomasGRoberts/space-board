@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 14 | 27 |
+| spacenews | 1 | 1 | 15 | 28 |
 | nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -4247,3 +4247,4 @@
 - **Oct 13, 09:19 AM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
 - **Oct 13, 09:53 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 13, 10:29 AM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
+- **Oct 13, 11:05 AM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
