@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4233,3 +4233,4 @@
 - **Oct 13, 12:49 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 13, 01:23 AM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 13, 01:59 AM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
+- **Oct 13, 02:34 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
