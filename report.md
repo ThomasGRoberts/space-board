@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 15 | 29 |
+| spacenews | 0 | 1 | 16 | 30 |
 | nyt | 0 | 0 | 15 | 29 |
 | breaking_defense | 0 | 0 | 9 | 22 |
 
@@ -4268,3 +4268,4 @@
 - **Oct 13, 09:54 PM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 13, 10:29 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 13, 11:04 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
+- **Oct 13, 11:39 PM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
