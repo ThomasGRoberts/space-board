@@ -2,13 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 27 |
 | spacenews | 1 | 1 | 14 | 27 |
+| nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
-- **Jun 24, 12:05 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 24, 12:39 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 24, 01:14 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 24, 01:49 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
@@ -30,7 +29,6 @@
 - **Jun 25, 02:19 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 25, 03:29 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 04:39 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
-- **Jun 25, 09:04 AM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 25, 09:44 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 10:19 AM** - China schedules Long March 10B rocket launch and recovery attempt (spacenews)
 - **Jun 25, 11:35 AM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
@@ -96,7 +94,6 @@
 - **Jun 27, 01:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 01:54 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 27, 02:29 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
-- **Jun 27, 03:05 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 27, 03:39 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 04:49 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 27, 05:59 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
@@ -127,7 +124,6 @@
 - **Jun 28, 01:44 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
 - **Jun 28, 02:19 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 28, 03:29 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
-- **Jun 28, 04:04 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 28, 04:39 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 28, 05:14 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 28, 05:48 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
@@ -186,7 +182,6 @@
 - **Jun 30, 05:49 AM** - Study argues bigger launch vehicles may not always be better (spacenews)
 - **Jun 30, 06:24 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 06:59 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
-- **Jun 30, 07:49 AM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 30, 08:24 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 09:11 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 30, 09:54 AM** - Quantum computing is about to become a national security problem in orbit (spacenews)
