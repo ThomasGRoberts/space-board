@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 14 | 27 |
+| spacenews | 1 | 1 | 15 | 28 |
 | nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
@@ -4229,3 +4229,4 @@
 - **Oct 12, 10:24 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 12, 10:58 PM** - EU deepens collective space security with mutual defense pact (breaking_defense)
 - **Oct 12, 11:34 PM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
+- **Oct 13, 12:09 AM** - Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format (spacenews)
