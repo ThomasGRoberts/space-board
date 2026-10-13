@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 14 | 28 |
-| nyt | 0 | 1 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -4234,3 +4234,4 @@
 - **Oct 13, 01:23 AM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 13, 01:59 AM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
 - **Oct 13, 02:34 AM** - EU deepens collective space security with mutual defense pact (breaking_defense)
+- **Oct 13, 03:14 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
