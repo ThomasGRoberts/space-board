@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 20 | 35 |
 | nyt | 0 | 0 | 19 | 34 |
-| breaking_defense | 1 | 1 | 1 | 11 |
+| breaking_defense | 1 | 1 | 2 | 12 |
 
 # Shown Order
 
@@ -4307,3 +4307,4 @@
 - **Oct 14, 09:04 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 14, 09:44 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
 - **Oct 14, 10:19 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
+- **Oct 14, 10:54 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
