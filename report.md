@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 20 | 34 |
+| spacenews | 1 | 1 | 21 | 35 |
 | nyt | 0 | 0 | 20 | 33 |
 | breaking_defense | 0 | 0 | 0 | 13 |
 
@@ -4297,3 +4297,4 @@
 - **Oct 14, 02:59 PM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 14, 03:33 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
 - **Oct 14, 04:14 PM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
+- **Oct 14, 04:49 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
