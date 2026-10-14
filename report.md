@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 21 | 35 |
 | nyt | 0 | 0 | 19 | 34 |
-| breaking_defense | 0 | 0 | 0 | 11 |
+| breaking_defense | 1 | 1 | 1 | 12 |
 
 # Shown Order
 
@@ -4304,3 +4304,4 @@
 - **Oct 14, 07:14 PM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
 - **Oct 14, 07:49 PM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 14, 08:24 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
+- **Oct 14, 09:04 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)

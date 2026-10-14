@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-14T00:05:00.688946+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4450a2bea34bf428242ef71cecaf9106",
+    "trigger_count": 0,
+    "current_item_id": "50fc3934cd6982ac37d2ee94774cb626",
     "data": [
         {
             "id": "8dd342557579d0ecad0f8284b1b3e172",
@@ -9809,6 +9809,18 @@
                 "2026-10-14T15:33:56.111053Z",
                 "2026-10-14T16:49:04.335048Z",
                 "2026-10-14T20:24:56.609579Z"
+            ]
+        },
+        {
+            "id": "50fc3934cd6982ac37d2ee94774cb626",
+            "source": "breaking_defense",
+            "text": "NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome",
+            "source_link": "https://breakingdefense.com/2026/10/northcoms-joint-task-force-gold-to-coordinate-cyber-warfare-for-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-14T21:04:59.199033Z",
+            "shown_at": [
+                "2026-10-14T21:04:59.984709Z"
             ]
         }
     ]
