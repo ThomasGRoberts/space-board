@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 20 | 35 |
-| nyt | 0 | 0 | 19 | 34 |
+| nyt | 0 | 0 | 20 | 35 |
 | breaking_defense | 1 | 1 | 1 | 11 |
 
 # Shown Order
@@ -4305,3 +4305,4 @@
 - **Oct 14, 07:49 PM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 14, 08:24 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
 - **Oct 14, 09:04 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
+- **Oct 14, 09:44 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
