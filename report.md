@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 17 | 31 |
+| spacenews | 0 | 1 | 18 | 32 |
 | nyt | 0 | 0 | 18 | 31 |
 | breaking_defense | 0 | 0 | 5 | 18 |
 
@@ -4280,3 +4280,4 @@
 - **Oct 14, 05:05 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 14, 05:39 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
 - **Oct 14, 06:13 AM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
+- **Oct 14, 06:49 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
