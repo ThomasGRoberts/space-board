@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 16 | 30 |
+| spacenews | 0 | 1 | 16 | 31 |
 | nyt | 0 | 0 | 16 | 29 |
 | breaking_defense | 0 | 0 | 8 | 21 |
 
@@ -4272,3 +4272,4 @@
 - **Oct 14, 12:13 AM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
 - **Oct 14, 12:54 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
 - **Oct 14, 01:29 AM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
+- **Oct 14, 02:04 AM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
