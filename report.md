@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 20 | 34 |
+| spacenews | 1 | 1 | 21 | 35 |
 | nyt | 0 | 0 | 20 | 34 |
 | breaking_defense | 0 | 0 | 0 | 12 |
 
@@ -4299,3 +4299,4 @@
 - **Oct 14, 04:14 PM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 14, 04:49 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
 - **Oct 14, 05:24 PM** - Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died (nyt)
+- **Oct 14, 05:59 PM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
