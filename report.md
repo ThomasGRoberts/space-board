@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 18 | 32 |
+| spacenews | 0 | 1 | 19 | 33 |
 | nyt | 0 | 0 | 18 | 31 |
 | breaking_defense | 0 | 0 | 4 | 17 |
 
@@ -4284,3 +4284,4 @@
 - **Oct 14, 07:24 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 14, 07:59 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
 - **Oct 14, 08:34 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
+- **Oct 14, 09:08 AM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
