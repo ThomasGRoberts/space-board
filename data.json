@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-14T00:05:00.688946+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bca03aba73db4682323a0df33d6e6fa8",
+    "trigger_count": 0,
+    "current_item_id": "4450a2bea34bf428242ef71cecaf9106",
     "data": [
         {
             "id": "8dd342557579d0ecad0f8284b1b3e172",
@@ -9785,6 +9785,18 @@
                 "2026-06-29T05:19:31.241809Z",
                 "2026-06-30T03:49:03.125262Z",
                 "2026-07-01T10:19:36.716488Z"
+            ]
+        },
+        {
+            "id": "4450a2bea34bf428242ef71cecaf9106",
+            "source": "spacenews",
+            "text": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
+            "source_link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-14T13:13:43.228915Z",
+            "shown_at": [
+                "2026-10-14T13:13:44.188547Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 19 | 33 |
+| spacenews | 1 | 2 | 20 | 34 |
 | nyt | 0 | 0 | 19 | 32 |
 | breaking_defense | 0 | 0 | 2 | 15 |
 
@@ -4291,3 +4291,4 @@
 - **Oct 14, 11:29 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
 - **Oct 14, 12:04 PM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 14, 12:39 PM** - Announcing the finalists for the 2026 SpaceNews Icon Awards (spacenews)
+- **Oct 14, 01:13 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
