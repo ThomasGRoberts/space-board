@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 4 | 11 |
 | spacenews | 1 | 1 | 19 | 35 |
-| nyt | 0 | 0 | 17 | 34 |
+| nyt | 0 | 0 | 18 | 35 |
 
 # Shown Order
 
@@ -4268,3 +4268,4 @@
 - **Oct 15, 01:14 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 15, 01:49 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
 - **Oct 15, 02:24 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
+- **Oct 15, 02:59 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
