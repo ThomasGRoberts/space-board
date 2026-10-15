@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 9 | 11 |
+| breaking_defense | 1 | 1 | 10 | 12 |
 | spacenews | 2 | 2 | 16 | 35 |
 | nyt | 0 | 0 | 15 | 34 |
 
@@ -4285,3 +4285,4 @@
 - **Oct 15, 11:24 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 15, 11:59 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 15, 12:35 PM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)
+- **Oct 15, 01:08 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
