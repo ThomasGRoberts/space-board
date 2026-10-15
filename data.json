@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-15T00:04:49.416555+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8dd342557579d0ecad0f8284b1b3e172",
+    "trigger_count": 0,
+    "current_item_id": "1859bed87a252872492eb5a1b6e84db4",
     "data": [
         {
             "id": "50fc3934cd6982ac37d2ee94774cb626",
@@ -9814,6 +9814,18 @@
             "fetched_datetime": "2026-10-15T19:54:22.859792Z",
             "shown_at": [
                 "2026-10-15T19:54:23.526160Z"
+            ]
+        },
+        {
+            "id": "1859bed87a252872492eb5a1b6e84db4",
+            "source": "spacenews",
+            "text": "Oct. 29: Applying AI to the GEOINT Mission",
+            "source_link": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-15T21:04:48.659807Z",
+            "shown_at": [
+                "2026-10-15T21:04:49.509619Z"
             ]
         }
     ]
