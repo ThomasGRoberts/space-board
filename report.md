@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 3 | 11 |
 | spacenews | 1 | 1 | 19 | 35 |
-| nyt | 0 | 0 | 18 | 34 |
+| nyt | 0 | 0 | 19 | 35 |
 
 # Shown Order
 
@@ -4265,3 +4265,4 @@
 - **Oct 14, 11:29 PM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 15, 12:04 AM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
 - **Oct 15, 12:39 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
+- **Oct 15, 01:14 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
