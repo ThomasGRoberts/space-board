@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 9 | 11 |
-| spacenews | 1 | 1 | 16 | 35 |
+| spacenews | 2 | 2 | 17 | 36 |
 | nyt | 0 | 0 | 15 | 34 |
 
 # Shown Order
@@ -4284,3 +4284,4 @@
 - **Oct 15, 10:44 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
 - **Oct 15, 11:24 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 15, 11:59 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
+- **Oct 15, 12:35 PM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)

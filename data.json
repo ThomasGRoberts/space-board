@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-15T00:04:49.416555+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e67ca6bdf7352f561de941b3d8b45c57",
+    "trigger_count": 0,
+    "current_item_id": "d239495c5bccc6c524e0795aeea0df97",
     "data": [
         {
             "id": "50fc3934cd6982ac37d2ee94774cb626",
@@ -9778,6 +9778,18 @@
                 "2026-06-27T13:54:26.609173Z",
                 "2026-06-28T17:14:32.468150Z",
                 "2026-06-29T22:14:35.398101Z"
+            ]
+        },
+        {
+            "id": "d239495c5bccc6c524e0795aeea0df97",
+            "source": "spacenews",
+            "text": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
+            "source_link": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-15T12:35:03.048524Z",
+            "shown_at": [
+                "2026-10-15T12:35:03.982796Z"
             ]
         }
     ]
