@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 8 | 11 |
-| spacenews | 1 | 1 | 16 | 35 |
+| spacenews | 1 | 1 | 17 | 36 |
 | nyt | 0 | 0 | 16 | 34 |
 
 # Shown Order
@@ -4281,3 +4281,4 @@
 - **Oct 15, 08:58 AM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
 - **Oct 15, 09:34 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 15, 10:09 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
+- **Oct 15, 10:44 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
