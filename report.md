@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 7 | 11 |
+| breaking_defense | 1 | 1 | 8 | 12 |
 | spacenews | 1 | 1 | 17 | 35 |
 | nyt | 0 | 0 | 16 | 34 |
 
@@ -4279,3 +4279,4 @@
 - **Oct 15, 07:49 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 15, 08:24 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
 - **Oct 15, 08:58 AM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
+- **Oct 15, 09:34 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
