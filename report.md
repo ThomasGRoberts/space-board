@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 7 | 11 |
-| spacenews | 1 | 1 | 17 | 35 |
+| spacenews | 1 | 1 | 18 | 36 |
 | nyt | 0 | 0 | 16 | 34 |
 
 # Shown Order
@@ -4278,3 +4278,4 @@
 - **Oct 15, 07:09 AM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
 - **Oct 15, 07:49 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 15, 08:24 AM** - Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code (nyt)
+- **Oct 15, 08:58 AM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
