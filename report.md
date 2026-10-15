@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 13 |
-| spacenews | 1 | 2 | 13 | 33 |
+| spacenews | 1 | 2 | 13 | 34 |
 | nyt | 1 | 1 | 14 | 34 |
 
 # Shown Order
@@ -4297,3 +4297,4 @@
 - **Oct 15, 06:44 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 15, 07:19 PM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 15, 07:54 PM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
+- **Oct 15, 08:29 PM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
