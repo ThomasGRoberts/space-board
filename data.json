@@ -1,9 +1,39 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-14T00:05:00.688946+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e67ca6bdf7352f561de941b3d8b45c57",
+    "last_run_datetime": "2026-10-15T00:04:49.416555+00:00",
+    "trigger_count": 0,
+    "current_item_id": "4450a2bea34bf428242ef71cecaf9106",
     "data": [
+        {
+            "id": "50fc3934cd6982ac37d2ee94774cb626",
+            "source": "breaking_defense",
+            "text": "NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome",
+            "source_link": "https://breakingdefense.com/2026/10/northcoms-joint-task-force-gold-to-coordinate-cyber-warfare-for-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-14T21:04:59.199033Z",
+            "shown_at": [
+                "2026-10-14T21:04:59.984709Z",
+                "2026-10-14T22:54:21.581094Z"
+            ]
+        },
+        {
+            "id": "4450a2bea34bf428242ef71cecaf9106",
+            "source": "spacenews",
+            "text": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
+            "source_link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-14T13:13:43.228915Z",
+            "shown_at": [
+                "2026-10-14T13:13:44.188547Z",
+                "2026-10-14T15:33:56.111053Z",
+                "2026-10-14T16:49:04.335048Z",
+                "2026-10-14T20:24:56.609579Z",
+                "2026-10-14T22:19:37.846579Z",
+                "2026-10-15T00:04:54.955024Z"
+            ]
+        },
         {
             "id": "8dd342557579d0ecad0f8284b1b3e172",
             "source": "spacenews",
@@ -9728,103 +9758,6 @@
                 "2026-06-27T13:54:26.609173Z",
                 "2026-06-28T17:14:32.468150Z",
                 "2026-06-29T22:14:35.398101Z"
-            ]
-        },
-        {
-            "id": "475c4bad03dc8c430bd20feb67078509",
-            "source": "breaking_defense",
-            "text": "Built for another era, our air-and-missile-defense industrial base needs more builders",
-            "source_link": "https://breakingdefense.com/2026/06/built-for-another-era-our-air-and-missile-defense-industrial-base-needs-more-builders/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T13:14:32.526540Z",
-            "shown_at": [
-                "2026-06-24T13:14:33.515811Z",
-                "2026-06-24T17:59:24.994717Z",
-                "2026-06-24T19:09:29.570762Z",
-                "2026-06-25T03:29:40.235531Z",
-                "2026-06-25T04:39:16.493993Z",
-                "2026-06-25T09:44:39.849236Z",
-                "2026-06-25T15:29:33.887300Z",
-                "2026-06-25T16:39:26.925848Z",
-                "2026-06-25T19:09:23.449715Z",
-                "2026-06-25T20:24:29.871940Z",
-                "2026-06-26T04:49:45.137065Z",
-                "2026-06-26T05:59:30.054126Z",
-                "2026-06-26T11:49:35.094451Z",
-                "2026-06-26T15:14:37.782971Z",
-                "2026-06-26T19:54:35.628142Z",
-                "2026-06-26T22:54:35.174817Z",
-                "2026-06-27T00:05:01.864293Z",
-                "2026-06-27T02:24:29.162710Z",
-                "2026-06-27T03:34:50.258359Z",
-                "2026-06-27T06:04:41.100863Z",
-                "2026-06-27T10:59:17.046649Z",
-                "2026-06-27T20:19:33.636270Z",
-                "2026-06-28T08:09:16.150365Z",
-                "2026-06-28T17:48:54.495011Z",
-                "2026-06-28T22:29:20.911554Z",
-                "2026-06-29T03:24:46.688365Z",
-                "2026-06-29T07:07:15.165036Z",
-                "2026-06-29T08:24:34.944931Z",
-                "2026-06-29T10:14:51.637537Z",
-                "2026-06-29T11:54:32.890241Z",
-                "2026-06-29T20:29:22.123014Z",
-                "2026-06-29T23:34:49.319683Z",
-                "2026-06-30T01:19:38.973747Z",
-                "2026-06-30T03:05:10.668534Z",
-                "2026-06-30T05:14:39.118121Z",
-                "2026-07-01T02:18:56.513381Z"
-            ]
-        },
-        {
-            "id": "d18548b22241cd1eacdde3dcbdc0f5f3",
-            "source": "spacenews",
-            "text": "Vantor selects BAE Systems to build next-generation imaging satellites",
-            "source_link": "https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T12:39:37.295803Z",
-            "shown_at": [
-                "2026-06-24T12:39:39.699194Z",
-                "2026-06-24T17:24:34.631353Z",
-                "2026-06-25T01:44:07.718959Z",
-                "2026-06-26T03:04:41.153303Z",
-                "2026-06-26T09:09:27.877160Z",
-                "2026-06-26T14:39:20.733473Z",
-                "2026-06-29T00:19:51.356266Z",
-                "2026-06-29T05:19:31.241809Z",
-                "2026-06-30T03:49:03.125262Z",
-                "2026-07-01T10:19:36.716488Z"
-            ]
-        },
-        {
-            "id": "4450a2bea34bf428242ef71cecaf9106",
-            "source": "spacenews",
-            "text": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
-            "source_link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-14T13:13:43.228915Z",
-            "shown_at": [
-                "2026-10-14T13:13:44.188547Z",
-                "2026-10-14T15:33:56.111053Z",
-                "2026-10-14T16:49:04.335048Z",
-                "2026-10-14T20:24:56.609579Z",
-                "2026-10-14T22:19:37.846579Z"
-            ]
-        },
-        {
-            "id": "50fc3934cd6982ac37d2ee94774cb626",
-            "source": "breaking_defense",
-            "text": "NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome",
-            "source_link": "https://breakingdefense.com/2026/10/northcoms-joint-task-force-gold-to-coordinate-cyber-warfare-for-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-14T21:04:59.199033Z",
-            "shown_at": [
-                "2026-10-14T21:04:59.984709Z",
-                "2026-10-14T22:54:21.581094Z"
             ]
         }
     ]
