@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 31 |
-| nyt | 1 | 1 | 13 | 30 |
+| nyt | 1 | 1 | 14 | 31 |
 | breaking_defense | 0 | 1 | 13 | 19 |
 
 # Shown Order
@@ -4303,3 +4303,4 @@
 - **Oct 16, 05:13 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
 - **Oct 16, 05:49 AM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
 - **Oct 16, 06:24 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
+- **Oct 16, 06:59 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
