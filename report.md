@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 31 |
 | nyt | 1 | 1 | 14 | 29 |
-| breaking_defense | 0 | 1 | 12 | 20 |
+| breaking_defense | 0 | 1 | 13 | 21 |
 
 # Shown Order
 
@@ -4308,3 +4308,4 @@
 - **Oct 16, 08:14 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 16, 08:49 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
 - **Oct 16, 09:24 AM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
+- **Oct 16, 10:04 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
