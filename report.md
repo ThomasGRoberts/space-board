@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 33 |
 | nyt | 1 | 1 | 14 | 31 |
-| breaking_defense | 0 | 1 | 12 | 16 |
+| breaking_defense | 0 | 1 | 13 | 17 |
 
 # Shown Order
 
@@ -4296,3 +4296,4 @@
 - **Oct 16, 01:09 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 16, 01:44 AM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 16, 02:19 AM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)
+- **Oct 16, 02:54 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
