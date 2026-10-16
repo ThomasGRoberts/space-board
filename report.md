@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 29 |
+| spacenews | 1 | 3 | 14 | 30 |
 | nyt | 1 | 1 | 14 | 29 |
 | breaking_defense | 0 | 1 | 13 | 22 |
 
@@ -4313,3 +4313,4 @@
 - **Oct 16, 11:14 AM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)
 - **Oct 16, 11:49 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 16, 12:24 PM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
+- **Oct 16, 12:59 PM** - Oct. 29: Applying AI to the GEOINT Mission (spacenews)
