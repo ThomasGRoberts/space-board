@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 32 |
-| nyt | 1 | 1 | 13 | 30 |
+| nyt | 1 | 1 | 14 | 31 |
 | breaking_defense | 0 | 1 | 13 | 18 |
 
 # Shown Order
@@ -4300,3 +4300,4 @@
 - **Oct 16, 03:29 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
 - **Oct 16, 04:05 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
 - **Oct 16, 04:38 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
+- **Oct 16, 05:13 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
