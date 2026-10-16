@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 29 |
 | nyt | 1 | 1 | 14 | 28 |
-| breaking_defense | 0 | 1 | 12 | 23 |
+| breaking_defense | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -4317,3 +4317,4 @@
 - **Oct 16, 01:34 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 16, 02:14 PM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 16, 02:49 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
+- **Oct 16, 03:24 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
