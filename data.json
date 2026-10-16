@@ -1,9 +1,48 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-15T00:04:49.416555+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-10-16T00:03:59.860259+00:00",
+    "trigger_count": 1,
     "current_item_id": "f99423ed1afa44f4be03ddc529f37cb7",
     "data": [
+        {
+            "id": "1859bed87a252872492eb5a1b6e84db4",
+            "source": "spacenews",
+            "text": "Oct. 29: Applying AI to the GEOINT Mission",
+            "source_link": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-15T21:04:48.659807Z",
+            "shown_at": [
+                "2026-10-15T21:04:49.509619Z",
+                "2026-10-15T22:49:50.073276Z"
+            ]
+        },
+        {
+            "id": "f09787726b7504f5add9494c9979abbf",
+            "source": "nyt",
+            "text": "Ms., Martians and Guacamole: Their First Time in The Times",
+            "source_link": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-15T19:54:22.859792Z",
+            "shown_at": [
+                "2026-10-15T19:54:23.526160Z"
+            ]
+        },
+        {
+            "id": "d239495c5bccc6c524e0795aeea0df97",
+            "source": "spacenews",
+            "text": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
+            "source_link": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-15T12:35:03.048524Z",
+            "shown_at": [
+                "2026-10-15T12:35:03.982796Z",
+                "2026-10-15T14:24:48.357033Z",
+                "2026-10-15T16:18:40.968671Z"
+            ]
+        },
         {
             "id": "50fc3934cd6982ac37d2ee94774cb626",
             "source": "breaking_defense",
@@ -9747,90 +9786,6 @@
                 "2026-06-29T15:09:24.281619Z",
                 "2026-06-30T11:35:04.534343Z",
                 "2026-06-30T17:19:22.531439Z"
-            ]
-        },
-        {
-            "id": "7ef2e2d30364ef8cde27060354dc6fb1",
-            "source": "spacenews",
-            "text": "How space weather could bust the AI boom",
-            "source_link": "https://spacenews.com/how-space-weather-could-bust-the-ai-boom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T13:49:55.056941Z",
-            "shown_at": [
-                "2026-06-24T15:39:18.369178Z",
-                "2026-06-25T13:24:27.945975Z",
-                "2026-06-25T14:35:26.135345Z",
-                "2026-06-26T05:24:02.452139Z"
-            ]
-        },
-        {
-            "id": "a47e2c2f119bfb55237910b7f6393a57",
-            "source": "spacenews",
-            "text": "York satellite demonstrates two-way UHF communications from low Earth orbit",
-            "source_link": "https://spacenews.com/york-satellite-demonstrates-two-way-uhf-communications-from-low-earth-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T13:49:55.056896Z",
-            "shown_at": [
-                "2026-06-24T15:04:59.279112Z",
-                "2026-06-24T18:35:08.253251Z",
-                "2026-06-28T13:44:16.049541Z"
-            ]
-        },
-        {
-            "id": "d00645ed52649a6d1ef49f33a235afef",
-            "source": "spacenews",
-            "text": "Vast signs additional partners for commercial space station microgravity research",
-            "source_link": "https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T13:49:55.056834Z",
-            "shown_at": [
-                "2026-06-24T13:49:57.300209Z",
-                "2026-06-27T00:39:21.524179Z",
-                "2026-06-27T13:54:26.609173Z",
-                "2026-06-28T17:14:32.468150Z",
-                "2026-06-29T22:14:35.398101Z"
-            ]
-        },
-        {
-            "id": "d239495c5bccc6c524e0795aeea0df97",
-            "source": "spacenews",
-            "text": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
-            "source_link": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-15T12:35:03.048524Z",
-            "shown_at": [
-                "2026-10-15T12:35:03.982796Z",
-                "2026-10-15T14:24:48.357033Z",
-                "2026-10-15T16:18:40.968671Z"
-            ]
-        },
-        {
-            "id": "f09787726b7504f5add9494c9979abbf",
-            "source": "nyt",
-            "text": "Ms., Martians and Guacamole: Their First Time in The Times",
-            "source_link": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-15T19:54:22.859792Z",
-            "shown_at": [
-                "2026-10-15T19:54:23.526160Z"
-            ]
-        },
-        {
-            "id": "1859bed87a252872492eb5a1b6e84db4",
-            "source": "spacenews",
-            "text": "Oct. 29: Applying AI to the GEOINT Mission",
-            "source_link": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-15T21:04:48.659807Z",
-            "shown_at": [
-                "2026-10-15T21:04:49.509619Z",
-                "2026-10-15T22:49:50.073276Z"
             ]
         }
     ]

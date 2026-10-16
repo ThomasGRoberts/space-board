@@ -2,18 +2,14 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 15 |
 | spacenews | 2 | 3 | 14 | 33 |
 | nyt | 1 | 1 | 14 | 33 |
+| breaking_defense | 0 | 1 | 13 | 15 |
 
 # Shown Order
 
-- **Jun 24, 01:49 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 24, 02:29 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 24, 03:04 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
-- **Jun 24, 03:39 PM** - How space weather could bust the AI boom (spacenews)
 - **Jun 24, 04:49 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 24, 06:35 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
 - **Jun 24, 07:44 PM** - MDA Space wins contract for Radarsat replenishment satellite (spacenews)
 - **Jun 24, 08:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 24, 09:29 PM** - Space Force seeks fresh bidders for satellite-control antennas (spacenews)
@@ -25,9 +21,7 @@
 - **Jun 25, 11:35 AM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
 - **Jun 25, 12:09 PM** - Canceled NASA exploration projects suffered billions of dollars in overruns (spacenews)
 - **Jun 25, 12:49 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
-- **Jun 25, 01:24 PM** - How space weather could bust the AI boom (spacenews)
 - **Jun 25, 01:59 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
-- **Jun 25, 02:35 PM** - How space weather could bust the AI boom (spacenews)
 - **Jun 25, 04:04 PM** - Small satellite operators confront a bottleneck to space access (spacenews)
 - **Jun 25, 05:54 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 25, 08:59 PM** - Botswana signs the Artemis Accords (spacenews)
@@ -39,7 +33,6 @@
 - **Jun 26, 01:19 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 02:29 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 03:39 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
-- **Jun 26, 05:24 AM** - How space weather could bust the AI boom (spacenews)
 - **Jun 26, 07:09 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 08:34 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 26, 09:49 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
@@ -55,7 +48,6 @@
 - **Jun 26, 09:09 PM** - Spain-backed fund joins FOSSA’s sovereign satellite communications push (spacenews)
 - **Jun 26, 09:44 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 26, 10:19 PM** - Rocket Lab launches 10th Synspective satellite (spacenews)
-- **Jun 27, 12:39 AM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 27, 01:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 04:54 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 07:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
@@ -65,7 +57,6 @@
 - **Jun 27, 09:39 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 12:09 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 27, 01:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
-- **Jun 27, 01:54 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 27, 02:29 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 03:39 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 04:49 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
@@ -92,11 +83,9 @@
 - **Jun 28, 11:18 AM** - Space Force seeks fresh bidders for satellite-control antennas (spacenews)
 - **Jun 28, 11:58 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 28, 01:09 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
-- **Jun 28, 01:44 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
 - **Jun 28, 02:19 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 28, 03:29 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 28, 04:39 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
-- **Jun 28, 05:14 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 28, 06:24 PM** - ISS repair spacewalk highlights concerns about station health (spacenews)
 - **Jun 28, 06:59 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 28, 07:34 PM** - ISS repair spacewalk highlights concerns about station health (spacenews)
@@ -128,7 +117,6 @@
 - **Jun 29, 07:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 29, 09:04 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 29, 09:39 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
-- **Jun 29, 10:14 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 29, 10:54 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 12:09 AM** - Europe’s next security challenge is in orbit (spacenews)
 - **Jun 30, 12:44 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
