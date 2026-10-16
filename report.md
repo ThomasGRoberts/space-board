@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 13 | 32 |
+| spacenews | 2 | 3 | 14 | 33 |
 | nyt | 1 | 1 | 14 | 31 |
 | breaking_defense | 0 | 1 | 13 | 17 |
 
@@ -4298,3 +4298,4 @@
 - **Oct 16, 02:19 AM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)
 - **Oct 16, 02:54 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 16, 03:29 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
+- **Oct 16, 04:05 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
