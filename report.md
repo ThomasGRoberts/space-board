@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 13 | 30 |
+| spacenews | 2 | 3 | 14 | 31 |
 | nyt | 1 | 1 | 14 | 29 |
 | breaking_defense | 0 | 1 | 13 | 21 |
 
@@ -4310,3 +4310,4 @@
 - **Oct 16, 09:24 AM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
 - **Oct 16, 10:04 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 16, 10:38 AM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
+- **Oct 16, 11:14 AM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)
