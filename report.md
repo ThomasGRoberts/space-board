@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 27 |
+| spacenews | 0 | 2 | 14 | 28 |
 | nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -4334,3 +4334,4 @@
 - **Oct 16, 11:44 PM** - Oct. 29: Applying AI to the GEOINT Mission (spacenews)
 - **Oct 17, 12:19 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 17, 12:54 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
+- **Oct 17, 01:29 AM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
