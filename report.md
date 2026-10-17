@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 27 |
+| spacenews | 0 | 2 | 14 | 28 |
 | nyt | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -4346,3 +4346,4 @@
 - **Oct 17, 06:54 AM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
 - **Oct 17, 07:29 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 17, 08:05 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
+- **Oct 17, 08:39 AM** - Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. (spacenews)
