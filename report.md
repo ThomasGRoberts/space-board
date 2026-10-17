@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4362,3 +4362,4 @@
 - **Oct 17, 04:14 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 17, 04:49 PM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
 - **Oct 17, 05:23 PM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)
+- **Oct 17, 05:59 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
