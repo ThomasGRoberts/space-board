@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4332,3 +4332,4 @@
 - **Oct 16, 10:34 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 16, 11:09 PM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 16, 11:44 PM** - Oct. 29: Applying AI to the GEOINT Mission (spacenews)
+- **Oct 17, 12:19 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
