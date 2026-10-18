@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -4390,3 +4390,4 @@
 - **Oct 18, 08:44 AM** - The Times’s New Space Editor Has Her Eye on the Cosmos (nyt)
 - **Oct 18, 09:19 AM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)
 - **Oct 18, 09:54 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
+- **Oct 18, 10:28 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
