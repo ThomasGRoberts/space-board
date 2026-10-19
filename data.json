@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-19T00:05:08.924086+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1859bed87a252872492eb5a1b6e84db4",
+    "trigger_count": 0,
+    "current_item_id": "d4f1b5f28be377ec58fbbb2234bb1451",
     "data": [
         {
             "id": "1859bed87a252872492eb5a1b6e84db4",
@@ -9934,6 +9934,18 @@
                 "2026-06-29T15:09:24.281619Z",
                 "2026-06-30T11:35:04.534343Z",
                 "2026-06-30T17:19:22.531439Z"
+            ]
+        },
+        {
+            "id": "d4f1b5f28be377ec58fbbb2234bb1451",
+            "source": "spacenews",
+            "text": "UARX Space troubleshoots anomalies on maiden OTV Flight",
+            "source_link": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-19T16:49:15.671175Z",
+            "shown_at": [
+                "2026-10-19T16:49:16.631174Z"
             ]
         }
     ]
