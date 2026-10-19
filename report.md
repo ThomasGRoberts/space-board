@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 1 | 1 | 12 | 26 |
 
 # Shown Order
@@ -4448,3 +4448,4 @@
 - **Oct 19, 08:39 PM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
 - **Oct 19, 09:49 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 19, 10:24 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
+- **Oct 19, 11:04 PM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
