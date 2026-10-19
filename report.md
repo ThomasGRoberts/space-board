@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 13 | 27 |
+| spacenews | 1 | 1 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
@@ -4443,3 +4443,4 @@
 - **Oct 19, 04:49 PM** - UARX Space troubleshoots anomalies on maiden OTV Flight (spacenews)
 - **Oct 19, 05:39 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 19, 06:20 PM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
+- **Oct 19, 07:14 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
