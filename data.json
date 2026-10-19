@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-19T00:05:08.924086+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f09787726b7504f5add9494c9979abbf",
+    "trigger_count": 0,
+    "current_item_id": "e3402bb486b2b4bf613a44dcaf405d23",
     "data": [
         {
             "id": "1859bed87a252872492eb5a1b6e84db4",
@@ -9951,6 +9951,18 @@
             "fetched_datetime": "2026-10-19T16:49:15.671175Z",
             "shown_at": [
                 "2026-10-19T16:49:16.631174Z"
+            ]
+        },
+        {
+            "id": "e3402bb486b2b4bf613a44dcaf405d23",
+            "source": "breaking_defense",
+            "text": "Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers",
+            "source_link": "https://breakingdefense.com/2026/10/russian-satellite-stalked-iceye-spacecraft-in-potentially-dangerous-on-orbit-maneuvers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-19T21:49:32.002564Z",
+            "shown_at": [
+                "2026-10-19T21:49:32.616424Z"
             ]
         }
     ]
