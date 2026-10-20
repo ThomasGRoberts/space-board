@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-20T00:04:47.998372+00:00",
-    "trigger_count": 6,
-    "current_item_id": "50fc3934cd6982ac37d2ee94774cb626",
+    "trigger_count": 0,
+    "current_item_id": "88a0641099382159a0eb713fa727c6a3",
     "data": [
         {
             "id": "e3402bb486b2b4bf613a44dcaf405d23",
@@ -9971,6 +9971,18 @@
             "fetched_datetime": "2026-10-20T20:49:21.942933Z",
             "shown_at": [
                 "2026-10-20T20:49:22.678620Z"
+            ]
+        },
+        {
+            "id": "88a0641099382159a0eb713fa727c6a3",
+            "source": "nyt",
+            "text": "SpaceX Swings to a Profit, as A.I. Business Grows",
+            "source_link": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-20T23:05:00.647341Z",
+            "shown_at": [
+                "2026-10-20T23:05:01.323468Z"
             ]
         }
     ]

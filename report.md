@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 8 | 20 |
 | spacenews | 1 | 2 | 8 | 21 |
-| nyt | 2 | 2 | 9 | 21 |
+| nyt | 3 | 3 | 9 | 21 |
 
 # Shown Order
 
@@ -4444,3 +4444,4 @@
 - **Oct 20, 07:33 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 20, 08:49 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 20, 09:48 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
+- **Oct 20, 11:05 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
