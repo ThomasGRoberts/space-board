@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 8 | 20 |
+| breaking_defense | 1 | 1 | 9 | 21 |
 | spacenews | 1 | 2 | 9 | 21 |
 | nyt | 2 | 2 | 9 | 21 |
 
@@ -4443,3 +4443,4 @@
 - **Oct 20, 06:34 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 20, 07:33 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 20, 08:49 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
+- **Oct 20, 09:48 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
