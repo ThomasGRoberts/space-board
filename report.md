@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 8 | 22 |
 | spacenews | 2 | 2 | 10 | 24 |
-| nyt | 1 | 1 | 9 | 22 |
+| nyt | 1 | 1 | 10 | 23 |
 
 # Shown Order
 
@@ -4436,3 +4436,4 @@
 - **Oct 20, 11:04 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 20, 12:05 PM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)
 - **Oct 20, 01:34 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
+- **Oct 20, 02:34 PM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
