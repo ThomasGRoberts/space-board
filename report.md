@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 8 | 20 |
 | spacenews | 1 | 2 | 9 | 22 |
-| nyt | 1 | 1 | 8 | 21 |
+| nyt | 2 | 2 | 9 | 22 |
 
 # Shown Order
 
@@ -4442,3 +4442,4 @@
 - **Oct 20, 05:24 PM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 20, 06:34 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 20, 07:33 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
+- **Oct 20, 08:49 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
