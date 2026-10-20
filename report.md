@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 1 | 1 | 11 | 25 |
 | spacenews | 1 | 1 | 11 | 25 |
 | nyt | 1 | 1 | 12 | 25 |
 
@@ -4427,3 +4427,4 @@
 - **Oct 20, 03:08 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 20, 04:05 AM** - UARX Space troubleshoots anomalies on maiden OTV Flight (spacenews)
 - **Oct 20, 04:54 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
+- **Oct 20, 05:34 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
