@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 10 | 24 |
+| breaking_defense | 1 | 1 | 11 | 25 |
 | spacenews | 1 | 1 | 11 | 24 |
 | nyt | 1 | 1 | 11 | 25 |
 
@@ -4430,3 +4430,4 @@
 - **Oct 20, 05:34 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 20, 06:28 AM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)
 - **Oct 20, 07:13 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
+- **Oct 20, 08:04 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
