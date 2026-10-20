@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-20T00:04:47.998372+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d239495c5bccc6c524e0795aeea0df97",
+    "trigger_count": 0,
+    "current_item_id": "40a3be74027b896c9d202fc07da9b497",
     "data": [
         {
             "id": "e3402bb486b2b4bf613a44dcaf405d23",
@@ -9940,6 +9940,18 @@
             "shown_at": [
                 "2026-10-20T02:14:31.501748Z",
                 "2026-10-20T04:54:47.453380Z"
+            ]
+        },
+        {
+            "id": "40a3be74027b896c9d202fc07da9b497",
+            "source": "spacenews",
+            "text": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+            "source_link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-20T13:34:35.707121Z",
+            "shown_at": [
+                "2026-10-20T13:34:36.682891Z"
             ]
         }
     ]
