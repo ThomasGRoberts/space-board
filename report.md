@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 9 | 21 |
 | spacenews | 1 | 2 | 9 | 23 |
-| nyt | 1 | 1 | 9 | 22 |
+| nyt | 1 | 1 | 10 | 23 |
 
 # Shown Order
 
@@ -4439,3 +4439,4 @@
 - **Oct 20, 02:34 PM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
 - **Oct 20, 03:18 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 20, 04:19 PM** - How mini-constellations could more quickly bring new tech to Europe, and to orbit (spacenews)
+- **Oct 20, 05:24 PM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
