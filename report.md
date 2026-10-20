@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 9 | 23 |
+| breaking_defense | 1 | 1 | 10 | 24 |
 | spacenews | 1 | 1 | 10 | 24 |
 | nyt | 1 | 1 | 11 | 24 |
 
@@ -4433,3 +4433,4 @@
 - **Oct 20, 08:04 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 20, 09:09 AM** - Oct. 29: Applying AI to the GEOINT Mission (spacenews)
 - **Oct 20, 10:09 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
+- **Oct 20, 11:04 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
