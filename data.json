@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-19T00:05:08.924086+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-10-20T00:04:47.998372+00:00",
+    "trigger_count": 1,
     "current_item_id": "50fc3934cd6982ac37d2ee94774cb626",
     "data": [
+        {
+            "id": "e3402bb486b2b4bf613a44dcaf405d23",
+            "source": "breaking_defense",
+            "text": "Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers",
+            "source_link": "https://breakingdefense.com/2026/10/russian-satellite-stalked-iceye-spacecraft-in-potentially-dangerous-on-orbit-maneuvers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-19T21:49:32.002564Z",
+            "shown_at": [
+                "2026-10-19T21:49:32.616424Z"
+            ]
+        },
+        {
+            "id": "d4f1b5f28be377ec58fbbb2234bb1451",
+            "source": "spacenews",
+            "text": "UARX Space troubleshoots anomalies on maiden OTV Flight",
+            "source_link": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-19T16:49:15.671175Z",
+            "shown_at": [
+                "2026-10-19T16:49:16.631174Z"
+            ]
+        },
         {
             "id": "1859bed87a252872492eb5a1b6e84db4",
             "source": "spacenews",
@@ -9891,81 +9915,6 @@
                 "2026-06-30T15:29:21.112892Z",
                 "2026-06-30T20:24:34.240549Z",
                 "2026-07-01T08:59:11.382840Z"
-            ]
-        },
-        {
-            "id": "f93a63779926d403fc304a5a1e9184be",
-            "source": "spacenews",
-            "text": "MDA Space wins contract for Radarsat replenishment satellite",
-            "source_link": "https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T19:44:34.809370Z",
-            "shown_at": [
-                "2026-06-24T19:44:35.534885Z"
-            ]
-        },
-        {
-            "id": "2c6b8db2062d9a63bf2b132da610b103",
-            "source": "breaking_defense",
-            "text": "We must ensure the next war is won, not lost, in space. That starts with acquisition.",
-            "source_link": "https://breakingdefense.com/2026/06/we-must-ensure-the-next-war-is-won-not-lost-in-space-that-starts-with-acquisition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T14:29:21.937660Z",
-            "shown_at": [
-                "2026-06-24T14:29:22.755597Z",
-                "2026-06-24T16:49:36.452436Z",
-                "2026-06-24T22:44:29.250455Z",
-                "2026-06-25T01:09:03.395299Z",
-                "2026-06-25T17:54:33.217404Z",
-                "2026-06-26T00:04:53.176197Z",
-                "2026-06-26T01:19:32.367352Z",
-                "2026-06-26T02:29:32.104187Z",
-                "2026-06-26T03:39:30.635439Z",
-                "2026-06-26T07:09:29.548161Z",
-                "2026-06-26T17:34:28.561911Z",
-                "2026-06-26T18:44:38.066377Z",
-                "2026-06-27T08:29:09.083446Z",
-                "2026-06-27T12:09:25.993736Z",
-                "2026-06-27T16:49:44.173331Z",
-                "2026-06-27T17:59:25.353311Z",
-                "2026-06-27T19:09:17.863342Z",
-                "2026-06-27T23:54:47.908561Z",
-                "2026-06-28T01:04:57.468604Z",
-                "2026-06-28T04:39:44.608396Z",
-                "2026-06-28T09:34:54.097467Z",
-                "2026-06-28T10:44:38.138370Z",
-                "2026-06-28T18:59:32.649819Z",
-                "2026-06-29T01:05:01.622418Z",
-                "2026-06-29T13:49:47.333208Z",
-                "2026-06-29T15:09:24.281619Z",
-                "2026-06-30T11:35:04.534343Z",
-                "2026-06-30T17:19:22.531439Z"
-            ]
-        },
-        {
-            "id": "d4f1b5f28be377ec58fbbb2234bb1451",
-            "source": "spacenews",
-            "text": "UARX Space troubleshoots anomalies on maiden OTV Flight",
-            "source_link": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-19T16:49:15.671175Z",
-            "shown_at": [
-                "2026-10-19T16:49:16.631174Z"
-            ]
-        },
-        {
-            "id": "e3402bb486b2b4bf613a44dcaf405d23",
-            "source": "breaking_defense",
-            "text": "Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers",
-            "source_link": "https://breakingdefense.com/2026/10/russian-satellite-stalked-iceye-spacecraft-in-potentially-dangerous-on-orbit-maneuvers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-19T21:49:32.002564Z",
-            "shown_at": [
-                "2026-10-19T21:49:32.616424Z"
             ]
         }
     ]
