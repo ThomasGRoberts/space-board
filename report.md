@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 11 | 24 |
 | spacenews | 1 | 1 | 11 | 25 |
-| nyt | 1 | 1 | 11 | 24 |
+| nyt | 1 | 1 | 12 | 25 |
 
 # Shown Order
 
@@ -4429,3 +4429,4 @@
 - **Oct 20, 04:54 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 20, 05:34 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 20, 06:28 AM** - Agile Space Industries Expands to Seattle Area with New Bellevue Office (spacenews)
+- **Oct 20, 07:13 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
