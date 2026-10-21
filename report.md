@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 6 | 17 |
 | spacenews | 1 | 2 | 6 | 16 |
-| breaking_defense | 0 | 1 | 4 | 14 |
+| breaking_defense | 0 | 1 | 5 | 15 |
 
 # Shown Order
 
@@ -4417,3 +4417,4 @@
 - **Oct 21, 04:28 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
 - **Oct 21, 08:24 AM** - Oct. 29: Applying AI to the GEOINT Mission (spacenews)
 - **Oct 21, 09:59 AM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
+- **Oct 21, 11:09 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
