@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 6 | 16 |
-| spacenews | 3 | 4 | 6 | 16 |
+| nyt | 3 | 4 | 6 | 15 |
+| spacenews | 3 | 4 | 7 | 17 |
 | breaking_defense | 0 | 1 | 5 | 14 |
 
 # Shown Order
@@ -4419,3 +4419,4 @@
 - **Oct 21, 09:59 AM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
 - **Oct 21, 11:09 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 21, 12:24 PM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
+- **Oct 21, 01:05 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
