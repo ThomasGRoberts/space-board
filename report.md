@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 9 | 21 |
-| spacenews | 1 | 2 | 8 | 20 |
-| breaking_defense | 0 | 1 | 7 | 20 |
+| spacenews | 1 | 2 | 9 | 21 |
+| breaking_defense | 0 | 1 | 7 | 19 |
 
 # Shown Order
 
@@ -4412,3 +4412,4 @@
 - **Oct 20, 08:49 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 20, 09:48 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 20, 11:05 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
+- **Oct 21, 12:19 AM** - Oct. 29: Applying AI to the GEOINT Mission (spacenews)
