@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 5 | 14 |
 | spacenews | 5 | 6 | 8 | 16 |
-| breaking_defense | 0 | 0 | 3 | 11 |
+| breaking_defense | 0 | 0 | 4 | 12 |
 
 # Shown Order
 
@@ -4427,3 +4427,4 @@
 - **Oct 21, 07:04 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 21, 08:14 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
 - **Oct 21, 09:49 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
+- **Oct 21, 10:49 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
