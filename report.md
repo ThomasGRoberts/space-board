@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 6 | 16 |
+| nyt | 3 | 4 | 7 | 17 |
 | spacenews | 1 | 2 | 6 | 17 |
 | breaking_defense | 0 | 1 | 5 | 15 |
 
@@ -4416,3 +4416,4 @@
 - **Oct 21, 02:24 AM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 21, 04:28 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
 - **Oct 21, 08:24 AM** - Oct. 29: Applying AI to the GEOINT Mission (spacenews)
+- **Oct 21, 09:59 AM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-21T00:14:36.827154+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1859bed87a252872492eb5a1b6e84db4",
+    "trigger_count": 0,
+    "current_item_id": "c4ac3b6b8e2b468db7f62e356ccf13c7",
     "data": [
         {
             "id": "88a0641099382159a0eb713fa727c6a3",
@@ -9910,6 +9910,18 @@
                 "2026-06-26T20:34:37.650510Z",
                 "2026-06-27T07:54:51.305503Z",
                 "2026-07-01T01:44:31.861997Z"
+            ]
+        },
+        {
+            "id": "c4ac3b6b8e2b468db7f62e356ccf13c7",
+            "source": "nyt",
+            "text": "How to Catch the Orionids, a Meteor Shower From Halley’s Comet",
+            "source_link": "https://www.nytimes.com/2026/10/21/science/space/orionids-meteor-shower-halleys-comet.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-21T09:59:25.989667Z",
+            "shown_at": [
+                "2026-10-21T09:59:27.113471Z"
             ]
         }
     ]
