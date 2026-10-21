@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 4 | 13 |
+| nyt | 2 | 4 | 5 | 14 |
 | spacenews | 5 | 6 | 8 | 17 |
-| breaking_defense | 0 | 1 | 4 | 12 |
+| breaking_defense | 0 | 1 | 3 | 12 |
 
 # Shown Order
 
@@ -4426,3 +4426,4 @@
 - **Oct 21, 06:19 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 21, 07:04 PM** - NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome (breaking_defense)
 - **Oct 21, 08:14 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
+- **Oct 21, 09:49 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
