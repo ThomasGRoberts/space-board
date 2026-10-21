@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-21T00:14:36.827154+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bd2d1710e1a4e9bd7191453e4232b927",
+    "trigger_count": 0,
+    "current_item_id": "dca1786410303761a43f3113350a40af",
     "data": [
         {
             "id": "88a0641099382159a0eb713fa727c6a3",
@@ -9960,6 +9960,27 @@
             "shown_at": [
                 "2026-10-21T14:39:25.374497Z"
             ]
+        },
+        {
+            "id": "dca1786410303761a43f3113350a40af",
+            "source": "spacenews",
+            "text": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
+            "source_link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-21T15:54:09.740635Z",
+            "shown_at": [
+                "2026-10-21T15:54:10.522608Z"
+            ]
+        },
+        {
+            "id": "40a36acd4ec966bd14103223d0a706df",
+            "source": "spacenews",
+            "text": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
+            "source_link": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-10-21T15:54:09.740707Z"
         }
     ]
 }

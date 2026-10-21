@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 5 | 14 |
-| spacenews | 3 | 5 | 7 | 16 |
+| spacenews | 5 | 7 | 8 | 17 |
 | breaking_defense | 0 | 1 | 4 | 13 |
 
 # Shown Order
@@ -4421,3 +4421,4 @@
 - **Oct 21, 12:24 PM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
 - **Oct 21, 01:05 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
 - **Oct 21, 02:39 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
+- **Oct 21, 03:54 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
