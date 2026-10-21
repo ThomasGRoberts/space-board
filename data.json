@@ -1,9 +1,60 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-20T00:04:47.998372+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-10-21T00:14:36.827154+00:00",
+    "trigger_count": 6,
     "current_item_id": "88a0641099382159a0eb713fa727c6a3",
     "data": [
+        {
+            "id": "88a0641099382159a0eb713fa727c6a3",
+            "source": "nyt",
+            "text": "SpaceX Swings to a Profit, as A.I. Business Grows",
+            "source_link": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-20T23:05:00.647341Z",
+            "shown_at": [
+                "2026-10-20T23:05:01.323468Z"
+            ]
+        },
+        {
+            "id": "d5ab2e179dc7587f0dda94688e4ec313",
+            "source": "nyt",
+            "text": "SpaceX Swings to a Profit, Even as A.I. Spending Soars",
+            "source_link": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-20T20:49:21.942933Z",
+            "shown_at": [
+                "2026-10-20T20:49:22.678620Z"
+            ]
+        },
+        {
+            "id": "40a3be74027b896c9d202fc07da9b497",
+            "source": "spacenews",
+            "text": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+            "source_link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-20T13:34:35.707121Z",
+            "shown_at": [
+                "2026-10-20T13:34:36.682891Z",
+                "2026-10-20T19:33:47.806031Z"
+            ]
+        },
+        {
+            "id": "cd1b084844ca7402308216f640dd723d",
+            "source": "nyt",
+            "text": "Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift",
+            "source_link": "https://www.nytimes.com/2026/10/19/us/neil-armstrong-childhood-home-ohio.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-20T02:14:30.748682Z",
+            "shown_at": [
+                "2026-10-20T02:14:31.501748Z",
+                "2026-10-20T04:54:47.453380Z",
+                "2026-10-20T17:24:13.625230Z"
+            ]
+        },
         {
             "id": "e3402bb486b2b4bf613a44dcaf405d23",
             "source": "breaking_defense",
@@ -9855,134 +9906,6 @@
                 "2026-06-26T20:34:37.650510Z",
                 "2026-06-27T07:54:51.305503Z",
                 "2026-07-01T01:44:31.861997Z"
-            ]
-        },
-        {
-            "id": "b7a59f85cf53a47b83853d0bedc5b701",
-            "source": "spacenews",
-            "text": "China schedules Long March 10B rocket launch and recovery attempt",
-            "source_link": "https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-25T10:19:43.759382Z",
-            "shown_at": [
-                "2026-06-25T10:19:44.793851Z"
-            ]
-        },
-        {
-            "id": "2fc4c3499a1dd7494a02104ae8a498fb",
-            "source": "spacenews",
-            "text": "Shield Space and ClearSpace partner to defend satellites from orbital threats",
-            "source_link": "https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T21:29:31.746293Z",
-            "shown_at": [
-                "2026-06-24T22:04:57.831249Z",
-                "2026-06-28T08:54:29.341342Z",
-                "2026-06-28T10:09:10.565750Z"
-            ]
-        },
-        {
-            "id": "0257b13eb959c412f4c23ebc7a436331",
-            "source": "spacenews",
-            "text": "Space Force seeks fresh bidders for satellite-control antennas",
-            "source_link": "https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T21:29:31.746233Z",
-            "shown_at": [
-                "2026-06-24T21:29:32.710874Z",
-                "2026-06-28T11:18:26.467360Z"
-            ]
-        },
-        {
-            "id": "e2bcb9689c4a35324fd2d4c9c593ece1",
-            "source": "breaking_defense",
-            "text": "Boeing wins $2B Space Force contract for 2 new MUOS satellites",
-            "source_link": "https://breakingdefense.com/2026/06/boeing-wins-2b-space-force-contract-for-2-new-muos-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-24T20:19:29.219397Z",
-            "shown_at": [
-                "2026-06-24T20:19:30.377280Z",
-                "2026-06-25T02:19:48.329679Z",
-                "2026-06-25T12:49:31.622630Z",
-                "2026-06-25T13:59:21.634467Z",
-                "2026-06-26T09:49:30.821539Z",
-                "2026-06-26T14:04:43.610840Z",
-                "2026-06-26T16:24:30.238595Z",
-                "2026-06-26T21:44:36.344254Z",
-                "2026-06-27T01:14:32.173924Z",
-                "2026-06-27T04:54:44.767739Z",
-                "2026-06-27T07:14:23.905018Z",
-                "2026-06-27T09:39:13.827268Z",
-                "2026-06-27T13:19:39.708708Z",
-                "2026-06-27T14:29:17.275758Z",
-                "2026-06-27T15:39:27.706911Z",
-                "2026-06-27T21:29:26.728845Z",
-                "2026-06-27T22:44:28.653565Z",
-                "2026-06-28T02:14:36.958970Z",
-                "2026-06-28T03:24:39.962074Z",
-                "2026-06-28T11:58:31.704613Z",
-                "2026-06-28T21:19:16.652057Z",
-                "2026-06-29T04:44:04.949100Z",
-                "2026-06-29T16:59:27.567930Z",
-                "2026-06-29T19:19:21.566161Z",
-                "2026-06-30T15:29:21.112892Z",
-                "2026-06-30T20:24:34.240549Z",
-                "2026-07-01T08:59:11.382840Z"
-            ]
-        },
-        {
-            "id": "cd1b084844ca7402308216f640dd723d",
-            "source": "nyt",
-            "text": "Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift",
-            "source_link": "https://www.nytimes.com/2026/10/19/us/neil-armstrong-childhood-home-ohio.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-20T02:14:30.748682Z",
-            "shown_at": [
-                "2026-10-20T02:14:31.501748Z",
-                "2026-10-20T04:54:47.453380Z",
-                "2026-10-20T17:24:13.625230Z"
-            ]
-        },
-        {
-            "id": "40a3be74027b896c9d202fc07da9b497",
-            "source": "spacenews",
-            "text": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
-            "source_link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-20T13:34:35.707121Z",
-            "shown_at": [
-                "2026-10-20T13:34:36.682891Z",
-                "2026-10-20T19:33:47.806031Z"
-            ]
-        },
-        {
-            "id": "d5ab2e179dc7587f0dda94688e4ec313",
-            "source": "nyt",
-            "text": "SpaceX Swings to a Profit, Even as A.I. Spending Soars",
-            "source_link": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-20T20:49:21.942933Z",
-            "shown_at": [
-                "2026-10-20T20:49:22.678620Z"
-            ]
-        },
-        {
-            "id": "88a0641099382159a0eb713fa727c6a3",
-            "source": "nyt",
-            "text": "SpaceX Swings to a Profit, as A.I. Business Grows",
-            "source_link": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-20T23:05:00.647341Z",
-            "shown_at": [
-                "2026-10-20T23:05:01.323468Z"
             ]
         }
     ]
