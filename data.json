@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-21T00:14:36.827154+00:00",
-    "trigger_count": 6,
-    "current_item_id": "db8dfcff1ab6dd2a60498af23eb88273",
+    "trigger_count": 0,
+    "current_item_id": "bd2d1710e1a4e9bd7191453e4232b927",
     "data": [
         {
             "id": "88a0641099382159a0eb713fa727c6a3",
@@ -9947,6 +9947,18 @@
             "fetched_datetime": "2026-10-21T12:24:33.143543Z",
             "shown_at": [
                 "2026-10-21T13:05:26.760093Z"
+            ]
+        },
+        {
+            "id": "bd2d1710e1a4e9bd7191453e4232b927",
+            "source": "spacenews",
+            "text": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+            "source_link": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-21T14:39:24.150030Z",
+            "shown_at": [
+                "2026-10-21T14:39:25.374497Z"
             ]
         }
     ]
