@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 4 | 14 |
+| nyt | 3 | 4 | 5 | 15 |
 | spacenews | 5 | 6 | 8 | 17 |
 | breaking_defense | 0 | 1 | 4 | 12 |
 
@@ -4423,3 +4423,4 @@
 - **Oct 21, 02:39 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 21, 03:54 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
 - **Oct 21, 05:19 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
+- **Oct 21, 06:19 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
