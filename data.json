@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-21T00:14:36.827154+00:00",
-    "trigger_count": 6,
-    "current_item_id": "50fc3934cd6982ac37d2ee94774cb626",
+    "trigger_count": 0,
+    "current_item_id": "d34b3d17d73169d30e02c1ff4ddd9f89",
     "data": [
         {
             "id": "88a0641099382159a0eb713fa727c6a3",
@@ -9924,6 +9924,27 @@
             "shown_at": [
                 "2026-10-21T09:59:27.113471Z"
             ]
+        },
+        {
+            "id": "d34b3d17d73169d30e02c1ff4ddd9f89",
+            "source": "spacenews",
+            "text": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
+            "source_link": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-21T12:24:33.143459Z",
+            "shown_at": [
+                "2026-10-21T12:24:34.141657Z"
+            ]
+        },
+        {
+            "id": "db8dfcff1ab6dd2a60498af23eb88273",
+            "source": "spacenews",
+            "text": "Summer of Quantum: Building momentum for space-based QKD",
+            "source_link": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-10-21T12:24:33.143543Z"
         }
     ]
 }
