@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 9 | 15 |
+| spacenews | 5 | 6 | 10 | 16 |
 | nyt | 1 | 3 | 5 | 11 |
 | breaking_defense | 0 | 0 | 5 | 11 |
 
@@ -4394,3 +4394,4 @@
 - **Oct 22, 03:54 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 22, 05:13 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 22, 06:24 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
+- **Oct 22, 07:29 AM** - Oct. 29: Applying AI to the GEOINT Mission (spacenews)
