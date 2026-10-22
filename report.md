@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 8 | 16 |
-| nyt | 1 | 4 | 4 | 12 |
+| nyt | 1 | 4 | 5 | 13 |
 | breaking_defense | 0 | 0 | 4 | 11 |
 
 # Shown Order
@@ -4389,3 +4389,4 @@
 - **Oct 21, 09:49 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
 - **Oct 21, 10:49 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 22, 12:09 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
+- **Oct 22, 01:44 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
