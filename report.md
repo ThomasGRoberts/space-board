@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 7 | 15 |
 | nyt | 1 | 3 | 8 | 13 |
-| breaking_defense | 2 | 2 | 8 | 11 |
+| breaking_defense | 2 | 2 | 9 | 12 |
 
 # Shown Order
 
@@ -4410,3 +4410,4 @@
 - **Oct 22, 08:54 PM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 22, 09:34 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 22, 10:09 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
+- **Oct 22, 10:44 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
