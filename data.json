@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-22T00:09:34.041515+00:00",
-    "trigger_count": 6,
-    "current_item_id": "40a36acd4ec966bd14103223d0a706df",
+    "trigger_count": 0,
+    "current_item_id": "cf70b94e967eba84b1b106cfbdef10d6",
     "data": [
         {
             "id": "40a36acd4ec966bd14103223d0a706df",
@@ -9907,6 +9907,18 @@
             "fetched_datetime": "2026-10-22T10:05:11.038055Z",
             "shown_at": [
                 "2026-10-22T10:05:11.928296Z"
+            ]
+        },
+        {
+            "id": "cf70b94e967eba84b1b106cfbdef10d6",
+            "source": "breaking_defense",
+            "text": "MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing",
+            "source_link": "https://breakingdefense.com/2026/10/mda-awards-75m-to-long-wall-for-low-cost-midcourse-interceptor-testing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-22T17:09:28.554220Z",
+            "shown_at": [
+                "2026-10-22T17:09:29.356688Z"
             ]
         }
     ]
