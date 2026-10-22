@@ -4397,3 +4397,4 @@
 - **Oct 22, 07:29 AM** - Oct. 29: Applying AI to the GEOINT Mission (spacenews)
 - **Oct 22, 08:49 AM** - Ms., Martians and Guacamole: Their First Time in The Times (nyt)
 - **Oct 22, 10:05 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
+- **Oct 22, 11:21 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
