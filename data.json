@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-22T00:09:34.041515+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f09787726b7504f5add9494c9979abbf",
+    "trigger_count": 0,
+    "current_item_id": "1f36d9d4b82a78027eccca3eeb4af49a",
     "data": [
         {
             "id": "40a36acd4ec966bd14103223d0a706df",
@@ -9890,6 +9890,18 @@
             "fetched_datetime": "2026-06-25T22:14:35.171987Z",
             "shown_at": [
                 "2026-06-25T22:49:35.327106Z"
+            ]
+        },
+        {
+            "id": "1f36d9d4b82a78027eccca3eeb4af49a",
+            "source": "nyt",
+            "text": "Earth and Mars May Have Formed in Weirdly Different Ways",
+            "source_link": "https://www.nytimes.com/2026/10/22/science/space/earth-mars-formed-different.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-22T10:05:11.038055Z",
+            "shown_at": [
+                "2026-10-22T10:05:11.928296Z"
             ]
         }
     ]
