@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 7 | 15 |
-| nyt | 1 | 3 | 7 | 12 |
+| nyt | 1 | 3 | 8 | 13 |
 | breaking_defense | 2 | 2 | 8 | 11 |
 
 # Shown Order
@@ -4409,3 +4409,4 @@
 - **Oct 22, 08:15 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
 - **Oct 22, 08:54 PM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 22, 09:34 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
+- **Oct 22, 10:09 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
