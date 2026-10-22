@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 6 | 14 |
+| spacenews | 0 | 5 | 7 | 15 |
 | nyt | 1 | 4 | 7 | 12 |
 | breaking_defense | 1 | 1 | 7 | 10 |
 
@@ -4404,3 +4404,4 @@
 - **Oct 22, 03:44 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
 - **Oct 22, 05:09 PM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
 - **Oct 22, 06:10 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
+- **Oct 22, 06:54 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
