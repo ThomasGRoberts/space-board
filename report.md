@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 8 | 15 |
-| nyt | 1 | 4 | 6 | 12 |
+| nyt | 1 | 4 | 7 | 13 |
 | breaking_defense | 0 | 0 | 5 | 10 |
 
 # Shown Order
@@ -4399,3 +4399,4 @@
 - **Oct 22, 10:05 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 22, 11:21 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 22, 12:39 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
+- **Oct 22, 01:31 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
