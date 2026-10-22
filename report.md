@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 7 | 14 |
+| spacenews | 2 | 5 | 8 | 15 |
 | nyt | 1 | 4 | 7 | 12 |
 | breaking_defense | 0 | 0 | 6 | 10 |
 
@@ -4401,3 +4401,4 @@
 - **Oct 22, 12:39 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
 - **Oct 22, 01:31 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 22, 02:19 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
+- **Oct 22, 03:44 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
