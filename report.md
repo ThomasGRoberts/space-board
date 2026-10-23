@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 9 | 13 |
+| breaking_defense | 2 | 2 | 10 | 14 |
 | nyt | 1 | 2 | 9 | 14 |
 | spacenews | 0 | 5 | 8 | 16 |
 
@@ -4404,3 +4404,4 @@
 - **Oct 23, 12:29 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 23, 01:04 AM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
 - **Oct 23, 01:39 AM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
+- **Oct 23, 02:19 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
