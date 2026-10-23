@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 19 |
-| nyt | 0 | 1 | 12 | 19 |
-| spacenews | 0 | 2 | 12 | 20 |
+| nyt | 0 | 1 | 13 | 20 |
+| spacenews | 0 | 0 | 12 | 19 |
 
 # Shown Order
 
@@ -4427,3 +4427,4 @@
 - **Oct 23, 02:05 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 23, 02:44 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 23, 03:18 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
+- **Oct 23, 03:54 PM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
