@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 13 | 20 |
-| nyt | 0 | 1 | 14 | 21 |
+| breaking_defense | 1 | 2 | 14 | 21 |
+| nyt | 0 | 1 | 13 | 21 |
 | spacenews | 0 | 0 | 13 | 19 |
 
 # Shown Order
@@ -4431,3 +4431,4 @@
 - **Oct 23, 04:28 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 23, 05:04 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 23, 05:39 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
+- **Oct 23, 06:14 PM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
