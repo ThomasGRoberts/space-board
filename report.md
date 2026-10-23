@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 9 | 13 |
 | nyt | 1 | 2 | 9 | 14 |
-| spacenews | 0 | 5 | 8 | 16 |
+| spacenews | 0 | 5 | 9 | 17 |
 
 # Shown Order
 
@@ -4405,3 +4405,4 @@
 - **Oct 23, 01:04 AM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
 - **Oct 23, 01:39 AM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
 - **Oct 23, 02:19 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 23, 02:54 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
