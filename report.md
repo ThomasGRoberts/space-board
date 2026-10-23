@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 11 | 15 |
 | nyt | 1 | 2 | 10 | 15 |
-| spacenews | 0 | 5 | 9 | 18 |
+| spacenews | 0 | 5 | 10 | 19 |
 
 # Shown Order
 
@@ -4411,3 +4411,4 @@
 - **Oct 23, 04:39 AM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
 - **Oct 23, 05:14 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 23, 05:49 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
+- **Oct 23, 06:24 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
