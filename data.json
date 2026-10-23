@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-23T00:05:12.256607+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c4ac3b6b8e2b468db7f62e356ccf13c7",
+    "trigger_count": 0,
+    "current_item_id": "c76f1ab8fba6a7762bd5ba93ccb2b69d",
     "data": [
         {
             "id": "0de1bd34bc98fb2eb51bec83f4da8af7",
@@ -9967,6 +9967,18 @@
             "fetched_datetime": "2026-10-23T21:49:22.488328Z",
             "shown_at": [
                 "2026-10-23T21:49:23.475894Z"
+            ]
+        },
+        {
+            "id": "c76f1ab8fba6a7762bd5ba93ccb2b69d",
+            "source": "nyt",
+            "text": "NASA Is Still Aiming for the Next Moon Landing in 2028",
+            "source_link": "https://www.nytimes.com/2026/10/23/science/space/nasa-artemis-program-update.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-23T23:39:15.788234Z",
+            "shown_at": [
+                "2026-10-23T23:39:16.519668Z"
             ]
         }
     ]
