@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 21 |
 | nyt | 0 | 1 | 13 | 20 |
-| spacenews | 0 | 0 | 13 | 20 |
+| spacenews | 1 | 1 | 14 | 21 |
 
 # Shown Order
 
@@ -4434,3 +4434,4 @@
 - **Oct 23, 06:14 PM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
 - **Oct 23, 06:49 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 23, 07:24 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
+- **Oct 23, 07:59 PM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
