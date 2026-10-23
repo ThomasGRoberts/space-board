@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 21 |
-| nyt | 0 | 1 | 12 | 20 |
+| nyt | 0 | 1 | 13 | 21 |
 | spacenews | 1 | 1 | 14 | 20 |
 
 # Shown Order
@@ -4435,3 +4435,4 @@
 - **Oct 23, 06:49 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 23, 07:24 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
 - **Oct 23, 07:59 PM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
+- **Oct 23, 08:34 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
