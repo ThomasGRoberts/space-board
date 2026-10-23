@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 14 | 20 |
+| breaking_defense | 2 | 3 | 15 | 21 |
 | nyt | 0 | 1 | 13 | 20 |
 | spacenews | 0 | 0 | 13 | 20 |
 
@@ -4433,3 +4433,4 @@
 - **Oct 23, 05:39 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
 - **Oct 23, 06:14 PM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
 - **Oct 23, 06:49 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
+- **Oct 23, 07:24 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)

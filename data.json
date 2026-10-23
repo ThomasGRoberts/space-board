@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-23T00:05:12.256607+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bd2d1710e1a4e9bd7191453e4232b927",
+    "trigger_count": 0,
+    "current_item_id": "6f1c72613a6c7f833c7c41236caeb2bf",
     "data": [
         {
             "id": "0de1bd34bc98fb2eb51bec83f4da8af7",
@@ -9927,6 +9927,18 @@
             "shown_at": [
                 "2026-06-26T12:32:36.615503Z",
                 "2026-07-03T03:35:51.484357Z"
+            ]
+        },
+        {
+            "id": "6f1c72613a6c7f833c7c41236caeb2bf",
+            "source": "breaking_defense",
+            "text": "Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats",
+            "source_link": "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-23T19:24:25.259286Z",
+            "shown_at": [
+                "2026-10-23T19:24:26.029243Z"
             ]
         }
     ]
