@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 19 |
 | nyt | 0 | 1 | 12 | 19 |
-| spacenews | 0 | 2 | 12 | 19 |
+| spacenews | 0 | 2 | 13 | 20 |
 
 # Shown Order
 
@@ -4426,3 +4426,4 @@
 - **Oct 23, 01:29 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
 - **Oct 23, 02:05 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 23, 02:44 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
+- **Oct 23, 03:18 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
