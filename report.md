@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 9 | 13 |
-| nyt | 1 | 2 | 9 | 14 |
+| nyt | 1 | 2 | 10 | 15 |
 | spacenews | 0 | 5 | 9 | 17 |
 
 # Shown Order
@@ -4406,3 +4406,4 @@
 - **Oct 23, 01:39 AM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
 - **Oct 23, 02:19 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 23, 02:54 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
+- **Oct 23, 03:29 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
