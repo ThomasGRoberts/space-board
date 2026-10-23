@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 14 | 22 |
-| nyt | 0 | 1 | 12 | 20 |
+| nyt | 0 | 1 | 13 | 21 |
 | spacenews | 1 | 1 | 14 | 21 |
 
 # Shown Order
@@ -4439,3 +4439,4 @@
 - **Oct 23, 09:09 PM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 23, 09:49 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 23, 10:24 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
+- **Oct 23, 10:59 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
