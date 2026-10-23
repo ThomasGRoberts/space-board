@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-23T00:05:12.256607+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0de1bd34bc98fb2eb51bec83f4da8af7",
+    "trigger_count": 0,
+    "current_item_id": "18ad1dc69dfe5f8275f14177ca6df1c4",
     "data": [
         {
             "id": "0de1bd34bc98fb2eb51bec83f4da8af7",
@@ -9953,6 +9953,18 @@
             "fetched_datetime": "2026-10-23T19:59:26.098174Z",
             "shown_at": [
                 "2026-10-23T19:59:26.906940Z"
+            ]
+        },
+        {
+            "id": "18ad1dc69dfe5f8275f14177ca6df1c4",
+            "source": "breaking_defense",
+            "text": "Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring",
+            "source_link": "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-23T21:49:22.488328Z",
+            "shown_at": [
+                "2026-10-23T21:49:23.475894Z"
             ]
         }
     ]

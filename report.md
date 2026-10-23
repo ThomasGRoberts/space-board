@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 14 | 22 |
+| breaking_defense | 2 | 4 | 15 | 23 |
 | nyt | 0 | 1 | 13 | 21 |
 | spacenews | 1 | 1 | 13 | 20 |
 
@@ -4437,3 +4437,4 @@
 - **Oct 23, 07:59 PM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
 - **Oct 23, 08:34 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
 - **Oct 23, 09:09 PM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 23, 09:49 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
