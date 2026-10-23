@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 9 | 13 |
 | nyt | 1 | 2 | 9 | 13 |
-| spacenews | 0 | 5 | 7 | 15 |
+| spacenews | 0 | 5 | 8 | 16 |
 
 # Shown Order
 
@@ -4402,3 +4402,4 @@
 - **Oct 22, 11:18 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 22, 11:54 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 23, 12:29 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 23, 01:04 AM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
