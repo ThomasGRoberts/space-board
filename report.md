@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 12 | 17 |
 | nyt | 0 | 1 | 11 | 17 |
-| spacenews | 0 | 5 | 11 | 20 |
+| spacenews | 0 | 5 | 12 | 21 |
 
 # Shown Order
 
@@ -4420,3 +4420,4 @@
 - **Oct 23, 09:59 AM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 23, 10:34 AM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
 - **Oct 23, 11:09 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 23, 11:44 AM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
