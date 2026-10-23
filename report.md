@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 10 | 15 |
-| nyt | 1 | 2 | 10 | 15 |
+| nyt | 1 | 2 | 11 | 16 |
 | spacenews | 0 | 5 | 10 | 19 |
 
 # Shown Order
@@ -4412,3 +4412,4 @@
 - **Oct 23, 05:14 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 23, 05:49 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 23, 06:24 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
+- **Oct 23, 06:58 AM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
