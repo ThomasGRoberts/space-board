@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 11 | 16 |
 | nyt | 1 | 2 | 11 | 16 |
-| spacenews | 0 | 5 | 9 | 19 |
+| spacenews | 0 | 5 | 10 | 20 |
 
 # Shown Order
 
@@ -4414,3 +4414,4 @@
 - **Oct 23, 06:24 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
 - **Oct 23, 06:58 AM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 23, 07:33 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 23, 08:09 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
