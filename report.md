@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 10 | 14 |
 | nyt | 1 | 2 | 10 | 14 |
-| spacenews | 0 | 5 | 8 | 17 |
+| spacenews | 0 | 5 | 9 | 18 |
 
 # Shown Order
 
@@ -4408,3 +4408,4 @@
 - **Oct 23, 02:54 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
 - **Oct 23, 03:29 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 23, 04:04 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 23, 04:39 AM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
