@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 15 | 23 |
 | nyt | 0 | 1 | 12 | 20 |
-| spacenews | 1 | 1 | 13 | 20 |
+| spacenews | 1 | 1 | 14 | 21 |
 
 # Shown Order
 
@@ -4438,3 +4438,4 @@
 - **Oct 23, 08:34 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
 - **Oct 23, 09:09 PM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 23, 09:49 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
+- **Oct 23, 10:24 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
