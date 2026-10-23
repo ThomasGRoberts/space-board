@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 8 | 12 |
+| breaking_defense | 2 | 2 | 9 | 13 |
 | nyt | 1 | 2 | 9 | 13 |
 | spacenews | 0 | 5 | 7 | 15 |
 
@@ -4401,3 +4401,4 @@
 - **Oct 22, 10:44 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 22, 11:18 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 22, 11:54 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
+- **Oct 23, 12:29 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
