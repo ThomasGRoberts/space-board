@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 11 | 16 |
+| breaking_defense | 2 | 2 | 12 | 17 |
 | nyt | 1 | 2 | 11 | 17 |
 | spacenews | 0 | 5 | 10 | 19 |
 
@@ -4416,3 +4416,4 @@
 - **Oct 23, 07:33 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 23, 08:09 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
 - **Oct 23, 08:44 AM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
+- **Oct 23, 09:19 AM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
