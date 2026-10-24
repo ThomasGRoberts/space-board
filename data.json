@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-24T00:05:05.598987+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd1b084844ca7402308216f640dd723d",
+    "trigger_count": 0,
+    "current_item_id": "59070eca3350f4ed460684d6371d0c7d",
     "data": [
         {
             "id": "c76f1ab8fba6a7762bd5ba93ccb2b69d",
@@ -9942,6 +9942,18 @@
             "fetched_datetime": "2026-06-29T08:59:12.904528Z",
             "shown_at": [
                 "2026-06-29T08:59:13.707665Z"
+            ]
+        },
+        {
+            "id": "59070eca3350f4ed460684d6371d0c7d",
+            "source": "nyt",
+            "text": "Some Buy Telescopes. These People Build Them From Scratch.",
+            "source_link": "https://www.nytimes.com/2026/10/24/science/space/stellafane-telescopes-makers.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-24T09:09:15.681731Z",
+            "shown_at": [
+                "2026-10-24T09:09:16.195157Z"
             ]
         }
     ]
