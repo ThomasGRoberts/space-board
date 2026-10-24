@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 26 |
 | breaking_defense | 2 | 4 | 14 | 27 |
-| spacenews | 1 | 1 | 12 | 25 |
+| spacenews | 1 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -4459,3 +4459,4 @@
 - **Oct 24, 01:49 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
 - **Oct 24, 02:24 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
 - **Oct 24, 02:58 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
+- **Oct 24, 03:34 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
