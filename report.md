@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 26 |
-| breaking_defense | 2 | 4 | 13 | 26 |
+| breaking_defense | 2 | 4 | 14 | 27 |
 | spacenews | 1 | 1 | 13 | 24 |
 
 # Shown Order
@@ -4455,3 +4455,4 @@
 - **Oct 24, 11:29 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 24, 12:05 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
 - **Oct 24, 12:39 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
+- **Oct 24, 01:14 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
