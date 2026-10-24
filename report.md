@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 27 |
 | breaking_defense | 2 | 3 | 14 | 28 |
-| spacenews | 1 | 1 | 12 | 25 |
+| spacenews | 1 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -4465,3 +4465,4 @@
 - **Oct 24, 05:19 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 24, 05:54 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 24, 06:29 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
+- **Oct 24, 07:09 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
