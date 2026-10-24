@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 13 | 22 |
+| nyt | 1 | 2 | 14 | 23 |
 | breaking_defense | 2 | 4 | 14 | 23 |
 | spacenews | 1 | 1 | 13 | 22 |
 
@@ -4438,3 +4438,4 @@
 - **Oct 24, 01:24 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 24, 01:58 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 24, 02:34 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
+- **Oct 24, 03:14 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
