@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 15 | 28 |
-| breaking_defense | 1 | 3 | 13 | 27 |
+| nyt | 2 | 2 | 15 | 27 |
+| breaking_defense | 1 | 3 | 14 | 28 |
 | spacenews | 0 | 1 | 12 | 26 |
 
 # Shown Order
@@ -4467,3 +4467,4 @@
 - **Oct 24, 06:29 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 24, 07:09 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 24, 07:43 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
+- **Oct 24, 08:19 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
