@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 13 | 24 |
 | breaking_defense | 2 | 4 | 14 | 25 |
-| spacenews | 1 | 1 | 13 | 22 |
+| spacenews | 1 | 1 | 14 | 23 |
 
 # Shown Order
 
@@ -4446,3 +4446,4 @@
 - **Oct 24, 06:08 AM** - UARX Space troubleshoots anomalies on maiden OTV Flight (spacenews)
 - **Oct 24, 06:44 AM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 24, 07:19 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 24, 07:54 AM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
