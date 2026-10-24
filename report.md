@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 13 | 22 |
-| breaking_defense | 2 | 4 | 14 | 22 |
-| spacenews | 1 | 1 | 13 | 21 |
+| breaking_defense | 2 | 4 | 15 | 23 |
+| spacenews | 1 | 1 | 13 | 20 |
 
 # Shown Order
 
@@ -4433,3 +4433,4 @@
 - **Oct 23, 10:24 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
 - **Oct 23, 10:59 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
 - **Oct 23, 11:39 PM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
+- **Oct 24, 12:14 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
