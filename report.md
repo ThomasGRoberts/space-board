@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 27 |
-| breaking_defense | 2 | 4 | 13 | 27 |
+| breaking_defense | 2 | 4 | 14 | 28 |
 | spacenews | 1 | 1 | 13 | 25 |
 
 # Shown Order
@@ -4461,3 +4461,4 @@
 - **Oct 24, 02:58 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
 - **Oct 24, 03:34 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
 - **Oct 24, 04:08 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
+- **Oct 24, 04:44 PM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
