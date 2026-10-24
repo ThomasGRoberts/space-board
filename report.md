@@ -2,18 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 14 | 22 |
 | nyt | 1 | 2 | 13 | 22 |
+| breaking_defense | 2 | 4 | 14 | 22 |
 | spacenews | 1 | 1 | 13 | 21 |
 
 # Shown Order
 
-- **Jun 26, 12:32 PM** - Starlink veterans launch startup to broaden megaconstellation ownership (spacenews)
-- **Jun 26, 01:14 PM** - ISS repair spacewalk highlights concerns about station health (spacenews)
-- **Jun 26, 09:09 PM** - Spain-backed fund joins FOSSA’s sovereign satellite communications push (spacenews)
-- **Jun 26, 10:19 PM** - Rocket Lab launches 10th Synspective satellite (spacenews)
-- **Jun 28, 06:24 PM** - ISS repair spacewalk highlights concerns about station health (spacenews)
-- **Jun 28, 07:34 PM** - ISS repair spacewalk highlights concerns about station health (spacenews)
 - **Jun 29, 08:59 AM** - China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations (spacenews)
 - **Jun 29, 09:39 AM** - Craft Prospect selected for The Sunday Times Scotland Fast 50 (spacenews)
 - **Jun 29, 11:19 AM** - SatVu restarts commercial operations with HotSat-2 (spacenews)
@@ -39,7 +33,6 @@
 - **Jun 30, 02:07 PM** - SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange (spacenews)
 - **Jun 30, 02:49 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 04:39 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
-- **Jun 30, 05:54 PM** - Rocket Lab launches 10th Synspective satellite (spacenews)
 - **Jun 30, 06:35 PM** - Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security (spacenews)
 - **Jun 30, 07:14 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 07:49 PM** - Space Force fields mobile satellite-jamming system  (spacenews)
@@ -103,7 +96,6 @@
 - **Jul 03, 01:09 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 03, 02:24 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 03, 02:59 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
-- **Jul 03, 03:35 AM** - Starlink veterans launch startup to broaden megaconstellation ownership (spacenews)
 - **Jul 03, 04:14 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 03, 04:49 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 03, 05:29 AM** - NASA awards nearly $600 million in lunar lander missions (spacenews)
