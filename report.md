@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 13 | 27 |
+| nyt | 2 | 2 | 14 | 28 |
 | breaking_defense | 2 | 3 | 14 | 27 |
 | spacenews | 1 | 1 | 13 | 26 |
 
@@ -4463,3 +4463,4 @@
 - **Oct 24, 04:08 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 24, 04:44 PM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
 - **Oct 24, 05:19 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
+- **Oct 24, 05:54 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
