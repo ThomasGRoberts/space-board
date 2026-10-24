@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 13 | 23 |
 | breaking_defense | 2 | 4 | 14 | 25 |
-| spacenews | 1 | 1 | 13 | 22 |
+| spacenews | 1 | 1 | 14 | 23 |
 
 # Shown Order
 
@@ -4443,3 +4443,4 @@
 - **Oct 24, 04:23 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 24, 04:58 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 24, 05:34 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 24, 06:08 AM** - UARX Space troubleshoots anomalies on maiden OTV Flight (spacenews)
