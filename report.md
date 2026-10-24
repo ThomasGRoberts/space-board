@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 24 |
 | breaking_defense | 2 | 4 | 14 | 26 |
-| spacenews | 1 | 1 | 12 | 23 |
+| spacenews | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -4450,3 +4450,4 @@
 - **Oct 24, 08:34 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 24, 09:09 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 24, 09:44 AM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
+- **Oct 24, 10:19 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
