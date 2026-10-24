@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 15 | 27 |
 | breaking_defense | 0 | 2 | 13 | 28 |
-| spacenews | 0 | 1 | 12 | 26 |
+| spacenews | 0 | 1 | 13 | 27 |
 
 # Shown Order
 
@@ -4471,3 +4471,4 @@
 - **Oct 24, 08:54 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 24, 09:28 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
 - **Oct 24, 10:04 PM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
+- **Oct 24, 10:39 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
