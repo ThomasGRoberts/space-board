@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 25 |
 | breaking_defense | 2 | 4 | 14 | 27 |
-| spacenews | 1 | 1 | 12 | 24 |
+| spacenews | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4456,3 +4456,4 @@
 - **Oct 24, 12:05 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
 - **Oct 24, 12:39 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 24, 01:14 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
+- **Oct 24, 01:49 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
