@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 13 | 22 |
+| nyt | 1 | 2 | 14 | 23 |
 | breaking_defense | 2 | 4 | 14 | 23 |
 | spacenews | 1 | 1 | 13 | 21 |
 
@@ -4435,3 +4435,4 @@
 - **Oct 23, 11:39 PM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
 - **Oct 24, 12:14 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 24, 12:48 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
+- **Oct 24, 01:24 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
