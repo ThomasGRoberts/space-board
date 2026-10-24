@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 25 |
 | breaking_defense | 2 | 4 | 14 | 26 |
-| spacenews | 1 | 1 | 12 | 24 |
+| spacenews | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4453,3 +4453,4 @@
 - **Oct 24, 10:19 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
 - **Oct 24, 10:54 AM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 24, 11:29 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
+- **Oct 24, 12:05 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
