@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 14 | 25 |
-| breaking_defense | 2 | 4 | 13 | 25 |
+| breaking_defense | 2 | 4 | 14 | 26 |
 | spacenews | 1 | 1 | 13 | 23 |
 
 # Shown Order
@@ -4449,3 +4449,4 @@
 - **Oct 24, 07:54 AM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
 - **Oct 24, 08:34 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 24, 09:09 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
+- **Oct 24, 09:44 AM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
