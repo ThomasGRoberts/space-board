@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 14 | 27 |
+| nyt | 2 | 2 | 15 | 28 |
 | breaking_defense | 1 | 2 | 13 | 27 |
 | spacenews | 0 | 1 | 13 | 27 |
 
@@ -4469,3 +4469,4 @@
 - **Oct 24, 07:43 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 24, 08:19 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 24, 08:54 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
+- **Oct 24, 09:28 PM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
