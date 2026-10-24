@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 13 | 23 |
 | breaking_defense | 2 | 4 | 14 | 24 |
-| spacenews | 1 | 1 | 13 | 21 |
+| spacenews | 1 | 1 | 14 | 22 |
 
 # Shown Order
 
@@ -4440,3 +4440,4 @@
 - **Oct 24, 02:34 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
 - **Oct 24, 03:14 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 24, 03:49 AM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
+- **Oct 24, 04:23 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
