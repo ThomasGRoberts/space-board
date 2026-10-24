@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 13 | 24 |
+| nyt | 2 | 2 | 14 | 25 |
 | breaking_defense | 2 | 4 | 14 | 26 |
 | spacenews | 1 | 1 | 13 | 24 |
 
@@ -4451,3 +4451,4 @@
 - **Oct 24, 09:09 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 24, 09:44 AM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
 - **Oct 24, 10:19 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
+- **Oct 24, 10:54 AM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
