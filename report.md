@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 14 | 27 |
-| breaking_defense | 1 | 3 | 13 | 28 |
+| nyt | 2 | 2 | 15 | 28 |
+| breaking_defense | 1 | 3 | 13 | 27 |
 | spacenews | 1 | 1 | 13 | 26 |
 
 # Shown Order
@@ -4466,3 +4466,4 @@
 - **Oct 24, 05:54 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 24, 06:29 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 24, 07:09 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
+- **Oct 24, 07:43 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
