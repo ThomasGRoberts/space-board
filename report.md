@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 27 |
 | breaking_defense | 0 | 2 | 13 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -4473,3 +4473,4 @@
 - **Oct 24, 10:39 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
 - **Oct 24, 11:14 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 24, 11:49 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
+- **Oct 25, 12:24 AM** - UARX Space troubleshoots anomalies on maiden OTV Flight (spacenews)
