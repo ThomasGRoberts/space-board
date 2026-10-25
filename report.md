@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 27 |
 | breaking_defense | 0 | 2 | 13 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -4476,3 +4476,4 @@
 - **Oct 25, 12:24 AM** - UARX Space troubleshoots anomalies on maiden OTV Flight (spacenews)
 - **Oct 25, 12:59 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 25, 01:34 AM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
+- **Oct 25, 02:09 AM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
