@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 2 | 14 | 27 |
+| nyt | 0 | 2 | 14 | 28 |
+| breaking_defense | 0 | 2 | 13 | 27 |
 | spacenews | 0 | 1 | 14 | 27 |
 
 # Shown Order
@@ -4504,3 +4504,4 @@
 - **Oct 25, 04:49 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 25, 05:24 PM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 25, 05:59 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
+- **Oct 25, 06:35 PM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
