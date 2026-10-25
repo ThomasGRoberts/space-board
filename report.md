@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 2 | 14 | 27 |
+| nyt | 0 | 2 | 14 | 28 |
+| breaking_defense | 0 | 2 | 13 | 27 |
 | spacenews | 0 | 1 | 14 | 27 |
 
 # Shown Order
@@ -4501,3 +4501,4 @@
 - **Oct 25, 03:05 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 25, 03:39 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 25, 04:14 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
+- **Oct 25, 04:49 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
