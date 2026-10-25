@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 14 | 27 |
+| nyt | 1 | 2 | 15 | 28 |
 | breaking_defense | 0 | 2 | 13 | 27 |
 | spacenews | 0 | 1 | 13 | 27 |
 
@@ -4486,3 +4486,4 @@
 - **Oct 25, 06:19 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 25, 06:54 AM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
 - **Oct 25, 07:29 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
+- **Oct 25, 08:04 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
