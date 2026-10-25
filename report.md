@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 28 |
-| breaking_defense | 0 | 2 | 13 | 27 |
+| breaking_defense | 0 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 13 | 26 |
 
 # Shown Order
@@ -4481,3 +4481,4 @@
 - **Oct 25, 03:23 AM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
 - **Oct 25, 03:59 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
 - **Oct 25, 04:34 AM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
+- **Oct 25, 05:08 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
