@@ -8,7 +8,6 @@
 
 # Shown Order
 
-- **Jun 29, 08:59 AM** - China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations (spacenews)
 - **Jun 29, 09:39 AM** - Craft Prospect selected for The Sunday Times Scotland Fast 50 (spacenews)
 - **Jun 29, 11:19 AM** - SatVu restarts commercial operations with HotSat-2 (spacenews)
 - **Jun 29, 12:34 PM** - Rocket Lab to acquire Iridium (spacenews)

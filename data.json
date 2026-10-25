@@ -1,9 +1,22 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-24T00:05:05.598987+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-10-25T00:04:44.371010+00:00",
+    "trigger_count": 3,
     "current_item_id": "6f1c72613a6c7f833c7c41236caeb2bf",
     "data": [
+        {
+            "id": "59070eca3350f4ed460684d6371d0c7d",
+            "source": "nyt",
+            "text": "Some Buy Telescopes. These People Build Them From Scratch.",
+            "source_link": "https://www.nytimes.com/2026/10/24/science/space/stellafane-telescopes-makers.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-24T09:09:15.681731Z",
+            "shown_at": [
+                "2026-10-24T09:09:16.195157Z",
+                "2026-10-24T19:43:47.144755Z"
+            ]
+        },
         {
             "id": "c76f1ab8fba6a7762bd5ba93ccb2b69d",
             "source": "nyt",
@@ -9954,31 +9967,6 @@
             "shown_at": [
                 "2026-06-29T09:39:26.526738Z",
                 "2026-07-02T00:29:09.942094Z"
-            ]
-        },
-        {
-            "id": "3ee32e24c70df1860b5546783a159251",
-            "source": "spacenews",
-            "text": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
-            "source_link": "https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T08:59:12.904528Z",
-            "shown_at": [
-                "2026-06-29T08:59:13.707665Z"
-            ]
-        },
-        {
-            "id": "59070eca3350f4ed460684d6371d0c7d",
-            "source": "nyt",
-            "text": "Some Buy Telescopes. These People Build Them From Scratch.",
-            "source_link": "https://www.nytimes.com/2026/10/24/science/space/stellafane-telescopes-makers.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-24T09:09:15.681731Z",
-            "shown_at": [
-                "2026-10-24T09:09:16.195157Z",
-                "2026-10-24T19:43:47.144755Z"
             ]
         }
     ]
