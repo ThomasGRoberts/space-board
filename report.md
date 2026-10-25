@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 14 | 28 |
-| breaking_defense | 0 | 2 | 13 | 27 |
+| breaking_defense | 0 | 2 | 14 | 28 |
 | spacenews | 0 | 1 | 14 | 26 |
 
 # Shown Order
@@ -4505,3 +4505,4 @@
 - **Oct 25, 05:24 PM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 25, 05:59 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
 - **Oct 25, 06:35 PM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
+- **Oct 25, 07:08 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
