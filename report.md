@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 13 | 28 |
+| nyt | 0 | 2 | 14 | 29 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 | spacenews | 0 | 0 | 14 | 27 |
 
@@ -4510,3 +4510,4 @@
 - **Oct 25, 08:19 PM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 25, 08:54 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 25, 09:29 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
+- **Oct 25, 10:04 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
