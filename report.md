@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 14 | 28 |
+| nyt | 0 | 2 | 13 | 28 |
 | breaking_defense | 0 | 1 | 14 | 27 |
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -4506,3 +4506,4 @@
 - **Oct 25, 05:59 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
 - **Oct 25, 06:35 PM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
 - **Oct 25, 07:08 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
+- **Oct 25, 07:44 PM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
