@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 14 | 27 |
+| nyt | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 2 | 14 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -4491,3 +4491,4 @@
 - **Oct 25, 09:14 AM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 25, 09:48 AM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
 - **Oct 25, 10:23 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 25, 10:59 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
