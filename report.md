@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 14 | 27 |
+| nyt | 1 | 2 | 15 | 28 |
 | breaking_defense | 0 | 2 | 13 | 27 |
 | spacenews | 0 | 1 | 13 | 27 |
 
@@ -4483,3 +4483,4 @@
 - **Oct 25, 04:34 AM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
 - **Oct 25, 05:08 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 25, 05:45 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
+- **Oct 25, 06:19 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
