@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 14 | 28 |
-| breaking_defense | 0 | 2 | 13 | 27 |
-| spacenews | 0 | 1 | 14 | 26 |
+| breaking_defense | 0 | 2 | 14 | 28 |
+| spacenews | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -4496,3 +4496,4 @@
 - **Oct 25, 12:09 PM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 25, 12:43 PM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
 - **Oct 25, 01:18 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
+- **Oct 25, 01:54 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
