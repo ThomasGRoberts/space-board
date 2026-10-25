@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 14 | 27 |
+| nyt | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 2 | 14 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -4503,3 +4503,4 @@
 - **Oct 25, 04:14 PM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
 - **Oct 25, 04:49 PM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 25, 05:24 PM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 25, 05:59 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
