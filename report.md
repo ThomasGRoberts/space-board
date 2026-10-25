@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 27 |
 | breaking_defense | 0 | 2 | 13 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -4485,3 +4485,4 @@
 - **Oct 25, 05:45 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 25, 06:19 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 25, 06:54 AM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
+- **Oct 25, 07:29 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
