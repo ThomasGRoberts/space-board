@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 14 | 28 |
+| nyt | 0 | 2 | 13 | 28 |
 | breaking_defense | 0 | 1 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4509,3 +4509,4 @@
 - **Oct 25, 07:44 PM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
 - **Oct 25, 08:19 PM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 25, 08:54 PM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
+- **Oct 25, 09:29 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
