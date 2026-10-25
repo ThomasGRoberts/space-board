@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 27 |
 | breaking_defense | 0 | 2 | 13 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -4482,3 +4482,4 @@
 - **Oct 25, 03:59 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
 - **Oct 25, 04:34 AM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
 - **Oct 25, 05:08 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
+- **Oct 25, 05:45 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
