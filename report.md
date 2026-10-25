@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 14 | 27 |
 | breaking_defense | 0 | 2 | 13 | 28 |
-| spacenews | 0 | 1 | 13 | 26 |
+| spacenews | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -4479,3 +4479,4 @@
 - **Oct 25, 02:09 AM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
 - **Oct 25, 02:44 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 25, 03:23 AM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
+- **Oct 25, 03:59 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
