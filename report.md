@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 13 | 27 |
+| nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 26 |
-| spacenews | 2 | 2 | 14 | 27 |
+| spacenews | 2 | 2 | 13 | 27 |
 
 # Shown Order
 
@@ -4551,3 +4551,4 @@
 - **Oct 26, 09:34 PM** - Gaze at the Cosmic Dawn in Dizzying Detail (nyt)
 - **Oct 26, 10:09 PM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
 - **Oct 26, 10:44 PM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
+- **Oct 26, 11:19 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
