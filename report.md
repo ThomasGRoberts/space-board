@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 1 | 1 | 14 | 27 |
 
 # Shown Order
@@ -4539,3 +4539,4 @@
 - **Oct 26, 01:54 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 26, 02:30 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
 - **Oct 26, 03:09 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
+- **Oct 26, 03:55 PM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
