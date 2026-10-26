@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
 
@@ -4534,3 +4534,4 @@
 - **Oct 26, 10:34 AM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
 - **Oct 26, 11:14 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 26, 11:53 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
+- **Oct 26, 12:28 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
