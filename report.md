@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 1 | 1 | 13 | 27 |
+| spacenews | 1 | 1 | 14 | 28 |
 
 # Shown Order
 
@@ -4538,3 +4538,4 @@
 - **Oct 26, 01:09 PM** - Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites (spacenews)
 - **Oct 26, 01:54 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 26, 02:30 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
+- **Oct 26, 03:09 PM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
