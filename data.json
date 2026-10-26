@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-26T00:04:59.456420+00:00",
-    "trigger_count": 6,
-    "current_item_id": "18ad1dc69dfe5f8275f14177ca6df1c4",
+    "trigger_count": 0,
+    "current_item_id": "b241efadfb6fe27cdcdcde298c29df4b",
     "data": [
         {
             "id": "59070eca3350f4ed460684d6371d0c7d",
@@ -10051,6 +10051,18 @@
             "fetched_datetime": "2026-10-26T13:09:26.262954Z",
             "shown_at": [
                 "2026-10-26T13:09:26.958958Z"
+            ]
+        },
+        {
+            "id": "b241efadfb6fe27cdcdcde298c29df4b",
+            "source": "spacenews",
+            "text": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+            "source_link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-26T20:19:31.995063Z",
+            "shown_at": [
+                "2026-10-26T20:19:32.780126Z"
             ]
         }
     ]

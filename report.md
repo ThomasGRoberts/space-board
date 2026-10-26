@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| spacenews | 1 | 1 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 
 # Shown Order
 
@@ -4546,3 +4546,4 @@
 - **Oct 26, 06:29 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 26, 07:05 PM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
 - **Oct 26, 07:44 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
+- **Oct 26, 08:19 PM** - Flexell Space Establishes French Subsidiary to Strengthen European Presence (spacenews)
