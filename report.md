@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | spacenews | 1 | 1 | 14 | 27 |
 
 # Shown Order
@@ -4536,3 +4536,4 @@
 - **Oct 26, 11:53 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
 - **Oct 26, 12:28 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
 - **Oct 26, 01:09 PM** - Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites (spacenews)
+- **Oct 26, 01:54 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
