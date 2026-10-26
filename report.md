@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 26 |
+| spacenews | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4518,3 +4518,4 @@
 - **Oct 26, 12:59 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
 - **Oct 26, 01:34 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 26, 02:08 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 26, 02:44 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
