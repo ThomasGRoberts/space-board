@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| spacenews | 0 | 0 | 13 | 27 |
+| spacenews | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -4533,3 +4533,4 @@
 - **Oct 26, 09:53 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 26, 10:34 AM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
 - **Oct 26, 11:14 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
+- **Oct 26, 11:53 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
