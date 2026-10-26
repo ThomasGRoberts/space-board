@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 1 | 1 | 13 | 27 |
+| spacenews | 1 | 1 | 14 | 28 |
 
 # Shown Order
 
@@ -4544,3 +4544,4 @@
 - **Oct 26, 05:19 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
 - **Oct 26, 05:53 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
 - **Oct 26, 06:29 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
+- **Oct 26, 07:05 PM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
