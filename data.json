@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-26T00:04:59.456420+00:00",
-    "trigger_count": 6,
-    "current_item_id": "88a0641099382159a0eb713fa727c6a3",
+    "trigger_count": 0,
+    "current_item_id": "041fd903552b2d6f82cda4989db3537a",
     "data": [
         {
             "id": "59070eca3350f4ed460684d6371d0c7d",
@@ -10029,6 +10029,18 @@
             "shown_at": [
                 "2026-06-29T09:39:26.526738Z",
                 "2026-07-02T00:29:09.942094Z"
+            ]
+        },
+        {
+            "id": "041fd903552b2d6f82cda4989db3537a",
+            "source": "spacenews",
+            "text": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+            "source_link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-26T13:09:26.262954Z",
+            "shown_at": [
+                "2026-10-26T13:09:26.958958Z"
             ]
         }
     ]

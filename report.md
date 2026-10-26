@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| spacenews | 0 | 0 | 13 | 27 |
+| spacenews | 1 | 1 | 14 | 28 |
 
 # Shown Order
 
@@ -4535,3 +4535,4 @@
 - **Oct 26, 11:14 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
 - **Oct 26, 11:53 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
 - **Oct 26, 12:28 PM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
+- **Oct 26, 01:09 PM** - Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites (spacenews)
