@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 27 |
+| nyt | 0 | 1 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 | spacenews | 0 | 0 | 14 | 27 |
 
@@ -4516,3 +4516,4 @@
 - **Oct 25, 11:49 PM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 26, 12:24 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 26, 12:59 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
+- **Oct 26, 01:34 AM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
