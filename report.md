@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | spacenews | 2 | 2 | 14 | 27 |
 
@@ -4547,3 +4547,4 @@
 - **Oct 26, 07:05 PM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
 - **Oct 26, 07:44 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 26, 08:19 PM** - Flexell Space Establishes French Subsidiary to Strengthen European Presence (spacenews)
+- **Oct 26, 08:59 PM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
