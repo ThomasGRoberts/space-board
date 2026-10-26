@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | spacenews | 1 | 1 | 13 | 27 |
 
 # Shown Order
@@ -4543,3 +4543,4 @@
 - **Oct 26, 04:39 PM** - Neil Armstrong’s Boyhood Home Is Sold to a Historical Society After a $400,000 Gift (nyt)
 - **Oct 26, 05:19 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
 - **Oct 26, 05:53 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
+- **Oct 26, 06:29 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
