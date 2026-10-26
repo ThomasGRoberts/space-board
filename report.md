@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | spacenews | 2 | 2 | 13 | 27 |
 
@@ -4548,3 +4548,4 @@
 - **Oct 26, 07:44 PM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 26, 08:19 PM** - Flexell Space Establishes French Subsidiary to Strengthen European Presence (spacenews)
 - **Oct 26, 08:59 PM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
+- **Oct 26, 09:34 PM** - Gaze at the Cosmic Dawn in Dizzying Detail (nyt)
