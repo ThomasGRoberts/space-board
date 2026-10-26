@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
+| spacenews | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -4526,3 +4526,4 @@
 - **Oct 26, 05:39 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 26, 06:13 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 26, 06:49 AM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
+- **Oct 26, 07:33 AM** - Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers (breaking_defense)
