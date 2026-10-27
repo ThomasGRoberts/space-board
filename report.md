@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 27 |
-| spacenews | 2 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 2 | 2 | 14 | 27 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -4556,3 +4556,4 @@
 - **Oct 27, 05:48 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
 - **Oct 27, 06:24 AM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 27, 06:59 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
+- **Oct 27, 07:35 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
