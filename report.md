@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 27 |
 | spacenews | 2 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4549,3 +4549,4 @@
 - **Oct 27, 01:44 AM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
 - **Oct 27, 02:19 AM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
 - **Oct 27, 02:54 AM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
+- **Oct 27, 03:29 AM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
