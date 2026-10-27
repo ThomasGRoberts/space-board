@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 13 | 27 |
+| nyt | 1 | 1 | 14 | 27 |
 | spacenews | 2 | 2 | 13 | 27 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
@@ -4554,3 +4554,4 @@
 - **Oct 27, 04:38 AM** - Gaze at the Cosmic Dawn in Dizzying Detail (nyt)
 - **Oct 27, 05:14 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 27, 05:48 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
+- **Oct 27, 06:24 AM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
