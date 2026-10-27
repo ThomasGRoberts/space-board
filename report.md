@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 27 |
 | spacenews | 2 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4552,3 +4552,4 @@
 - **Oct 27, 03:29 AM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
 - **Oct 27, 04:05 AM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
 - **Oct 27, 04:38 AM** - Gaze at the Cosmic Dawn in Dizzying Detail (nyt)
+- **Oct 27, 05:14 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
