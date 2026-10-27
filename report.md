@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 27 |
-| spacenews | 2 | 2 | 13 | 26 |
+| spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -4562,3 +4562,4 @@
 - **Oct 27, 09:19 AM** - AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions (spacenews)
 - **Oct 27, 09:53 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 27, 10:34 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
+- **Oct 27, 11:24 AM** - Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites (spacenews)
