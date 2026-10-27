@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 | spacenews | 2 | 2 | 13 | 27 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
@@ -4548,3 +4548,4 @@
 - **Oct 27, 01:04 AM** - How to Catch the Orionids, a Meteor Shower From Halley’s Comet (nyt)
 - **Oct 27, 01:44 AM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
 - **Oct 27, 02:19 AM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
+- **Oct 27, 02:54 AM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
