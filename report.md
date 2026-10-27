@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 12 | 25 |
+| nyt | 1 | 1 | 13 | 26 |
 | spacenews | 2 | 3 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -4570,3 +4570,4 @@
 - **Oct 27, 03:19 PM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
 - **Oct 27, 03:54 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
 - **Oct 27, 04:44 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
+- **Oct 27, 05:24 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
