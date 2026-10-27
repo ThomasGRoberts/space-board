@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-27T00:04:48.812008+00:00",
-    "trigger_count": 6,
-    "current_item_id": "041fd903552b2d6f82cda4989db3537a",
+    "trigger_count": 0,
+    "current_item_id": "e59aacd9b901179bd35969b986e39d2d",
     "data": [
         {
             "id": "105dac437a50f2f3a0a72d03c526a4b3",
@@ -10057,6 +10057,18 @@
                 "2026-06-30T09:54:53.925998Z",
                 "2026-07-05T13:49:52.164629Z",
                 "2026-07-06T01:19:35.145269Z"
+            ]
+        },
+        {
+            "id": "e59aacd9b901179bd35969b986e39d2d",
+            "source": "spacenews",
+            "text": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+            "source_link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-27T12:09:16.441951Z",
+            "shown_at": [
+                "2026-10-27T12:09:17.124522Z"
             ]
         }
     ]
