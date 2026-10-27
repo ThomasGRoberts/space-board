@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 11 | 25 |
 | spacenews | 2 | 4 | 13 | 26 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -4575,3 +4575,4 @@
 - **Oct 27, 07:19 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 27, 08:19 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 27, 08:53 PM** - Ukrainian startup, GomSpace test satellite for future communications network (spacenews)
+- **Oct 27, 09:54 PM** - China has tripled its satellite fleet since 2018 as expansion continues: DIA (breaking_defense)
