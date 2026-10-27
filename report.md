@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 27 |
-| spacenews | 2 | 2 | 13 | 26 |
+| spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -4550,3 +4550,4 @@
 - **Oct 27, 02:19 AM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
 - **Oct 27, 02:54 AM** - SpaceX Swings to a Profit, as A.I. Business Grows (nyt)
 - **Oct 27, 03:29 AM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
+- **Oct 27, 04:05 AM** - Global Satcom Services Revenues to Reach $145 Billion by 2035 (spacenews)
