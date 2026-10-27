@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 12 | 26 |
+| nyt | 1 | 1 | 13 | 27 |
 | spacenews | 3 | 3 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -4564,3 +4564,4 @@
 - **Oct 27, 10:34 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 27, 11:24 AM** - Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites (spacenews)
 - **Oct 27, 12:09 PM** - Craft Prospect kicks off PERSEUS project to advance optical communications for space (spacenews)
+- **Oct 27, 12:48 PM** - Gaze at the Cosmic Dawn in Dizzying Detail (nyt)
