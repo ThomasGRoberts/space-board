@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 26 |
-| spacenews | 2 | 3 | 13 | 27 |
+| spacenews | 2 | 3 | 14 | 28 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -4566,3 +4566,4 @@
 - **Oct 27, 12:09 PM** - Craft Prospect kicks off PERSEUS project to advance optical communications for space (spacenews)
 - **Oct 27, 12:48 PM** - Gaze at the Cosmic Dawn in Dizzying Detail (nyt)
 - **Oct 27, 01:39 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
+- **Oct 27, 02:29 PM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
