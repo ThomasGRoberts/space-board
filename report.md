@@ -3,14 +3,11 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
 | spacenews | 2 | 2 | 13 | 27 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
-- **Jun 29, 09:39 AM** - Craft Prospect selected for The Sunday Times Scotland Fast 50 (spacenews)
-- **Jun 29, 11:19 AM** - SatVu restarts commercial operations with HotSat-2 (spacenews)
-- **Jun 29, 12:34 PM** - Rocket Lab to acquire Iridium (spacenews)
 - **Jun 29, 01:09 PM** - Quantum computing is about to become a national security problem in orbit (spacenews)
 - **Jun 29, 02:29 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
 - **Jun 29, 03:44 PM** - ESA to seek lunar mapping capability for Argonaut lander (spacenews)
@@ -65,12 +62,10 @@
 - **Jul 01, 09:29 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 01, 10:39 PM** - Report links Starliner problems to overconfidence and unrealistic schedules (spacenews)
 - **Jul 01, 11:52 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
-- **Jul 02, 12:29 AM** - Craft Prospect selected for The Sunday Times Scotland Fast 50 (spacenews)
 - **Jul 02, 02:09 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 02, 02:44 AM** - Space Force fields mobile satellite-jamming system  (spacenews)
 - **Jul 02, 03:29 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 02, 04:05 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
-- **Jul 02, 04:39 AM** - SatVu restarts commercial operations with HotSat-2 (spacenews)
 - **Jul 02, 05:14 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 02, 05:49 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 02, 06:25 AM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
@@ -120,7 +115,6 @@
 - **Jul 03, 10:55 PM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
 - **Jul 03, 11:29 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 04, 12:05 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
-- **Jul 04, 12:44 AM** - Rocket Lab to acquire Iridium (spacenews)
 - **Jul 04, 01:19 AM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 04, 01:54 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 04, 02:29 AM** - Orbital files plans for 100,000 orbital data centers (spacenews)
@@ -155,7 +149,6 @@
 - **Jul 04, 07:54 PM** - Study argues bigger launch vehicles may not always be better (spacenews)
 - **Jul 04, 08:29 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 04, 09:05 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
-- **Jul 04, 09:44 PM** - Rocket Lab to acquire Iridium (spacenews)
 - **Jul 04, 10:19 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 04, 10:54 PM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 04, 11:29 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
@@ -194,7 +187,6 @@
 - **Jul 05, 07:05 PM** - Unseen threats overhead: Drones endanger U.S. rocket launch sites (spacenews)
 - **Jul 05, 07:39 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 05, 08:14 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
-- **Jul 05, 08:49 PM** - Rocket Lab to acquire Iridium (spacenews)
 - **Jul 05, 09:24 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 05, 09:59 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 05, 11:35 PM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
@@ -204,7 +196,6 @@
 - **Jul 06, 01:55 AM** - NASA and Small Business Administration partner on funding key space technologies (spacenews)
 - **Jul 06, 02:29 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 06, 03:05 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
-- **Jul 06, 03:44 AM** - SatVu restarts commercial operations with HotSat-2 (spacenews)
 - **Jul 06, 04:25 AM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 06, 04:59 AM** - A Mission to Save NASA’s Swift Telescope Launches to Orbit (nyt)
 - **Jul 06, 05:35 AM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)

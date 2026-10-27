@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-26T00:04:59.456420+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-10-27T00:04:48.812008+00:00",
+    "trigger_count": 2,
     "current_item_id": "18ad1dc69dfe5f8275f14177ca6df1c4",
     "data": [
+        {
+            "id": "105dac437a50f2f3a0a72d03c526a4b3",
+            "source": "nyt",
+            "text": "Gaze at the Cosmic Dawn in Dizzying Detail",
+            "source_link": "https://www.nytimes.com/2026/10/26/science/space/early-universe-simulation-lumina.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-26T21:34:57.107284Z",
+            "shown_at": [
+                "2026-10-26T21:34:58.138859Z"
+            ]
+        },
+        {
+            "id": "b241efadfb6fe27cdcdcde298c29df4b",
+            "source": "spacenews",
+            "text": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+            "source_link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-26T20:19:31.995063Z",
+            "shown_at": [
+                "2026-10-26T20:19:32.780126Z"
+            ]
+        },
+        {
+            "id": "041fd903552b2d6f82cda4989db3537a",
+            "source": "spacenews",
+            "text": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+            "source_link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-26T13:09:26.262954Z",
+            "shown_at": [
+                "2026-10-26T13:09:26.958958Z"
+            ]
+        },
         {
             "id": "59070eca3350f4ed460684d6371d0c7d",
             "source": "nyt",
@@ -10002,84 +10038,6 @@
                 "2026-06-30T09:54:53.925998Z",
                 "2026-07-05T13:49:52.164629Z",
                 "2026-07-06T01:19:35.145269Z"
-            ]
-        },
-        {
-            "id": "d3d739d29c3aa589f0ebe213069e4184",
-            "source": "spacenews",
-            "text": "Rocket Lab to acquire Iridium",
-            "source_link": "https://spacenews.com/rocket-lab-to-acquire-iridium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T12:34:54.735271Z",
-            "shown_at": [
-                "2026-06-29T12:34:56.442053Z",
-                "2026-07-04T00:44:32.132910Z",
-                "2026-07-04T21:44:40.202515Z",
-                "2026-07-05T20:49:22.264540Z"
-            ]
-        },
-        {
-            "id": "b2dbceff17c1734ab1edd224ddfb1bb7",
-            "source": "spacenews",
-            "text": "SatVu restarts commercial operations with HotSat-2",
-            "source_link": "https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T11:19:33.504387Z",
-            "shown_at": [
-                "2026-06-29T11:19:35.364870Z",
-                "2026-07-02T04:39:10.059722Z",
-                "2026-07-06T03:44:41.894728Z"
-            ]
-        },
-        {
-            "id": "86b6eb9a7b0b622ef85be782565d9f55",
-            "source": "spacenews",
-            "text": "Craft Prospect selected for The Sunday Times Scotland Fast 50",
-            "source_link": "https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T09:39:25.851772Z",
-            "shown_at": [
-                "2026-06-29T09:39:26.526738Z",
-                "2026-07-02T00:29:09.942094Z"
-            ]
-        },
-        {
-            "id": "041fd903552b2d6f82cda4989db3537a",
-            "source": "spacenews",
-            "text": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-            "source_link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-26T13:09:26.262954Z",
-            "shown_at": [
-                "2026-10-26T13:09:26.958958Z"
-            ]
-        },
-        {
-            "id": "b241efadfb6fe27cdcdcde298c29df4b",
-            "source": "spacenews",
-            "text": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
-            "source_link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-26T20:19:31.995063Z",
-            "shown_at": [
-                "2026-10-26T20:19:32.780126Z"
-            ]
-        },
-        {
-            "id": "105dac437a50f2f3a0a72d03c526a4b3",
-            "source": "nyt",
-            "text": "Gaze at the Cosmic Dawn in Dizzying Detail",
-            "source_link": "https://www.nytimes.com/2026/10/26/science/space/early-universe-simulation-lumina.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-26T21:34:57.107284Z",
-            "shown_at": [
-                "2026-10-26T21:34:58.138859Z"
             ]
         }
     ]
