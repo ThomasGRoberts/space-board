@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-27T00:04:48.812008+00:00",
-    "trigger_count": 6,
-    "current_item_id": "59070eca3350f4ed460684d6371d0c7d",
+    "trigger_count": 0,
+    "current_item_id": "a0ed09a7973ee66b715918a5ecae28cd",
     "data": [
         {
             "id": "105dac437a50f2f3a0a72d03c526a4b3",
@@ -10079,6 +10079,18 @@
             "fetched_datetime": "2026-10-27T12:09:16.441951Z",
             "shown_at": [
                 "2026-10-27T12:09:17.124522Z"
+            ]
+        },
+        {
+            "id": "a0ed09a7973ee66b715918a5ecae28cd",
+            "source": "spacenews",
+            "text": "Ukrainian startup, GomSpace test satellite for future communications network",
+            "source_link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-27T20:53:33.965789Z",
+            "shown_at": [
+                "2026-10-27T20:53:34.839867Z"
             ]
         }
     ]

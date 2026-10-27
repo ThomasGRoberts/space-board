@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 25 |
-| spacenews | 1 | 3 | 12 | 26 |
+| spacenews | 2 | 4 | 13 | 27 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4574,3 +4574,4 @@
 - **Oct 27, 06:05 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
 - **Oct 27, 07:19 PM** - Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller (spacenews)
 - **Oct 27, 08:19 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
+- **Oct 27, 08:53 PM** - Ukrainian startup, GomSpace test satellite for future communications network (spacenews)
