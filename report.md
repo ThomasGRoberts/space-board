@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 27 |
 | spacenews | 2 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4558,3 +4558,4 @@
 - **Oct 27, 06:59 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 27, 07:35 AM** - Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration (spacenews)
 - **Oct 27, 08:09 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
+- **Oct 27, 08:43 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
