@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 26 |
 | spacenews | 2 | 3 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4565,3 +4565,4 @@
 - **Oct 27, 11:24 AM** - Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites (spacenews)
 - **Oct 27, 12:09 PM** - Craft Prospect kicks off PERSEUS project to advance optical communications for space (spacenews)
 - **Oct 27, 12:48 PM** - Gaze at the Cosmic Dawn in Dizzying Detail (nyt)
+- **Oct 27, 01:39 PM** - Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats (breaking_defense)
