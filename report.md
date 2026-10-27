@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 27 |
 | spacenews | 2 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4555,3 +4555,4 @@
 - **Oct 27, 05:14 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
 - **Oct 27, 05:48 AM** - Nov. 5: Satellite Mission Management at the Edge (spacenews)
 - **Oct 27, 06:24 AM** - SpaceX Swings to a Profit, Even as A.I. Spending Soars (nyt)
+- **Oct 27, 06:59 AM** - Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring (breaking_defense)
