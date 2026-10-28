@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 11 | 25 |
-| breaking_defense | 1 | 1 | 10 | 22 |
+| breaking_defense | 1 | 1 | 11 | 23 |
 | spacenews | 2 | 4 | 12 | 25 |
 
 # Shown Order
@@ -4562,3 +4562,4 @@
 - **Oct 27, 10:48 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 27, 11:39 PM** - A New Dwarf Planet (Probably) Spotted Beyond Pluto (nyt)
 - **Oct 28, 12:24 AM** - Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites (spacenews)
+- **Oct 28, 01:24 AM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
