@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 9 | 22 |
+| nyt | 1 | 2 | 10 | 23 |
 | breaking_defense | 1 | 1 | 9 | 21 |
 | spacenews | 1 | 3 | 9 | 22 |
 
@@ -4575,3 +4575,4 @@
 - **Oct 28, 10:08 AM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
 - **Oct 28, 11:05 AM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
 - **Oct 28, 12:04 PM** - China has tripled its satellite fleet since 2018 as expansion continues: DIA (breaking_defense)
+- **Oct 28, 01:29 PM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
