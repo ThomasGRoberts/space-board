@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 12 | 25 |
 | breaking_defense | 1 | 1 | 10 | 23 |
-| spacenews | 2 | 4 | 12 | 25 |
+| spacenews | 2 | 4 | 13 | 26 |
 
 # Shown Order
 
@@ -4561,3 +4561,4 @@
 - **Oct 27, 09:54 PM** - China has tripled its satellite fleet since 2018 as expansion continues: DIA (breaking_defense)
 - **Oct 27, 10:48 PM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 27, 11:39 PM** - A New Dwarf Planet (Probably) Spotted Beyond Pluto (nyt)
+- **Oct 28, 12:24 AM** - Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites (spacenews)
