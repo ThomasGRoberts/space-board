@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 10 | 23 |
 | breaking_defense | 1 | 1 | 8 | 21 |
-| spacenews | 2 | 4 | 10 | 23 |
+| spacenews | 2 | 4 | 11 | 24 |
 
 # Shown Order
 
@@ -4573,3 +4573,4 @@
 - **Oct 28, 07:39 AM** - Flexell Space Establishes French Subsidiary to Strengthen European Presence (spacenews)
 - **Oct 28, 08:54 AM** - China has tripled its satellite fleet since 2018 as expansion continues: DIA (breaking_defense)
 - **Oct 28, 10:08 AM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
+- **Oct 28, 11:05 AM** - TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner (spacenews)
