@@ -1,9 +1,57 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-27T00:04:48.812008+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-10-28T00:09:01.603760+00:00",
+    "trigger_count": 4,
     "current_item_id": "29bec3c823868c52fe01a860bbed1bfb",
     "data": [
+        {
+            "id": "29bec3c823868c52fe01a860bbed1bfb",
+            "source": "nyt",
+            "text": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
+            "source_link": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-27T23:39:21.703192Z",
+            "shown_at": [
+                "2026-10-27T23:39:22.651643Z"
+            ]
+        },
+        {
+            "id": "19e72908718388de52291276d36e505f",
+            "source": "breaking_defense",
+            "text": "China has tripled its satellite fleet since 2018 as expansion continues: DIA",
+            "source_link": "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-27T21:54:36.954671Z",
+            "shown_at": [
+                "2026-10-27T21:54:37.998223Z"
+            ]
+        },
+        {
+            "id": "a0ed09a7973ee66b715918a5ecae28cd",
+            "source": "spacenews",
+            "text": "Ukrainian startup, GomSpace test satellite for future communications network",
+            "source_link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-27T20:53:33.965789Z",
+            "shown_at": [
+                "2026-10-27T20:53:34.839867Z"
+            ]
+        },
+        {
+            "id": "e59aacd9b901179bd35969b986e39d2d",
+            "source": "spacenews",
+            "text": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+            "source_link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-27T12:09:16.441951Z",
+            "shown_at": [
+                "2026-10-27T12:09:17.124522Z"
+            ]
+        },
         {
             "id": "105dac437a50f2f3a0a72d03c526a4b3",
             "source": "nyt",
@@ -10007,115 +10055,6 @@
                 "2026-07-05T00:39:28.786488Z",
                 "2026-07-06T16:54:56.004901Z",
                 "2026-07-06T18:39:26.180673Z"
-            ]
-        },
-        {
-            "id": "d8e6e00e685d346bf757e03c762b43ac",
-            "source": "spacenews",
-            "text": "Beck: Iridium acquisition the “logical next step” for Rocket Lab",
-            "source_link": "https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T15:44:46.270899Z",
-            "shown_at": [
-                "2026-06-29T16:24:41.573307Z",
-                "2026-07-03T22:55:04.307653Z",
-                "2026-07-04T14:35:03.221165Z",
-                "2026-07-05T23:35:09.017836Z",
-                "2026-07-06T07:21:40.965744Z"
-            ]
-        },
-        {
-            "id": "bb9392ab343889a0cd8ef7b53569af50",
-            "source": "spacenews",
-            "text": "ESA to seek lunar mapping capability for Argonaut lander",
-            "source_link": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T15:44:46.270844Z",
-            "shown_at": [
-                "2026-06-29T15:44:47.880744Z"
-            ]
-        },
-        {
-            "id": "c880dfb0603054b58d798427d6208030",
-            "source": "spacenews",
-            "text": "Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions",
-            "source_link": "https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T14:29:41.131427Z",
-            "shown_at": [
-                "2026-06-29T14:29:43.702304Z",
-                "2026-07-01T18:49:27.652037Z",
-                "2026-07-02T15:49:29.043752Z",
-                "2026-07-04T05:59:10.000931Z",
-                "2026-07-04T23:29:21.748271Z",
-                "2026-07-05T01:19:30.807826Z",
-                "2026-07-06T05:35:05.544933Z"
-            ]
-        },
-        {
-            "id": "cb1375b6acdabb69677d032d54e39f3d",
-            "source": "spacenews",
-            "text": "Quantum computing is about to become a national security problem in orbit",
-            "source_link": "https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T13:09:13.998343Z",
-            "shown_at": [
-                "2026-06-29T13:09:17.132802Z",
-                "2026-06-30T09:54:53.925998Z",
-                "2026-07-05T13:49:52.164629Z",
-                "2026-07-06T01:19:35.145269Z"
-            ]
-        },
-        {
-            "id": "e59aacd9b901179bd35969b986e39d2d",
-            "source": "spacenews",
-            "text": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
-            "source_link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-27T12:09:16.441951Z",
-            "shown_at": [
-                "2026-10-27T12:09:17.124522Z"
-            ]
-        },
-        {
-            "id": "a0ed09a7973ee66b715918a5ecae28cd",
-            "source": "spacenews",
-            "text": "Ukrainian startup, GomSpace test satellite for future communications network",
-            "source_link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-27T20:53:33.965789Z",
-            "shown_at": [
-                "2026-10-27T20:53:34.839867Z"
-            ]
-        },
-        {
-            "id": "19e72908718388de52291276d36e505f",
-            "source": "breaking_defense",
-            "text": "China has tripled its satellite fleet since 2018 as expansion continues: DIA",
-            "source_link": "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-27T21:54:36.954671Z",
-            "shown_at": [
-                "2026-10-27T21:54:37.998223Z"
-            ]
-        },
-        {
-            "id": "29bec3c823868c52fe01a860bbed1bfb",
-            "source": "nyt",
-            "text": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
-            "source_link": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-27T23:39:21.703192Z",
-            "shown_at": [
-                "2026-10-27T23:39:22.651643Z"
             ]
         }
     ]
