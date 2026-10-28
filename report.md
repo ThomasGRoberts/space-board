@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 9 | 23 |
+| nyt | 1 | 2 | 10 | 24 |
 | breaking_defense | 1 | 1 | 9 | 21 |
 | spacenews | 2 | 4 | 10 | 23 |
 
@@ -4572,3 +4572,4 @@
 - **Oct 28, 06:53 AM** - Earth and Mars May Have Formed in Weirdly Different Ways (nyt)
 - **Oct 28, 07:39 AM** - Flexell Space Establishes French Subsidiary to Strengthen European Presence (spacenews)
 - **Oct 28, 08:54 AM** - China has tripled its satellite fleet since 2018 as expansion continues: DIA (breaking_defense)
+- **Oct 28, 10:08 AM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
