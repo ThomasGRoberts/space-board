@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 9 | 22 |
-| breaking_defense | 1 | 1 | 8 | 20 |
-| spacenews | 1 | 3 | 9 | 22 |
+| breaking_defense | 1 | 1 | 7 | 19 |
+| spacenews | 2 | 4 | 10 | 23 |
 
 # Shown Order
 
@@ -4577,3 +4577,4 @@
 - **Oct 28, 12:04 PM** - China has tripled its satellite fleet since 2018 as expansion continues: DIA (breaking_defense)
 - **Oct 28, 01:29 PM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
 - **Oct 28, 02:24 PM** - Craft Prospect kicks off PERSEUS project to advance optical communications for space (spacenews)
+- **Oct 28, 04:06 PM** - Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells (spacenews)

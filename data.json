@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-28T00:09:01.603760+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e59aacd9b901179bd35969b986e39d2d",
+    "trigger_count": 0,
+    "current_item_id": "77ddd03070e3f1c16f42097cfa496492",
     "data": [
         {
             "id": "29bec3c823868c52fe01a860bbed1bfb",
@@ -10071,6 +10071,18 @@
                 "2026-07-05T00:39:28.786488Z",
                 "2026-07-06T16:54:56.004901Z",
                 "2026-07-06T18:39:26.180673Z"
+            ]
+        },
+        {
+            "id": "77ddd03070e3f1c16f42097cfa496492",
+            "source": "spacenews",
+            "text": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+            "source_link": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-28T16:06:08.665339Z",
+            "shown_at": [
+                "2026-10-28T16:06:09.898788Z"
             ]
         }
     ]
