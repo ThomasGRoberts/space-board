@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 11 | 24 |
-| breaking_defense | 1 | 1 | 9 | 21 |
+| breaking_defense | 1 | 1 | 10 | 22 |
 | spacenews | 2 | 4 | 12 | 25 |
 
 # Shown Order
@@ -4568,3 +4568,4 @@
 - **Oct 28, 03:44 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
 - **Oct 28, 04:19 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
 - **Oct 28, 05:05 AM** - Summer of Quantum: Building momentum for space-based QKD (spacenews)
+- **Oct 28, 05:48 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
