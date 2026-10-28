@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 11 | 24 |
+| nyt | 1 | 2 | 12 | 25 |
 | breaking_defense | 1 | 1 | 10 | 22 |
 | spacenews | 2 | 4 | 11 | 25 |
 
@@ -4566,3 +4566,4 @@
 - **Oct 28, 02:04 AM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
 - **Oct 28, 02:54 AM** - Ukrainian startup, GomSpace test satellite for future communications network (spacenews)
 - **Oct 28, 03:44 AM** - Space Force shifts into high gear on cislunar warfare, with RFIs coming soon (breaking_defense)
+- **Oct 28, 04:19 AM** - Some Buy Telescopes. These People Build Them From Scratch. (nyt)
