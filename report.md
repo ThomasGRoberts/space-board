@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 11 | 24 |
+| nyt | 1 | 2 | 12 | 25 |
 | breaking_defense | 1 | 1 | 10 | 23 |
 | spacenews | 2 | 4 | 12 | 25 |
 
@@ -4563,3 +4563,4 @@
 - **Oct 27, 11:39 PM** - A New Dwarf Planet (Probably) Spotted Beyond Pluto (nyt)
 - **Oct 28, 12:24 AM** - Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites (spacenews)
 - **Oct 28, 01:24 AM** - MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing (breaking_defense)
+- **Oct 28, 02:04 AM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
