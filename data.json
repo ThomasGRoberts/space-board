@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-28T00:09:01.603760+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-10-31T02:28:55.976524+00:00",
+    "trigger_count": 3,
     "current_item_id": "77ddd03070e3f1c16f42097cfa496492",
     "data": [
+        {
+            "id": "77ddd03070e3f1c16f42097cfa496492",
+            "source": "spacenews",
+            "text": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+            "source_link": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-28T16:06:08.665339Z",
+            "shown_at": [
+                "2026-10-28T16:06:09.898788Z"
+            ]
+        },
         {
             "id": "29bec3c823868c52fe01a860bbed1bfb",
             "source": "nyt",
@@ -10030,59 +10042,6 @@
                 "2026-07-06T11:08:53.544968Z",
                 "2026-07-06T12:55:23.562693Z",
                 "2026-07-06T17:29:25.090914Z"
-            ]
-        },
-        {
-            "id": "1861fd469bb4d3463ce51b50bdb6e7df",
-            "source": "nyt",
-            "text": "Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead",
-            "source_link": "https://www.nytimes.com/2026/06/29/world/middleeast/abdul-ahad-momand-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T21:04:48.347531Z",
-            "shown_at": [
-                "2026-06-29T21:04:49.058902Z",
-                "2026-06-29T22:54:42.560137Z",
-                "2026-06-30T00:44:36.063969Z",
-                "2026-06-30T02:29:08.639665Z",
-                "2026-06-30T04:39:10.392175Z",
-                "2026-06-30T06:24:30.906964Z",
-                "2026-06-30T08:24:42.568166Z",
-                "2026-06-30T10:44:43.447105Z",
-                "2026-06-30T14:49:33.351904Z",
-                "2026-06-30T16:39:18.102289Z",
-                "2026-06-30T19:14:40.284513Z",
-                "2026-06-30T20:59:16.642152Z",
-                "2026-06-30T23:24:44.811289Z",
-                "2026-07-01T01:09:21.109454Z",
-                "2026-07-01T02:54:40.045421Z",
-                "2026-07-01T04:41:15.122751Z",
-                "2026-07-01T07:04:57.280325Z",
-                "2026-07-01T09:39:22.522812Z",
-                "2026-07-02T04:05:05.223937Z",
-                "2026-07-02T05:49:18.659375Z",
-                "2026-07-03T08:39:35.799152Z",
-                "2026-07-03T11:05:49.576209Z",
-                "2026-07-03T19:24:38.382064Z",
-                "2026-07-03T23:29:31.550396Z",
-                "2026-07-04T08:29:16.572407Z",
-                "2026-07-04T13:54:54.102083Z",
-                "2026-07-04T21:05:14.488816Z",
-                "2026-07-05T00:39:28.786488Z",
-                "2026-07-06T16:54:56.004901Z",
-                "2026-07-06T18:39:26.180673Z"
-            ]
-        },
-        {
-            "id": "77ddd03070e3f1c16f42097cfa496492",
-            "source": "spacenews",
-            "text": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-            "source_link": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-28T16:06:08.665339Z",
-            "shown_at": [
-                "2026-10-28T16:06:09.898788Z"
             ]
         }
     ]
