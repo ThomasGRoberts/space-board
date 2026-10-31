@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-10-31T02:28:55.976524+00:00",
-    "trigger_count": 6,
-    "current_item_id": "77ddd03070e3f1c16f42097cfa496492",
+    "trigger_count": 0,
+    "current_item_id": "eceb6116f7356f3edcc0fa6ba287d3f2",
     "data": [
         {
             "id": "77ddd03070e3f1c16f42097cfa496492",
@@ -10043,6 +10043,36 @@
                 "2026-07-06T12:55:23.562693Z",
                 "2026-07-06T17:29:25.090914Z"
             ]
+        },
+        {
+            "id": "eceb6116f7356f3edcc0fa6ba287d3f2",
+            "source": "nyt",
+            "text": "A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars",
+            "source_link": "https://www.nytimes.com/2026/10/30/science/space/mars-meteorite-teghaza.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-31T16:04:17.710898Z",
+            "shown_at": [
+                "2026-10-31T16:04:18.291030Z"
+            ]
+        },
+        {
+            "id": "9aecbcb2c29db4ee4026732b197a62db",
+            "source": "nyt",
+            "text": "As Picard on ‘Star Trek’, Patrick Stewart Influenced Generations of Scientists",
+            "source_link": "https://www.nytimes.com/2026/10/30/science/space/patrick-stewart-scientists-react.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-10-31T16:04:17.710920Z"
+        },
+        {
+            "id": "046fa4923019b37625078d93e6b5573d",
+            "source": "nyt",
+            "text": "After Flying Past the Moon, an Artemis II Astronaut Lands at a New Job in California",
+            "source_link": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-10-31T16:04:17.710932Z"
         }
     ]
 }

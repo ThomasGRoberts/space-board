@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 0 | 0 |
-| nyt | 0 | 0 | 0 | 0 |
+| nyt | 3 | 3 | 1 | 1 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4548,3 +4548,4 @@
 - **Oct 28, 01:29 PM** - NASA Is Still Aiming for the Next Moon Landing in 2028 (nyt)
 - **Oct 28, 02:24 PM** - Craft Prospect kicks off PERSEUS project to advance optical communications for space (spacenews)
 - **Oct 28, 04:06 PM** - Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells (spacenews)
+- **Oct 31, 04:04 PM** - A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars (nyt)
