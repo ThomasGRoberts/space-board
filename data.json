@@ -1,9 +1,39 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-10-31T02:28:55.976524+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-11-01T11:23:55.689399+00:00",
+    "trigger_count": 2,
     "current_item_id": "eceb6116f7356f3edcc0fa6ba287d3f2",
     "data": [
+        {
+            "id": "046fa4923019b37625078d93e6b5573d",
+            "source": "nyt",
+            "text": "After Flying Past the Moon, an Artemis II Astronaut Lands at a New Job in California",
+            "source_link": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-10-31T16:04:17.710932Z"
+        },
+        {
+            "id": "9aecbcb2c29db4ee4026732b197a62db",
+            "source": "nyt",
+            "text": "As Picard on ‘Star Trek’, Patrick Stewart Influenced Generations of Scientists",
+            "source_link": "https://www.nytimes.com/2026/10/30/science/space/patrick-stewart-scientists-react.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-10-31T16:04:17.710920Z"
+        },
+        {
+            "id": "eceb6116f7356f3edcc0fa6ba287d3f2",
+            "source": "nyt",
+            "text": "A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars",
+            "source_link": "https://www.nytimes.com/2026/10/30/science/space/mars-meteorite-teghaza.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-10-31T16:04:17.710898Z",
+            "shown_at": [
+                "2026-10-31T16:04:18.291030Z"
+            ]
+        },
         {
             "id": "77ddd03070e3f1c16f42097cfa496492",
             "source": "spacenews",
@@ -9981,98 +10011,6 @@
             "shown_at": [
                 "2026-06-30T13:06:11.864139Z"
             ]
-        },
-        {
-            "id": "81b83a4bfdebe8fac848d039e4ea6cec",
-            "source": "spacenews",
-            "text": "Orbital files plans for 100,000 orbital data centers",
-            "source_link": "https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-30T12:09:21.249844Z",
-            "shown_at": [
-                "2026-06-30T12:09:25.577565Z",
-                "2026-06-30T21:34:51.478296Z",
-                "2026-07-01T03:29:21.493147Z",
-                "2026-07-04T02:29:29.444323Z",
-                "2026-07-05T04:59:22.411161Z"
-            ]
-        },
-        {
-            "id": "a46cb17137603bdaf466db03e12d1804",
-            "source": "spacenews",
-            "text": "Study argues bigger launch vehicles may not always be better",
-            "source_link": "https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-30T01:54:41.819318Z",
-            "shown_at": [
-                "2026-06-30T01:54:42.628225Z",
-                "2026-06-30T05:49:30.918283Z",
-                "2026-07-04T19:54:57.391761Z"
-            ]
-        },
-        {
-            "id": "9c7944b3aa9fa25dbbde354db923bf48",
-            "source": "breaking_defense",
-            "text": "Rocket Lab to buy satellite communications firm Iridium",
-            "source_link": "https://breakingdefense.com/2026/06/rocket-lab-to-buy-satellite-communications-firm-iridium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T21:39:26.995823Z",
-            "shown_at": [
-                "2026-06-29T21:39:28.078535Z",
-                "2026-07-01T00:34:49.926229Z",
-                "2026-07-01T19:33:10.837042Z",
-                "2026-07-02T03:29:32.750534Z",
-                "2026-07-03T04:49:26.557400Z",
-                "2026-07-03T09:29:30.884293Z",
-                "2026-07-03T22:19:33.756867Z",
-                "2026-07-04T07:15:01.224175Z",
-                "2026-07-04T09:04:36.957852Z",
-                "2026-07-04T16:59:18.360143Z",
-                "2026-07-04T18:44:53.936828Z",
-                "2026-07-05T00:05:16.902170Z",
-                "2026-07-05T01:54:51.779774Z",
-                "2026-07-05T03:44:54.327926Z",
-                "2026-07-05T05:35:00.457085Z",
-                "2026-07-05T07:24:58.449546Z",
-                "2026-07-05T19:39:09.761434Z",
-                "2026-07-06T08:24:57.100619Z",
-                "2026-07-06T11:08:53.544968Z",
-                "2026-07-06T12:55:23.562693Z",
-                "2026-07-06T17:29:25.090914Z"
-            ]
-        },
-        {
-            "id": "eceb6116f7356f3edcc0fa6ba287d3f2",
-            "source": "nyt",
-            "text": "A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars",
-            "source_link": "https://www.nytimes.com/2026/10/30/science/space/mars-meteorite-teghaza.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-10-31T16:04:17.710898Z",
-            "shown_at": [
-                "2026-10-31T16:04:18.291030Z"
-            ]
-        },
-        {
-            "id": "9aecbcb2c29db4ee4026732b197a62db",
-            "source": "nyt",
-            "text": "As Picard on ‘Star Trek’, Patrick Stewart Influenced Generations of Scientists",
-            "source_link": "https://www.nytimes.com/2026/10/30/science/space/patrick-stewart-scientists-react.html",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-10-31T16:04:17.710920Z"
-        },
-        {
-            "id": "046fa4923019b37625078d93e6b5573d",
-            "source": "nyt",
-            "text": "After Flying Past the Moon, an Artemis II Astronaut Lands at a New Job in California",
-            "source_link": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-10-31T16:04:17.710932Z"
         }
     ]
 }
