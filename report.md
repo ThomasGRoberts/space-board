@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 1 | 2 |
+| nyt | 0 | 0 | 2 | 3 |
 | spacenews | 0 | 0 | 0 | 0 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -4522,3 +4522,4 @@
 - **Oct 31, 04:04 PM** - A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars (nyt)
 - **Nov 04, 12:59 AM** - After Flying Past the Moon, an Artemis II Astronaut Lands at a New Job in California (nyt)
 - **Nov 04, 04:09 PM** - As Picard on ‘Star Trek’, Patrick Stewart Influenced Generations of Scientists (nyt)
+- **Nov 05, 09:44 AM** - As Picard on ‘Star Trek’, Patrick Stewart Influenced Generations of Scientists (nyt)
